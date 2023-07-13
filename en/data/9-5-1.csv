@@ -1,79 +1,79 @@
 Year,SERIES,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
-2009,GB_XPD_RSDV,Percent,,0.3
-2010,GB_XPD_RSDV,Percent,,0.25
-2011,GB_XPD_RSDV,Percent,,0.3
-2012,GB_XPD_RSDV,Percent,,0.4
-2013,GB_XPD_RSDV,Percent,,0.56
-2014,GB_XPD_RSDV,Percent,,0.2
-2015,GB_XPD_RSDV,Percent,,0.19
-2016,GB_XPD_RSDV,Percent,,0.17
-2017,GB_XPD_RSDV,Percent,,0.17
-2018,GB_XPD_RSDV,Percent,,0.17
-2019,GB_XPD_RSDV,Percent,,0.16
-2020,GB_XPD_RSDV,Percent,,0.18
-2021,GB_XPD_RSDV,Percent,,0.2
-2009,GB_XPD_RSDSEC,in thousands of BAM,No breakdown,24566.0
-2010,GB_XPD_RSDSEC,in thousands of BAM,No breakdown,20779.0
-2011,GB_XPD_RSDSEC,in thousands of BAM,No breakdown,26191.0
-2012,GB_XPD_RSDSEC,in thousands of BAM,No breakdown,34297.0
-2013,GB_XPD_RSDSEC,in thousands of BAM,No breakdown,49035.0
-2014,GB_XPD_RSDSEC,in thousands of BAM,No breakdown,17839.0
-2015,GB_XPD_RSDSEC,in thousands of BAM,No breakdown,17935.0
-2016,GB_XPD_RSDSEC,in thousands of BAM,No breakdown,16736.0
-2017,GB_XPD_RSDSEC,in thousands of BAM,No breakdown,17196.0
-2018,GB_XPD_RSDSEC,in thousands of BAM,No breakdown,18341.0
-2019,GB_XPD_RSDSEC,in thousands of BAM,No breakdown,17687.0
-2020,GB_XPD_RSDSEC,in thousands of BAM,No breakdown,20289.0
-2021,GB_XPD_RSDSEC,in thousands of BAM,No breakdown,25394.0
-2009,GB_XPD_RSDSEC,in thousands of BAM,Business,10017.0
-2010,GB_XPD_RSDSEC,in thousands of BAM,Business,8520.0
-2011,GB_XPD_RSDSEC,in thousands of BAM,Business,15526.0
-2012,GB_XPD_RSDSEC,in thousands of BAM,Business,27430.0
-2013,GB_XPD_RSDSEC,in thousands of BAM,Business,43541.0
-2014,GB_XPD_RSDSEC,in thousands of BAM,Business,10614.0
-2015,GB_XPD_RSDSEC,in thousands of BAM,Business,9780.0
-2016,GB_XPD_RSDSEC,in thousands of BAM,Business,11376.0
-2017,GB_XPD_RSDSEC,in thousands of BAM,Business,10932.0
-2018,GB_XPD_RSDSEC,in thousands of BAM,Business,11173.0
-2019,GB_XPD_RSDSEC,in thousands of BAM,Business,9636.0
-2020,GB_XPD_RSDSEC,in thousands of BAM,Business,11693.0
-2021,GB_XPD_RSDSEC,in thousands of BAM,Business,13612.0
-2009,GB_XPD_RSDSEC,in thousands of BAM,Government,1670.0
-2010,GB_XPD_RSDSEC,in thousands of BAM,Government,2019.0
-2011,GB_XPD_RSDSEC,in thousands of BAM,Government,3592.0
-2012,GB_XPD_RSDSEC,in thousands of BAM,Government,1946.0
-2013,GB_XPD_RSDSEC,in thousands of BAM,Government,924.0
-2014,GB_XPD_RSDSEC,in thousands of BAM,Government,1598.0
-2015,GB_XPD_RSDSEC,in thousands of BAM,Government,2450.0
-2016,GB_XPD_RSDSEC,in thousands of BAM,Government,827.0
-2017,GB_XPD_RSDSEC,in thousands of BAM,Government,1425.0
-2018,GB_XPD_RSDSEC,in thousands of BAM,Government,1235.0
-2019,GB_XPD_RSDSEC,in thousands of BAM,Government,1357.0
-2020,GB_XPD_RSDSEC,in thousands of BAM,Government,1494.0
-2021,GB_XPD_RSDSEC,in thousands of BAM,Government,1609.0
-2009,GB_XPD_RSDSEC,in thousands of BAM,Higher education,12879.0
-2010,GB_XPD_RSDSEC,in thousands of BAM,Higher education,10091.0
-2011,GB_XPD_RSDSEC,in thousands of BAM,Higher education,7031.0
-2012,GB_XPD_RSDSEC,in thousands of BAM,Higher education,4875.0
-2013,GB_XPD_RSDSEC,in thousands of BAM,Higher education,4464.0
-2014,GB_XPD_RSDSEC,in thousands of BAM,Higher education,4845.0
-2015,GB_XPD_RSDSEC,in thousands of BAM,Higher education,5225.0
-2016,GB_XPD_RSDSEC,in thousands of BAM,Higher education,3954.0
-2017,GB_XPD_RSDSEC,in thousands of BAM,Higher education,4425.0
-2018,GB_XPD_RSDSEC,in thousands of BAM,Higher education,5291.0
-2019,GB_XPD_RSDSEC,in thousands of BAM,Higher education,6661.0
-2020,GB_XPD_RSDSEC,in thousands of BAM,Higher education,7102.0
-2021,GB_XPD_RSDSEC,in thousands of BAM,Higher education,10173.0
-2009,GB_XPD_RSDSEC,in thousands of BAM,Non-profit,0.0
-2010,GB_XPD_RSDSEC,in thousands of BAM,Non-profit,149.0
-2011,GB_XPD_RSDSEC,in thousands of BAM,Non-profit,42.0
-2012,GB_XPD_RSDSEC,in thousands of BAM,Non-profit,46.0
-2013,GB_XPD_RSDSEC,in thousands of BAM,Non-profit,106.0
-2014,GB_XPD_RSDSEC,in thousands of BAM,Non-profit,782.0
-2015,GB_XPD_RSDSEC,in thousands of BAM,Non-profit,480.0
-2016,GB_XPD_RSDSEC,in thousands of BAM,Non-profit,579.0
-2017,GB_XPD_RSDSEC,in thousands of BAM,Non-profit,414.0
-2018,GB_XPD_RSDSEC,in thousands of BAM,Non-profit,642.0
-2019,GB_XPD_RSDSEC,in thousands of BAM,Non-profit,33.0
-2020,GB_XPD_RSDSEC,in thousands of BAM,Non-profit,0.0
-2021,GB_XPD_RSDSEC,in thousands of BAM,Non-profit,0.0
+2009,Research and development expenditure as a proportion of GDP (%),Percent,,0.3
+2010,Research and development expenditure as a proportion of GDP (%),Percent,,0.25
+2011,Research and development expenditure as a proportion of GDP (%),Percent,,0.3
+2012,Research and development expenditure as a proportion of GDP (%),Percent,,0.4
+2013,Research and development expenditure as a proportion of GDP (%),Percent,,0.56
+2014,Research and development expenditure as a proportion of GDP (%),Percent,,0.2
+2015,Research and development expenditure as a proportion of GDP (%),Percent,,0.19
+2016,Research and development expenditure as a proportion of GDP (%),Percent,,0.17
+2017,Research and development expenditure as a proportion of GDP (%),Percent,,0.17
+2018,Research and development expenditure as a proportion of GDP (%),Percent,,0.17
+2019,Research and development expenditure as a proportion of GDP (%),Percent,,0.16
+2020,Research and development expenditure as a proportion of GDP (%),Percent,,0.18
+2021,Research and development expenditure as a proportion of GDP (%),Percent,,0.2
+2009,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,No breakdown,24566.0
+2010,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,No breakdown,20779.0
+2011,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,No breakdown,26191.0
+2012,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,No breakdown,34297.0
+2013,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,No breakdown,49035.0
+2014,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,No breakdown,17839.0
+2015,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,No breakdown,17935.0
+2016,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,No breakdown,16736.0
+2017,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,No breakdown,17196.0
+2018,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,No breakdown,18341.0
+2019,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,No breakdown,17687.0
+2020,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,No breakdown,20289.0
+2021,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,No breakdown,25394.0
+2009,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Business,10017.0
+2010,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Business,8520.0
+2011,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Business,15526.0
+2012,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Business,27430.0
+2013,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Business,43541.0
+2014,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Business,10614.0
+2015,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Business,9780.0
+2016,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Business,11376.0
+2017,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Business,10932.0
+2018,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Business,11173.0
+2019,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Business,9636.0
+2020,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Business,11693.0
+2021,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Business,13612.0
+2009,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Government,1670.0
+2010,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Government,2019.0
+2011,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Government,3592.0
+2012,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Government,1946.0
+2013,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Government,924.0
+2014,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Government,1598.0
+2015,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Government,2450.0
+2016,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Government,827.0
+2017,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Government,1425.0
+2018,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Government,1235.0
+2019,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Government,1357.0
+2020,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Government,1494.0
+2021,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Government,1609.0
+2009,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Higher education,12879.0
+2010,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Higher education,10091.0
+2011,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Higher education,7031.0
+2012,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Higher education,4875.0
+2013,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Higher education,4464.0
+2014,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Higher education,4845.0
+2015,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Higher education,5225.0
+2016,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Higher education,3954.0
+2017,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Higher education,4425.0
+2018,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Higher education,5291.0
+2019,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Higher education,6661.0
+2020,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Higher education,7102.0
+2021,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Higher education,10173.0
+2009,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Non-profit,0.0
+2010,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Non-profit,149.0
+2011,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Non-profit,42.0
+2012,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Non-profit,46.0
+2013,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Non-profit,106.0
+2014,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Non-profit,782.0
+2015,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Non-profit,480.0
+2016,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Non-profit,579.0
+2017,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Non-profit,414.0
+2018,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Non-profit,642.0
+2019,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Non-profit,33.0
+2020,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Non-profit,0.0
+2021,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Non-profit,0.0

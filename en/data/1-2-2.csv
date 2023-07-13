@@ -1,15 +1,15 @@
-Year,SERIES,UNIT_MEASURE,Sex,AGE,Value
-2011,SI_POV_HHDS,Percent,Male,_T,13.5
-2011,SI_POV_HHDS,Percent,Female,_T,18.7
-2015,SI_POV_HHDS,Percent,Male,_T,12.1
-2015,SI_POV_HHDS,Percent,Female,_T,18.6
-2011,SI_POV_HHDA,Percent,Both sexes or no breakdown by sex,Y0T35,0.0
-2011,SI_POV_HHDA,Percent,Both sexes or no breakdown by sex,Y36T45,10.8
-2011,SI_POV_HHDA,Percent,Both sexes or no breakdown by sex,Y46T55,15.6
-2011,SI_POV_HHDA,Percent,Both sexes or no breakdown by sex,Y56T65,11.7
-2011,SI_POV_HHDA,Percent,Both sexes or no breakdown by sex,Y_GE65,19.5
-2015,SI_POV_HHDA,Percent,Both sexes or no breakdown by sex,Y0T35,0.0
-2015,SI_POV_HHDA,Percent,Both sexes or no breakdown by sex,Y36T45,12.7
-2015,SI_POV_HHDA,Percent,Both sexes or no breakdown by sex,Y46T55,10.5
-2015,SI_POV_HHDA,Percent,Both sexes or no breakdown by sex,Y56T65,11.7
-2015,SI_POV_HHDA,Percent,Both sexes or no breakdown by sex,Y_GE65,19.2
+Year,SERIES,UNIT_MEASURE,Sex,Age,Value
+2011,Poverty headcount by sex of household head,Percent,Male,All age ranges or no breakdown by age,13.5
+2011,Poverty headcount by sex of household head,Percent,Female,All age ranges or no breakdown by age,18.7
+2015,Poverty headcount by sex of household head,Percent,Male,All age ranges or no breakdown by age,12.1
+2015,Poverty headcount by sex of household head,Percent,Female,All age ranges or no breakdown by age,18.6
+2011,Poverty headcount by age of household head,Percent,Both sexes or no breakdown by sex,under 35 years old,0.0
+2011,Poverty headcount by age of household head,Percent,Both sexes or no breakdown by sex,36 to 45 years old,10.8
+2011,Poverty headcount by age of household head,Percent,Both sexes or no breakdown by sex,46 to 55 years old,15.6
+2011,Poverty headcount by age of household head,Percent,Both sexes or no breakdown by sex,56 to 65 years old,11.7
+2011,Poverty headcount by age of household head,Percent,Both sexes or no breakdown by sex,65 years old and over,19.5
+2015,Poverty headcount by age of household head,Percent,Both sexes or no breakdown by sex,under 35 years old,0.0
+2015,Poverty headcount by age of household head,Percent,Both sexes or no breakdown by sex,36 to 45 years old,12.7
+2015,Poverty headcount by age of household head,Percent,Both sexes or no breakdown by sex,46 to 55 years old,10.5
+2015,Poverty headcount by age of household head,Percent,Both sexes or no breakdown by sex,56 to 65 years old,11.7
+2015,Poverty headcount by age of household head,Percent,Both sexes or no breakdown by sex,65 years old and over,19.2

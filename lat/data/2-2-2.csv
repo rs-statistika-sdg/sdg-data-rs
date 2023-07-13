@@ -1,5 +1,5 @@
-Year,SERIES,UNIT_MEASURE,AGE,Value
-2006,SN_STA_OVWGT,Procenat,Y0T4,23.3
-2012,SN_STA_OVWGT,Procenat,Y0T4,16.4
-2006,SH_STA_WAST,Procenat,Y0T4,2.6
-2012,SH_STA_WAST,Procenat,Y0T4,1.7
+Year,SERIES,UNIT_MEASURE,Starost,Value
+2006,Udio djece sa umjerenom ili ozbiljnom prekomjernom tjelesnom težinom,Procenat,Ispod 5 godina,23.3
+2012,Udio djece sa umjerenom ili ozbiljnom prekomjernom tjelesnom težinom,Procenat,Ispod 5 godina,16.4
+2006,Udio djece koja su umjereno ili ozbiljno iscrpljena,Procenat,Ispod 5 godina,2.6
+2012,Udio djece koja su umjereno ili ozbiljno iscrpljena,Procenat,Ispod 5 godina,1.7

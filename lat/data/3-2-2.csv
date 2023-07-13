@@ -1,14 +1,14 @@
-Year,SERIES,UNIT_MEASURE,AGE,Pol,Value
-2009,SH_DYN_NMRT,Na 1 000 živorođenih,M0,Oba pola ili bez podjele po polu,3.8
-2010,SH_DYN_NMRT,Na 1 000 živorođenih,M0,Oba pola ili bez podjele po polu,2.9
-2011,SH_DYN_NMRT,Na 1 000 živorođenih,M0,Oba pola ili bez podjele po polu,3.6
-2012,SH_DYN_NMRT,Na 1 000 živorođenih,M0,Oba pola ili bez podjele po polu,2.9
-2013,SH_DYN_NMRT,Na 1 000 živorođenih,M0,Oba pola ili bez podjele po polu,2.7
-2014,SH_DYN_NMRT,Na 1 000 živorođenih,M0,Oba pola ili bez podjele po polu,2.2
-2015,SH_DYN_NMRT,Na 1 000 živorođenih,M0,Oba pola ili bez podjele po polu,1.9
-2016,SH_DYN_NMRT,Na 1 000 živorođenih,M0,Oba pola ili bez podjele po polu,1.9
-2017,SH_DYN_NMRT,Na 1 000 živorođenih,M0,Oba pola ili bez podjele po polu,2.1
-2018,SH_DYN_NMRT,Na 1 000 živorođenih,M0,Oba pola ili bez podjele po polu,1.1
-2019,SH_DYN_NMRT,Na 1 000 živorođenih,M0,Oba pola ili bez podjele po polu,1.4
-2020,SH_DYN_NMRT,Na 1 000 živorođenih,M0,Oba pola ili bez podjele po polu,3.6
-2021,SH_DYN_NMRT,Na 1 000 živorođenih,M0,Oba pola ili bez podjele po polu,1.2
+Year,SERIES,UNIT_MEASURE,Starost,Pol,Value
+2009,Stopa neonatalnog mortaliteta,Na 1 000 živorođenih,Mlađi od jednog mjeseca,Oba pola ili bez podjele po polu,3.8
+2010,Stopa neonatalnog mortaliteta,Na 1 000 živorođenih,Mlađi od jednog mjeseca,Oba pola ili bez podjele po polu,2.9
+2011,Stopa neonatalnog mortaliteta,Na 1 000 živorođenih,Mlađi od jednog mjeseca,Oba pola ili bez podjele po polu,3.6
+2012,Stopa neonatalnog mortaliteta,Na 1 000 živorođenih,Mlađi od jednog mjeseca,Oba pola ili bez podjele po polu,2.9
+2013,Stopa neonatalnog mortaliteta,Na 1 000 živorođenih,Mlađi od jednog mjeseca,Oba pola ili bez podjele po polu,2.7
+2014,Stopa neonatalnog mortaliteta,Na 1 000 živorođenih,Mlađi od jednog mjeseca,Oba pola ili bez podjele po polu,2.2
+2015,Stopa neonatalnog mortaliteta,Na 1 000 živorođenih,Mlađi od jednog mjeseca,Oba pola ili bez podjele po polu,1.9
+2016,Stopa neonatalnog mortaliteta,Na 1 000 živorođenih,Mlađi od jednog mjeseca,Oba pola ili bez podjele po polu,1.9
+2017,Stopa neonatalnog mortaliteta,Na 1 000 živorođenih,Mlađi od jednog mjeseca,Oba pola ili bez podjele po polu,2.1
+2018,Stopa neonatalnog mortaliteta,Na 1 000 živorođenih,Mlađi od jednog mjeseca,Oba pola ili bez podjele po polu,1.1
+2019,Stopa neonatalnog mortaliteta,Na 1 000 živorođenih,Mlađi od jednog mjeseca,Oba pola ili bez podjele po polu,1.4
+2020,Stopa neonatalnog mortaliteta,Na 1 000 živorođenih,Mlađi od jednog mjeseca,Oba pola ili bez podjele po polu,3.6
+2021,Stopa neonatalnog mortaliteta,Na 1 000 živorođenih,Mlađi od jednog mjeseca,Oba pola ili bez podjele po polu,1.2

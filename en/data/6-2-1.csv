@@ -1,13 +1,13 @@
 Year,SERIES,UNIT_MEASURE,Degree of urbanisation,Value
-2011,SH_SAN_SAFEHH_BATH,Percent,Total,91.1
-2011,SH_SAN_SAFEHH_BATH,Percent,Urban,98.8
-2011,SH_SAN_SAFEHH_BATH,Percent,Other (rural/semi-urban),86.2
-2015,SH_SAN_SAFEHH_BATH,Percent,Total,94.1
-2015,SH_SAN_SAFEHH_BATH,Percent,Urban,98.7
-2015,SH_SAN_SAFEHH_BATH,Percent,Other (rural/semi-urban),91.1
-2011,SH_SAN_SAFEHH_WC,Percent,Total,22.2
-2011,SH_SAN_SAFEHH_WC,Percent,Urban,27.6
-2011,SH_SAN_SAFEHH_WC,Percent,Other (rural/semi-urban),18.7
-2015,SH_SAN_SAFEHH_WC,Percent,Total,88.1
-2015,SH_SAN_SAFEHH_WC,Percent,Urban,89.9
-2015,SH_SAN_SAFEHH_WC,Percent,Other (rural/semi-urban),87.0
+2011,Proportion of households owning a bathroom with a WC in the main dwelling unit,Percent,Total,91.1
+2011,Proportion of households owning a bathroom with a WC in the main dwelling unit,Percent,Urban,98.8
+2011,Proportion of households owning a bathroom with a WC in the main dwelling unit,Percent,Other (rural/semi-urban),86.2
+2015,Proportion of households owning a bathroom with a WC in the main dwelling unit,Percent,Total,94.1
+2015,Proportion of households owning a bathroom with a WC in the main dwelling unit,Percent,Urban,98.7
+2015,Proportion of households owning a bathroom with a WC in the main dwelling unit,Percent,Other (rural/semi-urban),91.1
+2011,Proportion of households owning a WC in the main dwelling unit,Percent,Total,22.2
+2011,Proportion of households owning a WC in the main dwelling unit,Percent,Urban,27.6
+2011,Proportion of households owning a WC in the main dwelling unit,Percent,Other (rural/semi-urban),18.7
+2015,Proportion of households owning a WC in the main dwelling unit,Percent,Total,88.1
+2015,Proportion of households owning a WC in the main dwelling unit,Percent,Urban,89.9
+2015,Proportion of households owning a WC in the main dwelling unit,Percent,Other (rural/semi-urban),87.0

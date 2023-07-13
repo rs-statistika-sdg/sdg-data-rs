@@ -1,71 +1,71 @@
 Year,SERIES,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
-2012,ER_RSK_LSTEDS,Number,Invertebrates (Inverttebratae),308
-2013,ER_RSK_LSTEDS,Number,Invertebrates (Inverttebratae),308
-2014,ER_RSK_LSTEDS,Number,Invertebrates (Inverttebratae),308
-2015,ER_RSK_LSTEDS,Number,Invertebrates (Inverttebratae),308
-2016,ER_RSK_LSTEDS,Number,Invertebrates (Inverttebratae),308
-2017,ER_RSK_LSTEDS,Number,Invertebrates (Inverttebratae),308
-2018,ER_RSK_LSTEDS,Number,Invertebrates (Inverttebratae),308
-2019,ER_RSK_LSTEDS,Number,Invertebrates (Inverttebratae),308
-2020,ER_RSK_LSTEDS,Number,Invertebrates (Inverttebratae),308
-2021,ER_RSK_LSTEDS,Number,Invertebrates (Inverttebratae),308
-2012,ER_RSK_LSTEDS,Number,Reptiles (Reptiles),25
-2013,ER_RSK_LSTEDS,Number,Reptiles (Reptiles),25
-2014,ER_RSK_LSTEDS,Number,Reptiles (Reptiles),25
-2015,ER_RSK_LSTEDS,Number,Reptiles (Reptiles),25
-2016,ER_RSK_LSTEDS,Number,Reptiles (Reptiles),25
-2017,ER_RSK_LSTEDS,Number,Reptiles (Reptiles),25
-2018,ER_RSK_LSTEDS,Number,Reptiles (Reptiles),25
-2019,ER_RSK_LSTEDS,Number,Reptiles (Reptiles),25
-2020,ER_RSK_LSTEDS,Number,Reptiles (Reptiles),25
-2021,ER_RSK_LSTEDS,Number,Reptiles (Reptiles),25
-2012,ER_RSK_LSTEDS,Number,Amphibians (Amphibia),20
-2013,ER_RSK_LSTEDS,Number,Amphibians (Amphibia),20
-2014,ER_RSK_LSTEDS,Number,Amphibians (Amphibia),20
-2015,ER_RSK_LSTEDS,Number,Amphibians (Amphibia),20
-2016,ER_RSK_LSTEDS,Number,Amphibians (Amphibia),20
-2017,ER_RSK_LSTEDS,Number,Amphibians (Amphibia),20
-2018,ER_RSK_LSTEDS,Number,Amphibians (Amphibia),20
-2019,ER_RSK_LSTEDS,Number,Amphibians (Amphibia),20
-2020,ER_RSK_LSTEDS,Number,Amphibians (Amphibia),20
-2021,ER_RSK_LSTEDS,Number,Amphibians (Amphibia),20
-2012,ER_RSK_LSTEDS,Number,Mammals (Mammals),57
-2013,ER_RSK_LSTEDS,Number,Mammals (Mammals),57
-2014,ER_RSK_LSTEDS,Number,Mammals (Mammals),57
-2015,ER_RSK_LSTEDS,Number,Mammals (Mammals),57
-2016,ER_RSK_LSTEDS,Number,Mammals (Mammals),57
-2017,ER_RSK_LSTEDS,Number,Mammals (Mammals),57
-2018,ER_RSK_LSTEDS,Number,Mammals (Mammals),57
-2019,ER_RSK_LSTEDS,Number,Mammals (Mammals),57
-2020,ER_RSK_LSTEDS,Number,Mammals (Mammals),57
-2021,ER_RSK_LSTEDS,Number,Mammals (Mammals),57
-2012,ER_RSK_LSTEDS,Number,Fish (Pisces),48
-2013,ER_RSK_LSTEDS,Number,Fish (Pisces),48
-2014,ER_RSK_LSTEDS,Number,Fish (Pisces),48
-2015,ER_RSK_LSTEDS,Number,Fish (Pisces),48
-2016,ER_RSK_LSTEDS,Number,Fish (Pisces),48
-2017,ER_RSK_LSTEDS,Number,Fish (Pisces),48
-2018,ER_RSK_LSTEDS,Number,Fish (Pisces),48
-2019,ER_RSK_LSTEDS,Number,Fish (Pisces),48
-2020,ER_RSK_LSTEDS,Number,Fish (Pisces),48
-2021,ER_RSK_LSTEDS,Number,Fish (Pisces),48
-2012,ER_RSK_LSTEDS,Number,Birds (Aves),304
-2013,ER_RSK_LSTEDS,Number,Birds (Aves),304
-2014,ER_RSK_LSTEDS,Number,Birds (Aves),304
-2015,ER_RSK_LSTEDS,Number,Birds (Aves),304
-2016,ER_RSK_LSTEDS,Number,Birds (Aves),304
-2017,ER_RSK_LSTEDS,Number,Birds (Aves),304
-2018,ER_RSK_LSTEDS,Number,Birds (Aves),304
-2019,ER_RSK_LSTEDS,Number,Birds (Aves),304
-2020,ER_RSK_LSTEDS,Number,Birds (Aves),304
-2021,ER_RSK_LSTEDS,Number,Birds (Aves),304
-2012,ER_RSK_LSTEDS,Number,Vascular plants (Planate),818
-2013,ER_RSK_LSTEDS,Number,Vascular plants (Planate),818
-2014,ER_RSK_LSTEDS,Number,Vascular plants (Planate),818
-2015,ER_RSK_LSTEDS,Number,Vascular plants (Planate),818
-2016,ER_RSK_LSTEDS,Number,Vascular plants (Planate),818
-2017,ER_RSK_LSTEDS,Number,Vascular plants (Planate),818
-2018,ER_RSK_LSTEDS,Number,Vascular plants (Planate),818
-2019,ER_RSK_LSTEDS,Number,Vascular plants (Planate),818
-2020,ER_RSK_LSTEDS,Number,Vascular plants (Planate),818
-2021,ER_RSK_LSTEDS,Number,Vascular plants (Planate),818
+2012,List of endangered species,Number,Invertebrates (Inverttebratae),308
+2013,List of endangered species,Number,Invertebrates (Inverttebratae),308
+2014,List of endangered species,Number,Invertebrates (Inverttebratae),308
+2015,List of endangered species,Number,Invertebrates (Inverttebratae),308
+2016,List of endangered species,Number,Invertebrates (Inverttebratae),308
+2017,List of endangered species,Number,Invertebrates (Inverttebratae),308
+2018,List of endangered species,Number,Invertebrates (Inverttebratae),308
+2019,List of endangered species,Number,Invertebrates (Inverttebratae),308
+2020,List of endangered species,Number,Invertebrates (Inverttebratae),308
+2021,List of endangered species,Number,Invertebrates (Inverttebratae),308
+2012,List of endangered species,Number,Reptiles (Reptiles),25
+2013,List of endangered species,Number,Reptiles (Reptiles),25
+2014,List of endangered species,Number,Reptiles (Reptiles),25
+2015,List of endangered species,Number,Reptiles (Reptiles),25
+2016,List of endangered species,Number,Reptiles (Reptiles),25
+2017,List of endangered species,Number,Reptiles (Reptiles),25
+2018,List of endangered species,Number,Reptiles (Reptiles),25
+2019,List of endangered species,Number,Reptiles (Reptiles),25
+2020,List of endangered species,Number,Reptiles (Reptiles),25
+2021,List of endangered species,Number,Reptiles (Reptiles),25
+2012,List of endangered species,Number,Amphibians (Amphibia),20
+2013,List of endangered species,Number,Amphibians (Amphibia),20
+2014,List of endangered species,Number,Amphibians (Amphibia),20
+2015,List of endangered species,Number,Amphibians (Amphibia),20
+2016,List of endangered species,Number,Amphibians (Amphibia),20
+2017,List of endangered species,Number,Amphibians (Amphibia),20
+2018,List of endangered species,Number,Amphibians (Amphibia),20
+2019,List of endangered species,Number,Amphibians (Amphibia),20
+2020,List of endangered species,Number,Amphibians (Amphibia),20
+2021,List of endangered species,Number,Amphibians (Amphibia),20
+2012,List of endangered species,Number,Mammals (Mammals),57
+2013,List of endangered species,Number,Mammals (Mammals),57
+2014,List of endangered species,Number,Mammals (Mammals),57
+2015,List of endangered species,Number,Mammals (Mammals),57
+2016,List of endangered species,Number,Mammals (Mammals),57
+2017,List of endangered species,Number,Mammals (Mammals),57
+2018,List of endangered species,Number,Mammals (Mammals),57
+2019,List of endangered species,Number,Mammals (Mammals),57
+2020,List of endangered species,Number,Mammals (Mammals),57
+2021,List of endangered species,Number,Mammals (Mammals),57
+2012,List of endangered species,Number,Fish (Pisces),48
+2013,List of endangered species,Number,Fish (Pisces),48
+2014,List of endangered species,Number,Fish (Pisces),48
+2015,List of endangered species,Number,Fish (Pisces),48
+2016,List of endangered species,Number,Fish (Pisces),48
+2017,List of endangered species,Number,Fish (Pisces),48
+2018,List of endangered species,Number,Fish (Pisces),48
+2019,List of endangered species,Number,Fish (Pisces),48
+2020,List of endangered species,Number,Fish (Pisces),48
+2021,List of endangered species,Number,Fish (Pisces),48
+2012,List of endangered species,Number,Birds (Aves),304
+2013,List of endangered species,Number,Birds (Aves),304
+2014,List of endangered species,Number,Birds (Aves),304
+2015,List of endangered species,Number,Birds (Aves),304
+2016,List of endangered species,Number,Birds (Aves),304
+2017,List of endangered species,Number,Birds (Aves),304
+2018,List of endangered species,Number,Birds (Aves),304
+2019,List of endangered species,Number,Birds (Aves),304
+2020,List of endangered species,Number,Birds (Aves),304
+2021,List of endangered species,Number,Birds (Aves),304
+2012,List of endangered species,Number,Vascular plants (Planate),818
+2013,List of endangered species,Number,Vascular plants (Planate),818
+2014,List of endangered species,Number,Vascular plants (Planate),818
+2015,List of endangered species,Number,Vascular plants (Planate),818
+2016,List of endangered species,Number,Vascular plants (Planate),818
+2017,List of endangered species,Number,Vascular plants (Planate),818
+2018,List of endangered species,Number,Vascular plants (Planate),818
+2019,List of endangered species,Number,Vascular plants (Planate),818
+2020,List of endangered species,Number,Vascular plants (Planate),818
+2021,List of endangered species,Number,Vascular plants (Planate),818

@@ -1,73 +1,73 @@
 Year,SERIES,UNIT_MEASURE,Value
-2018,FI_FSI_FSKRTC,Procenat,16.21
-2019,FI_FSI_FSKRTC,Procenat,16.87
-2020,FI_FSI_FSKRTC,Procenat,17.52
-2021,FI_FSI_FSKRTC,Procenat,18.31
-2018,FI_FSI_FSRCER,Procenat,17.66
-2019,FI_FSI_FSRCER,Procenat,18.31
-2020,FI_FSI_FSRCER,Procenat,19.33
-2021,FI_FSI_FSRCER,Procenat,19.15
-2018,FI_FSI_FSKA,Procenat,12.44
-2019,FI_FSI_FSKA,Procenat,12.58
-2020,FI_FSI_FSKA,Procenat,12.39
-2021,FI_FSI_FSKA,Procenat,11.69
-2018,FI_FSI_FSNPA,Procenat,7.17
-2019,FI_FSI_FSNPA,Procenat,5.04
-2020,FI_FSI_FSNPA,Procenat,3.62
-2021,FI_FSI_FSNPA,Procenat,2.54
-2018,FI_FSI_FSNPALC,Procenat,19.1
-2019,FI_FSI_FSNPALC,Procenat,10.66
-2020,FI_FSI_FSNPALC,Procenat,6.18
-2021,FI_FSI_FSNPALC,Procenat,4.56
-2018,FI_FSI_FSKNL,Procenat,18.34
-2019,FI_FSI_FSKNL,Procenat,9.42
-2020,FI_FSI_FSKNL,Procenat,5.99
-2021,FI_FSI_FSKNL,Procenat,4.34
-2018,FI_FSI_FSANL,Procenat,9.54
-2019,FI_FSI_FSANL,Procenat,6.95
-2020,FI_FSI_FSANL,Procenat,5.23
-2021,FI_FSI_FSANL,Procenat,3.98
-2018,FI_FSI_FSERA,Procenat,1.13
-2019,FI_FSI_FSERA,Procenat,1.35
-2020,FI_FSI_FSERA,Procenat,0.69
-2021,FI_FSI_FSERA,Procenat,1.38
-2018,FI_FSI_FSERSC,Procenat,8.79
-2019,FI_FSI_FSERSC,Procenat,10.75
-2020,FI_FSI_FSERSC,Procenat,5.5
-2021,FI_FSI_FSERSC,Procenat,11.25
-2018,FI_FSI_FSINTIRI,Procenat,60.65
-2019,FI_FSI_FSINTIRI,Procenat,58.07
-2020,FI_FSI_FSINTIRI,Procenat,58.87
-2021,FI_FSI_FSINTIRI,Procenat,56.84
-2018,FI_FSI_FSINOIRE,Procenat,78.24
-2019,FI_FSI_FSINOIRE,Procenat,73.22
-2020,FI_FSI_FSINOIRE,Procenat,85.81
-2021,FI_FSI_FSINOIRE,Procenat,71.68
-2018,FI_FSI_FSLSTA,Procenat,26.7
-2019,FI_FSI_FSLSTA,Procenat,22.97
-2020,FI_FSI_FSLSTA,Procenat,22.87
-2021,FI_FSI_FSLSTA,Procenat,28.72
-2018,FI_FSI_FSLS,Procenat,39.96
-2019,FI_FSI_FSLS,Procenat,35.03
-2020,FI_FSI_FSLS,Procenat,33.75
-2021,FI_FSI_FSLS,Procenat,40.73
-2018,FI_FSI_FSLDC,Procenat,105.98
-2019,FI_FSI_FSLDC,Procenat,103.1
-2020,FI_FSI_FSLDC,Procenat,106.81
-2021,FI_FSI_FSLDC,Procenat,121.63
-2018,FI_FSI_FSSTL,Procenat,76.4
-2019,FI_FSI_FSSTL,Procenat,75.08
-2020,FI_FSI_FSSTL,Procenat,77.44
-2021,FI_FSI_FSSTL,Procenat,79.97
-2018,FI_FSI_FSSFCLN,Procenat,69.01
-2019,FI_FSI_FSSFCLN,Procenat,63.94
-2020,FI_FSI_FSSFCLN,Procenat,62.38
-2021,FI_FSI_FSSFCLN,Procenat,58.74
-2018,FI_FSI_FSFCLI,Procenat,61.61
-2019,FI_FSI_FSFCLI,Procenat,58.95
-2020,FI_FSI_FSFCLI,Procenat,59.1
-2021,FI_FSI_FSFCLI,Procenat,54.46
-2018,FI_FSI_FSSNO,Procenat,3.06
-2019,FI_FSI_FSSNO,Procenat,9.36
-2020,FI_FSI_FSSNO,Procenat,6.38
-2021,FI_FSI_FSSNO,Procenat,2.38
+2018,Osnovni kapital prema ukupnom iznosu izloženosti riziku (%),Procenat,16.21
+2019,Osnovni kapital prema ukupnom iznosu izloženosti riziku (%),Procenat,16.87
+2020,Osnovni kapital prema ukupnom iznosu izloženosti riziku (%),Procenat,17.52
+2021,Osnovni kapital prema ukupnom iznosu izloženosti riziku (%),Procenat,18.31
+2018,Regulatorni kapital prema ukupnom iznosu izloženosti riziku (%),Procenat,17.66
+2019,Regulatorni kapital prema ukupnom iznosu izloženosti riziku (%),Procenat,18.31
+2020,Regulatorni kapital prema ukupnom iznosu izloženosti riziku (%),Procenat,19.33
+2021,Regulatorni kapital prema ukupnom iznosu izloženosti riziku (%),Procenat,19.15
+2018,Kapital prema aktivi (%),Procenat,12.44
+2019,Kapital prema aktivi (%),Procenat,12.58
+2020,Kapital prema aktivi (%),Procenat,12.39
+2021,Kapital prema aktivi (%),Procenat,11.69
+2018,NPA prema ukupnoj aktivi (%),Procenat,7.17
+2019,NPA prema ukupnoj aktivi (%),Procenat,5.04
+2020,NPA prema ukupnoj aktivi (%),Procenat,3.62
+2021,NPA prema ukupnoj aktivi (%),Procenat,2.54
+2018,Nekvalitetna aktiva umanjena za rezervisanja prema osnovnom kapitalu (%),Procenat,19.1
+2019,Nekvalitetna aktiva umanjena za rezervisanja prema osnovnom kapitalu (%),Procenat,10.66
+2020,Nekvalitetna aktiva umanjena za rezervisanja prema osnovnom kapitalu (%),Procenat,6.18
+2021,Nekvalitetna aktiva umanjena za rezervisanja prema osnovnom kapitalu (%),Procenat,4.56
+2018,Nekvalitetni krediti umanjeni za rezervisanja prema osnovnom kapitalu (%),Procenat,18.34
+2019,Nekvalitetni krediti umanjeni za rezervisanja prema osnovnom kapitalu (%),Procenat,9.42
+2020,Nekvalitetni krediti umanjeni za rezervisanja prema osnovnom kapitalu (%),Procenat,5.99
+2021,Nekvalitetni krediti umanjeni za rezervisanja prema osnovnom kapitalu (%),Procenat,4.34
+2018,NPL prema ukupnim kreditima (%),Procenat,9.54
+2019,NPL prema ukupnim kreditima (%),Procenat,6.95
+2020,NPL prema ukupnim kreditima (%),Procenat,5.23
+2021,NPL prema ukupnim kreditima (%),Procenat,3.98
+2018,Povrat na aktivu (ROA) (%),Procenat,1.13
+2019,Povrat na aktivu (ROA) (%),Procenat,1.35
+2020,Povrat na aktivu (ROA) (%),Procenat,0.69
+2021,Povrat na aktivu (ROA) (%),Procenat,1.38
+2018,Povrat na dionički kapital (%),Procenat,8.79
+2019,Povrat na dionički kapital (%),Procenat,10.75
+2020,Povrat na dionički kapital (%),Procenat,5.5
+2021,Povrat na dionički kapital (%),Procenat,11.25
+2018,Neto kamatni prihod prema ukupnom prihodu (%),Procenat,60.65
+2019,Neto kamatni prihod prema ukupnom prihodu (%),Procenat,58.07
+2020,Neto kamatni prihod prema ukupnom prihodu (%),Procenat,58.87
+2021,Neto kamatni prihod prema ukupnom prihodu (%),Procenat,56.84
+2018,Nekamatni rashodi prema ukupnom prihodu (%),Procenat,78.24
+2019,Nekamatni rashodi prema ukupnom prihodu (%),Procenat,73.22
+2020,Nekamatni rashodi prema ukupnom prihodu (%),Procenat,85.81
+2021,Nekamatni rashodi prema ukupnom prihodu (%),Procenat,71.68
+2018,Likvidna sredstva prema ukupnoj aktivi (%),Procenat,26.7
+2019,Likvidna sredstva prema ukupnoj aktivi (%),Procenat,22.97
+2020,Likvidna sredstva prema ukupnoj aktivi (%),Procenat,22.87
+2021,Likvidna sredstva prema ukupnoj aktivi (%),Procenat,28.72
+2018,Likvidna sredstva prema kratkoročnim finansijskim obavezama (%),Procenat,39.96
+2019,Likvidna sredstva prema kratkoročnim finansijskim obavezama (%),Procenat,35.03
+2020,Likvidna sredstva prema kratkoročnim finansijskim obavezama (%),Procenat,33.75
+2021,Likvidna sredstva prema kratkoročnim finansijskim obavezama (%),Procenat,40.73
+2018,Depoziti prema kreditima umanjenim za međubankarske kredite (%),Procenat,105.98
+2019,Depoziti prema kreditima umanjenim za međubankarske kredite (%),Procenat,103.1
+2020,Depoziti prema kreditima umanjenim za međubankarske kredite (%),Procenat,106.81
+2021,Depoziti prema kreditima umanjenim za međubankarske kredite (%),Procenat,121.63
+2018,Kratkoročne finansijske obaveze prema ukupnim obavezama (%),Procenat,76.4
+2019,Kratkoročne finansijske obaveze prema ukupnim obavezama (%),Procenat,75.08
+2020,Kratkoročne finansijske obaveze prema ukupnim obavezama (%),Procenat,77.44
+2021,Kratkoročne finansijske obaveze prema ukupnim obavezama (%),Procenat,79.97
+2018,Krediti u stranoj valuti i krediti sa valutnom klauzulom prema ukupnim kreditima (%),Procenat,69.01
+2019,Krediti u stranoj valuti i krediti sa valutnom klauzulom prema ukupnim kreditima (%),Procenat,63.94
+2020,Krediti u stranoj valuti i krediti sa valutnom klauzulom prema ukupnim kreditima (%),Procenat,62.38
+2021,Krediti u stranoj valuti i krediti sa valutnom klauzulom prema ukupnim kreditima (%),Procenat,58.74
+2018,Obaveze u stranoj valuti prema ukupnim obavezama (%),Procenat,61.61
+2019,Obaveze u stranoj valuti prema ukupnim obavezama (%),Procenat,58.95
+2020,Obaveze u stranoj valuti prema ukupnim obavezama (%),Procenat,59.1
+2021,Obaveze u stranoj valuti prema ukupnim obavezama (%),Procenat,54.46
+2018,Neto otvorena pozicija (%),Procenat,3.06
+2019,Neto otvorena pozicija (%),Procenat,9.36
+2020,Neto otvorena pozicija (%),Procenat,6.38
+2021,Neto otvorena pozicija (%),Procenat,2.38

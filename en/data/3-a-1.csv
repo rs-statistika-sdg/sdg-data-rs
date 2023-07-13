@@ -1,6 +1,6 @@
-Year,SERIES,UNIT_MEASURE,AGE,Sex,Value
-2010,SH_PRV_SMOKA,Percent,>18Y,Both sexes or no breakdown by sex,28.7
-2012,SH_PRV_SMOKA,Percent,Y15T49,Male,34.3
-2012,SH_PRV_SMOKA,Percent,Y15T49,Female,26.3
-2015,SH_PRV_SMOKA,Percent,>15Y,Both sexes or no breakdown by sex,24.6
-2018,SH_PRV_SMOKC,Percent,Y13T15,Both sexes or no breakdown by sex,11.8
+Year,SERIES,UNIT_MEASURE,Age,Sex,Value
+2010,Percentage of daily smokers among the population,Percent,Aged over 18 years,Both sexes or no breakdown by sex,28.7
+2012,Percentage of daily smokers among the population,Percent,15 to 49 years old,Male,34.3
+2012,Percentage of daily smokers among the population,Percent,15 to 49 years old,Female,26.3
+2015,Percentage of daily smokers among the population,Percent,Aged over 15 years,Both sexes or no breakdown by sex,24.6
+2018,Percentage of smokers among children aged 13–15 years,Percent,13 to 15 years old,Both sexes or no breakdown by sex,11.8

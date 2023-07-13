@@ -1,6 +1,6 @@
 Year,SERIES,UNIT_MEASURE,Economic activity,Value
-2017,NV_IND_SSIS,Percent,"Industrial sections (B, C, D, E)",8.7
-2018,NV_IND_SSIS,Percent,"Industrial sections (B, C, D, E)",8.5
-2019,NV_IND_SSIS,Percent,"Industrial sections (B, C, D, E)",10.3
-2020,NV_IND_SSIS,Percent,"Industrial sections (B, C, D, E)",10.3
-2021,NV_IND_SSIS,Percent,"Industrial sections (B, C, D, E)",8.9
+2017,Proportion of small-scale industries in total industry value added,Percent,"Industrial sections (B, C, D, E)",8.7
+2018,Proportion of small-scale industries in total industry value added,Percent,"Industrial sections (B, C, D, E)",8.5
+2019,Proportion of small-scale industries in total industry value added,Percent,"Industrial sections (B, C, D, E)",10.3
+2020,Proportion of small-scale industries in total industry value added,Percent,"Industrial sections (B, C, D, E)",10.3
+2021,Proportion of small-scale industries in total industry value added,Percent,"Industrial sections (B, C, D, E)",8.9

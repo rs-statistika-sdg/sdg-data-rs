@@ -1,40 +1,40 @@
 Year,SERIES,UNIT_MEASURE,Sex,Value
-2009,SH_DTH_NCOM,"Number of deaths per 100,000 population under the age of 65 years",Both sexes or no breakdown by sex,150.7
-2010,SH_DTH_NCOM,DTHS_PER_1000000_POPY0T66,Both sexes or no breakdown by sex,144.6
-2011,SH_DTH_NCOM,DTHS_PER_1000000_POPY0T67,Both sexes or no breakdown by sex,180.2
-2012,SH_DTH_NCOM,DTHS_PER_1000000_POPY0T68,Both sexes or no breakdown by sex,184.2
-2013,SH_DTH_NCOM,DTHS_PER_1000000_POPY0T69,Both sexes or no breakdown by sex,189.1
-2014,SH_DTH_NCOM,DTHS_PER_1000000_POPY0T70,Both sexes or no breakdown by sex,194.5
-2015,SH_DTH_NCOM,DTHS_PER_1000000_POPY0T71,Both sexes or no breakdown by sex,184.6
-2016,SH_DTH_NCOM,DTHS_PER_1000000_POPY0T72,Both sexes or no breakdown by sex,179.4
-2017,SH_DTH_NCOM,DTHS_PER_1000000_POPY0T73,Both sexes or no breakdown by sex,177.2
-2018,SH_DTH_NCOM,DTHS_PER_1000000_POPY0T74,Both sexes or no breakdown by sex,163.5
-2019,SH_DTH_NCOM,DTHS_PER_1000000_POPY0T75,Both sexes or no breakdown by sex,159.3
-2020,SH_DTH_NCOM,DTHS_PER_1000000_POPY0T76,Both sexes or no breakdown by sex,157.6
-2021,SH_DTH_NCOM,DTHS_PER_1000000_POPY0T77,Both sexes or no breakdown by sex,147.9
-2009,SH_DTH_NCOM,"Number of deaths per 100,000 population under the age of 65 years",Male,201.1
-2010,SH_DTH_NCOM,DTHS_PER_1000000_POPY0T66,Male,191.4
-2011,SH_DTH_NCOM,DTHS_PER_1000000_POPY0T67,Male,236.2
-2012,SH_DTH_NCOM,DTHS_PER_1000000_POPY0T68,Male,247.2
-2013,SH_DTH_NCOM,DTHS_PER_1000000_POPY0T69,Male,246.9
-2014,SH_DTH_NCOM,DTHS_PER_1000000_POPY0T70,Male,255.0
-2015,SH_DTH_NCOM,DTHS_PER_1000000_POPY0T71,Male,229.5
-2016,SH_DTH_NCOM,DTHS_PER_1000000_POPY0T72,Male,233.1
-2017,SH_DTH_NCOM,DTHS_PER_1000000_POPY0T73,Male,225.8
-2018,SH_DTH_NCOM,DTHS_PER_1000000_POPY0T74,Male,216.8
-2019,SH_DTH_NCOM,DTHS_PER_1000000_POPY0T75,Male,203.6
-2020,SH_DTH_NCOM,DTHS_PER_1000000_POPY0T76,Male,207.9
-2021,SH_DTH_NCOM,DTHS_PER_1000000_POPY0T77,Male,194.4
-2009,SH_DTH_NCOM,"Number of deaths per 100,000 population under the age of 65 years",Female,102.5
-2010,SH_DTH_NCOM,DTHS_PER_1000000_POPY0T66,Female,99.8
-2011,SH_DTH_NCOM,DTHS_PER_1000000_POPY0T67,Female,123.4
-2012,SH_DTH_NCOM,DTHS_PER_1000000_POPY0T68,Female,120.4
-2013,SH_DTH_NCOM,DTHS_PER_1000000_POPY0T69,Female,130.5
-2014,SH_DTH_NCOM,DTHS_PER_1000000_POPY0T70,Female,133.2
-2015,SH_DTH_NCOM,DTHS_PER_1000000_POPY0T71,Female,139.1
-2016,SH_DTH_NCOM,DTHS_PER_1000000_POPY0T72,Female,124.9
-2017,SH_DTH_NCOM,DTHS_PER_1000000_POPY0T73,Female,127.7
-2018,SH_DTH_NCOM,DTHS_PER_1000000_POPY0T74,Female,109.3
-2019,SH_DTH_NCOM,DTHS_PER_1000000_POPY0T75,Female,114.2
-2020,SH_DTH_NCOM,DTHS_PER_1000000_POPY0T76,Female,105.8
-2021,SH_DTH_NCOM,DTHS_PER_1000000_POPY0T77,Female,99.6
+2009,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease","Number of deaths per 100,000 population under the age of 65 years",Both sexes or no breakdown by sex,150.7
+2010,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",DTHS_PER_1000000_POPY0T66,Both sexes or no breakdown by sex,144.6
+2011,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",DTHS_PER_1000000_POPY0T67,Both sexes or no breakdown by sex,180.2
+2012,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",DTHS_PER_1000000_POPY0T68,Both sexes or no breakdown by sex,184.2
+2013,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",DTHS_PER_1000000_POPY0T69,Both sexes or no breakdown by sex,189.1
+2014,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",DTHS_PER_1000000_POPY0T70,Both sexes or no breakdown by sex,194.5
+2015,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",DTHS_PER_1000000_POPY0T71,Both sexes or no breakdown by sex,184.6
+2016,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",DTHS_PER_1000000_POPY0T72,Both sexes or no breakdown by sex,179.4
+2017,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",DTHS_PER_1000000_POPY0T73,Both sexes or no breakdown by sex,177.2
+2018,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",DTHS_PER_1000000_POPY0T74,Both sexes or no breakdown by sex,163.5
+2019,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",DTHS_PER_1000000_POPY0T75,Both sexes or no breakdown by sex,159.3
+2020,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",DTHS_PER_1000000_POPY0T76,Both sexes or no breakdown by sex,157.6
+2021,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",DTHS_PER_1000000_POPY0T77,Both sexes or no breakdown by sex,147.9
+2009,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease","Number of deaths per 100,000 population under the age of 65 years",Male,201.1
+2010,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",DTHS_PER_1000000_POPY0T66,Male,191.4
+2011,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",DTHS_PER_1000000_POPY0T67,Male,236.2
+2012,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",DTHS_PER_1000000_POPY0T68,Male,247.2
+2013,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",DTHS_PER_1000000_POPY0T69,Male,246.9
+2014,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",DTHS_PER_1000000_POPY0T70,Male,255.0
+2015,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",DTHS_PER_1000000_POPY0T71,Male,229.5
+2016,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",DTHS_PER_1000000_POPY0T72,Male,233.1
+2017,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",DTHS_PER_1000000_POPY0T73,Male,225.8
+2018,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",DTHS_PER_1000000_POPY0T74,Male,216.8
+2019,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",DTHS_PER_1000000_POPY0T75,Male,203.6
+2020,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",DTHS_PER_1000000_POPY0T76,Male,207.9
+2021,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",DTHS_PER_1000000_POPY0T77,Male,194.4
+2009,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease","Number of deaths per 100,000 population under the age of 65 years",Female,102.5
+2010,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",DTHS_PER_1000000_POPY0T66,Female,99.8
+2011,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",DTHS_PER_1000000_POPY0T67,Female,123.4
+2012,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",DTHS_PER_1000000_POPY0T68,Female,120.4
+2013,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",DTHS_PER_1000000_POPY0T69,Female,130.5
+2014,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",DTHS_PER_1000000_POPY0T70,Female,133.2
+2015,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",DTHS_PER_1000000_POPY0T71,Female,139.1
+2016,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",DTHS_PER_1000000_POPY0T72,Female,124.9
+2017,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",DTHS_PER_1000000_POPY0T73,Female,127.7
+2018,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",DTHS_PER_1000000_POPY0T74,Female,109.3
+2019,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",DTHS_PER_1000000_POPY0T75,Female,114.2
+2020,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",DTHS_PER_1000000_POPY0T76,Female,105.8
+2021,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",DTHS_PER_1000000_POPY0T77,Female,99.6

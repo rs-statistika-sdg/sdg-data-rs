@@ -1,15 +1,15 @@
-Year,SERIES,UNIT_MEASURE,Pol,AGE,Value
-2011,SI_POV_HHDS,Procenat,Muškarci,_T,13.5
-2011,SI_POV_HHDS,Procenat,Žene,_T,18.7
-2015,SI_POV_HHDS,Procenat,Muškarci,_T,12.1
-2015,SI_POV_HHDS,Procenat,Žene,_T,18.6
-2011,SI_POV_HHDA,Procenat,Oba pola ili bez podjele po polu,Y0T35,0.0
-2011,SI_POV_HHDA,Procenat,Oba pola ili bez podjele po polu,Y36T45,10.8
-2011,SI_POV_HHDA,Procenat,Oba pola ili bez podjele po polu,Y46T55,15.6
-2011,SI_POV_HHDA,Procenat,Oba pola ili bez podjele po polu,Y56T65,11.7
-2011,SI_POV_HHDA,Procenat,Oba pola ili bez podjele po polu,Y_GE65,19.5
-2015,SI_POV_HHDA,Procenat,Oba pola ili bez podjele po polu,Y0T35,0.0
-2015,SI_POV_HHDA,Procenat,Oba pola ili bez podjele po polu,Y36T45,12.7
-2015,SI_POV_HHDA,Procenat,Oba pola ili bez podjele po polu,Y46T55,10.5
-2015,SI_POV_HHDA,Procenat,Oba pola ili bez podjele po polu,Y56T65,11.7
-2015,SI_POV_HHDA,Procenat,Oba pola ili bez podjele po polu,Y_GE65,19.2
+Year,SERIES,UNIT_MEASURE,Pol,Starost,Value
+2011,Veličina siromaštva po polu nosioca domaćinstva,Procenat,Muškarci,Svi starosni rasponi ili nema podjele po godinama,13.5
+2011,Veličina siromaštva po polu nosioca domaćinstva,Procenat,Žene,Svi starosni rasponi ili nema podjele po godinama,18.7
+2015,Veličina siromaštva po polu nosioca domaćinstva,Procenat,Muškarci,Svi starosni rasponi ili nema podjele po godinama,12.1
+2015,Veličina siromaštva po polu nosioca domaćinstva,Procenat,Žene,Svi starosni rasponi ili nema podjele po godinama,18.6
+2011,Veličina siromaštva po po godinama starosti nosioca domaćinstva,Procenat,Oba pola ili bez podjele po polu,Ispod 35 godina,0.0
+2011,Veličina siromaštva po po godinama starosti nosioca domaćinstva,Procenat,Oba pola ili bez podjele po polu,36 do 45 godina,10.8
+2011,Veličina siromaštva po po godinama starosti nosioca domaćinstva,Procenat,Oba pola ili bez podjele po polu,46 do 55 godina,15.6
+2011,Veličina siromaštva po po godinama starosti nosioca domaćinstva,Procenat,Oba pola ili bez podjele po polu,56 do 65 godina,11.7
+2011,Veličina siromaštva po po godinama starosti nosioca domaćinstva,Procenat,Oba pola ili bez podjele po polu,65 godina i više,19.5
+2015,Veličina siromaštva po po godinama starosti nosioca domaćinstva,Procenat,Oba pola ili bez podjele po polu,Ispod 35 godina,0.0
+2015,Veličina siromaštva po po godinama starosti nosioca domaćinstva,Procenat,Oba pola ili bez podjele po polu,36 do 45 godina,12.7
+2015,Veličina siromaštva po po godinama starosti nosioca domaćinstva,Procenat,Oba pola ili bez podjele po polu,46 do 55 godina,10.5
+2015,Veličina siromaštva po po godinama starosti nosioca domaćinstva,Procenat,Oba pola ili bez podjele po polu,56 do 65 godina,11.7
+2015,Veličina siromaštva po po godinama starosti nosioca domaćinstva,Procenat,Oba pola ili bez podjele po polu,65 godina i više,19.2

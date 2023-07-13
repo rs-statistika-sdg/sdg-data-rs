@@ -1,7 +1,7 @@
 Year,SERIES,UNIT_MEASURE,Degree of urbanisation,Value
-2011,EG_ACS_ELECHH,Percent,Total,99.9
-2011,EG_ACS_ELECHH,Percent,Urban,99.9
-2011,EG_ACS_ELECHH,Percent,Other (rural/semi-urban),99.9
-2015,EG_ACS_ELECHH,Percent,Total,99.5
-2015,EG_ACS_ELECHH,Percent,Urban,99.7
-2015,EG_ACS_ELECHH,Percent,Other (rural/semi-urban),99.4
+2011,Percentage of households with access to electricity in main dwelling unit,Percent,Total,99.9
+2011,Percentage of households with access to electricity in main dwelling unit,Percent,Urban,99.9
+2011,Percentage of households with access to electricity in main dwelling unit,Percent,Other (rural/semi-urban),99.9
+2015,Percentage of households with access to electricity in main dwelling unit,Percent,Total,99.5
+2015,Percentage of households with access to electricity in main dwelling unit,Percent,Urban,99.7
+2015,Percentage of households with access to electricity in main dwelling unit,Percent,Other (rural/semi-urban),99.4

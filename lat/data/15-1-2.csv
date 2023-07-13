@@ -1,35 +1,35 @@
 Year,SERIES,UNIT_MEASURE,Value
-2009,ER_PTD_TERREC,Broj,3.0
-2010,ER_PTD_TERREC,Broj,3.0
-2011,ER_PTD_TERREC,Broj,4.0
-2012,ER_PTD_TERREC,Broj,8.0
-2013,ER_PTD_TERREC,Broj,12.0
-2014,ER_PTD_TERREC,Broj,12.0
-2015,ER_PTD_TERREC,Broj,16.0
-2016,ER_PTD_TERREC,Broj,18.0
-2017,ER_PTD_TERREC,Broj,19.0
-2018,ER_PTD_TERREC,Broj,21.0
-2019,ER_PTD_TERREC,Broj,26.0
-2020,ER_PTD_TERREC,Broj,27.0
-2021,ER_PTD_TERREC,Broj,31.0
-2009,ER_PTD_TERREC,Površina u hektarima,20005.33
-2010,ER_PTD_TERREC,Površina u hektarima,20005.33
-2011,ER_PTD_TERREC,Površina u hektarima,20032.34
-2012,ER_PTD_TERREC,Površina u hektarima,20367.49
-2013,ER_PTD_TERREC,Površina u hektarima,20734.13
-2014,ER_PTD_TERREC,Površina u hektarima,20734.13
-2015,ER_PTD_TERREC,Površina u hektarima,21593.92
-2016,ER_PTD_TERREC,Površina u hektarima,21657.03
-2017,ER_PTD_TERREC,Površina u hektarima,27972.35
-2018,ER_PTD_TERREC,Površina u hektarima,28306.07
-2019,ER_PTD_TERREC,Površina u hektarima,32106.1
-2020,ER_PTD_TERREC,Površina u hektarima,48822.63
-2021,ER_PTD_TERREC,Površina u hektarima,53533.58
-2018,ER_PTD_FRHWTREC,Broj,2.0
-2019,ER_PTD_FRHWTREC,Broj,3.0
-2020,ER_PTD_FRHWTREC,Broj,3.0
-2021,ER_PTD_FRHWTREC,Broj,4.0
-2018,ER_PTD_FRHWTREC,Površina u hektarima,3695.05
-2019,ER_PTD_FRHWTREC,Površina u hektarima,3800.39
-2020,ER_PTD_FRHWTREC,Površina u hektarima,3800.39
-2021,ER_PTD_FRHWTREC,Površina u hektarima,4121.08
+2009,Kopneni ekosistemi,Broj,3.0
+2010,Kopneni ekosistemi,Broj,3.0
+2011,Kopneni ekosistemi,Broj,4.0
+2012,Kopneni ekosistemi,Broj,8.0
+2013,Kopneni ekosistemi,Broj,12.0
+2014,Kopneni ekosistemi,Broj,12.0
+2015,Kopneni ekosistemi,Broj,16.0
+2016,Kopneni ekosistemi,Broj,18.0
+2017,Kopneni ekosistemi,Broj,19.0
+2018,Kopneni ekosistemi,Broj,21.0
+2019,Kopneni ekosistemi,Broj,26.0
+2020,Kopneni ekosistemi,Broj,27.0
+2021,Kopneni ekosistemi,Broj,31.0
+2009,Kopneni ekosistemi,Površina u hektarima,20005.33
+2010,Kopneni ekosistemi,Površina u hektarima,20005.33
+2011,Kopneni ekosistemi,Površina u hektarima,20032.34
+2012,Kopneni ekosistemi,Površina u hektarima,20367.49
+2013,Kopneni ekosistemi,Površina u hektarima,20734.13
+2014,Kopneni ekosistemi,Površina u hektarima,20734.13
+2015,Kopneni ekosistemi,Površina u hektarima,21593.92
+2016,Kopneni ekosistemi,Površina u hektarima,21657.03
+2017,Kopneni ekosistemi,Površina u hektarima,27972.35
+2018,Kopneni ekosistemi,Površina u hektarima,28306.07
+2019,Kopneni ekosistemi,Površina u hektarima,32106.1
+2020,Kopneni ekosistemi,Površina u hektarima,48822.63
+2021,Kopneni ekosistemi,Površina u hektarima,53533.58
+2018,Slatkovodni ekosistemi,Broj,2.0
+2019,Slatkovodni ekosistemi,Broj,3.0
+2020,Slatkovodni ekosistemi,Broj,3.0
+2021,Slatkovodni ekosistemi,Broj,4.0
+2018,Slatkovodni ekosistemi,Površina u hektarima,3695.05
+2019,Slatkovodni ekosistemi,Površina u hektarima,3800.39
+2020,Slatkovodni ekosistemi,Površina u hektarima,3800.39
+2021,Slatkovodni ekosistemi,Površina u hektarima,4121.08
