@@ -1,34 +1,14 @@
 Year,Value,UNIT_MEASURE,SERIES
-2009.0,754.9,PER_100000_DEATHS,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema spolu (na 100.000 stanovnika)"
-2010.0,680.6,PER_100000_DEATHS,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema spolu (na 100.000 stanovnika)"
-2011.0,871.3,PER_100000_DEATHS,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema spolu (na 100.000 stanovnika)"
-2012.0,688.6,PER_100000_DEATHS,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema spolu (na 100.000 stanovnika)"
-2013.0,837.0,PER_100000_DEATHS,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema spolu (na 100.000 stanovnika)"
-2014.0,714.8,PER_100000_DEATHS,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema spolu (na 100.000 stanovnika)"
-2015.0,703.9,PER_100000_DEATHS,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema spolu (na 100.000 stanovnika)"
-2016.0,901.9,PER_100000_DEATHS,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema spolu (na 100.000 stanovnika)"
-2017.0,566.1,PER_100000_DEATHS,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema spolu (na 100.000 stanovnika)"
-2018.0,704.5,PER_100000_DEATHS,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema spolu (na 100.000 stanovnika)"
-2019.0,702.9,PER_100000_DEATHS,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema spolu (na 100.000 stanovnika)"
-2020.0,464.4,PER_100000_DEATHS,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema spolu (na 100.000 stanovnika)"
-2021.0,421.0,PER_100000_DEATHS,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema spolu (na 100.000 stanovnika)"
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
+2009,754.9,PER_100000_DEATHS,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema spolu (na 100.000 stanovnika)"
+2010,680.6,PER_100000_DEATHS,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema spolu (na 100.000 stanovnika)"
+2011,871.3,PER_100000_DEATHS,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema spolu (na 100.000 stanovnika)"
+2012,688.6,PER_100000_DEATHS,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema spolu (na 100.000 stanovnika)"
+2013,837.0,PER_100000_DEATHS,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema spolu (na 100.000 stanovnika)"
+2014,714.8,PER_100000_DEATHS,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema spolu (na 100.000 stanovnika)"
+2015,703.9,PER_100000_DEATHS,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema spolu (na 100.000 stanovnika)"
+2016,901.9,PER_100000_DEATHS,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema spolu (na 100.000 stanovnika)"
+2017,566.1,PER_100000_DEATHS,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema spolu (na 100.000 stanovnika)"
+2018,704.5,PER_100000_DEATHS,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema spolu (na 100.000 stanovnika)"
+2019,702.9,PER_100000_DEATHS,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema spolu (na 100.000 stanovnika)"
+2020,464.4,PER_100000_DEATHS,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema spolu (na 100.000 stanovnika)"
+2021,421.0,PER_100000_DEATHS,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema spolu (na 100.000 stanovnika)"

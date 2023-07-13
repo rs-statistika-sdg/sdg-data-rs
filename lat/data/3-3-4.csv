@@ -1,25 +1,14 @@
-Year,SERIES,UNIT_MEASURE,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Value
-2009.0,SH_HAP_HBSAGINC,Na 100 000 stanovnika,,,,,4.7
-2010.0,SH_HAP_HBSAGINC,Na 100 000 stanovnika,,,,,2.7
-2011.0,SH_HAP_HBSAGINC,Na 100 000 stanovnika,,,,,3.9
-2012.0,SH_HAP_HBSAGINC,Na 100 000 stanovnika,,,,,4.5
-2013.0,SH_HAP_HBSAGINC,Na 100 000 stanovnika,,,,,5.6
-2014.0,SH_HAP_HBSAGINC,Na 100 000 stanovnika,,,,,3.9
-2015.0,SH_HAP_HBSAGINC,Na 100 000 stanovnika,,,,,2.3
-2016.0,SH_HAP_HBSAGINC,Na 100 000 stanovnika,,,,,3.6
-2017.0,SH_HAP_HBSAGINC,Na 100 000 stanovnika,,,,,4.0
-2018.0,SH_HAP_HBSAGINC,Na 100 000 stanovnika,,,,,5.2
-2019.0,SH_HAP_HBSAGINC,Na 100 000 stanovnika,,,,,4.5
-2020.0,SH_HAP_HBSAGINC,Na 100 000 stanovnika,,,,,1.9
-2021.0,SH_HAP_HBSAGINC,Na 100 000 stanovnika,,,,,1.5
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
+Year,SERIES,UNIT_MEASURE,Value
+2009,SH_HAP_HBSAGINC,Na 100 000 stanovnika,4.7
+2010,SH_HAP_HBSAGINC,Na 100 000 stanovnika,2.7
+2011,SH_HAP_HBSAGINC,Na 100 000 stanovnika,3.9
+2012,SH_HAP_HBSAGINC,Na 100 000 stanovnika,4.5
+2013,SH_HAP_HBSAGINC,Na 100 000 stanovnika,5.6
+2014,SH_HAP_HBSAGINC,Na 100 000 stanovnika,3.9
+2015,SH_HAP_HBSAGINC,Na 100 000 stanovnika,2.3
+2016,SH_HAP_HBSAGINC,Na 100 000 stanovnika,3.6
+2017,SH_HAP_HBSAGINC,Na 100 000 stanovnika,4.0
+2018,SH_HAP_HBSAGINC,Na 100 000 stanovnika,5.2
+2019,SH_HAP_HBSAGINC,Na 100 000 stanovnika,4.5
+2020,SH_HAP_HBSAGINC,Na 100 000 stanovnika,1.9
+2021,SH_HAP_HBSAGINC,Na 100 000 stanovnika,1.5

@@ -1,49 +1,14 @@
-Year,SERIES,UNIT_MEASURE,Age,Sex,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Value
-2009.0,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,,,,,,5.5
-2010.0,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,,,,,,4.9
-2011.0,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,,,,,,4.9
-2012.0,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,,,,,,4.5
-2013.0,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,,,,,,4.8
-2014.0,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,,,,,,3.5
-2015.0,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,,,,,,3.5
-2016.0,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,,,,,,3.4
-2017.0,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,,,,,,2.9
-2018.0,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,,,,,,2.7
-2019.0,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,,,,,,2.2
-2020.0,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,,,,,,5.6
-2021.0,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,,,,,,2.2
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
+Year,SERIES,UNIT_MEASURE,Age,Sex,Value
+2009,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,5.5
+2010,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,4.9
+2011,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,4.9
+2012,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,4.5
+2013,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,4.8
+2014,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,3.5
+2015,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,3.5
+2016,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,3.4
+2017,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,2.9
+2018,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,2.7
+2019,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,2.2
+2020,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,5.6
+2021,Under-five mortality rate,"Per 1,000 live births",under 5 years old,Both sexes or no breakdown by sex,2.2

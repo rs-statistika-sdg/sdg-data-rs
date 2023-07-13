@@ -1,34 +1,14 @@
-Year,SERIES,UNIT_MEASURE,Unnamed: 4,Unnamed: 5,Unnamed: 6,Value
-2009.0,"Death rate due to road traffic injuries, by sex (per 100,000 population)",PER_100000_DEATHS,,,,754.9
-2010.0,"Death rate due to road traffic injuries, by sex (per 100,000 population)",PER_100000_DEATHS,,,,680.6
-2011.0,"Death rate due to road traffic injuries, by sex (per 100,000 population)",PER_100000_DEATHS,,,,871.3
-2012.0,"Death rate due to road traffic injuries, by sex (per 100,000 population)",PER_100000_DEATHS,,,,688.6
-2013.0,"Death rate due to road traffic injuries, by sex (per 100,000 population)",PER_100000_DEATHS,,,,837.0
-2014.0,"Death rate due to road traffic injuries, by sex (per 100,000 population)",PER_100000_DEATHS,,,,714.8
-2015.0,"Death rate due to road traffic injuries, by sex (per 100,000 population)",PER_100000_DEATHS,,,,703.9
-2016.0,"Death rate due to road traffic injuries, by sex (per 100,000 population)",PER_100000_DEATHS,,,,901.9
-2017.0,"Death rate due to road traffic injuries, by sex (per 100,000 population)",PER_100000_DEATHS,,,,566.1
-2018.0,"Death rate due to road traffic injuries, by sex (per 100,000 population)",PER_100000_DEATHS,,,,704.5
-2019.0,"Death rate due to road traffic injuries, by sex (per 100,000 population)",PER_100000_DEATHS,,,,702.9
-2020.0,"Death rate due to road traffic injuries, by sex (per 100,000 population)",PER_100000_DEATHS,,,,464.4
-2021.0,"Death rate due to road traffic injuries, by sex (per 100,000 population)",PER_100000_DEATHS,,,,421.0
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
+Year,SERIES,UNIT_MEASURE,Value
+2009,"Death rate due to road traffic injuries, by sex (per 100,000 population)",PER_100000_DEATHS,754.9
+2010,"Death rate due to road traffic injuries, by sex (per 100,000 population)",PER_100000_DEATHS,680.6
+2011,"Death rate due to road traffic injuries, by sex (per 100,000 population)",PER_100000_DEATHS,871.3
+2012,"Death rate due to road traffic injuries, by sex (per 100,000 population)",PER_100000_DEATHS,688.6
+2013,"Death rate due to road traffic injuries, by sex (per 100,000 population)",PER_100000_DEATHS,837.0
+2014,"Death rate due to road traffic injuries, by sex (per 100,000 population)",PER_100000_DEATHS,714.8
+2015,"Death rate due to road traffic injuries, by sex (per 100,000 population)",PER_100000_DEATHS,703.9
+2016,"Death rate due to road traffic injuries, by sex (per 100,000 population)",PER_100000_DEATHS,901.9
+2017,"Death rate due to road traffic injuries, by sex (per 100,000 population)",PER_100000_DEATHS,566.1
+2018,"Death rate due to road traffic injuries, by sex (per 100,000 population)",PER_100000_DEATHS,704.5
+2019,"Death rate due to road traffic injuries, by sex (per 100,000 population)",PER_100000_DEATHS,702.9
+2020,"Death rate due to road traffic injuries, by sex (per 100,000 population)",PER_100000_DEATHS,464.4
+2021,"Death rate due to road traffic injuries, by sex (per 100,000 population)",PER_100000_DEATHS,421.0
