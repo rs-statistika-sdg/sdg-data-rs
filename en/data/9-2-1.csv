@@ -1,14 +1,14 @@
 Year,SERIES,UNIT_MEASURE,Economic activity,Value
-2009,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,9.3
-2010,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,8.6
-2011,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,8.9
-2012,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,7.9
-2013,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,8.7
-2014,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,8.7
-2015,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,9.7
-2016,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,10.8
-2017,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,11.3
-2018,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,11.7
-2019,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,11.8
-2020,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,11.2
-2021,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,12.3
+2009,NV_IND_MANF,Percent,Manufacturing,9.3
+2010,NV_IND_MANF,Percent,Manufacturing,8.6
+2011,NV_IND_MANF,Percent,Manufacturing,8.9
+2012,NV_IND_MANF,Percent,Manufacturing,7.9
+2013,NV_IND_MANF,Percent,Manufacturing,8.7
+2014,NV_IND_MANF,Percent,Manufacturing,8.7
+2015,NV_IND_MANF,Percent,Manufacturing,9.7
+2016,NV_IND_MANF,Percent,Manufacturing,10.8
+2017,NV_IND_MANF,Percent,Manufacturing,11.3
+2018,NV_IND_MANF,Percent,Manufacturing,11.7
+2019,NV_IND_MANF,Percent,Manufacturing,11.8
+2020,NV_IND_MANF,Percent,Manufacturing,11.2
+2021,NV_IND_MANF,Percent,Manufacturing,12.3

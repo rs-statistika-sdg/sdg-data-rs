@@ -1,19 +1,19 @@
 Value,en,lat,cir,Disaggregation combinations using this value,Number of indicators
-_T,No breakdown,Bez podjele,_T,7,4
-BNK_FBIHURS,BNK_FBIHURS,BNK_FBIHURS,BNK_FBIHURS,6,1
-BNK_RS,BNK_RS,BNK_RS,BNK_RS,6,1
-BNK_T,BNK_T,BNK_T,BNK_T,6,1
-BOSNA,BOSNA,BOSNA,BOSNA,3,1
-CHDEV_DOMAIN_00,CHDEV_DOMAIN_00,CHDEV_DOMAIN_00,CHDEV_DOMAIN_00,1,1
-CHDEV_DOMAIN_01,CHDEV_DOMAIN_01,CHDEV_DOMAIN_01,CHDEV_DOMAIN_01,1,1
-CHDEV_DOMAIN_02,CHDEV_DOMAIN_02,CHDEV_DOMAIN_02,CHDEV_DOMAIN_02,1,1
-CHDEV_DOMAIN_03,CHDEV_DOMAIN_03,CHDEV_DOMAIN_03,CHDEV_DOMAIN_03,1,1
-CHDEV_DOMAIN_04,CHDEV_DOMAIN_04,CHDEV_DOMAIN_04,CHDEV_DOMAIN_04,1,1
-DRINA,DRINA,DRINA,DRINA,3,1
-EMPS_ICT_00,EMPS_ICT_00,EMPS_ICT_00,EMPS_ICT_00,1,1
-EMPS_ICT_01,EMPS_ICT_01,EMPS_ICT_01,EMPS_ICT_01,1,1
-EMPS_ICT_02,EMPS_ICT_02,EMPS_ICT_02,EMPS_ICT_02,1,1
-EMPS_ICT_03,EMPS_ICT_03,EMPS_ICT_03,EMPS_ICT_03,1,1
+_T,No breakdown,Bez podjele,Без подјеле,7,4
+BNK_FBIHURS,Banks of FBiH in Republika Srpska,Banke FBiH u Republici Srpskoj,Банке ФБиХ у Републици Српској,6,1
+BNK_RS,Banks of Republika Srpska,Banke Republike Srpske,Банке Републике Српске,6,1
+BNK_T,"Banks operating in Republika Srpska, total",Ukupno banke koje posluju u Republici Srpskoj,Укупно банке које послују у Републици Српској,6,1
+BOSNA,Bosna River,Bosna,Босна,3,1
+CHDEV_DOMAIN_00,Early childhood development index,Indeks ranog rasta i razvoja djece,Индекс раног раста и развоја дјеце,1,1
+CHDEV_DOMAIN_01,Learning,Učenje,Учење,1,1
+CHDEV_DOMAIN_02,Social and emotional development,Socijalno-emocionalni razvoj,Социјално-емоционални развој,1,1
+CHDEV_DOMAIN_03,Physical development,Fizički razvoj,Физички развој,1,1
+CHDEV_DOMAIN_04,Literacy/numeracy,Pismenost/poznavanje brojeva,Писменост/познавање бројева,1,1
+DRINA,Drina River,Drina,Дрина,3,1
+EMPS_ICT_00,Students,Studenti,Студенти,1,1
+EMPS_ICT_01,Employed persons,Zaposleni,Запослени,1,1
+EMPS_ICT_02,Unemployed persons,Nezaposleni,Незапослени,1,1
+EMPS_ICT_03,Other,Ostalo,Остало,1,1
 IHR_01,"National legislation, policy and financing","Nacionalno zakonodavstvo, politika i finansiranje","Национално законодавство, политика и финансирање",1,1
 IHR_02,Coordination and National Focal Point communications,Koordinacija i nacionalna kontakt tačka za komunikaciju,Координација и национална контакт тачка за комуникацију,1,1
 IHR_03,Surveillance,Nadzor,Надзор,1,1
@@ -27,24 +27,24 @@ IHR_10,Zoonotic events,Zoonotski događaji,Зоонотски догађаји,1
 IHR_11,Food safety,Sigurnost hrane,Сигурност хране,1,1
 IHR_12,Chemical events,Hemijski događaji,Хемијски догађаји,1,1
 IHR_13,Radionuclear emergencies,Vanredne situacije u vezi sa zračenjem,Ванредне ситуације у вези са зрачењем,1,1
-MOT_RAI,Rail,Željeznički,Жељезнички,4,1
-MOT_ROA,Road,Cestovni,Друмски,4,1
-NERETVA,NERETVA,NERETVA,NERETVA,3,1
-RD_SECBUS,RD_SECBUS,RD_SECBUS,RD_SECBUS,1,1
-RD_SECGOV,RD_SECGOV,RD_SECGOV,RD_SECGOV,1,1
-RD_SECHEDU,RD_SECHEDU,RD_SECHEDU,RD_SECHEDU,1,1
-RD_SECNPT,RD_SECNPT,RD_SECNPT,RD_SECNPT,1,1
-RSK_LST_01,RSK_LST_01,RSK_LST_01,RSK_LST_01,1,1
-RSK_LST_02,RSK_LST_02,RSK_LST_02,RSK_LST_02,1,1
-RSK_LST_03,RSK_LST_03,RSK_LST_03,RSK_LST_03,1,1
-RSK_LST_04,RSK_LST_04,RSK_LST_04,RSK_LST_04,1,1
-RSK_LST_05,RSK_LST_05,RSK_LST_05,RSK_LST_05,1,1
-RSK_LST_06,RSK_LST_06,RSK_LST_06,RSK_LST_06,1,1
-RSK_LST_07,RSK_LST_07,RSK_LST_07,RSK_LST_07,1,1
-SAVA,SAVA,SAVA,SAVA,3,1
+MOT_RAI,Railway transport,Željeznički saobraćaj,Жељезнички саобраћај,4,1
+MOT_ROA,Road and urban transport,Drumski i gradski saobraćaj,Друмски и градски саобраћај,4,1
+NERETVA,Neretva River,Neretva,Неретва,3,1
+RD_SECBUS,Business,Poslovni,Пословни,1,1
+RD_SECGOV,Government,Državni,Државни,1,1
+RD_SECHEDU,Higher education,Visoko obrazovanje,Високо образовање,1,1
+RD_SECNPT,Non-profit,Neprofitni,Непрофитни,1,1
+RSK_LST_01,Invertebrates (Inverttebratae),Beskičmenjaci (Inverttebratae),Бескичмењаци (Inverttebratae),1,1
+RSK_LST_02,Reptiles (Reptiles),Gmizavci (Reptiles),Гмизавци (Reptiles),1,1
+RSK_LST_03,Amphibians (Amphibia),Vodozemci (Amphibia),Водоземци (Amphibia),1,1
+RSK_LST_04,Mammals (Mammals),Sisari (Mammals),Сисари (Mammals),1,1
+RSK_LST_05,Fish (Pisces),Ribe (Pisces),Рибе (Pisces),1,1
+RSK_LST_06,Birds (Aves),Ptice (Aves),Птице (Aves),1,1
+RSK_LST_07,Vascular plants (Planate),Vaskularna flora (Planate),Васкуларна флора (Planate),1,1
+SAVA,Sava River,Sava,Сава,3,1
 SPAR_01,Legislation and Financing,Zakonodavstvo i finansiranje,Законодавство и финансирање,1,1
 SPAR_02,IHR Coordination and National IHR Focal Point Functions,Koordinacija Međunarodnih zdravstvenih propisa (IHR) i nacionalne funkcije kontakt osoba za IHR,Координација Међународних здравствених прописа (IHR) и националне функције контакт лица за IHR,1,1
-SPAR_03,Zoonotic events and the human–animal interface,Zoonotski događaji i sučelje čovjeka i životinje,Зоонотски догађаји и сучеље човјека и животиње,1,1
+SPAR_03,Zoonotic events and the human–animal interface,Zoonotski događaji i sučelje čovjeka i životinje,Зоонотски догађаји и интерфејс човјека и животиње,1,1
 SPAR_04,Food safety,Sigurnost hrane,Сигурност хране,1,1
 SPAR_05,Laboratory,Laboratorija,Лабораторија,1,1
 SPAR_06,Surveillance,Nadzor,Надзор,1,1
@@ -55,18 +55,18 @@ SPAR_10,Risk Communication,Komunikacija o riziku,Комуникација о р�
 SPAR_11,Points of entry,Tačke ulaska,Тачке уласка,1,1
 SPAR_12,Chemical events,Hemijski događaji,Хемијски догађаји,1,1
 SPAR_13,Radiation emergencies,Vanredne situacije u vezi sa zračenjem,Ванредне ситуације у вези са зрачењем_,1,1
-TREBISNJICA,TREBISNJICA,TREBISNJICA,TREBISNJICA,3,1
-TUR_EMP_ACC,TUR_EMP_ACC,TUR_EMP_ACC,TUR_EMP_ACC,1,1
-TUR_EMP_FCA,TUR_EMP_FCA,TUR_EMP_FCA,TUR_EMP_FCA,1,1
-UKRINA,UKRINA,UKRINA,UKRINA,3,1
-UNA,UNA,UNA,UNA,3,1
-UNK,UNK,UNK,UNK,1,1
-VAW_PHYSIC,VAW_PHYSIC,VAW_PHYSIC,VAW_PHYSIC,2,1
-VAW_PSYCH,VAW_PSYCH,VAW_PSYCH,VAW_PSYCH,2,1
-VAW_SEX,VAW_SEX,VAW_SEX,VAW_SEX,2,1
-VC_HTF_01,VC_HTF_01,VC_HTF_01,VC_HTF_01,1,1
-VC_HTF_02,VC_HTF_02,VC_HTF_02,VC_HTF_02,1,1
-VC_HTF_03,VC_HTF_03,VC_HTF_03,VC_HTF_03,1,1
-VC_HTFET_01,VC_HTFET_01,VC_HTFET_01,VC_HTFET_01,1,1
-VC_HTFET_02,VC_HTFET_02,VC_HTFET_02,VC_HTFET_02,1,1
-VRBAS,VRBAS,VRBAS,VRBAS,3,1
+TREBISNJICA,Trebišnjica River,Trebišnjica,Требишњица,3,1
+TUR_EMP_ACC,Accommodation,Smještaj,Смјештај,1,1
+TUR_EMP_FCA,Food service activities,Djelatnost pripreme i posluživanja hrane i pića,Дјелатност припреме и послуживања хране и пића,1,1
+UKRINA,Ukrina River,Ukrina,Укрина,3,1
+UNA,Una River,Una,Уна,3,1
+UNK,Unknown,Nepoznato,Непознато,1,1
+VAW_PHYSIC,Physical violence,Fizičko nasilje,Физичко насиље,2,1
+VAW_PSYCH,Psychological violence,Psihološko nasilje,Психолошко насиље,2,1
+VAW_SEX,Sexual violence,Seksualno nasilje,Сексуално насиље,2,1
+VC_HTF_01,"Human trafficking, Article 145 of RS Criminal Law","Trgovina ljudima, član 145 KZ RS","Трговина људима, члан 145 КЗ РС",1,1
+VC_HTF_02,"Human trafficking, Article 186 of BiH Criminal Law","Trgovina ljudima, član 186 KZ BiH","Трговина људима, члан 186 КЗ БиХ",1,1
+VC_HTF_03,"Child trafficking, Article 146 of RS Criminal Law","Trgovina djecom, član 146 KZ RS","Трговина дјецом, члан 146 КЗ РС",1,1
+VC_HTFET_01,Sexual exploitation,Seksualna eksploatacija,Сексуална експлоатација,1,1
+VC_HTFET_02,Forced marriage,Prisilno zaključenje braka,Присилно закључење брака,1,1
+VRBAS,Vrbas River,Vrbas,Врбас,3,1

@@ -1,20 +1,20 @@
-Year,SERIES,UNIT_MEASURE,Spol,Stepen urbanizacije,Godine,Nivo obrazovanja,COMPOSITE_BREAKDOWN,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Value
-2014,SE_ADT_ACTSPC,Procenat,Oba spola ili bez podjele po spolu,,,,,,,,,,,,,,38.7
-2015,SE_ADT_ACTSPC,Procenat,Oba spola ili bez podjele po spolu,,,,,,,,,,,,,,42.9
-2016,SE_ADT_ACTSPC,Procenat,Oba spola ili bez podjele po spolu,,,,,,,,,,,,,,41.1
-2017,SE_ADT_ACTSPC,Procenat,Oba spola ili bez podjele po spolu,,,,,,,,,,,,,,58.9
-2018,SE_ADT_ACTSPC,Procenat,Oba spola ili bez podjele po spolu,,,,,,,,,,,,,,55.5
-2019,SE_ADT_ACTSPC,Procenat,Oba spola ili bez podjele po spolu,,,,,,,,,,,,,,58.8
-2020,SE_ADT_ACTSPC,Procenat,Oba spola ili bez podjele po spolu,,,,,,,,,,,,,,60.8
-2021,SE_ADT_ACTSPC,Procenat,Oba spola ili bez podjele po spolu,,,,,,,,,,,,,,57.6
-2014,SE_ADT_ACTSI,Procenat,Oba spola ili bez podjele po spolu,,,,,,,,,,,,,,38.0
-2015,SE_ADT_ACTSI,Procenat,Oba spola ili bez podjele po spolu,,,,,,,,,,,,,,43.4
-2016,SE_ADT_ACTSI,Procenat,Oba spola ili bez podjele po spolu,,,,,,,,,,,,,,42.8
-2017,SE_ADT_ACTSI,Procenat,Oba spola ili bez podjele po spolu,,,,,,,,,,,,,,64.9
-2018,SE_ADT_ACTSI,Procenat,Oba spola ili bez podjele po spolu,,,,,,,,,,,,,,71.2
-2019,SE_ADT_ACTSI,Procenat,Oba spola ili bez podjele po spolu,,,,,,,,,,,,,,72.1
-2020,SE_ADT_ACTSI,Procenat,Oba spola ili bez podjele po spolu,,,,,,,,,,,,,,72.8
-2021,SE_ADT_ACTSI,Procenat,Oba spola ili bez podjele po spolu,,,,,,,,,,,,,,80.3
+Year,SERIES,UNIT_MEASURE,Pol,Stepen urbanizacije,AGE,Nivo obrazovanja,COMPOSITE_BREAKDOWN,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Value
+2014,SE_ADT_ACTSPC,Procenat,Oba pola ili bez podjele po polu,,,,,,,,,,,,,,38.7
+2015,SE_ADT_ACTSPC,Procenat,Oba pola ili bez podjele po polu,,,,,,,,,,,,,,42.9
+2016,SE_ADT_ACTSPC,Procenat,Oba pola ili bez podjele po polu,,,,,,,,,,,,,,41.1
+2017,SE_ADT_ACTSPC,Procenat,Oba pola ili bez podjele po polu,,,,,,,,,,,,,,58.9
+2018,SE_ADT_ACTSPC,Procenat,Oba pola ili bez podjele po polu,,,,,,,,,,,,,,55.5
+2019,SE_ADT_ACTSPC,Procenat,Oba pola ili bez podjele po polu,,,,,,,,,,,,,,58.8
+2020,SE_ADT_ACTSPC,Procenat,Oba pola ili bez podjele po polu,,,,,,,,,,,,,,60.8
+2021,SE_ADT_ACTSPC,Procenat,Oba pola ili bez podjele po polu,,,,,,,,,,,,,,57.6
+2014,SE_ADT_ACTSI,Procenat,Oba pola ili bez podjele po polu,,,,,,,,,,,,,,38.0
+2015,SE_ADT_ACTSI,Procenat,Oba pola ili bez podjele po polu,,,,,,,,,,,,,,43.4
+2016,SE_ADT_ACTSI,Procenat,Oba pola ili bez podjele po polu,,,,,,,,,,,,,,42.8
+2017,SE_ADT_ACTSI,Procenat,Oba pola ili bez podjele po polu,,,,,,,,,,,,,,64.9
+2018,SE_ADT_ACTSI,Procenat,Oba pola ili bez podjele po polu,,,,,,,,,,,,,,71.2
+2019,SE_ADT_ACTSI,Procenat,Oba pola ili bez podjele po polu,,,,,,,,,,,,,,72.1
+2020,SE_ADT_ACTSI,Procenat,Oba pola ili bez podjele po polu,,,,,,,,,,,,,,72.8
+2021,SE_ADT_ACTSI,Procenat,Oba pola ili bez podjele po polu,,,,,,,,,,,,,,80.3
 2014,SE_ADT_ACTSI,Procenat,Muškarci,,,,,,,,,,,,,,39.9
 2015,SE_ADT_ACTSI,Procenat,Muškarci,,,,,,,,,,,,,,48.6
 2016,SE_ADT_ACTSI,Procenat,Muškarci,,,,,,,,,,,,,,46.2
@@ -39,14 +39,14 @@ Year,SERIES,UNIT_MEASURE,Spol,Stepen urbanizacije,Godine,Nivo obrazovanja,COMPOS
 2019,SE_ADT_ACTSI,Procenat,,Urbano,,,,,,,,,,,,,80.8
 2020,SE_ADT_ACTSI,Procenat,,Urbano,,,,,,,,,,,,,75.1
 2021,SE_ADT_ACTSI,Procenat,,Urbano,,,,,,,,,,,,,85.2
-2014,SE_ADT_ACTSI,Procenat,,O,,,,,,,,,,,,,26.6
-2015,SE_ADT_ACTSI,Procenat,,O,,,,,,,,,,,,,36.1
-2016,SE_ADT_ACTSI,Procenat,,O,,,,,,,,,,,,,35.9
-2017,SE_ADT_ACTSI,Procenat,,O,,,,,,,,,,,,,59.5
-2018,SE_ADT_ACTSI,Procenat,,O,,,,,,,,,,,,,66.8
-2019,SE_ADT_ACTSI,Procenat,,O,,,,,,,,,,,,,66.5
-2020,SE_ADT_ACTSI,Procenat,,O,,,,,,,,,,,,,71.3
-2021,SE_ADT_ACTSI,Procenat,,O,,,,,,,,,,,,,77.1
+2014,SE_ADT_ACTSI,Procenat,,Ostalo,,,,,,,,,,,,,26.6
+2015,SE_ADT_ACTSI,Procenat,,Ostalo,,,,,,,,,,,,,36.1
+2016,SE_ADT_ACTSI,Procenat,,Ostalo,,,,,,,,,,,,,35.9
+2017,SE_ADT_ACTSI,Procenat,,Ostalo,,,,,,,,,,,,,59.5
+2018,SE_ADT_ACTSI,Procenat,,Ostalo,,,,,,,,,,,,,66.8
+2019,SE_ADT_ACTSI,Procenat,,Ostalo,,,,,,,,,,,,,66.5
+2020,SE_ADT_ACTSI,Procenat,,Ostalo,,,,,,,,,,,,,71.3
+2021,SE_ADT_ACTSI,Procenat,,Ostalo,,,,,,,,,,,,,77.1
 2014,SE_ADT_ACTSI,Procenat,,,Y16T24,,,,,,,,,,,,91.3
 2015,SE_ADT_ACTSI,Procenat,,,Y16T24,,,,,,,,,,,,90.5
 2016,SE_ADT_ACTSI,Procenat,,,Y16T24,,,,,,,,,,,,90.9
@@ -95,59 +95,59 @@ Year,SERIES,UNIT_MEASURE,Spol,Stepen urbanizacije,Godine,Nivo obrazovanja,COMPOS
 2019,SE_ADT_ACTSI,Procenat,,,Y65T74,,,,,,,,,,,,40.0
 2020,SE_ADT_ACTSI,Procenat,,,Y65T74,,,,,,,,,,,,36.3
 2021,SE_ADT_ACTSI,Procenat,,,Y65T74,,,,,,,,,,,,54.3
-2014,SE_ADT_ACTSI,Procenat,,,,AGG_ED_0,,,,,,,,,,,8.9
-2015,SE_ADT_ACTSI,Procenat,,,,AGG_ED_0,,,,,,,,,,,9.7
-2016,SE_ADT_ACTSI,Procenat,,,,AGG_ED_0,,,,,,,,,,,17.7
-2017,SE_ADT_ACTSI,Procenat,,,,AGG_ED_0,,,,,,,,,,,43.1
-2018,SE_ADT_ACTSI,Procenat,,,,AGG_ED_0,,,,,,,,,,,39.3
-2019,SE_ADT_ACTSI,Procenat,,,,AGG_ED_0,,,,,,,,,,,40.2
-2020,SE_ADT_ACTSI,Procenat,,,,AGG_ED_0,,,,,,,,,,,39.0
-2021,SE_ADT_ACTSI,Procenat,,,,AGG_ED_0,,,,,,,,,,,50.1
-2014,SE_ADT_ACTSI,Procenat,,,,AGG_ED_1,,,,,,,,,,,48.4
-2015,SE_ADT_ACTSI,Procenat,,,,AGG_ED_1,,,,,,,,,,,52.5
-2016,SE_ADT_ACTSI,Procenat,,,,AGG_ED_1,,,,,,,,,,,54.8
-2017,SE_ADT_ACTSI,Procenat,,,,AGG_ED_1,,,,,,,,,,,74.0
-2018,SE_ADT_ACTSI,Procenat,,,,AGG_ED_1,,,,,,,,,,,80.4
-2019,SE_ADT_ACTSI,Procenat,,,,AGG_ED_1,,,,,,,,,,,79.4
-2020,SE_ADT_ACTSI,Procenat,,,,AGG_ED_1,,,,,,,,,,,80.9
-2021,SE_ADT_ACTSI,Procenat,,,,AGG_ED_1,,,,,,,,,,,85.1
-2014,SE_ADT_ACTSI,Procenat,,,,AGG_ED_2,,,,,,,,,,,74.9
-2015,SE_ADT_ACTSI,Procenat,,,,AGG_ED_2,,,,,,,,,,,81.1
-2016,SE_ADT_ACTSI,Procenat,,,,AGG_ED_2,,,,,,,,,,,79.4
-2017,SE_ADT_ACTSI,Procenat,,,,AGG_ED_2,,,,,,,,,,,93.0
-2018,SE_ADT_ACTSI,Procenat,,,,AGG_ED_2,,,,,,,,,,,98.3
-2019,SE_ADT_ACTSI,Procenat,,,,AGG_ED_2,,,,,,,,,,,95.6
-2020,SE_ADT_ACTSI,Procenat,,,,AGG_ED_2,,,,,,,,,,,94.3
-2021,SE_ADT_ACTSI,Procenat,,,,AGG_ED_2,,,,,,,,,,,95.4
-2014,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_00,,,,,,,,,,88.4
-2015,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_00,,,,,,,,,,100.0
-2016,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_00,,,,,,,,,,95.9
-2017,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_00,,,,,,,,,,98.5
-2018,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_00,,,,,,,,,,100.0
-2019,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_00,,,,,,,,,,100.0
-2020,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_00,,,,,,,,,,100.0
-2021,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_00,,,,,,,,,,100.0
-2014,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_01,,,,,,,,,,68.7
-2015,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_01,,,,,,,,,,75.7
-2016,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_01,,,,,,,,,,68.6
-2017,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_01,,,,,,,,,,86.4
-2018,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_01,,,,,,,,,,94.0
-2019,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_01,,,,,,,,,,92.2
-2020,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_01,,,,,,,,,,97.1
-2021,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_01,,,,,,,,,,96.5
-2014,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_02,,,,,,,,,,34.9
-2015,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_02,,,,,,,,,,44.4
-2016,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_02,,,,,,,,,,40.9
-2017,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_02,,,,,,,,,,64.4
-2018,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_02,,,,,,,,,,74.9
-2019,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_02,,,,,,,,,,68.0
-2020,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_02,,,,,,,,,,79.0
-2021,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_02,,,,,,,,,,84.5
-2014,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_03,,,,,,,,,,13.3
-2015,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_03,,,,,,,,,,17.8
-2016,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_03,,,,,,,,,,17.7
-2017,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_03,,,,,,,,,,31.3
-2018,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_03,,,,,,,,,,42.4
-2019,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_03,,,,,,,,,,52.7
-2020,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_03,,,,,,,,,,47.9
-2021,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_03,,,,,,,,,,65.3
+2014,SE_ADT_ACTSI,Procenat,,,,Niže od srednjeg,,,,,,,,,,,8.9
+2015,SE_ADT_ACTSI,Procenat,,,,Niže od srednjeg,,,,,,,,,,,9.7
+2016,SE_ADT_ACTSI,Procenat,,,,Niže od srednjeg,,,,,,,,,,,17.7
+2017,SE_ADT_ACTSI,Procenat,,,,Niže od srednjeg,,,,,,,,,,,43.1
+2018,SE_ADT_ACTSI,Procenat,,,,Niže od srednjeg,,,,,,,,,,,39.3
+2019,SE_ADT_ACTSI,Procenat,,,,Niže od srednjeg,,,,,,,,,,,40.2
+2020,SE_ADT_ACTSI,Procenat,,,,Niže od srednjeg,,,,,,,,,,,39.0
+2021,SE_ADT_ACTSI,Procenat,,,,Niže od srednjeg,,,,,,,,,,,50.1
+2014,SE_ADT_ACTSI,Procenat,,,,Srednje,,,,,,,,,,,48.4
+2015,SE_ADT_ACTSI,Procenat,,,,Srednje,,,,,,,,,,,52.5
+2016,SE_ADT_ACTSI,Procenat,,,,Srednje,,,,,,,,,,,54.8
+2017,SE_ADT_ACTSI,Procenat,,,,Srednje,,,,,,,,,,,74.0
+2018,SE_ADT_ACTSI,Procenat,,,,Srednje,,,,,,,,,,,80.4
+2019,SE_ADT_ACTSI,Procenat,,,,Srednje,,,,,,,,,,,79.4
+2020,SE_ADT_ACTSI,Procenat,,,,Srednje,,,,,,,,,,,80.9
+2021,SE_ADT_ACTSI,Procenat,,,,Srednje,,,,,,,,,,,85.1
+2014,SE_ADT_ACTSI,Procenat,,,,Više i visoko,,,,,,,,,,,74.9
+2015,SE_ADT_ACTSI,Procenat,,,,Više i visoko,,,,,,,,,,,81.1
+2016,SE_ADT_ACTSI,Procenat,,,,Više i visoko,,,,,,,,,,,79.4
+2017,SE_ADT_ACTSI,Procenat,,,,Više i visoko,,,,,,,,,,,93.0
+2018,SE_ADT_ACTSI,Procenat,,,,Više i visoko,,,,,,,,,,,98.3
+2019,SE_ADT_ACTSI,Procenat,,,,Više i visoko,,,,,,,,,,,95.6
+2020,SE_ADT_ACTSI,Procenat,,,,Više i visoko,,,,,,,,,,,94.3
+2021,SE_ADT_ACTSI,Procenat,,,,Više i visoko,,,,,,,,,,,95.4
+2014,SE_ADT_ACTSI,Procenat,,,,,Studenti,,,,,,,,,,88.4
+2015,SE_ADT_ACTSI,Procenat,,,,,Studenti,,,,,,,,,,100.0
+2016,SE_ADT_ACTSI,Procenat,,,,,Studenti,,,,,,,,,,95.9
+2017,SE_ADT_ACTSI,Procenat,,,,,Studenti,,,,,,,,,,98.5
+2018,SE_ADT_ACTSI,Procenat,,,,,Studenti,,,,,,,,,,100.0
+2019,SE_ADT_ACTSI,Procenat,,,,,Studenti,,,,,,,,,,100.0
+2020,SE_ADT_ACTSI,Procenat,,,,,Studenti,,,,,,,,,,100.0
+2021,SE_ADT_ACTSI,Procenat,,,,,Studenti,,,,,,,,,,100.0
+2014,SE_ADT_ACTSI,Procenat,,,,,Zaposleni,,,,,,,,,,68.7
+2015,SE_ADT_ACTSI,Procenat,,,,,Zaposleni,,,,,,,,,,75.7
+2016,SE_ADT_ACTSI,Procenat,,,,,Zaposleni,,,,,,,,,,68.6
+2017,SE_ADT_ACTSI,Procenat,,,,,Zaposleni,,,,,,,,,,86.4
+2018,SE_ADT_ACTSI,Procenat,,,,,Zaposleni,,,,,,,,,,94.0
+2019,SE_ADT_ACTSI,Procenat,,,,,Zaposleni,,,,,,,,,,92.2
+2020,SE_ADT_ACTSI,Procenat,,,,,Zaposleni,,,,,,,,,,97.1
+2021,SE_ADT_ACTSI,Procenat,,,,,Zaposleni,,,,,,,,,,96.5
+2014,SE_ADT_ACTSI,Procenat,,,,,Nezaposleni,,,,,,,,,,34.9
+2015,SE_ADT_ACTSI,Procenat,,,,,Nezaposleni,,,,,,,,,,44.4
+2016,SE_ADT_ACTSI,Procenat,,,,,Nezaposleni,,,,,,,,,,40.9
+2017,SE_ADT_ACTSI,Procenat,,,,,Nezaposleni,,,,,,,,,,64.4
+2018,SE_ADT_ACTSI,Procenat,,,,,Nezaposleni,,,,,,,,,,74.9
+2019,SE_ADT_ACTSI,Procenat,,,,,Nezaposleni,,,,,,,,,,68.0
+2020,SE_ADT_ACTSI,Procenat,,,,,Nezaposleni,,,,,,,,,,79.0
+2021,SE_ADT_ACTSI,Procenat,,,,,Nezaposleni,,,,,,,,,,84.5
+2014,SE_ADT_ACTSI,Procenat,,,,,Ostalo,,,,,,,,,,13.3
+2015,SE_ADT_ACTSI,Procenat,,,,,Ostalo,,,,,,,,,,17.8
+2016,SE_ADT_ACTSI,Procenat,,,,,Ostalo,,,,,,,,,,17.7
+2017,SE_ADT_ACTSI,Procenat,,,,,Ostalo,,,,,,,,,,31.3
+2018,SE_ADT_ACTSI,Procenat,,,,,Ostalo,,,,,,,,,,42.4
+2019,SE_ADT_ACTSI,Procenat,,,,,Ostalo,,,,,,,,,,52.7
+2020,SE_ADT_ACTSI,Procenat,,,,,Ostalo,,,,,,,,,,47.9
+2021,SE_ADT_ACTSI,Procenat,,,,,Ostalo,,,,,,,,,,65.3

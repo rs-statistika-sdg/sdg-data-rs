@@ -1,6 +1,6 @@
-Year,SERIES,UNIT_MEASURE,Godine,Spol,Value
-2010,SH_PRV_SMOKA,Procenat,>18Y,Oba spola ili bez podjele po spolu,28.7
-2012,SH_PRV_SMOKA,Procenat,15 do 49 godina,Muškarci,34.3
-2012,SH_PRV_SMOKA,Procenat,15 do 49 godina,Žene,26.3
-2015,SH_PRV_SMOKA,Procenat,>15Y,Oba spola ili bez podjele po spolu,24.6
-2018,SH_PRV_SMOKC,Procenat,Y13T15,Oba spola ili bez podjele po spolu,11.8
+Year,SERIES,UNIT_MEASURE,AGE,Pol,Value
+2010,SH_PRV_SMOKA,Procenat,>18Y,Oba pola ili bez podjele po polu,28.7
+2012,SH_PRV_SMOKA,Procenat,Y15T49,Muškarci,34.3
+2012,SH_PRV_SMOKA,Procenat,Y15T49,Žene,26.3
+2015,SH_PRV_SMOKA,Procenat,>15Y,Oba pola ili bez podjele po polu,24.6
+2018,SH_PRV_SMOKC,Procenat,Y13T15,Oba pola ili bez podjele po polu,11.8

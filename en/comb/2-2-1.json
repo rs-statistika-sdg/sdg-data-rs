@@ -1,1 +1,1 @@
-{"data":{"Year":[2006,2012],"SERIES":["Proportion of children moderately or severely stunted","Proportion of children moderately or severely stunted"],"UNIT_MEASURE":["Percent","Percent"],"Age":["under 5 years old","under 5 years old"],"Value":[7.9,6.4]},"edges":[]}
+{"data":{"Year":[2006,2012],"SERIES":["SH_STA_STNT","SH_STA_STNT"],"UNIT_MEASURE":["Percent","Percent"],"AGE":["Y0T4","Y0T4"],"Value":[7.9,6.4]},"edges":[]}

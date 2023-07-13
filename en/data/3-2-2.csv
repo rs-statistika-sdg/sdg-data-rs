@@ -1,14 +1,14 @@
-Year,SERIES,UNIT_MEASURE,Age,Sex,Value
-2009,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,3.8
-2010,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,2.9
-2011,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,3.6
-2012,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,2.9
-2013,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,2.7
-2014,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,2.2
-2015,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,1.9
-2016,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,1.9
-2017,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,2.1
-2018,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,1.1
-2019,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,1.4
-2020,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,3.6
-2021,Neonatal mortality rate,"Per 1,000 live births",under 1 month old,Both sexes or no breakdown by sex,1.2
+Year,SERIES,UNIT_MEASURE,AGE,Sex,Value
+2009,SH_DYN_NMRT,"Per 1,000 live births",M0,Both sexes or no breakdown by sex,3.8
+2010,SH_DYN_NMRT,"Per 1,000 live births",M0,Both sexes or no breakdown by sex,2.9
+2011,SH_DYN_NMRT,"Per 1,000 live births",M0,Both sexes or no breakdown by sex,3.6
+2012,SH_DYN_NMRT,"Per 1,000 live births",M0,Both sexes or no breakdown by sex,2.9
+2013,SH_DYN_NMRT,"Per 1,000 live births",M0,Both sexes or no breakdown by sex,2.7
+2014,SH_DYN_NMRT,"Per 1,000 live births",M0,Both sexes or no breakdown by sex,2.2
+2015,SH_DYN_NMRT,"Per 1,000 live births",M0,Both sexes or no breakdown by sex,1.9
+2016,SH_DYN_NMRT,"Per 1,000 live births",M0,Both sexes or no breakdown by sex,1.9
+2017,SH_DYN_NMRT,"Per 1,000 live births",M0,Both sexes or no breakdown by sex,2.1
+2018,SH_DYN_NMRT,"Per 1,000 live births",M0,Both sexes or no breakdown by sex,1.1
+2019,SH_DYN_NMRT,"Per 1,000 live births",M0,Both sexes or no breakdown by sex,1.4
+2020,SH_DYN_NMRT,"Per 1,000 live births",M0,Both sexes or no breakdown by sex,3.6
+2021,SH_DYN_NMRT,"Per 1,000 live births",M0,Both sexes or no breakdown by sex,1.2

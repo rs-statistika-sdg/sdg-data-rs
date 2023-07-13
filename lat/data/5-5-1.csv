@@ -1,25 +1,25 @@
-Year,SERIES,UNIT_MEASURE,Spol,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Value
-2000,Broj mjesta koje imaju žene u nacionalnim parlamentima,Broj,Žene,,,,,,,15.0
-2002,Broj mjesta koje imaju žene u nacionalnim parlamentima,Broj,Žene,,,,,,,14.0
-2006,Broj mjesta koje imaju žene u nacionalnim parlamentima,Broj,Žene,,,,,,,17.0
-2010,Broj mjesta koje imaju žene u nacionalnim parlamentima,Broj,Žene,,,,,,,18.0
-2014,Broj mjesta koje imaju žene u nacionalnim parlamentima,Broj,Žene,,,,,,,13.0
-2018,Broj mjesta koje imaju žene u nacionalnim parlamentima,Broj,Žene,,,,,,,15.0
-2022,Broj mjesta koje imaju žene u nacionalnim parlamentima,Broj,Žene,,,,,,,16.0
-2000,Trenutni broj mjesta u nacionalnim parlamentima (broj),Broj,Oba spola ili bez podjele po spolu,,,,,,,83.0
-2002,Trenutni broj mjesta u nacionalnim parlamentima (broj),Broj,Oba spola ili bez podjele po spolu,,,,,,,83.0
-2006,Trenutni broj mjesta u nacionalnim parlamentima (broj),Broj,Oba spola ili bez podjele po spolu,,,,,,,82.0
-2010,Trenutni broj mjesta u nacionalnim parlamentima (broj),Broj,Oba spola ili bez podjele po spolu,,,,,,,83.0
-2014,Trenutni broj mjesta u nacionalnim parlamentima (broj),Broj,Oba spola ili bez podjele po spolu,,,,,,,83.0
-2018,Trenutni broj mjesta u nacionalnim parlamentima (broj),Broj,Oba spola ili bez podjele po spolu,,,,,,,83.0
-2022,Trenutni broj mjesta u nacionalnim parlamentima (broj),Broj,Oba spola ili bez podjele po spolu,,,,,,,83.0
-2000,Udio mjesta koje imaju žene u nacionalnim parlamentima (% od ukupnog broja mjesta),Procenat,Žene,,,,,,,18.1
-2002,Udio mjesta koje imaju žene u nacionalnim parlamentima (% od ukupnog broja mjesta),Procenat,Žene,,,,,,,16.9
-2006,Udio mjesta koje imaju žene u nacionalnim parlamentima (% od ukupnog broja mjesta),Procenat,Žene,,,,,,,20.7
-2010,Udio mjesta koje imaju žene u nacionalnim parlamentima (% od ukupnog broja mjesta),Procenat,Žene,,,,,,,21.7
-2014,Udio mjesta koje imaju žene u nacionalnim parlamentima (% od ukupnog broja mjesta),Procenat,Žene,,,,,,,15.7
-2018,Udio mjesta koje imaju žene u nacionalnim parlamentima (% od ukupnog broja mjesta),Procenat,Žene,,,,,,,18.1
-2022,Udio mjesta koje imaju žene u nacionalnim parlamentima (% od ukupnog broja mjesta),Procenat,Žene,,,,,,,19.3
+Year,SERIES,UNIT_MEASURE,Pol,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Value
+2000,SG_GEN_PARLN,Broj,Žene,,,,,,,15.0
+2002,SG_GEN_PARLN,Broj,Žene,,,,,,,14.0
+2006,SG_GEN_PARLN,Broj,Žene,,,,,,,17.0
+2010,SG_GEN_PARLN,Broj,Žene,,,,,,,18.0
+2014,SG_GEN_PARLN,Broj,Žene,,,,,,,13.0
+2018,SG_GEN_PARLN,Broj,Žene,,,,,,,15.0
+2022,SG_GEN_PARLN,Broj,Žene,,,,,,,16.0
+2000,SG_GEN_PARLNT,Broj,Oba pola ili bez podjele po polu,,,,,,,83.0
+2002,SG_GEN_PARLNT,Broj,Oba pola ili bez podjele po polu,,,,,,,83.0
+2006,SG_GEN_PARLNT,Broj,Oba pola ili bez podjele po polu,,,,,,,82.0
+2010,SG_GEN_PARLNT,Broj,Oba pola ili bez podjele po polu,,,,,,,83.0
+2014,SG_GEN_PARLNT,Broj,Oba pola ili bez podjele po polu,,,,,,,83.0
+2018,SG_GEN_PARLNT,Broj,Oba pola ili bez podjele po polu,,,,,,,83.0
+2022,SG_GEN_PARLNT,Broj,Oba pola ili bez podjele po polu,,,,,,,83.0
+2000,SG_GEN_PARL,Procenat,Žene,,,,,,,18.1
+2002,SG_GEN_PARL,Procenat,Žene,,,,,,,16.9
+2006,SG_GEN_PARL,Procenat,Žene,,,,,,,20.7
+2010,SG_GEN_PARL,Procenat,Žene,,,,,,,21.7
+2014,SG_GEN_PARL,Procenat,Žene,,,,,,,15.7
+2018,SG_GEN_PARL,Procenat,Žene,,,,,,,18.1
+2022,SG_GEN_PARL,Procenat,Žene,,,,,,,19.3
 2000,SG_GEN_LPARL,Procenat,Žene,,,,,,,15.8
 2004,SG_GEN_LPARL,Procenat,Žene,,,,,,,16.3
 2008,SG_GEN_LPARL,Procenat,Žene,,,,,,,15.8

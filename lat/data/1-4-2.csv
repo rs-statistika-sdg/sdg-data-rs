@@ -1,8 +1,8 @@
-Year,SERIES,UNIT_MEASURE,Spol,Value
-2018,SP_LGL_LNDDOC_SOLO,Broj,Oba spola ili bez podjele po spolu,301791
-2019,SP_LGL_LNDDOC_SOLO,Broj,Oba spola ili bez podjele po spolu,322053
-2020,SP_LGL_LNDDOC_SOLO,Broj,Oba spola ili bez podjele po spolu,335470
-2021,SP_LGL_LNDDOC_SOLO,Broj,Oba spola ili bez podjele po spolu,486196
+Year,SERIES,UNIT_MEASURE,Pol,Value
+2018,SP_LGL_LNDDOC_SOLO,Broj,Oba pola ili bez podjele po polu,301791
+2019,SP_LGL_LNDDOC_SOLO,Broj,Oba pola ili bez podjele po polu,322053
+2020,SP_LGL_LNDDOC_SOLO,Broj,Oba pola ili bez podjele po polu,335470
+2021,SP_LGL_LNDDOC_SOLO,Broj,Oba pola ili bez podjele po polu,486196
 2018,SP_LGL_LNDDOC_SOLO,Broj,Muškarci,221528
 2019,SP_LGL_LNDDOC_SOLO,Broj,Muškarci,235748
 2020,SP_LGL_LNDDOC_SOLO,Broj,Muškarci,238185
@@ -11,10 +11,10 @@ Year,SERIES,UNIT_MEASURE,Spol,Value
 2019,SP_LGL_LNDDOC_SOLO,Broj,Žene,86305
 2020,SP_LGL_LNDDOC_SOLO,Broj,Žene,97285
 2021,SP_LGL_LNDDOC_SOLO,Broj,Žene,136828
-2018,SP_LGL_LNDDOC_COHFR,Broj,Oba spola ili bez podjele po spolu,112670
-2019,SP_LGL_LNDDOC_COHFR,Broj,Oba spola ili bez podjele po spolu,113906
-2020,SP_LGL_LNDDOC_COHFR,Broj,Oba spola ili bez podjele po spolu,113369
-2021,SP_LGL_LNDDOC_COHFR,Broj,Oba spola ili bez podjele po spolu,168688
+2018,SP_LGL_LNDDOC_COHFR,Broj,Oba pola ili bez podjele po polu,112670
+2019,SP_LGL_LNDDOC_COHFR,Broj,Oba pola ili bez podjele po polu,113906
+2020,SP_LGL_LNDDOC_COHFR,Broj,Oba pola ili bez podjele po polu,113369
+2021,SP_LGL_LNDDOC_COHFR,Broj,Oba pola ili bez podjele po polu,168688
 2018,SP_LGL_LNDDOC_COHFR,Broj,Muškarci,75233
 2019,SP_LGL_LNDDOC_COHFR,Broj,Muškarci,75664
 2020,SP_LGL_LNDDOC_COHFR,Broj,Muškarci,72449
@@ -23,10 +23,10 @@ Year,SERIES,UNIT_MEASURE,Spol,Value
 2019,SP_LGL_LNDDOC_COHFR,Broj,Žene,38242
 2020,SP_LGL_LNDDOC_COHFR,Broj,Žene,40920
 2021,SP_LGL_LNDDOC_COHFR,Broj,Žene,60969
-2018,SP_LGL_LNDDOC_COUHFR,Broj,Oba spola ili bez podjele po spolu,293012
-2019,SP_LGL_LNDDOC_COUHFR,Broj,Oba spola ili bez podjele po spolu,330384
-2020,SP_LGL_LNDDOC_COUHFR,Broj,Oba spola ili bez podjele po spolu,343529
-2021,SP_LGL_LNDDOC_COUHFR,Broj,Oba spola ili bez podjele po spolu,295914
+2018,SP_LGL_LNDDOC_COUHFR,Broj,Oba pola ili bez podjele po polu,293012
+2019,SP_LGL_LNDDOC_COUHFR,Broj,Oba pola ili bez podjele po polu,330384
+2020,SP_LGL_LNDDOC_COUHFR,Broj,Oba pola ili bez podjele po polu,343529
+2021,SP_LGL_LNDDOC_COUHFR,Broj,Oba pola ili bez podjele po polu,295914
 2018,SP_LGL_LNDDOC_COUHFR,Broj,Muškarci,175091
 2019,SP_LGL_LNDDOC_COUHFR,Broj,Muškarci,195662
 2020,SP_LGL_LNDDOC_COUHFR,Broj,Muškarci,201559

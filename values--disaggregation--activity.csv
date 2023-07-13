@@ -1,3 +1,3 @@
 Value,en,lat,cir,Disaggregation combinations using this value,Number of indicators
-IND_SEC,IND_SEC,IND_SEC,IND_SEC,1,1
-ISIC4_C,Manufacturing,Proizvodnja,Производња,1,1
+IND_SEC,"Industrial sections (B, C, D, E)","Industrijska područja (B, C, D, E)","Индустријска подручја (B, C, D, E)",1,1
+ISIC4_C,Manufacturing,Prerađivačka industrija,Прерађивачка индустрија,1,1

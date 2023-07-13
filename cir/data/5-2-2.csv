@@ -1,5 +1,5 @@
 Year,SERIES,UNIT_MEASURE,Пол,COMPOSITE_BREAKDOWN,Value
-2018,VC_VAW_NMARR12M,Проценат,Жене,VAW_PHYSIC,2
-2018,VC_VAW_NMARR12M,Проценат,Жене,VAW_SEX,0
-2018,VC_VAW_NMARRY15,Проценат,Жене,VAW_PHYSIC,7
-2018,VC_VAW_NMARRY15,Проценат,Жене,VAW_SEX,2
+2018,VC_VAW_NMARR12M,Проценат,Жене,Физичко насиље,2
+2018,VC_VAW_NMARR12M,Проценат,Жене,Сексуално насиље,0
+2018,VC_VAW_NMARRY15,Проценат,Жене,Физичко насиље,7
+2018,VC_VAW_NMARRY15,Проценат,Жене,Сексуално насиље,2

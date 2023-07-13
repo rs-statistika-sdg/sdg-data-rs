@@ -1,12 +1,12 @@
 Year,SERIES,UNIT_MEASURE,Stepen urbanizacije,Value
-2004,Udio stanovništva koje živi ispod nacionalne granice siromaštva,Broj,Ukupno,199752
-2007,Udio stanovništva koje živi ispod nacionalne granice siromaštva,Broj,Ukupno,182389
-2011,Udio stanovništva koje živi ispod nacionalne granice siromaštva,Broj,Ukupno,152909
-2015,Udio stanovništva koje živi ispod nacionalne granice siromaštva,Broj,Ukupno,126043
-2004,Udio stanovništva koje živi ispod nacionalne granice siromaštva,Procenat,Ukupno,45153
-2007,Udio stanovništva koje živi ispod nacionalne granice siromaštva,Procenat,Ukupno,45092
-2011,Udio stanovništva koje živi ispod nacionalne granice siromaštva,Procenat,Ukupno,45030
-2015,Udio stanovništva koje živi ispod nacionalne granice siromaštva,Procenat,Ukupno,45150
+2004,SI_POV_NAHC,Broj,Ukupno,199752
+2007,SI_POV_NAHC,Broj,Ukupno,182389
+2011,SI_POV_NAHC,Broj,Ukupno,152909
+2015,SI_POV_NAHC,Broj,Ukupno,126043
+2004,SI_POV_NAHC,Procenat,Ukupno,45153
+2007,SI_POV_NAHC,Procenat,Ukupno,45092
+2011,SI_POV_NAHC,Procenat,Ukupno,45030
+2015,SI_POV_NAHC,Procenat,Ukupno,45150
 2004,SI_POV_HHD,Broj,Ukupno,63973
 2007,SI_POV_HHD,Broj,Ukupno,64708
 2011,SI_POV_HHD,Broj,Ukupno,53234

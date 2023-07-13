@@ -1,14 +1,14 @@
 Year,SERIES,UNIT_MEASURE,Value
-2009,"Death rate due to road traffic injuries, by sex (per 100,000 population)",PER_100000_DEATHS,754.9
-2010,"Death rate due to road traffic injuries, by sex (per 100,000 population)",PER_100000_DEATHS,680.6
-2011,"Death rate due to road traffic injuries, by sex (per 100,000 population)",PER_100000_DEATHS,871.3
-2012,"Death rate due to road traffic injuries, by sex (per 100,000 population)",PER_100000_DEATHS,688.6
-2013,"Death rate due to road traffic injuries, by sex (per 100,000 population)",PER_100000_DEATHS,837.0
-2014,"Death rate due to road traffic injuries, by sex (per 100,000 population)",PER_100000_DEATHS,714.8
-2015,"Death rate due to road traffic injuries, by sex (per 100,000 population)",PER_100000_DEATHS,703.9
-2016,"Death rate due to road traffic injuries, by sex (per 100,000 population)",PER_100000_DEATHS,901.9
-2017,"Death rate due to road traffic injuries, by sex (per 100,000 population)",PER_100000_DEATHS,566.1
-2018,"Death rate due to road traffic injuries, by sex (per 100,000 population)",PER_100000_DEATHS,704.5
-2019,"Death rate due to road traffic injuries, by sex (per 100,000 population)",PER_100000_DEATHS,702.9
-2020,"Death rate due to road traffic injuries, by sex (per 100,000 population)",PER_100000_DEATHS,464.4
-2021,"Death rate due to road traffic injuries, by sex (per 100,000 population)",PER_100000_DEATHS,421.0
+2009,SH_STA_TRAF,"Per 100,000 deaths",754.9
+2010,SH_STA_TRAF,"Per 100,000 deaths",680.6
+2011,SH_STA_TRAF,"Per 100,000 deaths",871.3
+2012,SH_STA_TRAF,"Per 100,000 deaths",688.6
+2013,SH_STA_TRAF,"Per 100,000 deaths",837.0
+2014,SH_STA_TRAF,"Per 100,000 deaths",714.8
+2015,SH_STA_TRAF,"Per 100,000 deaths",703.9
+2016,SH_STA_TRAF,"Per 100,000 deaths",901.9
+2017,SH_STA_TRAF,"Per 100,000 deaths",566.1
+2018,SH_STA_TRAF,"Per 100,000 deaths",704.5
+2019,SH_STA_TRAF,"Per 100,000 deaths",702.9
+2020,SH_STA_TRAF,"Per 100,000 deaths",464.4
+2021,SH_STA_TRAF,"Per 100,000 deaths",421.0

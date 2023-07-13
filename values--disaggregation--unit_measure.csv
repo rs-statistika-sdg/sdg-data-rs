@@ -1,8 +1,8 @@
 Value,en,lat,cir,Disaggregation combinations using this value,Number of indicators
 CUR_LCU,in BAM,u KM,у KM,1,1
 CUR_NAC_1000,in thousands of BAM,u hiljadama KM,у хиљадама КМ,5,1
-CUR_NAC_1000000,CUR_NAC_1000000,CUR_NAC_1000000,CUR_NAC_1000000,2,1
-DTHS_PER_1000000_POPY0T65,DTHS_PER_1000000_POPY0T65,DTHS_PER_1000000_POPY0T65,DTHS_PER_1000000_POPY0T65,3,1
+CUR_NAC_1000000,in millions of BAM,u milionima КМ,у милионима КМ,2,1
+DTHS_PER_1000000_POPY0T65,"Number of deaths per 100,000 population under the age of 65 years",Broj umrlih na 100 000 stanovnika mlađih od 65 godina,Број умрлих на 100 000 становника млађих од 65 година,3,1
 DTHS_PER_1000000_POPY0T66,DTHS_PER_1000000_POPY0T66,DTHS_PER_1000000_POPY0T66,DTHS_PER_1000000_POPY0T66,3,1
 DTHS_PER_1000000_POPY0T67,DTHS_PER_1000000_POPY0T67,DTHS_PER_1000000_POPY0T67,DTHS_PER_1000000_POPY0T67,3,1
 DTHS_PER_1000000_POPY0T68,DTHS_PER_1000000_POPY0T68,DTHS_PER_1000000_POPY0T68,DTHS_PER_1000000_POPY0T68,3,1
@@ -15,23 +15,23 @@ DTHS_PER_1000000_POPY0T74,DTHS_PER_1000000_POPY0T74,DTHS_PER_1000000_POPY0T74,DT
 DTHS_PER_1000000_POPY0T75,DTHS_PER_1000000_POPY0T75,DTHS_PER_1000000_POPY0T75,DTHS_PER_1000000_POPY0T75,3,1
 DTHS_PER_1000000_POPY0T76,DTHS_PER_1000000_POPY0T76,DTHS_PER_1000000_POPY0T76,DTHS_PER_1000000_POPY0T76,3,1
 DTHS_PER_1000000_POPY0T77,DTHS_PER_1000000_POPY0T77,DTHS_PER_1000000_POPY0T77,DTHS_PER_1000000_POPY0T77,3,1
-GPERM3,Micrograms per cubic meter,Mikrogrami po kubnom metru,Микрограми по кубном метру,24,1
-HA_A,HA_A,HA_A,HA_A,3,2
+GPERM3,Grams per cubic meter (g/m3),Grami po kubnom metru(g/m3),Грами по кубном метру (g/m3),24,1
+HA_A,"Area, in hectares",Površina u hektarima,Површина у хектарима,3,2
 LITRES,LITRES,Litri,Литри,3,1
 NUMBER,Number,Broj,Број,108,13
-P_KM_MIL,P_KM_MIL,P_KM_MIL,P_KM_MIL,3,1
+P_KM_MIL,"Passenger kilometres, millions","Putnički kilometri, milioni","Путнички километри, милиони",3,1
 PER_1000000_POP,Per million population,Na milion stanovnika,На милион становника,1,1
-PER_100000_APOP,PER_100000_APOP,PER_100000_APOP,PER_100000_APOP,12,1
-PER_100000_DEATHS,PER_100000_DEATHS,PER_100000_DEATHS,PER_100000_DEATHS,1,1
-PER_100000_LIVE_BIRTHS,"Per 100,000 live births",Na 100 000 živorođenih,На 100.000 живорођених,1,1
-PER_100000_POP,"Per 100,000 population",Na 100 000 stanovnika,На 100.000 становника,8,6
+PER_100000_APOP,"Per 100,000 adults",Na 100 000 odraslih stanovnika,На 100 000 одраслих становника,12,1
+PER_100000_DEATHS,"Per 100,000 deaths",Na 100 000 umrlih,На 100 000 умрлих,1,1
+PER_100000_LIVE_BIRTHS,"Per 100,000 live births",Na 100 000 živorođenih,На 100 000 живорођених,1,1
+PER_100000_POP,"Per 100,000 population",Na 100 000 stanovnika,На 100 000 становника,8,6
 PER_10000_POP,"Per 10,000 population",Na 10 000 stanovnika,На 10 000 становника,4,1
-PER_1000_LIVE_BIRTHS,"Per 1,000 live births",Na 1 000 živorođenih,На 1.000 живорођених,2,2
-PER_1000_POPFEM_AG,PER_1000_POPFEM_AG,PER_1000_POPFEM_AG,PER_1000_POPFEM_AG,2,1
-PT,Percent,Procenat,Проценат,157,30
-T_KM_MIL,T_KM_MIL,T_KM_MIL,T_KM_MIL,3,1
-THOUS_M3,THOUS_M3,THOUS_M3,THOUS_M3,1,1
+PER_1000_LIVE_BIRTHS,"Per 1,000 live births",Na 1 000 živorođenih,На 1 000 живорођених,2,2
+PER_1000_POPFEM_AG,"Per 1,000 women in the age group",Na 1 000 žena iz starosne grupe,На 1 000 жена из старосне групе,2,1
+PT,Percent,Procenat,Проценат,164,31
+T_KM_MIL,"Tonne kilometres, millions","Tonski kilometri, milioni","Тонски километри, милиони",3,1
+THOUS_M3,Thousand of cubic metres,Hiljadu kubnih metara,Хиљаду кубних метара,1,1
 THOUSANDS,THOUSANDS,Hiljade,Хиљаде,3,1
 TONNES,TONNES,Tone,Тоне,2,1
-TONNES_T,OOOt,OOOt,OOOт,3,1
+TONNES_T,Thousand of tonnes,Hiljade tona,Хиљаде тона,3,1
 USD,USD,Američki dolar,Амерички долар,2,1

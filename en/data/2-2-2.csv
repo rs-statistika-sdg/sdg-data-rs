@@ -1,5 +1,5 @@
-Year,SERIES,UNIT_MEASURE,Age,Value
-2006,Proportion of children moderately or severely overweight,Percent,under 5 years old,23.3
-2012,Proportion of children moderately or severely overweight,Percent,under 5 years old,16.4
-2006,Proportion of children moderately or severely wasted,Percent,under 5 years old,2.6
-2012,Proportion of children moderately or severely wasted,Percent,under 5 years old,1.7
+Year,SERIES,UNIT_MEASURE,AGE,Value
+2006,SN_STA_OVWGT,Percent,Y0T4,23.3
+2012,SN_STA_OVWGT,Percent,Y0T4,16.4
+2006,SH_STA_WAST,Percent,Y0T4,2.6
+2012,SH_STA_WAST,Percent,Y0T4,1.7

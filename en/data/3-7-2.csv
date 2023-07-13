@@ -1,27 +1,27 @@
-Year,SERIES,UNIT_MEASURE,Age,Sex,Value
-2009,"Adolescent birth rate (per 1,000 women aged 15-19 years)",PER_1000_POPFEM_AG,Y10T14,Female,0.1
-2010,"Adolescent birth rate (per 1,000 women aged 15-19 years)",PER_1000_POPFEM_AG,Y10T14,Female,0.0
-2011,"Adolescent birth rate (per 1,000 women aged 15-19 years)",PER_1000_POPFEM_AG,Y10T14,Female,0.0
-2012,"Adolescent birth rate (per 1,000 women aged 15-19 years)",PER_1000_POPFEM_AG,Y10T14,Female,0.0
-2013,"Adolescent birth rate (per 1,000 women aged 15-19 years)",PER_1000_POPFEM_AG,Y10T14,Female,0.0
-2014,"Adolescent birth rate (per 1,000 women aged 15-19 years)",PER_1000_POPFEM_AG,Y10T14,Female,0.0
-2015,"Adolescent birth rate (per 1,000 women aged 15-19 years)",PER_1000_POPFEM_AG,Y10T14,Female,0.0
-2016,"Adolescent birth rate (per 1,000 women aged 15-19 years)",PER_1000_POPFEM_AG,Y10T14,Female,0.0
-2017,"Adolescent birth rate (per 1,000 women aged 15-19 years)",PER_1000_POPFEM_AG,Y10T14,Female,0.0
-2018,"Adolescent birth rate (per 1,000 women aged 15-19 years)",PER_1000_POPFEM_AG,Y10T14,Female,0.0
-2019,"Adolescent birth rate (per 1,000 women aged 15-19 years)",PER_1000_POPFEM_AG,Y10T14,Female,0.0
-2020,"Adolescent birth rate (per 1,000 women aged 15-19 years)",PER_1000_POPFEM_AG,Y10T14,Female,0.1
-2021,"Adolescent birth rate (per 1,000 women aged 15-19 years)",PER_1000_POPFEM_AG,Y10T14,Female,0.0
-2009,"Adolescent birth rate (per 1,000 women aged 15-19 years)",PER_1000_POPFEM_AG,15 to 19 years old,Female,16.0
-2010,"Adolescent birth rate (per 1,000 women aged 15-19 years)",PER_1000_POPFEM_AG,15 to 19 years old,Female,13.9
-2011,"Adolescent birth rate (per 1,000 women aged 15-19 years)",PER_1000_POPFEM_AG,15 to 19 years old,Female,12.8
-2012,"Adolescent birth rate (per 1,000 women aged 15-19 years)",PER_1000_POPFEM_AG,15 to 19 years old,Female,13.8
-2013,"Adolescent birth rate (per 1,000 women aged 15-19 years)",PER_1000_POPFEM_AG,15 to 19 years old,Female,11.0
-2014,"Adolescent birth rate (per 1,000 women aged 15-19 years)",PER_1000_POPFEM_AG,15 to 19 years old,Female,10.6
-2015,"Adolescent birth rate (per 1,000 women aged 15-19 years)",PER_1000_POPFEM_AG,15 to 19 years old,Female,9.5
-2016,"Adolescent birth rate (per 1,000 women aged 15-19 years)",PER_1000_POPFEM_AG,15 to 19 years old,Female,10.8
-2017,"Adolescent birth rate (per 1,000 women aged 15-19 years)",PER_1000_POPFEM_AG,15 to 19 years old,Female,9.4
-2018,"Adolescent birth rate (per 1,000 women aged 15-19 years)",PER_1000_POPFEM_AG,15 to 19 years old,Female,7.7
-2019,"Adolescent birth rate (per 1,000 women aged 15-19 years)",PER_1000_POPFEM_AG,15 to 19 years old,Female,8.1
-2020,"Adolescent birth rate (per 1,000 women aged 15-19 years)",PER_1000_POPFEM_AG,15 to 19 years old,Female,8.0
-2021,"Adolescent birth rate (per 1,000 women aged 15-19 years)",PER_1000_POPFEM_AG,15 to 19 years old,Female,7.9
+Year,SERIES,UNIT_MEASURE,AGE,Sex,Value
+2009,SP_DYN_ADKL,"Per 1,000 women in the age group",Y10T14,Female,0.1
+2010,SP_DYN_ADKL,"Per 1,000 women in the age group",Y10T14,Female,0.0
+2011,SP_DYN_ADKL,"Per 1,000 women in the age group",Y10T14,Female,0.0
+2012,SP_DYN_ADKL,"Per 1,000 women in the age group",Y10T14,Female,0.0
+2013,SP_DYN_ADKL,"Per 1,000 women in the age group",Y10T14,Female,0.0
+2014,SP_DYN_ADKL,"Per 1,000 women in the age group",Y10T14,Female,0.0
+2015,SP_DYN_ADKL,"Per 1,000 women in the age group",Y10T14,Female,0.0
+2016,SP_DYN_ADKL,"Per 1,000 women in the age group",Y10T14,Female,0.0
+2017,SP_DYN_ADKL,"Per 1,000 women in the age group",Y10T14,Female,0.0
+2018,SP_DYN_ADKL,"Per 1,000 women in the age group",Y10T14,Female,0.0
+2019,SP_DYN_ADKL,"Per 1,000 women in the age group",Y10T14,Female,0.0
+2020,SP_DYN_ADKL,"Per 1,000 women in the age group",Y10T14,Female,0.1
+2021,SP_DYN_ADKL,"Per 1,000 women in the age group",Y10T14,Female,0.0
+2009,SP_DYN_ADKL,"Per 1,000 women in the age group",Y15T19,Female,16.0
+2010,SP_DYN_ADKL,"Per 1,000 women in the age group",Y15T19,Female,13.9
+2011,SP_DYN_ADKL,"Per 1,000 women in the age group",Y15T19,Female,12.8
+2012,SP_DYN_ADKL,"Per 1,000 women in the age group",Y15T19,Female,13.8
+2013,SP_DYN_ADKL,"Per 1,000 women in the age group",Y15T19,Female,11.0
+2014,SP_DYN_ADKL,"Per 1,000 women in the age group",Y15T19,Female,10.6
+2015,SP_DYN_ADKL,"Per 1,000 women in the age group",Y15T19,Female,9.5
+2016,SP_DYN_ADKL,"Per 1,000 women in the age group",Y15T19,Female,10.8
+2017,SP_DYN_ADKL,"Per 1,000 women in the age group",Y15T19,Female,9.4
+2018,SP_DYN_ADKL,"Per 1,000 women in the age group",Y15T19,Female,7.7
+2019,SP_DYN_ADKL,"Per 1,000 women in the age group",Y15T19,Female,8.1
+2020,SP_DYN_ADKL,"Per 1,000 women in the age group",Y15T19,Female,8.0
+2021,SP_DYN_ADKL,"Per 1,000 women in the age group",Y15T19,Female,7.9
