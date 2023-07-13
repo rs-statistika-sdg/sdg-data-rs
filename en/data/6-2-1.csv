@@ -1,20 +1,13 @@
-Year,SERIES,UNIT_MEASURE,Degree of urbanisation,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Value
-2011.0,SH_SAN_SAFEHH_BATH,Percent,Total,,,,,,,,91.1
-2011.0,SH_SAN_SAFEHH_BATH,Percent,Urban,,,,,,,,98.8
-2011.0,SH_SAN_SAFEHH_BATH,Percent,O,,,,,,,,86.2
-2015.0,SH_SAN_SAFEHH_BATH,Percent,Total,,,,,,,,94.1
-2015.0,SH_SAN_SAFEHH_BATH,Percent,Urban,,,,,,,,98.7
-2015.0,SH_SAN_SAFEHH_BATH,Percent,O,,,,,,,,91.1
-2011.0,SH_SAN_SAFEHH_WC,Percent,Total,,,,,,,,22.2
-2011.0,SH_SAN_SAFEHH_WC,Percent,Urban,,,,,,,,27.6
-2011.0,SH_SAN_SAFEHH_WC,Percent,O,,,,,,,,18.7
-2015.0,SH_SAN_SAFEHH_WC,Percent,Total,,,,,,,,88.1
-2015.0,SH_SAN_SAFEHH_WC,Percent,Urban,,,,,,,,89.9
-2015.0,SH_SAN_SAFEHH_WC,Percent,O,,,,,,,,87.0
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
+Year,SERIES,UNIT_MEASURE,Degree of urbanisation,Value
+2011,SH_SAN_SAFEHH_BATH,Percent,Total,91.1
+2011,SH_SAN_SAFEHH_BATH,Percent,Urban,98.8
+2011,SH_SAN_SAFEHH_BATH,Percent,O,86.2
+2015,SH_SAN_SAFEHH_BATH,Percent,Total,94.1
+2015,SH_SAN_SAFEHH_BATH,Percent,Urban,98.7
+2015,SH_SAN_SAFEHH_BATH,Percent,O,91.1
+2011,SH_SAN_SAFEHH_WC,Percent,Total,22.2
+2011,SH_SAN_SAFEHH_WC,Percent,Urban,27.6
+2011,SH_SAN_SAFEHH_WC,Percent,O,18.7
+2015,SH_SAN_SAFEHH_WC,Percent,Total,88.1
+2015,SH_SAN_SAFEHH_WC,Percent,Urban,89.9
+2015,SH_SAN_SAFEHH_WC,Percent,O,87.0
