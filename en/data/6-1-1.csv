@@ -1,1 +1,9 @@
-Year,Value
+Year,SERIES,UNIT_MEASURE,Degree of urbanisation,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Value
+2011,SH_H2O_SAFE_RWDW,Percent,Total,,,,,,,,,69.5
+2015,SH_H2O_SAFE_RWDW,Percent,Total,,,,,,,,,82.2
+2011,SH_H2O_SAFE_SPSRS,Percent,Total,,,,,,,,,21.7
+2015,SH_H2O_SAFE_SPSRS,Percent,Total,,,,,,,,,15.9
+2011,SH_H2O_SAFE_CTAP,Percent,Total,,,,,,,,,7.8
+2015,SH_H2O_SAFE_CTAP,Percent,Total,,,,,,,,,0.7
+2011,SH_H2O_SAFE_OTH,Percent,Total,,,,,,,,,1.0
+2015,SH_H2O_SAFE_OTH,Percent,Total,,,,,,,,,1.2

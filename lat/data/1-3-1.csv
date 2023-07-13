@@ -1,1 +1,597 @@
-Year,Value
+Year,SERIES,UNIT_MEASURE,Spol,Godine,Value
+2009.0,SI_COV_SOCUSALL,Procenat,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,3.1
+2010.0,SI_COV_SOCUSALL,Procenat,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,3.2
+2011.0,SI_COV_SOCUSALL,Procenat,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,3.1
+2012.0,SI_COV_SOCUSALL,Procenat,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,3.5
+2013.0,SI_COV_SOCUSALL,Procenat,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,3.5
+2014.0,SI_COV_SOCUSALL,Procenat,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,4.2
+2015.0,SI_COV_SOCUSALL,Procenat,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,3.6
+2016.0,SI_COV_SOCUSALL,Procenat,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,3.8
+2017.0,SI_COV_SOCUSALL,Procenat,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,3.7
+2018.0,SI_COV_SOCUSALL,Procenat,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,4.3
+2019.0,SI_COV_SOCUSALL,Procenat,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,4.3
+2020.0,SI_COV_SOCUSALL,Procenat,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,4.5
+2021.0,SI_COV_SOCUSALL,Procenat,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,4.6
+2009.0,SI_COV_SOCUSALL,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,36917.0
+2010.0,SI_COV_SOCUSALL,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,37178.0
+2011.0,SI_COV_SOCUSALL,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,36323.0
+2012.0,SI_COV_SOCUSALL,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,41157.0
+2013.0,SI_COV_SOCUSALL,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,41212.0
+2014.0,SI_COV_SOCUSALL,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,49147.0
+2015.0,SI_COV_SOCUSALL,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,41410.0
+2016.0,SI_COV_SOCUSALL,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,43582.0
+2017.0,SI_COV_SOCUSALL,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,43062.0
+2018.0,SI_COV_SOCUSALL,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,48921.0
+2019.0,SI_COV_SOCUSALL,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,49252.0
+2020.0,SI_COV_SOCUSALL,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,50652.0
+2021.0,SI_COV_SOCUSALL,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,52068.0
+2012.0,SI_COV_SOCUSSA,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,18712.0
+2013.0,SI_COV_SOCUSSA,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,19143.0
+2014.0,SI_COV_SOCUSSA,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,23658.0
+2015.0,SI_COV_SOCUSSA,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,18963.0
+2016.0,SI_COV_SOCUSSA,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,19926.0
+2017.0,SI_COV_SOCUSSA,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,19812.0
+2018.0,SI_COV_SOCUSSA,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,23658.0
+2019.0,SI_COV_SOCUSSA,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,23293.0
+2020.0,SI_COV_SOCUSSA,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,23661.0
+2021.0,SI_COV_SOCUSSA,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,24954.0
+2012.0,SI_COV_SOCUSSA,Broj,Muškarci,_M,2811.0
+2013.0,SI_COV_SOCUSSA,Broj,Muškarci,_M,2812.0
+2014.0,SI_COV_SOCUSSA,Broj,Muškarci,_M,2653.0
+2015.0,SI_COV_SOCUSSA,Broj,Muškarci,_M,1586.0
+2016.0,SI_COV_SOCUSSA,Broj,Muškarci,_M,1797.0
+2017.0,SI_COV_SOCUSSA,Broj,Muškarci,_M,2065.0
+2018.0,SI_COV_SOCUSSA,Broj,Muškarci,_M,2430.0
+2019.0,SI_COV_SOCUSSA,Broj,Muškarci,_M,2564.0
+2020.0,SI_COV_SOCUSSA,Broj,Muškarci,_M,2754.0
+2021.0,SI_COV_SOCUSSA,Broj,Muškarci,_M,2986.0
+2012.0,SI_COV_SOCUSSA,Broj,Muškarci,_A,15901.0
+2013.0,SI_COV_SOCUSSA,Broj,Muškarci,_A,16331.0
+2014.0,SI_COV_SOCUSSA,Broj,Muškarci,_A,21005.0
+2015.0,SI_COV_SOCUSSA,Broj,Muškarci,_A,17377.0
+2016.0,SI_COV_SOCUSSA,Broj,Muškarci,_A,18129.0
+2017.0,SI_COV_SOCUSSA,Broj,Muškarci,_A,17747.0
+2018.0,SI_COV_SOCUSSA,Broj,Muškarci,_A,21228.0
+2019.0,SI_COV_SOCUSSA,Broj,Muškarci,_A,20729.0
+2020.0,SI_COV_SOCUSSA,Broj,Muškarci,_A,20907.0
+2021.0,SI_COV_SOCUSSA,Broj,Muškarci,_A,21968.0
+2012.0,SI_COV_SOCUSSA,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,22445.0
+2013.0,SI_COV_SOCUSSA,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,22069.0
+2014.0,SI_COV_SOCUSSA,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,25489.0
+2015.0,SI_COV_SOCUSSA,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,22447.0
+2016.0,SI_COV_SOCUSSA,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,23656.0
+2017.0,SI_COV_SOCUSSA,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,23250.0
+2018.0,SI_COV_SOCUSSA,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,25263.0
+2019.0,SI_COV_SOCUSSA,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,25959.0
+2020.0,SI_COV_SOCUSSA,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,26991.0
+2021.0,SI_COV_SOCUSSA,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,27114.0
+2012.0,SI_COV_SOCUSSA,Broj,Žene,_M,2289.0
+2013.0,SI_COV_SOCUSSA,Broj,Žene,_M,2830.0
+2014.0,SI_COV_SOCUSSA,Broj,Žene,_M,2557.0
+2015.0,SI_COV_SOCUSSA,Broj,Žene,_M,1339.0
+2016.0,SI_COV_SOCUSSA,Broj,Žene,_M,1366.0
+2017.0,SI_COV_SOCUSSA,Broj,Žene,_M,1876.0
+2018.0,SI_COV_SOCUSSA,Broj,Žene,_M,2608.0
+2019.0,SI_COV_SOCUSSA,Broj,Žene,_M,1790.0
+2020.0,SI_COV_SOCUSSA,Broj,Žene,_M,1978.0
+2021.0,SI_COV_SOCUSSA,Broj,Žene,_M,2050.0
+2012.0,SI_COV_SOCUSSA,Broj,Žene,_A,20156.0
+2013.0,SI_COV_SOCUSSA,Broj,Žene,_A,19239.0
+2014.0,SI_COV_SOCUSSA,Broj,Žene,_A,22932.0
+2015.0,SI_COV_SOCUSSA,Broj,Žene,_A,21108.0
+2016.0,SI_COV_SOCUSSA,Broj,Žene,_A,22290.0
+2017.0,SI_COV_SOCUSSA,Broj,Žene,_A,21374.0
+2018.0,SI_COV_SOCUSSA,Broj,Žene,_A,22655.0
+2019.0,SI_COV_SOCUSSA,Broj,Žene,_A,24169.0
+2020.0,SI_COV_SOCUSSA,Broj,Žene,_A,25013.0
+2021.0,SI_COV_SOCUSSA,Broj,Žene,_A,25064.0
+2012.0,SI_COV_SOCNP,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,5156.0
+2013.0,SI_COV_SOCNP,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,5156.0
+2014.0,SI_COV_SOCNP,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,5219.0
+2015.0,SI_COV_SOCNP,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,5067.0
+2016.0,SI_COV_SOCNP,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,5071.0
+2017.0,SI_COV_SOCNP,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,4905.0
+2018.0,SI_COV_SOCNP,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,4487.0
+2019.0,SI_COV_SOCNP,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,4487.0
+2020.0,SI_COV_SOCNP,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,4076.0
+2021.0,SI_COV_SOCNP,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,4142.0
+2012.0,SI_COV_SOCNP,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,1852.0
+2013.0,SI_COV_SOCNP,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,1852.0
+2014.0,SI_COV_SOCNP,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,1940.0
+2015.0,SI_COV_SOCNP,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,1948.0
+2016.0,SI_COV_SOCNP,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,2020.0
+2017.0,SI_COV_SOCNP,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,1955.0
+2018.0,SI_COV_SOCNP,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,1800.0
+2019.0,SI_COV_SOCNP,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,1846.0
+2020.0,SI_COV_SOCNP,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,1727.0
+2021.0,SI_COV_SOCNP,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,1821.0
+2012.0,SI_COV_SOCNP,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,3304.0
+2013.0,SI_COV_SOCNP,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,3304.0
+2014.0,SI_COV_SOCNP,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,3279.0
+2015.0,SI_COV_SOCNP,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,3119.0
+2016.0,SI_COV_SOCNP,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,3051.0
+2017.0,SI_COV_SOCNP,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,2950.0
+2018.0,SI_COV_SOCNP,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,2687.0
+2019.0,SI_COV_SOCNP,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,2641.0
+2020.0,SI_COV_SOCNP,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,2349.0
+2021.0,SI_COV_SOCNP,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,2321.0
+2012.0,SI_COV_SOCDL,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,17219.0
+2013.0,SI_COV_SOCDL,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,17219.0
+2014.0,SI_COV_SOCDL,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,20286.0
+2015.0,SI_COV_SOCDL,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,23048.0
+2016.0,SI_COV_SOCDL,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,25127.0
+2017.0,SI_COV_SOCDL,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,25944.0
+2018.0,SI_COV_SOCDL,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,26394.0
+2019.0,SI_COV_SOCDL,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,27774.0
+2020.0,SI_COV_SOCDL,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,28270.0
+2021.0,SI_COV_SOCDL,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,29691.0
+2012.0,SI_COV_SOCDL,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,8008.0
+2013.0,SI_COV_SOCDL,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,8008.0
+2014.0,SI_COV_SOCDL,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,9264.0
+2015.0,SI_COV_SOCDL,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,10465.0
+2016.0,SI_COV_SOCDL,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,11383.0
+2017.0,SI_COV_SOCDL,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,11987.0
+2018.0,SI_COV_SOCDL,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,12123.0
+2019.0,SI_COV_SOCDL,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,12813.0
+2020.0,SI_COV_SOCDL,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,12419.0
+2021.0,SI_COV_SOCDL,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,13673.0
+2012.0,SI_COV_SOCDL,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,9211.0
+2013.0,SI_COV_SOCDL,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,9211.0
+2014.0,SI_COV_SOCDL,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,11022.0
+2015.0,SI_COV_SOCDL,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,12581.0
+2016.0,SI_COV_SOCDL,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,13744.0
+2017.0,SI_COV_SOCDL,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,13957.0
+2018.0,SI_COV_SOCDL,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,14271.0
+2019.0,SI_COV_SOCDL,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,14961.0
+2020.0,SI_COV_SOCDL,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,15851.0
+2021.0,SI_COV_SOCDL,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,16018.0
+2012.0,SI_COV_SOCDL,Broj,Oba spola ili bez podjele po spolu,_OWCH,1849.0
+2013.0,SI_COV_SOCDL,Broj,Oba spola ili bez podjele po spolu,_OWCH,1849.0
+2014.0,SI_COV_SOCDL,Broj,Oba spola ili bez podjele po spolu,_OWCH,1501.0
+2015.0,SI_COV_SOCDL,Broj,Oba spola ili bez podjele po spolu,_OWCH,1272.0
+2016.0,SI_COV_SOCDL,Broj,Oba spola ili bez podjele po spolu,_OWCH,1492.0
+2017.0,SI_COV_SOCDL,Broj,Oba spola ili bez podjele po spolu,_OWCH,2022.0
+2018.0,SI_COV_SOCDL,Broj,Oba spola ili bez podjele po spolu,_OWCH,1538.0
+2019.0,SI_COV_SOCDL,Broj,Oba spola ili bez podjele po spolu,_OWCH,1689.0
+2020.0,SI_COV_SOCDL,Broj,Oba spola ili bez podjele po spolu,_OWCH,1982.0
+2021.0,SI_COV_SOCDL,Broj,Oba spola ili bez podjele po spolu,_OWCH,2021.0
+2012.0,SI_COV_SOCDL,Broj,Muškarci,_OWCH,937.0
+2013.0,SI_COV_SOCDL,Broj,Muškarci,_OWCH,937.0
+2014.0,SI_COV_SOCDL,Broj,Muškarci,_OWCH,848.0
+2015.0,SI_COV_SOCDL,Broj,Muškarci,_OWCH,718.0
+2016.0,SI_COV_SOCDL,Broj,Muškarci,_OWCH,905.0
+2017.0,SI_COV_SOCDL,Broj,Muškarci,_OWCH,1129.0
+2018.0,SI_COV_SOCDL,Broj,Muškarci,_OWCH,919.0
+2019.0,SI_COV_SOCDL,Broj,Muškarci,_OWCH,1010.0
+2020.0,SI_COV_SOCDL,Broj,Muškarci,_OWCH,1189.0
+2021.0,SI_COV_SOCDL,Broj,Muškarci,_OWCH,1220.0
+2012.0,SI_COV_SOCDL,Broj,Žene,_OWCH,912.0
+2013.0,SI_COV_SOCDL,Broj,Žene,_OWCH,912.0
+2014.0,SI_COV_SOCDL,Broj,Žene,_OWCH,653.0
+2015.0,SI_COV_SOCDL,Broj,Žene,_OWCH,554.0
+2016.0,SI_COV_SOCDL,Broj,Žene,_OWCH,587.0
+2017.0,SI_COV_SOCDL,Broj,Žene,_OWCH,893.0
+2018.0,SI_COV_SOCDL,Broj,Žene,_OWCH,619.0
+2019.0,SI_COV_SOCDL,Broj,Žene,_OWCH,679.0
+2020.0,SI_COV_SOCDL,Broj,Žene,_OWCH,793.0
+2021.0,SI_COV_SOCDL,Broj,Žene,_OWCH,801.0
+2012.0,SI_COV_SOCSRAZ,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,333.0
+2013.0,SI_COV_SOCSRAZ,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,333.0
+2014.0,SI_COV_SOCSRAZ,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,432.0
+2015.0,SI_COV_SOCSRAZ,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,410.0
+2016.0,SI_COV_SOCSRAZ,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,339.0
+2017.0,SI_COV_SOCSRAZ,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,349.0
+2018.0,SI_COV_SOCSRAZ,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,382.0
+2019.0,SI_COV_SOCSRAZ,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,239.0
+2020.0,SI_COV_SOCSRAZ,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,223.0
+2021.0,SI_COV_SOCSRAZ,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,248.0
+2012.0,SI_COV_SOCSRAZ,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,199.0
+2013.0,SI_COV_SOCSRAZ,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,199.0
+2014.0,SI_COV_SOCSRAZ,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,248.0
+2015.0,SI_COV_SOCSRAZ,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,235.0
+2016.0,SI_COV_SOCSRAZ,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,186.0
+2017.0,SI_COV_SOCSRAZ,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,184.0
+2018.0,SI_COV_SOCSRAZ,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,204.0
+2019.0,SI_COV_SOCSRAZ,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,115.0
+2020.0,SI_COV_SOCSRAZ,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,112.0
+2021.0,SI_COV_SOCSRAZ,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,137.0
+2012.0,SI_COV_SOCSRAZ,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,134.0
+2013.0,SI_COV_SOCSRAZ,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,134.0
+2014.0,SI_COV_SOCSRAZ,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,184.0
+2015.0,SI_COV_SOCSRAZ,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,175.0
+2016.0,SI_COV_SOCSRAZ,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,153.0
+2017.0,SI_COV_SOCSRAZ,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,165.0
+2018.0,SI_COV_SOCSRAZ,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,178.0
+2019.0,SI_COV_SOCSRAZ,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,121.0
+2020.0,SI_COV_SOCSRAZ,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,111.0
+2021.0,SI_COV_SOCSRAZ,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,111.0
+2012.0,SI_COV_SOCSRAZ,Broj,Oba spola ili bez podjele po spolu,_OWCH,290.0
+2013.0,SI_COV_SOCSRAZ,Broj,Oba spola ili bez podjele po spolu,_OWCH,290.0
+2014.0,SI_COV_SOCSRAZ,Broj,Oba spola ili bez podjele po spolu,_OWCH,414.0
+2015.0,SI_COV_SOCSRAZ,Broj,Oba spola ili bez podjele po spolu,_OWCH,386.0
+2016.0,SI_COV_SOCSRAZ,Broj,Oba spola ili bez podjele po spolu,_OWCH,306.0
+2017.0,SI_COV_SOCSRAZ,Broj,Oba spola ili bez podjele po spolu,_OWCH,322.0
+2018.0,SI_COV_SOCSRAZ,Broj,Oba spola ili bez podjele po spolu,_OWCH,325.0
+2019.0,SI_COV_SOCSRAZ,Broj,Oba spola ili bez podjele po spolu,_OWCH,147.0
+2020.0,SI_COV_SOCSRAZ,Broj,Oba spola ili bez podjele po spolu,_OWCH,141.0
+2021.0,SI_COV_SOCSRAZ,Broj,Oba spola ili bez podjele po spolu,_OWCH,134.0
+2012.0,SI_COV_SOCSRAZ,Broj,Muškarci,_OWCH,175.0
+2013.0,SI_COV_SOCSRAZ,Broj,Muškarci,_OWCH,175.0
+2014.0,SI_COV_SOCSRAZ,Broj,Muškarci,_OWCH,237.0
+2015.0,SI_COV_SOCSRAZ,Broj,Muškarci,_OWCH,229.0
+2016.0,SI_COV_SOCSRAZ,Broj,Muškarci,_OWCH,170.0
+2017.0,SI_COV_SOCSRAZ,Broj,Muškarci,_OWCH,175.0
+2018.0,SI_COV_SOCSRAZ,Broj,Muškarci,_OWCH,194.0
+2019.0,SI_COV_SOCSRAZ,Broj,Muškarci,_OWCH,74.0
+2020.0,SI_COV_SOCSRAZ,Broj,Muškarci,_OWCH,75.0
+2021.0,SI_COV_SOCSRAZ,Broj,Muškarci,_OWCH,74.0
+2012.0,SI_COV_SOCSRAZ,Broj,Žene,_OWCH,115.0
+2013.0,SI_COV_SOCSRAZ,Broj,Žene,_OWCH,115.0
+2014.0,SI_COV_SOCSRAZ,Broj,Žene,_OWCH,177.0
+2015.0,SI_COV_SOCSRAZ,Broj,Žene,_OWCH,157.0
+2016.0,SI_COV_SOCSRAZ,Broj,Žene,_OWCH,136.0
+2017.0,SI_COV_SOCSRAZ,Broj,Žene,_OWCH,147.0
+2018.0,SI_COV_SOCSRAZ,Broj,Žene,_OWCH,131.0
+2019.0,SI_COV_SOCSRAZ,Broj,Žene,_OWCH,73.0
+2020.0,SI_COV_SOCSRAZ,Broj,Žene,_OWCH,66.0
+2021.0,SI_COV_SOCSRAZ,Broj,Žene,_OWCH,60.0
+2012.0,SI_COV_SOCSUST,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,1048.0
+2013.0,SI_COV_SOCSUST,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,1048.0
+2014.0,SI_COV_SOCSUST,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,1059.0
+2015.0,SI_COV_SOCSUST,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,1029.0
+2016.0,SI_COV_SOCSUST,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,1089.0
+2017.0,SI_COV_SOCSUST,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,1071.0
+2018.0,SI_COV_SOCSUST,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,1145.0
+2019.0,SI_COV_SOCSUST,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,1078.0
+2020.0,SI_COV_SOCSUST,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,1179.0
+2021.0,SI_COV_SOCSUST,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,1190.0
+2012.0,SI_COV_SOCSUST,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,473.0
+2013.0,SI_COV_SOCSUST,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,473.0
+2014.0,SI_COV_SOCSUST,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,491.0
+2015.0,SI_COV_SOCSUST,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,504.0
+2016.0,SI_COV_SOCSUST,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,504.0
+2017.0,SI_COV_SOCSUST,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,500.0
+2018.0,SI_COV_SOCSUST,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,525.0
+2019.0,SI_COV_SOCSUST,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,504.0
+2020.0,SI_COV_SOCSUST,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,544.0
+2021.0,SI_COV_SOCSUST,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,533.0
+2012.0,SI_COV_SOCSUST,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,575.0
+2013.0,SI_COV_SOCSUST,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,575.0
+2014.0,SI_COV_SOCSUST,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,568.0
+2015.0,SI_COV_SOCSUST,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,525.0
+2016.0,SI_COV_SOCSUST,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,585.0
+2017.0,SI_COV_SOCSUST,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,571.0
+2018.0,SI_COV_SOCSUST,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,620.0
+2019.0,SI_COV_SOCSUST,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,574.0
+2020.0,SI_COV_SOCSUST,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,635.0
+2021.0,SI_COV_SOCSUST,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,657.0
+2012.0,SI_COV_SOCSUST,Broj,Oba spola ili bez podjele po spolu,_OWCH,225.0
+2013.0,SI_COV_SOCSUST,Broj,Oba spola ili bez podjele po spolu,_OWCH,225.0
+2014.0,SI_COV_SOCSUST,Broj,Oba spola ili bez podjele po spolu,_OWCH,207.0
+2015.0,SI_COV_SOCSUST,Broj,Oba spola ili bez podjele po spolu,_OWCH,199.0
+2016.0,SI_COV_SOCSUST,Broj,Oba spola ili bez podjele po spolu,_OWCH,224.0
+2017.0,SI_COV_SOCSUST,Broj,Oba spola ili bez podjele po spolu,_OWCH,183.0
+2018.0,SI_COV_SOCSUST,Broj,Oba spola ili bez podjele po spolu,_OWCH,170.0
+2019.0,SI_COV_SOCSUST,Broj,Oba spola ili bez podjele po spolu,_OWCH,154.0
+2020.0,SI_COV_SOCSUST,Broj,Oba spola ili bez podjele po spolu,_OWCH,152.0
+2021.0,SI_COV_SOCSUST,Broj,Oba spola ili bez podjele po spolu,_OWCH,159.0
+2012.0,SI_COV_SOCSUST,Broj,Muškarci,_OWCH,119.0
+2013.0,SI_COV_SOCSUST,Broj,Muškarci,_OWCH,119.0
+2014.0,SI_COV_SOCSUST,Broj,Muškarci,_OWCH,106.0
+2015.0,SI_COV_SOCSUST,Broj,Muškarci,_OWCH,106.0
+2016.0,SI_COV_SOCSUST,Broj,Muškarci,_OWCH,118.0
+2017.0,SI_COV_SOCSUST,Broj,Muškarci,_OWCH,94.0
+2018.0,SI_COV_SOCSUST,Broj,Muškarci,_OWCH,90.0
+2019.0,SI_COV_SOCSUST,Broj,Muškarci,_OWCH,73.0
+2020.0,SI_COV_SOCSUST,Broj,Muškarci,_OWCH,74.0
+2021.0,SI_COV_SOCSUST,Broj,Muškarci,_OWCH,82.0
+2012.0,SI_COV_SOCSUST,Broj,Žene,_OWCH,106.0
+2013.0,SI_COV_SOCSUST,Broj,Žene,_OWCH,106.0
+2014.0,SI_COV_SOCSUST,Broj,Žene,_OWCH,101.0
+2015.0,SI_COV_SOCSUST,Broj,Žene,_OWCH,93.0
+2016.0,SI_COV_SOCSUST,Broj,Žene,_OWCH,106.0
+2017.0,SI_COV_SOCSUST,Broj,Žene,_OWCH,89.0
+2018.0,SI_COV_SOCSUST,Broj,Žene,_OWCH,80.0
+2019.0,SI_COV_SOCSUST,Broj,Žene,_OWCH,81.0
+2020.0,SI_COV_SOCSUST,Broj,Žene,_OWCH,78.0
+2021.0,SI_COV_SOCSUST,Broj,Žene,_OWCH,77.0
+2012.0,SI_COV_SOCHRP,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,389.0
+2013.0,SI_COV_SOCHRP,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,389.0
+2014.0,SI_COV_SOCHRP,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,426.0
+2015.0,SI_COV_SOCHRP,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,356.0
+2016.0,SI_COV_SOCHRP,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,356.0
+2017.0,SI_COV_SOCHRP,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,392.0
+2018.0,SI_COV_SOCHRP,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,390.0
+2019.0,SI_COV_SOCHRP,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,373.0
+2020.0,SI_COV_SOCHRP,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,370.0
+2021.0,SI_COV_SOCHRP,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,333.0
+2012.0,SI_COV_SOCHRP,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,182.0
+2013.0,SI_COV_SOCHRP,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,182.0
+2014.0,SI_COV_SOCHRP,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,198.0
+2015.0,SI_COV_SOCHRP,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,167.0
+2016.0,SI_COV_SOCHRP,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,167.0
+2017.0,SI_COV_SOCHRP,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,194.0
+2018.0,SI_COV_SOCHRP,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,192.0
+2019.0,SI_COV_SOCHRP,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,168.0
+2020.0,SI_COV_SOCHRP,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,175.0
+2021.0,SI_COV_SOCHRP,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,159.0
+2012.0,SI_COV_SOCHRP,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,211.0
+2013.0,SI_COV_SOCHRP,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,211.0
+2014.0,SI_COV_SOCHRP,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,228.0
+2015.0,SI_COV_SOCHRP,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,189.0
+2016.0,SI_COV_SOCHRP,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,189.0
+2017.0,SI_COV_SOCHRP,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,198.0
+2018.0,SI_COV_SOCHRP,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,198.0
+2019.0,SI_COV_SOCHRP,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,205.0
+2020.0,SI_COV_SOCHRP,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,195.0
+2021.0,SI_COV_SOCHRP,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,174.0
+2012.0,SI_COV_SOCHRP,Broj,Oba spola ili bez podjele po spolu,_OWCH,119.0
+2013.0,SI_COV_SOCHRP,Broj,Oba spola ili bez podjele po spolu,_OWCH,119.0
+2014.0,SI_COV_SOCHRP,Broj,Oba spola ili bez podjele po spolu,_OWCH,196.0
+2015.0,SI_COV_SOCHRP,Broj,Oba spola ili bez podjele po spolu,_OWCH,252.0
+2016.0,SI_COV_SOCHRP,Broj,Oba spola ili bez podjele po spolu,_OWCH,259.0
+2017.0,SI_COV_SOCHRP,Broj,Oba spola ili bez podjele po spolu,_OWCH,272.0
+2018.0,SI_COV_SOCHRP,Broj,Oba spola ili bez podjele po spolu,_OWCH,223.0
+2019.0,SI_COV_SOCHRP,Broj,Oba spola ili bez podjele po spolu,_OWCH,210.0
+2020.0,SI_COV_SOCHRP,Broj,Oba spola ili bez podjele po spolu,_OWCH,206.0
+2021.0,SI_COV_SOCHRP,Broj,Oba spola ili bez podjele po spolu,_OWCH,208.0
+2012.0,SI_COV_SOCHRP,Broj,Muškarci,_OWCH,61.0
+2013.0,SI_COV_SOCHRP,Broj,Muškarci,_OWCH,61.0
+2014.0,SI_COV_SOCHRP,Broj,Muškarci,_OWCH,101.0
+2015.0,SI_COV_SOCHRP,Broj,Muškarci,_OWCH,127.0
+2016.0,SI_COV_SOCHRP,Broj,Muškarci,_OWCH,135.0
+2017.0,SI_COV_SOCHRP,Broj,Muškarci,_OWCH,137.0
+2018.0,SI_COV_SOCHRP,Broj,Muškarci,_OWCH,117.0
+2019.0,SI_COV_SOCHRP,Broj,Muškarci,_OWCH,96.0
+2020.0,SI_COV_SOCHRP,Broj,Muškarci,_OWCH,102.0
+2021.0,SI_COV_SOCHRP,Broj,Muškarci,_OWCH,99.0
+2012.0,SI_COV_SOCHRP,Broj,Žene,_OWCH,58.0
+2013.0,SI_COV_SOCHRP,Broj,Žene,_OWCH,58.0
+2014.0,SI_COV_SOCHRP,Broj,Žene,_OWCH,95.0
+2015.0,SI_COV_SOCHRP,Broj,Žene,_OWCH,125.0
+2016.0,SI_COV_SOCHRP,Broj,Žene,_OWCH,124.0
+2017.0,SI_COV_SOCHRP,Broj,Žene,_OWCH,135.0
+2018.0,SI_COV_SOCHRP,Broj,Žene,_OWCH,106.0
+2019.0,SI_COV_SOCHRP,Broj,Žene,_OWCH,114.0
+2020.0,SI_COV_SOCHRP,Broj,Žene,_OWCH,104.0
+2021.0,SI_COV_SOCHRP,Broj,Žene,_OWCH,109.0
+2012.0,SI_COV_SOCHHLP,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,285.0
+2013.0,SI_COV_SOCHHLP,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,285.0
+2014.0,SI_COV_SOCHHLP,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,217.0
+2015.0,SI_COV_SOCHHLP,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,217.0
+2016.0,SI_COV_SOCHHLP,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,237.0
+2017.0,SI_COV_SOCHHLP,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,220.0
+2018.0,SI_COV_SOCHHLP,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,201.0
+2019.0,SI_COV_SOCHHLP,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,233.0
+2020.0,SI_COV_SOCHHLP,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,186.0
+2021.0,SI_COV_SOCHHLP,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,152.0
+2012.0,SI_COV_SOCHHLP,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,123.0
+2013.0,SI_COV_SOCHHLP,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,123.0
+2014.0,SI_COV_SOCHHLP,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,55.0
+2015.0,SI_COV_SOCHHLP,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,58.0
+2016.0,SI_COV_SOCHHLP,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,67.0
+2017.0,SI_COV_SOCHHLP,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,102.0
+2018.0,SI_COV_SOCHHLP,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,100.0
+2019.0,SI_COV_SOCHHLP,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,69.0
+2020.0,SI_COV_SOCHHLP,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,66.0
+2021.0,SI_COV_SOCHHLP,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,63.0
+2012.0,SI_COV_SOCHHLP,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,163.0
+2013.0,SI_COV_SOCHHLP,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,163.0
+2014.0,SI_COV_SOCHHLP,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,162.0
+2015.0,SI_COV_SOCHHLP,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,159.0
+2016.0,SI_COV_SOCHHLP,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,170.0
+2017.0,SI_COV_SOCHHLP,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,118.0
+2018.0,SI_COV_SOCHHLP,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,101.0
+2019.0,SI_COV_SOCHHLP,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,164.0
+2020.0,SI_COV_SOCHHLP,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,120.0
+2021.0,SI_COV_SOCHHLP,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,89.0
+2012.0,SI_COV_SOCHHLP,Broj,Oba spola ili bez podjele po spolu,_OWCH,15.0
+2013.0,SI_COV_SOCHHLP,Broj,Oba spola ili bez podjele po spolu,_OWCH,15.0
+2014.0,SI_COV_SOCHHLP,Broj,Oba spola ili bez podjele po spolu,_OWCH,7.0
+2015.0,SI_COV_SOCHHLP,Broj,Oba spola ili bez podjele po spolu,_OWCH,6.0
+2016.0,SI_COV_SOCHHLP,Broj,Oba spola ili bez podjele po spolu,_OWCH,5.0
+2017.0,SI_COV_SOCHHLP,Broj,Oba spola ili bez podjele po spolu,_OWCH,17.0
+2018.0,SI_COV_SOCHHLP,Broj,Oba spola ili bez podjele po spolu,_OWCH,1.0
+2019.0,SI_COV_SOCHHLP,Broj,Oba spola ili bez podjele po spolu,_OWCH,1.0
+2020.0,SI_COV_SOCHHLP,Broj,Oba spola ili bez podjele po spolu,_OWCH,0.0
+2021.0,SI_COV_SOCHHLP,Broj,Oba spola ili bez podjele po spolu,_OWCH,0.0
+2012.0,SI_COV_SOCHHLP,Broj,Muškarci,_OWCH,11.0
+2013.0,SI_COV_SOCHHLP,Broj,Muškarci,_OWCH,11.0
+2014.0,SI_COV_SOCHHLP,Broj,Muškarci,_OWCH,5.0
+2015.0,SI_COV_SOCHHLP,Broj,Muškarci,_OWCH,2.0
+2016.0,SI_COV_SOCHHLP,Broj,Muškarci,_OWCH,2.0
+2017.0,SI_COV_SOCHHLP,Broj,Muškarci,_OWCH,5.0
+2018.0,SI_COV_SOCHHLP,Broj,Muškarci,_OWCH,0.0
+2019.0,SI_COV_SOCHHLP,Broj,Muškarci,_OWCH,0.0
+2020.0,SI_COV_SOCHHLP,Broj,Muškarci,_OWCH,0.0
+2021.0,SI_COV_SOCHHLP,Broj,Muškarci,_OWCH,0.0
+2012.0,SI_COV_SOCHHLP,Broj,Žene,_OWCH,4.0
+2013.0,SI_COV_SOCHHLP,Broj,Žene,_OWCH,4.0
+2014.0,SI_COV_SOCHHLP,Broj,Žene,_OWCH,2.0
+2015.0,SI_COV_SOCHHLP,Broj,Žene,_OWCH,4.0
+2016.0,SI_COV_SOCHHLP,Broj,Žene,_OWCH,3.0
+2017.0,SI_COV_SOCHHLP,Broj,Žene,_OWCH,12.0
+2018.0,SI_COV_SOCHHLP,Broj,Žene,_OWCH,1.0
+2019.0,SI_COV_SOCHHLP,Broj,Žene,_OWCH,1.0
+2020.0,SI_COV_SOCHHLP,Broj,Žene,_OWCH,0.0
+2021.0,SI_COV_SOCHHLP,Broj,Žene,_OWCH,0.0
+2012.0,SI_COV_SOCDC,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,70.0
+2013.0,SI_COV_SOCDC,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,70.0
+2014.0,SI_COV_SOCDC,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,230.0
+2015.0,SI_COV_SOCDC,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,178.0
+2016.0,SI_COV_SOCDC,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,209.0
+2017.0,SI_COV_SOCDC,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,286.0
+2018.0,SI_COV_SOCDC,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,312.0
+2019.0,SI_COV_SOCDC,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,395.0
+2020.0,SI_COV_SOCDC,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,335.0
+2021.0,SI_COV_SOCDC,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,433.0
+2012.0,SI_COV_SOCDC,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,39.0
+2013.0,SI_COV_SOCDC,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,39.0
+2014.0,SI_COV_SOCDC,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,120.0
+2015.0,SI_COV_SOCDC,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,105.0
+2016.0,SI_COV_SOCDC,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,128.0
+2017.0,SI_COV_SOCDC,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,163.0
+2018.0,SI_COV_SOCDC,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,180.0
+2019.0,SI_COV_SOCDC,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,209.0
+2020.0,SI_COV_SOCDC,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,157.0
+2021.0,SI_COV_SOCDC,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,255.0
+2012.0,SI_COV_SOCDC,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,31.0
+2013.0,SI_COV_SOCDC,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,31.0
+2014.0,SI_COV_SOCDC,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,110.0
+2015.0,SI_COV_SOCDC,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,73.0
+2016.0,SI_COV_SOCDC,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,81.0
+2017.0,SI_COV_SOCDC,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,123.0
+2018.0,SI_COV_SOCDC,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,132.0
+2019.0,SI_COV_SOCDC,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,186.0
+2020.0,SI_COV_SOCDC,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,178.0
+2021.0,SI_COV_SOCDC,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,178.0
+2012.0,SI_COV_SOCDC,Broj,Oba spola ili bez podjele po spolu,_OWCH,52.0
+2013.0,SI_COV_SOCDC,Broj,Oba spola ili bez podjele po spolu,_OWCH,52.0
+2014.0,SI_COV_SOCDC,Broj,Oba spola ili bez podjele po spolu,_OWCH,143.0
+2015.0,SI_COV_SOCDC,Broj,Oba spola ili bez podjele po spolu,_OWCH,137.0
+2016.0,SI_COV_SOCDC,Broj,Oba spola ili bez podjele po spolu,_OWCH,125.0
+2017.0,SI_COV_SOCDC,Broj,Oba spola ili bez podjele po spolu,_OWCH,157.0
+2018.0,SI_COV_SOCDC,Broj,Oba spola ili bez podjele po spolu,_OWCH,107.0
+2019.0,SI_COV_SOCDC,Broj,Oba spola ili bez podjele po spolu,_OWCH,127.0
+2020.0,SI_COV_SOCDC,Broj,Oba spola ili bez podjele po spolu,_OWCH,161.0
+2021.0,SI_COV_SOCDC,Broj,Oba spola ili bez podjele po spolu,_OWCH,192.0
+2012.0,SI_COV_SOCDC,Broj,Muškarci,_OWCH,27.0
+2013.0,SI_COV_SOCDC,Broj,Muškarci,_OWCH,27.0
+2014.0,SI_COV_SOCDC,Broj,Muškarci,_OWCH,81.0
+2015.0,SI_COV_SOCDC,Broj,Muškarci,_OWCH,77.0
+2016.0,SI_COV_SOCDC,Broj,Muškarci,_OWCH,72.0
+2017.0,SI_COV_SOCDC,Broj,Muškarci,_OWCH,83.0
+2018.0,SI_COV_SOCDC,Broj,Muškarci,_OWCH,62.0
+2019.0,SI_COV_SOCDC,Broj,Muškarci,_OWCH,65.0
+2020.0,SI_COV_SOCDC,Broj,Muškarci,_OWCH,85.0
+2021.0,SI_COV_SOCDC,Broj,Muškarci,_OWCH,137.0
+2012.0,SI_COV_SOCDC,Broj,Žene,_OWCH,25.0
+2013.0,SI_COV_SOCDC,Broj,Žene,_OWCH,25.0
+2014.0,SI_COV_SOCDC,Broj,Žene,_OWCH,62.0
+2015.0,SI_COV_SOCDC,Broj,Žene,_OWCH,60.0
+2016.0,SI_COV_SOCDC,Broj,Žene,_OWCH,53.0
+2017.0,SI_COV_SOCDC,Broj,Žene,_OWCH,74.0
+2018.0,SI_COV_SOCDC,Broj,Žene,_OWCH,45.0
+2019.0,SI_COV_SOCDC,Broj,Žene,_OWCH,62.0
+2020.0,SI_COV_SOCDC,Broj,Žene,_OWCH,76.0
+2021.0,SI_COV_SOCDC,Broj,Žene,_OWCH,55.0
+2012.0,SI_COV_SOCOTFA,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,11586.0
+2013.0,SI_COV_SOCOTFA,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,11586.0
+2014.0,SI_COV_SOCOTFA,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,11413.0
+2015.0,SI_COV_SOCOTFA,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,11105.0
+2016.0,SI_COV_SOCOTFA,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,11301.0
+2017.0,SI_COV_SOCOTFA,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,10481.0
+2018.0,SI_COV_SOCOTFA,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,11418.0
+2019.0,SI_COV_SOCOTFA,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,9732.0
+2020.0,SI_COV_SOCOTFA,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,9735.0
+2021.0,SI_COV_SOCOTFA,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,9152.0
+2012.0,SI_COV_SOCOTFA,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,5566.0
+2013.0,SI_COV_SOCOTFA,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,5566.0
+2014.0,SI_COV_SOCOTFA,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,5516.0
+2015.0,SI_COV_SOCOTFA,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,5480.0
+2016.0,SI_COV_SOCOTFA,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,5534.0
+2017.0,SI_COV_SOCOTFA,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,5020.0
+2018.0,SI_COV_SOCOTFA,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,5340.0
+2019.0,SI_COV_SOCOTFA,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,4726.0
+2020.0,SI_COV_SOCOTFA,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,4787.0
+2021.0,SI_COV_SOCOTFA,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,4360.0
+2012.0,SI_COV_SOCOTFA,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,6020.0
+2013.0,SI_COV_SOCOTFA,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,6020.0
+2014.0,SI_COV_SOCOTFA,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,5897.0
+2015.0,SI_COV_SOCOTFA,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,5625.0
+2016.0,SI_COV_SOCOTFA,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,5767.0
+2017.0,SI_COV_SOCOTFA,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,5461.0
+2018.0,SI_COV_SOCOTFA,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,6078.0
+2019.0,SI_COV_SOCOTFA,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,5006.0
+2020.0,SI_COV_SOCOTFA,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,4948.0
+2021.0,SI_COV_SOCOTFA,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,4792.0
+2012.0,SI_COV_SOCOTFA,Broj,Oba spola ili bez podjele po spolu,_OWCH,1836.0
+2013.0,SI_COV_SOCOTFA,Broj,Oba spola ili bez podjele po spolu,_OWCH,1836.0
+2014.0,SI_COV_SOCOTFA,Broj,Oba spola ili bez podjele po spolu,_OWCH,1172.0
+2015.0,SI_COV_SOCOTFA,Broj,Oba spola ili bez podjele po spolu,_OWCH,657.0
+2016.0,SI_COV_SOCOTFA,Broj,Oba spola ili bez podjele po spolu,_OWCH,752.0
+2017.0,SI_COV_SOCOTFA,Broj,Oba spola ili bez podjele po spolu,_OWCH,783.0
+2018.0,SI_COV_SOCOTFA,Broj,Oba spola ili bez podjele po spolu,_OWCH,625.0
+2019.0,SI_COV_SOCOTFA,Broj,Oba spola ili bez podjele po spolu,_OWCH,643.0
+2020.0,SI_COV_SOCOTFA,Broj,Oba spola ili bez podjele po spolu,_OWCH,560.0
+2021.0,SI_COV_SOCOTFA,Broj,Oba spola ili bez podjele po spolu,_OWCH,575.0
+2012.0,SI_COV_SOCOTFA,Broj,Muškarci,_OWCH,839.0
+2013.0,SI_COV_SOCOTFA,Broj,Muškarci,_OWCH,839.0
+2014.0,SI_COV_SOCOTFA,Broj,Muškarci,_OWCH,534.0
+2015.0,SI_COV_SOCOTFA,Broj,Muškarci,_OWCH,319.0
+2016.0,SI_COV_SOCOTFA,Broj,Muškarci,_OWCH,395.0
+2017.0,SI_COV_SOCOTFA,Broj,Muškarci,_OWCH,357.0
+2018.0,SI_COV_SOCOTFA,Broj,Muškarci,_OWCH,289.0
+2019.0,SI_COV_SOCOTFA,Broj,Muškarci,_OWCH,373.0
+2020.0,SI_COV_SOCOTFA,Broj,Muškarci,_OWCH,268.0
+2021.0,SI_COV_SOCOTFA,Broj,Muškarci,_OWCH,293.0
+2012.0,SI_COV_SOCOTFA,Broj,Žene,_OWCH,997.0
+2013.0,SI_COV_SOCOTFA,Broj,Žene,_OWCH,997.0
+2014.0,SI_COV_SOCOTFA,Broj,Žene,_OWCH,638.0
+2015.0,SI_COV_SOCOTFA,Broj,Žene,_OWCH,338.0
+2016.0,SI_COV_SOCOTFA,Broj,Žene,_OWCH,357.0
+2017.0,SI_COV_SOCOTFA,Broj,Žene,_OWCH,426.0
+2018.0,SI_COV_SOCOTFA,Broj,Žene,_OWCH,336.0
+2019.0,SI_COV_SOCOTFA,Broj,Žene,_OWCH,270.0
+2020.0,SI_COV_SOCOTFA,Broj,Žene,_OWCH,292.0
+2021.0,SI_COV_SOCOTFA,Broj,Žene,_OWCH,282.0
+2018.0,SI_COV_SOCPDPENS,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,4192.0
+2019.0,SI_COV_SOCPDPENS,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,4944.0
+2020.0,SI_COV_SOCPDPENS,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,6278.0
+2021.0,SI_COV_SOCPDPENS,Broj,Oba spola ili bez podjele po spolu,Svi dobni rasponi ili nema podjele po godinama,6727.0
+2018.0,SI_COV_SOCPDPENS,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,2233.0
+2019.0,SI_COV_SOCPDPENS,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,2843.0
+2020.0,SI_COV_SOCPDPENS,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,3665.0
+2021.0,SI_COV_SOCPDPENS,Broj,Muškarci,Svi dobni rasponi ili nema podjele po godinama,3953.0
+2018.0,SI_COV_SOCPDPENS,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,1959.0
+2019.0,SI_COV_SOCPDPENS,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,2101.0
+2020.0,SI_COV_SOCPDPENS,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,2613.0
+2021.0,SI_COV_SOCPDPENS,Broj,Žene,Svi dobni rasponi ili nema podjele po godinama,2774.0
+2018.0,SI_COV_SOCPDPENS,Broj,Oba spola ili bez podjele po spolu,_OWCH,1048.0
+2019.0,SI_COV_SOCPDPENS,Broj,Oba spola ili bez podjele po spolu,_OWCH,1214.0
+2020.0,SI_COV_SOCPDPENS,Broj,Oba spola ili bez podjele po spolu,_OWCH,1445.0
+2021.0,SI_COV_SOCPDPENS,Broj,Oba spola ili bez podjele po spolu,_OWCH,1626.0
+2018.0,SI_COV_SOCPDPENS,Broj,Muškarci,_OWCH,670.0
+2019.0,SI_COV_SOCPDPENS,Broj,Muškarci,_OWCH,777.0
+2020.0,SI_COV_SOCPDPENS,Broj,Muškarci,_OWCH,912.0
+2021.0,SI_COV_SOCPDPENS,Broj,Muškarci,_OWCH,1019.0
+2018.0,SI_COV_SOCPDPENS,Broj,Žene,_OWCH,378.0
+2019.0,SI_COV_SOCPDPENS,Broj,Žene,_OWCH,437.0
+2020.0,SI_COV_SOCPDPENS,Broj,Žene,_OWCH,533.0
+2021.0,SI_COV_SOCPDPENS,Broj,Žene,_OWCH,607.0
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,

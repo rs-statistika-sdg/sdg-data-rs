@@ -1,1 +1,9 @@
-Year,Value
+Year,SERIES,UNIT_MEASURE,Degree of urbanisation,Value
+2011,EN_LND_DWPDW,Percent,Total,27.0
+2015,EN_LND_DWPDW,Percent,Total,25.1
+2011,EN_LND_DWPDAMP,Percent,Total,33.9
+2015,EN_LND_DWPDAMP,Percent,Total,36.2
+2011,EN_LND_DWPROOF,Percent,Total,15.4
+2015,EN_LND_DWPROOF,Percent,Total,11.9
+2011,EN_LND_DWPNOISE,Percent,Total,10.6
+2015,EN_LND_DWPNOISE,Percent,Total,2.0

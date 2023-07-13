@@ -1,1 +1,6 @@
-Year,Value
+Year,SERIES,UNIT_MEASURE,Age,Sex,Value
+2010,SH_PRV_SMOKA,Percent,>18Y,Both sexes or no breakdown by sex,28.7
+2012,SH_PRV_SMOKA,Percent,15 to 49 years old,Male,34.3
+2012,SH_PRV_SMOKA,Percent,15 to 49 years old,Female,26.3
+2015,SH_PRV_SMOKA,Percent,>15Y,Both sexes or no breakdown by sex,24.6
+2018,SH_PRV_SMOKC,Percent,Y13T15,Both sexes or no breakdown by sex,11.8

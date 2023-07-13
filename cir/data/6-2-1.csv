@@ -1,1 +1,20 @@
-Year,Value
+Year,SERIES,UNIT_MEASURE,Степен урбанизације,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Value
+2011.0,SH_SAN_SAFEHH_BATH,Проценат,Укупно,,,,,,,,91.1
+2011.0,SH_SAN_SAFEHH_BATH,Проценат,Урбано,,,,,,,,98.8
+2011.0,SH_SAN_SAFEHH_BATH,Проценат,O,,,,,,,,86.2
+2015.0,SH_SAN_SAFEHH_BATH,Проценат,Укупно,,,,,,,,94.1
+2015.0,SH_SAN_SAFEHH_BATH,Проценат,Урбано,,,,,,,,98.7
+2015.0,SH_SAN_SAFEHH_BATH,Проценат,O,,,,,,,,91.1
+2011.0,SH_SAN_SAFEHH_WC,Проценат,Укупно,,,,,,,,22.2
+2011.0,SH_SAN_SAFEHH_WC,Проценат,Урбано,,,,,,,,27.6
+2011.0,SH_SAN_SAFEHH_WC,Проценат,O,,,,,,,,18.7
+2015.0,SH_SAN_SAFEHH_WC,Проценат,Укупно,,,,,,,,88.1
+2015.0,SH_SAN_SAFEHH_WC,Проценат,Урбано,,,,,,,,89.9
+2015.0,SH_SAN_SAFEHH_WC,Проценат,O,,,,,,,,87.0
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,

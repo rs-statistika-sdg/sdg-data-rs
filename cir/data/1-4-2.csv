@@ -1,1 +1,37 @@
-Year,Value
+Year,SERIES,UNIT_MEASURE,Пол,Value
+2018,SP_LGL_LNDDOC_SOLO,Број,Оба пола или без подјеле по полу,301791
+2019,SP_LGL_LNDDOC_SOLO,Број,Оба пола или без подјеле по полу,322053
+2020,SP_LGL_LNDDOC_SOLO,Број,Оба пола или без подјеле по полу,335470
+2021,SP_LGL_LNDDOC_SOLO,Број,Оба пола или без подјеле по полу,486196
+2018,SP_LGL_LNDDOC_SOLO,Број,Мушкарци,221528
+2019,SP_LGL_LNDDOC_SOLO,Број,Мушкарци,235748
+2020,SP_LGL_LNDDOC_SOLO,Број,Мушкарци,238185
+2021,SP_LGL_LNDDOC_SOLO,Број,Мушкарци,349368
+2018,SP_LGL_LNDDOC_SOLO,Број,Жене,80263
+2019,SP_LGL_LNDDOC_SOLO,Број,Жене,86305
+2020,SP_LGL_LNDDOC_SOLO,Број,Жене,97285
+2021,SP_LGL_LNDDOC_SOLO,Број,Жене,136828
+2018,SP_LGL_LNDDOC_COHFR,Број,Оба пола или без подјеле по полу,112670
+2019,SP_LGL_LNDDOC_COHFR,Број,Оба пола или без подјеле по полу,113906
+2020,SP_LGL_LNDDOC_COHFR,Број,Оба пола или без подјеле по полу,113369
+2021,SP_LGL_LNDDOC_COHFR,Број,Оба пола или без подјеле по полу,168688
+2018,SP_LGL_LNDDOC_COHFR,Број,Мушкарци,75233
+2019,SP_LGL_LNDDOC_COHFR,Број,Мушкарци,75664
+2020,SP_LGL_LNDDOC_COHFR,Број,Мушкарци,72449
+2021,SP_LGL_LNDDOC_COHFR,Број,Мушкарци,107719
+2018,SP_LGL_LNDDOC_COHFR,Број,Жене,37437
+2019,SP_LGL_LNDDOC_COHFR,Број,Жене,38242
+2020,SP_LGL_LNDDOC_COHFR,Број,Жене,40920
+2021,SP_LGL_LNDDOC_COHFR,Број,Жене,60969
+2018,SP_LGL_LNDDOC_COUHFR,Број,Оба пола или без подјеле по полу,293012
+2019,SP_LGL_LNDDOC_COUHFR,Број,Оба пола или без подјеле по полу,330384
+2020,SP_LGL_LNDDOC_COUHFR,Број,Оба пола или без подјеле по полу,343529
+2021,SP_LGL_LNDDOC_COUHFR,Број,Оба пола или без подјеле по полу,295914
+2018,SP_LGL_LNDDOC_COUHFR,Број,Мушкарци,175091
+2019,SP_LGL_LNDDOC_COUHFR,Број,Мушкарци,195662
+2020,SP_LGL_LNDDOC_COUHFR,Број,Мушкарци,201559
+2021,SP_LGL_LNDDOC_COUHFR,Број,Мушкарци,164842
+2018,SP_LGL_LNDDOC_COUHFR,Број,Жене,117921
+2019,SP_LGL_LNDDOC_COUHFR,Број,Жене,134722
+2020,SP_LGL_LNDDOC_COUHFR,Број,Жене,141970
+2021,SP_LGL_LNDDOC_COUHFR,Број,Жене,131072

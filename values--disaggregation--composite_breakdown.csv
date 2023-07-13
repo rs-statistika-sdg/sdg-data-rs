@@ -1,0 +1,72 @@
+Value,en,lat,cir,Disaggregation combinations using this value,Number of indicators
+_T,No breakdown,Bez podjele,_T,7,4
+BNK_FBIHURS,BNK_FBIHURS,BNK_FBIHURS,BNK_FBIHURS,6,1
+BNK_RS,BNK_RS,BNK_RS,BNK_RS,6,1
+BNK_T,BNK_T,BNK_T,BNK_T,6,1
+BOSNA,BOSNA,BOSNA,BOSNA,3,1
+CHDEV_DOMAIN_00,CHDEV_DOMAIN_00,CHDEV_DOMAIN_00,CHDEV_DOMAIN_00,1,1
+CHDEV_DOMAIN_01,CHDEV_DOMAIN_01,CHDEV_DOMAIN_01,CHDEV_DOMAIN_01,1,1
+CHDEV_DOMAIN_02,CHDEV_DOMAIN_02,CHDEV_DOMAIN_02,CHDEV_DOMAIN_02,1,1
+CHDEV_DOMAIN_03,CHDEV_DOMAIN_03,CHDEV_DOMAIN_03,CHDEV_DOMAIN_03,1,1
+CHDEV_DOMAIN_04,CHDEV_DOMAIN_04,CHDEV_DOMAIN_04,CHDEV_DOMAIN_04,1,1
+DRINA,DRINA,DRINA,DRINA,3,1
+EMPS_ICT_00,EMPS_ICT_00,EMPS_ICT_00,EMPS_ICT_00,1,1
+EMPS_ICT_01,EMPS_ICT_01,EMPS_ICT_01,EMPS_ICT_01,1,1
+EMPS_ICT_02,EMPS_ICT_02,EMPS_ICT_02,EMPS_ICT_02,1,1
+EMPS_ICT_03,EMPS_ICT_03,EMPS_ICT_03,EMPS_ICT_03,1,1
+IHR_01,"National legislation, policy and financing","Nacionalno zakonodavstvo, politika i finansiranje","Национално законодавство, политика и финансирање",1,1
+IHR_02,Coordination and National Focal Point communications,Koordinacija i nacionalna kontakt tačka za komunikaciju,Координација и национална контакт тачка за комуникацију,1,1
+IHR_03,Surveillance,Nadzor,Надзор,1,1
+IHR_04,Response,Odgovor,Одговор,1,1
+IHR_05,Preparedness,Spremnost,Спремност,1,1
+IHR_06,Risk communication,Komunikacija o riziku,Комуникација о ризику,1,1
+IHR_07,Human resources,Ljudski resursi,Људски ресурси,1,1
+IHR_08,Laboratory,Laboratorija,Лабораторија,1,1
+IHR_09,Points of entry,Tačke ulaska,Тачке уласка,1,1
+IHR_10,Zoonotic events,Zoonotski događaji,Зоонотски догађаји,1,1
+IHR_11,Food safety,Sigurnost hrane,Сигурност хране,1,1
+IHR_12,Chemical events,Hemijski događaji,Хемијски догађаји,1,1
+IHR_13,Radionuclear emergencies,Vanredne situacije u vezi sa zračenjem,Ванредне ситуације у вези са зрачењем,1,1
+MOT_RAI,Rail,Željeznički,Жељезнички,4,1
+MOT_ROA,Road,Cestovni,Друмски,4,1
+NERETVA,NERETVA,NERETVA,NERETVA,3,1
+RD_SECBUS,RD_SECBUS,RD_SECBUS,RD_SECBUS,1,1
+RD_SECGOV,RD_SECGOV,RD_SECGOV,RD_SECGOV,1,1
+RD_SECHEDU,RD_SECHEDU,RD_SECHEDU,RD_SECHEDU,1,1
+RD_SECNPT,RD_SECNPT,RD_SECNPT,RD_SECNPT,1,1
+RSK_LST_01,RSK_LST_01,RSK_LST_01,RSK_LST_01,1,1
+RSK_LST_02,RSK_LST_02,RSK_LST_02,RSK_LST_02,1,1
+RSK_LST_03,RSK_LST_03,RSK_LST_03,RSK_LST_03,1,1
+RSK_LST_04,RSK_LST_04,RSK_LST_04,RSK_LST_04,1,1
+RSK_LST_05,RSK_LST_05,RSK_LST_05,RSK_LST_05,1,1
+RSK_LST_06,RSK_LST_06,RSK_LST_06,RSK_LST_06,1,1
+RSK_LST_07,RSK_LST_07,RSK_LST_07,RSK_LST_07,1,1
+SAVA,SAVA,SAVA,SAVA,3,1
+SPAR_01,Legislation and Financing,Zakonodavstvo i finansiranje,Законодавство и финансирање,1,1
+SPAR_02,IHR Coordination and National IHR Focal Point Functions,Koordinacija Međunarodnih zdravstvenih propisa (IHR) i nacionalne funkcije kontakt osoba za IHR,Координација Међународних здравствених прописа (IHR) и националне функције контакт лица за IHR,1,1
+SPAR_03,Zoonotic events and the human–animal interface,Zoonotski događaji i sučelje čovjeka i životinje,Зоонотски догађаји и сучеље човјека и животиње,1,1
+SPAR_04,Food safety,Sigurnost hrane,Сигурност хране,1,1
+SPAR_05,Laboratory,Laboratorija,Лабораторија,1,1
+SPAR_06,Surveillance,Nadzor,Надзор,1,1
+SPAR_07,Human resources,Ljudski resursi,Људски ресурси,1,1
+SPAR_08,National Health Emergency Framework,Nacionalni okvir za hitnu medicinsku pomoć,Национални оквир за хитну медицинску помоћ,1,1
+SPAR_09,Health Service Provision,Pružanje zdravstvene usluge,Пружање здравствене услуге,1,1
+SPAR_10,Risk Communication,Komunikacija o riziku,Комуникација о ризику,1,1
+SPAR_11,Points of entry,Tačke ulaska,Тачке уласка,1,1
+SPAR_12,Chemical events,Hemijski događaji,Хемијски догађаји,1,1
+SPAR_13,Radiation emergencies,Vanredne situacije u vezi sa zračenjem,Ванредне ситуације у вези са зрачењем_,1,1
+TREBISNJICA,TREBISNJICA,TREBISNJICA,TREBISNJICA,3,1
+TUR_EMP_ACC,TUR_EMP_ACC,TUR_EMP_ACC,TUR_EMP_ACC,1,1
+TUR_EMP_FCA,TUR_EMP_FCA,TUR_EMP_FCA,TUR_EMP_FCA,1,1
+UKRINA,UKRINA,UKRINA,UKRINA,3,1
+UNA,UNA,UNA,UNA,3,1
+UNK,UNK,UNK,UNK,1,1
+VAW_PHYSIC,VAW_PHYSIC,VAW_PHYSIC,VAW_PHYSIC,2,1
+VAW_PSYCH,VAW_PSYCH,VAW_PSYCH,VAW_PSYCH,2,1
+VAW_SEX,VAW_SEX,VAW_SEX,VAW_SEX,2,1
+VC_HTF_01,VC_HTF_01,VC_HTF_01,VC_HTF_01,1,1
+VC_HTF_02,VC_HTF_02,VC_HTF_02,VC_HTF_02,1,1
+VC_HTF_03,VC_HTF_03,VC_HTF_03,VC_HTF_03,1,1
+VC_HTFET_01,VC_HTFET_01,VC_HTFET_01,VC_HTFET_01,1,1
+VC_HTFET_02,VC_HTFET_02,VC_HTFET_02,VC_HTFET_02,1,1
+VRBAS,VRBAS,VRBAS,VRBAS,3,1

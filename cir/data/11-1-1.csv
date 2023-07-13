@@ -1,1 +1,9 @@
-Year,Value
+Year,SERIES,UNIT_MEASURE,Степен урбанизације,Value
+2011,EN_LND_DWPDW,Проценат,Укупно,27.0
+2015,EN_LND_DWPDW,Проценат,Укупно,25.1
+2011,EN_LND_DWPDAMP,Проценат,Укупно,33.9
+2015,EN_LND_DWPDAMP,Проценат,Укупно,36.2
+2011,EN_LND_DWPROOF,Проценат,Укупно,15.4
+2015,EN_LND_DWPROOF,Проценат,Укупно,11.9
+2011,EN_LND_DWPNOISE,Проценат,Укупно,10.6
+2015,EN_LND_DWPNOISE,Проценат,Укупно,2.0

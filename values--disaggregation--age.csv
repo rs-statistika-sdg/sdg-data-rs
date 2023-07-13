@@ -1,4 +1,42 @@
 Value,en,lat,cir,Disaggregation combinations using this value,Number of indicators
+>15Y,>15Y,>15Y,>15Y,1,1
+>18Y,>18Y,>18Y,>18Y,1,1
+_A,_A,_A,_A,4,2
+_M,_M,_M,_M,3,2
+_OWCH,_OWCH,_OWCH,_OWCH,24,1
+_T,All age ranges or no breakdown by age,Svi dobni rasponi ili nema podjele po godinama,Сви старосни распони или нема подјеле по годинама,39,3
+_U,Unknown,Nepoznato,Непознато,1,1
+M0,under 1 month old,Mlađi od 1 mjeseca,Млађи од 1 мјесеца,1,1
+Y0T4,under 5 years old,Ispod 5 godina,Испод 5 година,4,3
+Y0T6,Y0T6,Y0T6,Y0T6,3,1
+Y10T14,Y10T14,Y10T14,Y10T14,1,1
+Y13T15,Y13T15,Y13T15,Y13T15,1,1
+Y15T19,15 to 19 years old,15 do 19 godina,15 до 19 година,1,1
 Y15T24,15 to 24 years old,15 do 24 godine,15 до 24 године,3,1
-Y_GE15,15 years old and over,15 godina i više,15 година и више,3,1
-Y_GE25,25 years old and over,25 godina i više,25 година и више,3,1
+Y15T49,15 to 49 years old,15 do 49 godina,15 до 49 година,3,2
+Y15T64,Y15T64,Y15T64,Y15T64,3,1
+Y16T24,Y16T24,Y16T24,Y16T24,1,1
+Y20T29,Y20T29,Y20T29,Y20T29,1,1
+Y25T34,Y25T34,Y25T34,Y25T34,1,1
+Y25T49,Y25T49,Y25T49,Y25T49,3,1
+Y30T39,Y30T39,Y30T39,Y30T39,1,1
+Y35T44,Y35T44,Y35T44,Y35T44,1,1
+Y35T45,Y35T45,Y35T45,Y35T45,1,1
+Y35T46,Y35T46,Y35T46,Y35T46,1,1
+Y35T47,Y35T47,Y35T47,Y35T47,1,1
+Y35T48,Y35T48,Y35T48,Y35T48,1,1
+Y35T49,Y35T49,Y35T49,Y35T49,1,1
+Y35T50,Y35T50,Y35T50,Y35T50,1,1
+Y35T51,Y35T51,Y35T51,Y35T51,1,1
+Y40T49,Y40T49,Y40T49,Y40T49,1,1
+Y45T54,Y45T54,Y45T54,Y45T54,1,1
+Y4T6,Y4T6,Y4T6,Y4T6,1,1
+Y5,Y5,Y5,Y5,3,1
+Y50T59,Y50T59,Y50T59,Y50T59,1,1
+Y50T64,Y50T64,Y50T64,Y50T64,3,1
+Y55T64,Y55T64,Y55T64,Y55T64,1,1
+Y60T69,Y60T69,Y60T69,Y60T69,1,1
+Y65T74,Y65T74,Y65T74,Y65T74,1,1
+Y_GE15,15 years old and over,15 godina i više,15 година и више,12,3
+Y_GE18,18 years old and over,18 godina i više,18 година и више,6,1
+Y_GE65,Y_GE65,Y_GE65,Y_GE65,3,1

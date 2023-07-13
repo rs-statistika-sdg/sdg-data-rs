@@ -1,1 +1,5 @@
-Year,Value
+Year,SERIES,UNIT_MEASURE,Value
+2004,SI_POV_50M?HH,Проценат,8.2
+2007,SI_POV_50M?HH,Проценат,10.8
+2011,SI_POV_50M?HH,Проценат,8.0
+2015,SI_POV_50M?HH,Проценат,7.0

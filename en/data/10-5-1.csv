@@ -1,1 +1,73 @@
-Year,Value
+Year,SERIES,UNIT_MEASURE,Value
+2018,Regulatory Tier 1 capital to risk-weighted assets (%),Percent,16.21
+2019,Regulatory Tier 1 capital to risk-weighted assets (%),Percent,16.87
+2020,Regulatory Tier 1 capital to risk-weighted assets (%),Percent,17.52
+2021,Regulatory Tier 1 capital to risk-weighted assets (%),Percent,18.31
+2018,FI_FSI_FSRCER,Percent,17.66
+2019,FI_FSI_FSRCER,Percent,18.31
+2020,FI_FSI_FSRCER,Percent,19.33
+2021,FI_FSI_FSRCER,Percent,19.15
+2018,Regulatory capital to assets (%),Percent,12.44
+2019,Regulatory capital to assets (%),Percent,12.58
+2020,Regulatory capital to assets (%),Percent,12.39
+2021,Regulatory capital to assets (%),Percent,11.69
+2018,FI_FSI_FSNPA,Percent,7.17
+2019,FI_FSI_FSNPA,Percent,5.04
+2020,FI_FSI_FSNPA,Percent,3.62
+2021,FI_FSI_FSNPA,Percent,2.54
+2018,FI_FSI_FSNPALC,Percent,19.1
+2019,FI_FSI_FSNPALC,Percent,10.66
+2020,FI_FSI_FSNPALC,Percent,6.18
+2021,FI_FSI_FSNPALC,Percent,4.56
+2018,Non-performing loans net of provisions to capital (%),Percent,18.34
+2019,Non-performing loans net of provisions to capital (%),Percent,9.42
+2020,Non-performing loans net of provisions to capital (%),Percent,5.99
+2021,Non-performing loans net of provisions to capital (%),Percent,4.34
+2018,Non-performing loans to total gross loans (%),Percent,9.54
+2019,Non-performing loans to total gross loans (%),Percent,6.95
+2020,Non-performing loans to total gross loans (%),Percent,5.23
+2021,Non-performing loans to total gross loans (%),Percent,3.98
+2018,Return on assets (%),Percent,1.13
+2019,Return on assets (%),Percent,1.35
+2020,Return on assets (%),Percent,0.69
+2021,Return on assets (%),Percent,1.38
+2018,FI_FSI_FSERSC,Percent,8.79
+2019,FI_FSI_FSERSC,Percent,10.75
+2020,FI_FSI_FSERSC,Percent,5.5
+2021,FI_FSI_FSERSC,Percent,11.25
+2018,FI_FSI_FSINTIRI,Percent,60.65
+2019,FI_FSI_FSINTIRI,Percent,58.07
+2020,FI_FSI_FSINTIRI,Percent,58.87
+2021,FI_FSI_FSINTIRI,Percent,56.84
+2018,FI_FSI_FSINOIRE,Percent,78.24
+2019,FI_FSI_FSINOIRE,Percent,73.22
+2020,FI_FSI_FSINOIRE,Percent,85.81
+2021,FI_FSI_FSINOIRE,Percent,71.68
+2018,FI_FSI_FSLSTA,Percent,26.7
+2019,FI_FSI_FSLSTA,Percent,22.97
+2020,FI_FSI_FSLSTA,Percent,22.87
+2021,FI_FSI_FSLSTA,Percent,28.72
+2018,Liquid assets to short term liabilities (%),Percent,39.96
+2019,Liquid assets to short term liabilities (%),Percent,35.03
+2020,Liquid assets to short term liabilities (%),Percent,33.75
+2021,Liquid assets to short term liabilities (%),Percent,40.73
+2018,FI_FSI_FSLDC,Percent,105.98
+2019,FI_FSI_FSLDC,Percent,103.1
+2020,FI_FSI_FSLDC,Percent,106.81
+2021,FI_FSI_FSLDC,Percent,121.63
+2018,FI_FSI_FSSTL,Percent,76.4
+2019,FI_FSI_FSSTL,Percent,75.08
+2020,FI_FSI_FSSTL,Percent,77.44
+2021,FI_FSI_FSSTL,Percent,79.97
+2018,FI_FSI_FSSFCLN,Percent,69.01
+2019,FI_FSI_FSSFCLN,Percent,63.94
+2020,FI_FSI_FSSFCLN,Percent,62.38
+2021,FI_FSI_FSSFCLN,Percent,58.74
+2018,FI_FSI_FSFCLI,Percent,61.61
+2019,FI_FSI_FSFCLI,Percent,58.95
+2020,FI_FSI_FSFCLI,Percent,59.1
+2021,FI_FSI_FSFCLI,Percent,54.46
+2018,Net open position in foreign exchange to capital (%),Percent,3.06
+2019,Net open position in foreign exchange to capital (%),Percent,9.36
+2020,Net open position in foreign exchange to capital (%),Percent,6.38
+2021,Net open position in foreign exchange to capital (%),Percent,2.38

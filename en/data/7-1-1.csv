@@ -1,1 +1,7 @@
-Year,Value
+Year,SERIES,UNIT_MEASURE,Degree of urbanisation,Value
+2011,EG_ACS_ELECHH,Percent,Total,99.9
+2011,EG_ACS_ELECHH,Percent,Urban,99.9
+2011,EG_ACS_ELECHH,Percent,O,99.9
+2015,EG_ACS_ELECHH,Percent,Total,99.5
+2015,EG_ACS_ELECHH,Percent,Urban,99.7
+2015,EG_ACS_ELECHH,Percent,O,99.4

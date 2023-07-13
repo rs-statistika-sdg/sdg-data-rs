@@ -1,1 +1,79 @@
-Year,Value
+Year,SERIES,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
+2009,Research and development expenditure as a proportion of GDP,Percent,,0.3
+2010,Research and development expenditure as a proportion of GDP,Percent,,0.25
+2011,Research and development expenditure as a proportion of GDP,Percent,,0.3
+2012,Research and development expenditure as a proportion of GDP,Percent,,0.4
+2013,Research and development expenditure as a proportion of GDP,Percent,,0.56
+2014,Research and development expenditure as a proportion of GDP,Percent,,0.2
+2015,Research and development expenditure as a proportion of GDP,Percent,,0.19
+2016,Research and development expenditure as a proportion of GDP,Percent,,0.17
+2017,Research and development expenditure as a proportion of GDP,Percent,,0.17
+2018,Research and development expenditure as a proportion of GDP,Percent,,0.17
+2019,Research and development expenditure as a proportion of GDP,Percent,,0.16
+2020,Research and development expenditure as a proportion of GDP,Percent,,0.18
+2021,Research and development expenditure as a proportion of GDP,Percent,,0.2
+2009,GB_XPD_RSDSEC,in thousands of BAM,No breakdown,24566.0
+2010,GB_XPD_RSDSEC,in thousands of BAM,No breakdown,20779.0
+2011,GB_XPD_RSDSEC,in thousands of BAM,No breakdown,26191.0
+2012,GB_XPD_RSDSEC,in thousands of BAM,No breakdown,34297.0
+2013,GB_XPD_RSDSEC,in thousands of BAM,No breakdown,49035.0
+2014,GB_XPD_RSDSEC,in thousands of BAM,No breakdown,17839.0
+2015,GB_XPD_RSDSEC,in thousands of BAM,No breakdown,17935.0
+2016,GB_XPD_RSDSEC,in thousands of BAM,No breakdown,16736.0
+2017,GB_XPD_RSDSEC,in thousands of BAM,No breakdown,17196.0
+2018,GB_XPD_RSDSEC,in thousands of BAM,No breakdown,18341.0
+2019,GB_XPD_RSDSEC,in thousands of BAM,No breakdown,17687.0
+2020,GB_XPD_RSDSEC,in thousands of BAM,No breakdown,20289.0
+2021,GB_XPD_RSDSEC,in thousands of BAM,No breakdown,25394.0
+2009,GB_XPD_RSDSEC,in thousands of BAM,RD_SECBUS,10017.0
+2010,GB_XPD_RSDSEC,in thousands of BAM,RD_SECBUS,8520.0
+2011,GB_XPD_RSDSEC,in thousands of BAM,RD_SECBUS,15526.0
+2012,GB_XPD_RSDSEC,in thousands of BAM,RD_SECBUS,27430.0
+2013,GB_XPD_RSDSEC,in thousands of BAM,RD_SECBUS,43541.0
+2014,GB_XPD_RSDSEC,in thousands of BAM,RD_SECBUS,10614.0
+2015,GB_XPD_RSDSEC,in thousands of BAM,RD_SECBUS,9780.0
+2016,GB_XPD_RSDSEC,in thousands of BAM,RD_SECBUS,11376.0
+2017,GB_XPD_RSDSEC,in thousands of BAM,RD_SECBUS,10932.0
+2018,GB_XPD_RSDSEC,in thousands of BAM,RD_SECBUS,11173.0
+2019,GB_XPD_RSDSEC,in thousands of BAM,RD_SECBUS,9636.0
+2020,GB_XPD_RSDSEC,in thousands of BAM,RD_SECBUS,11693.0
+2021,GB_XPD_RSDSEC,in thousands of BAM,RD_SECBUS,13612.0
+2009,GB_XPD_RSDSEC,in thousands of BAM,RD_SECGOV,1670.0
+2010,GB_XPD_RSDSEC,in thousands of BAM,RD_SECGOV,2019.0
+2011,GB_XPD_RSDSEC,in thousands of BAM,RD_SECGOV,3592.0
+2012,GB_XPD_RSDSEC,in thousands of BAM,RD_SECGOV,1946.0
+2013,GB_XPD_RSDSEC,in thousands of BAM,RD_SECGOV,924.0
+2014,GB_XPD_RSDSEC,in thousands of BAM,RD_SECGOV,1598.0
+2015,GB_XPD_RSDSEC,in thousands of BAM,RD_SECGOV,2450.0
+2016,GB_XPD_RSDSEC,in thousands of BAM,RD_SECGOV,827.0
+2017,GB_XPD_RSDSEC,in thousands of BAM,RD_SECGOV,1425.0
+2018,GB_XPD_RSDSEC,in thousands of BAM,RD_SECGOV,1235.0
+2019,GB_XPD_RSDSEC,in thousands of BAM,RD_SECGOV,1357.0
+2020,GB_XPD_RSDSEC,in thousands of BAM,RD_SECGOV,1494.0
+2021,GB_XPD_RSDSEC,in thousands of BAM,RD_SECGOV,1609.0
+2009,GB_XPD_RSDSEC,in thousands of BAM,RD_SECHEDU,12879.0
+2010,GB_XPD_RSDSEC,in thousands of BAM,RD_SECHEDU,10091.0
+2011,GB_XPD_RSDSEC,in thousands of BAM,RD_SECHEDU,7031.0
+2012,GB_XPD_RSDSEC,in thousands of BAM,RD_SECHEDU,4875.0
+2013,GB_XPD_RSDSEC,in thousands of BAM,RD_SECHEDU,4464.0
+2014,GB_XPD_RSDSEC,in thousands of BAM,RD_SECHEDU,4845.0
+2015,GB_XPD_RSDSEC,in thousands of BAM,RD_SECHEDU,5225.0
+2016,GB_XPD_RSDSEC,in thousands of BAM,RD_SECHEDU,3954.0
+2017,GB_XPD_RSDSEC,in thousands of BAM,RD_SECHEDU,4425.0
+2018,GB_XPD_RSDSEC,in thousands of BAM,RD_SECHEDU,5291.0
+2019,GB_XPD_RSDSEC,in thousands of BAM,RD_SECHEDU,6661.0
+2020,GB_XPD_RSDSEC,in thousands of BAM,RD_SECHEDU,7102.0
+2021,GB_XPD_RSDSEC,in thousands of BAM,RD_SECHEDU,10173.0
+2009,GB_XPD_RSDSEC,in thousands of BAM,RD_SECNPT,0.0
+2010,GB_XPD_RSDSEC,in thousands of BAM,RD_SECNPT,149.0
+2011,GB_XPD_RSDSEC,in thousands of BAM,RD_SECNPT,42.0
+2012,GB_XPD_RSDSEC,in thousands of BAM,RD_SECNPT,46.0
+2013,GB_XPD_RSDSEC,in thousands of BAM,RD_SECNPT,106.0
+2014,GB_XPD_RSDSEC,in thousands of BAM,RD_SECNPT,782.0
+2015,GB_XPD_RSDSEC,in thousands of BAM,RD_SECNPT,480.0
+2016,GB_XPD_RSDSEC,in thousands of BAM,RD_SECNPT,579.0
+2017,GB_XPD_RSDSEC,in thousands of BAM,RD_SECNPT,414.0
+2018,GB_XPD_RSDSEC,in thousands of BAM,RD_SECNPT,642.0
+2019,GB_XPD_RSDSEC,in thousands of BAM,RD_SECNPT,33.0
+2020,GB_XPD_RSDSEC,in thousands of BAM,RD_SECNPT,0.0
+2021,GB_XPD_RSDSEC,in thousands of BAM,RD_SECNPT,0.0
