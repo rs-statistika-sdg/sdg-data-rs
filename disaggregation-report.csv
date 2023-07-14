@@ -1,6 +1,6 @@
 Disaggregation,en,lat,cir,Number of indicators,Number of values
-ACTIVITY,Economic activity,Privredna aktivnost,Привредна активност,8,15
-AGE,Age,Godine,Године,24,16
+ACTIVITY,Economic activity,Djelatnost,Дјелатност,8,15
+AGE,Age,Starost,Старост,24,16
 COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,10,55
 DEVIATION_LEVEL,Deviation Level,Stepen odstupanja,Степен одступања,1,4
 EDUCATION_LEV,Education level,Nivo obrazovanja,Ниво образовања,4,6
@@ -11,7 +11,7 @@ M_ELEVATION,Mountain Elevation,Planinsko uzvišenje,Планинско узви�
 OCCUPATION,Occupation,Zanimanje,Занимање,3,20
 PRODUCT,Type of product,Vrsta proizvoda,Врста производа,4,26
 SERIES,SDG Series,SDG Serije,SDG Варијабле,168,327
-SEX,Sex,Spol,Пол,39,4
+SEX,Sex,Pol,Пол,39,4
 UNIT_MEASURE,Unit of measure,Mjerna jedinica,Мјерна јединица,168,37
 URBANISATION,Degree of urbanisation,Stepen urbanizacije,Степен урбанизације,11,5
 WASTE_TREATMENT,Type of waste treatment,Vrsta tretmana otpada,Врста третмана отпада,1,2

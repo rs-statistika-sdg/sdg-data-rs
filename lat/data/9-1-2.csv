@@ -1,18 +1,18 @@
 Year,SERIES,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
-2020,Obim tereta (tonski kilometri),Tonski kilometri,Zračni,0.0
-2018,Obim tereta (tonski kilometri),Tonski kilometri,Unutrašnji plovni put,0.0
-2019,Obim tereta (tonski kilometri),Tonski kilometri,Unutrašnji plovni put,0.0
-2018,Obim tereta (tonski kilometri),Tonski kilometri,Željeznički,1187941000.0
-2019,Obim tereta (tonski kilometri),Tonski kilometri,Željeznički,801400000.0
-2020,Obim tereta (tonski kilometri),Tonski kilometri,Željeznički,727000000.0
-2018,Obim tereta (tonski kilometri),Tonski kilometri,Cestovni,4303121000.0
-2019,Obim tereta (tonski kilometri),Tonski kilometri,Cestovni,3461400000.0
-2020,Obim tereta (tonski kilometri),Tonski kilometri,Cestovni,3340000000.0
-2019,Obim putnika (putnički kilometri),Putnički kilometri,Zračni,7353050.0
-2020,Obim putnika (putnički kilometri),Putnički kilometri,Zračni,1812510.0
-2018,Obim putnika (putnički kilometri),Putnički kilometri,Željeznički,40000000.0
-2019,Obim putnika (putnički kilometri),Putnički kilometri,Željeznički,4751600000.0
-2020,Obim putnika (putnički kilometri),Putnički kilometri,Željeznički,3256000000.0
-2018,Obim putnika (putnički kilometri),Putnički kilometri,Cestovni,16610000000.0
-2019,Obim putnika (putnički kilometri),Putnički kilometri,Cestovni,16706400000.0
-2020,Obim putnika (putnički kilometri),Putnički kilometri,Cestovni,12451000000.0
+2020,Obim prevoza robe,Tonski kilometri,Vazdušni saobraćaj,0.0
+2018,Obim prevoza robe,Tonski kilometri,Unutrašnji plovni put,0.0
+2019,Obim prevoza robe,Tonski kilometri,Unutrašnji plovni put,0.0
+2018,Obim prevoza robe,Tonski kilometri,Željeznički saobraćaj,1187941000.0
+2019,Obim prevoza robe,Tonski kilometri,Željeznički saobraćaj,801400000.0
+2020,Obim prevoza robe,Tonski kilometri,Željeznički saobraćaj,727000000.0
+2018,Obim prevoza robe,Tonski kilometri,Drumski i gradski saobraćaj,4303121000.0
+2019,Obim prevoza robe,Tonski kilometri,Drumski i gradski saobraćaj,3461400000.0
+2020,Obim prevoza robe,Tonski kilometri,Drumski i gradski saobraćaj,3340000000.0
+2019,Obim prevoza putnika,Putnički kilometri,Vazdušni saobraćaj,7353050.0
+2020,Obim prevoza putnika,Putnički kilometri,Vazdušni saobraćaj,1812510.0
+2018,Obim prevoza putnika,Putnički kilometri,Željeznički saobraćaj,40000000.0
+2019,Obim prevoza putnika,Putnički kilometri,Željeznički saobraćaj,4751600000.0
+2020,Obim prevoza putnika,Putnički kilometri,Željeznički saobraćaj,3256000000.0
+2018,Obim prevoza putnika,Putnički kilometri,Drumski i gradski saobraćaj,16610000000.0
+2019,Obim prevoza putnika,Putnički kilometri,Drumski i gradski saobraćaj,16706400000.0
+2020,Obim prevoza putnika,Putnički kilometri,Drumski i gradski saobraćaj,12451000000.0

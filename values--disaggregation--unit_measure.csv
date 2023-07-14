@@ -6,7 +6,7 @@ CU_USD_B,(billions of nominal United States dollars),(milijarde nominalnih ameri
 CU_USD_M,Millions of current United States dollars,Milioni tekućih američkih dolara,Mилиони текућих америчких долара,1,1
 CUR_LCU,in BAM,u KM,у KM,33,1
 CUR_LCU_M,Local currency (millions),Lokalna valuta (milioni),Локална валута (милиони),1,1
-GPERM3,Micrograms per cubic meter,Mikrogrami po kubnom metru,Микрограми по кубном метру,5,1
+GPERM3,Grams per cubic meter (g/m3),Grami po kubnom metru(g/m3),Грами по кубном метру (g/m3),5,1
 HA_TH,HA_TH,Hiljade hektara,Хиљаде хектара,4,2
 IX,Index,Index,Индеx,10,7
 KG,Kilograms,Kilogrami,Килограми,5,3
@@ -20,12 +20,12 @@ MT_CO2E,Million tons of CO2 equivalent,Milion tona ekvivalenta CO2,Милион 
 NUMBER,Number,Broj,Број,109,30
 P_KM,Passenger kilometres,Putnički kilometri,Путнички километри,3,1
 PER_1000000_POP,Per million population,Na milion stanovnika,На милион становника,1,1
-PER_100000_LIVE_BIRTHS,"Per 100,000 live births",Na 100 000 živorođenih,На 100.000 живорођених,1,1
-PER_100000_POP,"Per 100,000 population",Na 100 000 stanovnika,На 100.000 становника,21,8
+PER_100000_LIVE_BIRTHS,"Per 100,000 live births",Na 100 000 živorođenih,На 100 000 живорођених,1,1
+PER_100000_POP,"Per 100,000 population",Na 100 000 stanovnika,На 100 000 становника,21,8
 PER_10000_POP,"Per 10,000 population",Na 10 000 stanovnika,На 10 000 становника,4,1
-PER_1000_LIVE_BIRTHS,"Per 1,000 live births",Na 1 000 živorođenih,На 1.000 живорођених,7,2
-PER_1000_POP,"Per 1,000 population",Na 1 000 stanovnika,На 1.000 становника,1,1
-PER_1000_UNINFECTED_POP,"Per 1,000 uninfected population",Na 1 000 nezaraženog stanovništva,На 1.000 незараженог становништва,9,1
+PER_1000_LIVE_BIRTHS,"Per 1,000 live births",Na 1 000 živorođenih,На 1 000 живорођених,7,2
+PER_1000_POP,"Per 1,000 population",Na 1 000 stanovnika,На 1 000 становника,1,1
+PER_1000_UNINFECTED_POP,"Per 1,000 uninfected population",Na 1 000 nezaraženog stanovništva,На 1 000 незараженог становништва,9,1
 PER_100_POP,Per 100 population,Na 100 stanovnika,На 100 становника,5,2
 PT,Percent,Procenat,Проценат,495,95
 RO,Ratio,Odnos,Однос,160,2

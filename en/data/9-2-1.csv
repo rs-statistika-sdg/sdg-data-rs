@@ -1,25 +1,25 @@
 Year,SERIES,UNIT_MEASURE,Economic activity,Value
-2000,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,8.26
-2001,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,8.59
-2002,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,8.86
-2003,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,8.79
-2004,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,8.65
-2005,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,9.11
-2006,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,9.88
-2007,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,10.32
-2008,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,10.42
-2009,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,10.16
-2010,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,10.79
-2011,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,10.69
-2012,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,10.69
-2013,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,10.97
-2014,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,11.31
-2015,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,11.67
-2016,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,11.92
-2017,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,12.52
-2018,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,12.28
-2019,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,11.95
-2020,Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%),Percent,Manufacturing,11.95
+2000,"Manufacturing value added as a proportion of GDP, current prices (%)",Percent,Manufacturing,8.26
+2001,"Manufacturing value added as a proportion of GDP, current prices (%)",Percent,Manufacturing,8.59
+2002,"Manufacturing value added as a proportion of GDP, current prices (%)",Percent,Manufacturing,8.86
+2003,"Manufacturing value added as a proportion of GDP, current prices (%)",Percent,Manufacturing,8.79
+2004,"Manufacturing value added as a proportion of GDP, current prices (%)",Percent,Manufacturing,8.65
+2005,"Manufacturing value added as a proportion of GDP, current prices (%)",Percent,Manufacturing,9.11
+2006,"Manufacturing value added as a proportion of GDP, current prices (%)",Percent,Manufacturing,9.88
+2007,"Manufacturing value added as a proportion of GDP, current prices (%)",Percent,Manufacturing,10.32
+2008,"Manufacturing value added as a proportion of GDP, current prices (%)",Percent,Manufacturing,10.42
+2009,"Manufacturing value added as a proportion of GDP, current prices (%)",Percent,Manufacturing,10.16
+2010,"Manufacturing value added as a proportion of GDP, current prices (%)",Percent,Manufacturing,10.79
+2011,"Manufacturing value added as a proportion of GDP, current prices (%)",Percent,Manufacturing,10.69
+2012,"Manufacturing value added as a proportion of GDP, current prices (%)",Percent,Manufacturing,10.69
+2013,"Manufacturing value added as a proportion of GDP, current prices (%)",Percent,Manufacturing,10.97
+2014,"Manufacturing value added as a proportion of GDP, current prices (%)",Percent,Manufacturing,11.31
+2015,"Manufacturing value added as a proportion of GDP, current prices (%)",Percent,Manufacturing,11.67
+2016,"Manufacturing value added as a proportion of GDP, current prices (%)",Percent,Manufacturing,11.92
+2017,"Manufacturing value added as a proportion of GDP, current prices (%)",Percent,Manufacturing,12.52
+2018,"Manufacturing value added as a proportion of GDP, current prices (%)",Percent,Manufacturing,12.28
+2019,"Manufacturing value added as a proportion of GDP, current prices (%)",Percent,Manufacturing,11.95
+2020,"Manufacturing value added as a proportion of GDP, current prices (%)",Percent,Manufacturing,11.95
 2000,Manufacturing value added (current United States dollars) as a proportion of GDP (%),Percent,Manufacturing,9.3
 2001,Manufacturing value added (current United States dollars) as a proportion of GDP (%),Percent,Manufacturing,9.41
 2002,Manufacturing value added (current United States dollars) as a proportion of GDP (%),Percent,Manufacturing,9.31

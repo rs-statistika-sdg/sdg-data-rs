@@ -1,18 +1,18 @@
 Year,SERIES,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
-2020,Freight volume (tonne kilometres),Tonne kilometres,Aire,0.0
-2018,Freight volume (tonne kilometres),Tonne kilometres,Inland waterway transport,0.0
-2019,Freight volume (tonne kilometres),Tonne kilometres,Inland waterway transport,0.0
-2018,Freight volume (tonne kilometres),Tonne kilometres,Rail,1187941000.0
-2019,Freight volume (tonne kilometres),Tonne kilometres,Rail,801400000.0
-2020,Freight volume (tonne kilometres),Tonne kilometres,Rail,727000000.0
-2018,Freight volume (tonne kilometres),Tonne kilometres,Road,4303121000.0
-2019,Freight volume (tonne kilometres),Tonne kilometres,Road,3461400000.0
-2020,Freight volume (tonne kilometres),Tonne kilometres,Road,3340000000.0
-2019,Passenger volume (passenger kilometres),Passenger kilometres,Aire,7353050.0
-2020,Passenger volume (passenger kilometres),Passenger kilometres,Aire,1812510.0
-2018,Passenger volume (passenger kilometres),Passenger kilometres,Rail,40000000.0
-2019,Passenger volume (passenger kilometres),Passenger kilometres,Rail,4751600000.0
-2020,Passenger volume (passenger kilometres),Passenger kilometres,Rail,3256000000.0
-2018,Passenger volume (passenger kilometres),Passenger kilometres,Road,16610000000.0
-2019,Passenger volume (passenger kilometres),Passenger kilometres,Road,16706400000.0
-2020,Passenger volume (passenger kilometres),Passenger kilometres,Road,12451000000.0
+2020,Volume of goods transport,Tonne kilometres,Aire,0.0
+2018,Volume of goods transport,Tonne kilometres,Inland waterway transport,0.0
+2019,Volume of goods transport,Tonne kilometres,Inland waterway transport,0.0
+2018,Volume of goods transport,Tonne kilometres,Railway transport,1187941000.0
+2019,Volume of goods transport,Tonne kilometres,Railway transport,801400000.0
+2020,Volume of goods transport,Tonne kilometres,Railway transport,727000000.0
+2018,Volume of goods transport,Tonne kilometres,Road and urban transport,4303121000.0
+2019,Volume of goods transport,Tonne kilometres,Road and urban transport,3461400000.0
+2020,Volume of goods transport,Tonne kilometres,Road and urban transport,3340000000.0
+2019,Volume of passenger transport,Passenger kilometres,Aire,7353050.0
+2020,Volume of passenger transport,Passenger kilometres,Aire,1812510.0
+2018,Volume of passenger transport,Passenger kilometres,Railway transport,40000000.0
+2019,Volume of passenger transport,Passenger kilometres,Railway transport,4751600000.0
+2020,Volume of passenger transport,Passenger kilometres,Railway transport,3256000000.0
+2018,Volume of passenger transport,Passenger kilometres,Road and urban transport,16610000000.0
+2019,Volume of passenger transport,Passenger kilometres,Road and urban transport,16706400000.0
+2020,Volume of passenger transport,Passenger kilometres,Road and urban transport,12451000000.0
