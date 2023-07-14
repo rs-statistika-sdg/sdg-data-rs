@@ -107,7 +107,7 @@ docs_intro: This is a list of examples of endpoints and output that are
   on the available output.
 # This can be uncommented and updated so allow links to your indicator pages.
 # The URL here should have [id] instead of the indicator ID.
-docs_indicator_url: https://sdg.bhas.gov.ba/[id]
+docs_indicator_url: https://rs-statistika-sdg.github.io/sdg-site-rs/[id]
 # This shows the translations in the disaggregation report.
 docs_translate_disaggregations: true
 # This includes additional columns in the disaggregation report.

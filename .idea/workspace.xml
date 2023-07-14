@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cf5305d-f41a-4057-98ad-c869e4b89cc5" name="Changes" comment="update translations" />
+    <list default="true" id="9cf5305d-f41a-4057-98ad-c869e4b89cc5" name="Changes" comment="update translations">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +58,8 @@
       <updated>1689235094205</updated>
       <workItem from="1689235095593" duration="12176000" />
       <workItem from="1689346336141" duration="1000" />
-      <workItem from="1689350157954" duration="3600000" />
+      <workItem from="1689350157954" duration="4348000" />
+      <workItem from="1689357363290" duration="358000" />
     </task>
     <task id="LOCAL-00001" summary="update data / meta">
       <created>1689235899579</created>
