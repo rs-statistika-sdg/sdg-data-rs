@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9cf5305d-f41a-4057-98ad-c869e4b89cc5" name="Changes" comment="update translations" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2SVcGcyE5GIu0tfvdpvu2bYlO9w" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Web Development/Backup i odrzavanje/SDG/RS/data/data&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Confirmation&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Web Development\Backup i odrzavanje\SDG\RS\data\data" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9cf5305d-f41a-4057-98ad-c869e4b89cc5" name="Changes" comment="" />
+      <created>1689235094205</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689235094205</updated>
+      <workItem from="1689235095593" duration="12176000" />
+      <workItem from="1689346336141" duration="1000" />
+      <workItem from="1689350157954" duration="1483000" />
+    </task>
+    <task id="LOCAL-00001" summary="update data / meta">
+      <created>1689235899579</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689235899579</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update data / meta">
+      <created>1689236489875</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689236489875</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update data / meta">
+      <created>1689236690490</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1689236690490</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update data / meta">
+      <created>1689236951880</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1689236951880</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update data / meta">
+      <created>1689237547797</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1689237547797</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update data / meta">
+      <created>1689239027279</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1689239027279</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update data / meta">
+      <created>1689239252021</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1689239252021</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update data / meta">
+      <created>1689239450805</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1689239450805</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update data / meta">
+      <created>1689240081717</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1689240081717</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update data / meta">
+      <created>1689240343063</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1689240343063</updated>
+    </task>
+    <task id="LOCAL-00011" summary="update data / meta">
+      <created>1689240524542</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1689240524542</updated>
+    </task>
+    <task id="LOCAL-00012" summary="update data / meta">
+      <created>1689240708385</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1689240708385</updated>
+    </task>
+    <task id="LOCAL-00013" summary="update data / meta">
+      <created>1689240855492</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1689240855492</updated>
+    </task>
+    <task id="LOCAL-00014" summary="update data / meta">
+      <created>1689241013157</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1689241013157</updated>
+    </task>
+    <task id="LOCAL-00015" summary="update data / meta">
+      <created>1689241091226</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1689241091226</updated>
+    </task>
+    <task id="LOCAL-00016" summary="update data / meta">
+      <created>1689241173911</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1689241173911</updated>
+    </task>
+    <task id="LOCAL-00017" summary="update data / meta">
+      <created>1689241667976</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1689241667976</updated>
+    </task>
+    <task id="LOCAL-00018" summary="update data / meta">
+      <created>1689241868976</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1689241868976</updated>
+    </task>
+    <task id="LOCAL-00019" summary="update data / meta">
+      <created>1689247546560</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1689247546560</updated>
+    </task>
+    <task id="LOCAL-00020" summary="update data / meta">
+      <created>1689248194050</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1689248194050</updated>
+    </task>
+    <task id="LOCAL-00021" summary="update translations">
+      <created>1689249254388</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1689249254388</updated>
+    </task>
+    <task id="LOCAL-00022" summary="update translations">
+      <created>1689250122162</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1689250122162</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+    <MESSAGE value="update data / meta" />
+    <MESSAGE value="update translations" />
+    <option name="LAST_COMMIT_MESSAGE" value="update translations" />
+  </component>
+</project>
