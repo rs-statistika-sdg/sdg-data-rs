@@ -1,11 +1,11 @@
 Year,SERIES,UNIT_MEASURE,Value
-2012,Number of persons who received treatment for drug abuse,Number,323
-2013,Number of persons who received treatment for drug abuse,Number,375
-2014,Number of persons who received treatment for drug abuse,Number,385
-2015,Number of persons who received treatment for drug abuse,Number,455
-2016,Number of persons who received treatment for drug abuse,Number,486
-2017,Number of persons who received treatment for drug abuse,Number,534
-2018,Number of persons who received treatment for drug abuse,Number,540
-2019,Number of persons who received treatment for drug abuse,Number,573
-2020,Number of persons who received treatment for drug abuse,Number,597
-2021,Number of persons who received treatment for drug abuse,Number,608
+2012,SH_SUD_TREATN,Number,323
+2013,SH_SUD_TREATN,Number,375
+2014,SH_SUD_TREATN,Number,385
+2015,SH_SUD_TREATN,Number,455
+2016,SH_SUD_TREATN,Number,486
+2017,SH_SUD_TREATN,Number,534
+2018,SH_SUD_TREATN,Number,540
+2019,SH_SUD_TREATN,Number,573
+2020,SH_SUD_TREATN,Number,597
+2021,SH_SUD_TREATN,Number,608

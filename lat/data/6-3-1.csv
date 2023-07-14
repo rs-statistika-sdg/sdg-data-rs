@@ -1,16 +1,16 @@
 Year,SERIES,UNIT_MEASURE,Value
-2010,Tretirane otpadne komunalne vode (hilj. m3),Hiljadu kubnih metara,1084.0
-2011,Tretirane otpadne komunalne vode (hilj. m3),Hiljadu kubnih metara,959.0
-2012,Tretirane otpadne komunalne vode (hilj. m3),Hiljadu kubnih metara,1109.0
-2013,Tretirane otpadne komunalne vode (hilj. m3),Hiljadu kubnih metara,1169.0
-2014,Tretirane otpadne komunalne vode (hilj. m3),Hiljadu kubnih metara,1193.0
-2015,Tretirane otpadne komunalne vode (hilj. m3),Hiljadu kubnih metara,1266.0
-2016,Tretirane otpadne komunalne vode (hilj. m3),Hiljadu kubnih metara,2698.0
-2017,Tretirane otpadne komunalne vode (hilj. m3),Hiljadu kubnih metara,2660.0
-2018,Tretirane otpadne komunalne vode (hilj. m3),Hiljadu kubnih metara,2841.0
-2019,Tretirane otpadne komunalne vode (hilj. m3),Hiljadu kubnih metara,2936.0
-2020,Tretirane otpadne komunalne vode (hilj. m3),Hiljadu kubnih metara,3171.0
-2021,Tretirane otpadne komunalne vode (hilj. m3),Hiljadu kubnih metara,2684.0
-2019,Stanovništvo priključeno na prečistače otpadnih komunalnih voda sa najmanje sekundarnim tretmanom (%),Procenat,4.5
-2020,Stanovništvo priključeno na prečistače otpadnih komunalnih voda sa najmanje sekundarnim tretmanom (%),Procenat,4.5
-2021,Stanovništvo priključeno na prečistače otpadnih komunalnih voda sa najmanje sekundarnim tretmanom (%),Procenat,4.7
+2010,EN_WWT_TREATMUN,THOUS_M3,1084.0
+2011,EN_WWT_TREATMUN,THOUS_M3,959.0
+2012,EN_WWT_TREATMUN,THOUS_M3,1109.0
+2013,EN_WWT_TREATMUN,THOUS_M3,1169.0
+2014,EN_WWT_TREATMUN,THOUS_M3,1193.0
+2015,EN_WWT_TREATMUN,THOUS_M3,1266.0
+2016,EN_WWT_TREATMUN,THOUS_M3,2698.0
+2017,EN_WWT_TREATMUN,THOUS_M3,2660.0
+2018,EN_WWT_TREATMUN,THOUS_M3,2841.0
+2019,EN_WWT_TREATMUN,THOUS_M3,2936.0
+2020,EN_WWT_TREATMUN,THOUS_M3,3171.0
+2021,EN_WWT_TREATMUN,THOUS_M3,2684.0
+2019,EN_WWT_TREATPOP,Procenat,4.5
+2020,EN_WWT_TREATPOP,Procenat,4.5
+2021,EN_WWT_TREATPOP,Procenat,4.7

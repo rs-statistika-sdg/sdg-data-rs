@@ -1,9 +1,9 @@
 Year,SERIES,UNIT_MEASURE,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Value
-2014,Percentage of individuals aged 16–74 years who used the Internet in the last three months,Percent,,,,,,38.0
-2015,Percentage of individuals aged 16–74 years who used the Internet in the last three months,Percent,,,,,,43.4
-2016,Percentage of individuals aged 16–74 years who used the Internet in the last three months,Percent,,,,,,42.8
-2017,Percentage of individuals aged 16–74 years who used the Internet in the last three months,Percent,,,,,,64.9
-2018,Percentage of individuals aged 16–74 years who used the Internet in the last three months,Percent,,,,,,71.2
-2019,Percentage of individuals aged 16–74 years who used the Internet in the last three months,Percent,,,,,,72.1
-2020,Percentage of individuals aged 16–74 years who used the Internet in the last three months,Percent,,,,,,72.8
-2021,Percentage of individuals aged 16–74 years who used the Internet in the last three months,Percent,,,,,,80.3
+2014,IT_USE_LTMN,Percent,,,,,,38.0
+2015,IT_USE_LTMN,Percent,,,,,,43.4
+2016,IT_USE_LTMN,Percent,,,,,,42.8
+2017,IT_USE_LTMN,Percent,,,,,,64.9
+2018,IT_USE_LTMN,Percent,,,,,,71.2
+2019,IT_USE_LTMN,Percent,,,,,,72.1
+2020,IT_USE_LTMN,Percent,,,,,,72.8
+2021,IT_USE_LTMN,Percent,,,,,,80.3

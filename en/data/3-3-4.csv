@@ -1,14 +1,14 @@
 Year,SERIES,UNIT_MEASURE,Value
-2009,"Hepatitis B incidence (per 100,000 population)","Per 100,000 population",4.7
-2010,"Hepatitis B incidence (per 100,000 population)","Per 100,000 population",2.7
-2011,"Hepatitis B incidence (per 100,000 population)","Per 100,000 population",3.9
-2012,"Hepatitis B incidence (per 100,000 population)","Per 100,000 population",4.5
-2013,"Hepatitis B incidence (per 100,000 population)","Per 100,000 population",5.6
-2014,"Hepatitis B incidence (per 100,000 population)","Per 100,000 population",3.9
-2015,"Hepatitis B incidence (per 100,000 population)","Per 100,000 population",2.3
-2016,"Hepatitis B incidence (per 100,000 population)","Per 100,000 population",3.6
-2017,"Hepatitis B incidence (per 100,000 population)","Per 100,000 population",4.0
-2018,"Hepatitis B incidence (per 100,000 population)","Per 100,000 population",5.2
-2019,"Hepatitis B incidence (per 100,000 population)","Per 100,000 population",4.5
-2020,"Hepatitis B incidence (per 100,000 population)","Per 100,000 population",1.9
-2021,"Hepatitis B incidence (per 100,000 population)","Per 100,000 population",1.5
+2009,SH_HAP_HBSAGINC,"Per 100,000 population",4.7
+2010,SH_HAP_HBSAGINC,"Per 100,000 population",2.7
+2011,SH_HAP_HBSAGINC,"Per 100,000 population",3.9
+2012,SH_HAP_HBSAGINC,"Per 100,000 population",4.5
+2013,SH_HAP_HBSAGINC,"Per 100,000 population",5.6
+2014,SH_HAP_HBSAGINC,"Per 100,000 population",3.9
+2015,SH_HAP_HBSAGINC,"Per 100,000 population",2.3
+2016,SH_HAP_HBSAGINC,"Per 100,000 population",3.6
+2017,SH_HAP_HBSAGINC,"Per 100,000 population",4.0
+2018,SH_HAP_HBSAGINC,"Per 100,000 population",5.2
+2019,SH_HAP_HBSAGINC,"Per 100,000 population",4.5
+2020,SH_HAP_HBSAGINC,"Per 100,000 population",1.9
+2021,SH_HAP_HBSAGINC,"Per 100,000 population",1.5

@@ -1,9 +1,9 @@
 Year,SERIES,UNIT_MEASURE,Stepen urbanizacije,Value
-2011,Problemi domaćinstva sa stambenom jedinicom - truli prozorski okviri ili vrata,Procenat,Ukupno,27.0
-2015,Problemi domaćinstva sa stambenom jedinicom - truli prozorski okviri ili vrata,Procenat,Ukupno,25.1
-2011,"Problemi domaćinstva sa stambenom jedinicom - vlaga u podovima, zidovima, temeljima",Procenat,Ukupno,33.9
-2015,"Problemi domaćinstva sa stambenom jedinicom - vlaga u podovima, zidovima, temeljima",Procenat,Ukupno,36.2
-2011,Problemi domaćinstva sa stambenom jedinicom - krov prokišnjava,Procenat,Ukupno,15.4
-2015,Problemi domaćinstva sa stambenom jedinicom - krov prokišnjava,Procenat,Ukupno,11.9
-2011,Problemi domaćinstva sa stambenom jedinicom - imaju probleme sa bukom,Procenat,Ukupno,10.6
-2015,Problemi domaćinstva sa stambenom jedinicom - imaju probleme sa bukom,Procenat,Ukupno,2.0
+2011,EN_LND_DWPDW,Procenat,Ukupno,27.0
+2015,EN_LND_DWPDW,Procenat,Ukupno,25.1
+2011,EN_LND_DWPDAMP,Procenat,Ukupno,33.9
+2015,EN_LND_DWPDAMP,Procenat,Ukupno,36.2
+2011,EN_LND_DWPROOF,Procenat,Ukupno,15.4
+2015,EN_LND_DWPROOF,Procenat,Ukupno,11.9
+2011,EN_LND_DWPNOISE,Procenat,Ukupno,10.6
+2015,EN_LND_DWPNOISE,Procenat,Ukupno,2.0

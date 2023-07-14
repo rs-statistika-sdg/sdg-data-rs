@@ -1,4 +1,4 @@
 Value,en,lat,cir,Disaggregation combinations using this value,Number of indicators
-AGG_ED_0,Lower than secondary,Niže od srednjeg,Ниже од средњег,1,1
-AGG_ED_1,Secondary,Srednje,Средње,1,1
-AGG_ED_2,High and higher,Više i visoko,Више и високо,1,1
+AGG_ED_0,AGG_ED_0,AGG_ED_0,AGG_ED_0,1,1
+AGG_ED_1,AGG_ED_1,AGG_ED_1,AGG_ED_1,1,1
+AGG_ED_2,AGG_ED_2,AGG_ED_2,AGG_ED_2,1,1

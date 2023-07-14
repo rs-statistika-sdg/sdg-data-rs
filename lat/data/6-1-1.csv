@@ -1,9 +1,9 @@
 Year,SERIES,UNIT_MEASURE,Stepen urbanizacije,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Value
-2011,Procenat domaćinstava sa tekućom vodom u stambenoj jedinici,Procenat,Ukupno,,,,,,,,,69.5
-2015,Procenat domaćinstava sa tekućom vodom u stambenoj jedinici,Procenat,Ukupno,,,,,,,,,82.2
-2011,"Procenat domaćinstava koja se snabdijevaju vodom iz pojedinačnog izvora (bunar, stojeća česma)",Procenat,Ukupno,,,,,,,,,21.7
-2015,"Procenat domaćinstava koja se snabdijevaju vodom iz pojedinačnog izvora (bunar, stojeća česma)",Procenat,Ukupno,,,,,,,,,15.9
-2011,"Procenat domaćinstava koja se snabdijevaju tekućom vodom iz zajedničke česme, udaljene do 200 m od kuće",Procenat,Ukupno,,,,,,,,,7.8
-2015,"Procenat domaćinstava koja se snabdijevaju tekućom vodom iz zajedničke česme, udaljene do 200 m od kuće",Procenat,Ukupno,,,,,,,,,0.7
-2011,Procenat domaćinstava koja se snabdijevaju vodom iz ostalih izvora,Procenat,Ukupno,,,,,,,,,1.0
-2015,Procenat domaćinstava koja se snabdijevaju vodom iz ostalih izvora,Procenat,Ukupno,,,,,,,,,1.2
+2011,SH_H2O_SAFE_RWDW,Procenat,Ukupno,,,,,,,,,69.5
+2015,SH_H2O_SAFE_RWDW,Procenat,Ukupno,,,,,,,,,82.2
+2011,SH_H2O_SAFE_SPSRS,Procenat,Ukupno,,,,,,,,,21.7
+2015,SH_H2O_SAFE_SPSRS,Procenat,Ukupno,,,,,,,,,15.9
+2011,SH_H2O_SAFE_CTAP,Procenat,Ukupno,,,,,,,,,7.8
+2015,SH_H2O_SAFE_CTAP,Procenat,Ukupno,,,,,,,,,0.7
+2011,SH_H2O_SAFE_OTH,Procenat,Ukupno,,,,,,,,,1.0
+2015,SH_H2O_SAFE_OTH,Procenat,Ukupno,,,,,,,,,1.2

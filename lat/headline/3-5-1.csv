@@ -1,11 +1,11 @@
 Year,Value,UNIT_MEASURE,SERIES
-2012,323,Broj,Broj lica liječenih zbog zloupotrebe opojnih droga
-2013,375,Broj,Broj lica liječenih zbog zloupotrebe opojnih droga
-2014,385,Broj,Broj lica liječenih zbog zloupotrebe opojnih droga
-2015,455,Broj,Broj lica liječenih zbog zloupotrebe opojnih droga
-2016,486,Broj,Broj lica liječenih zbog zloupotrebe opojnih droga
-2017,534,Broj,Broj lica liječenih zbog zloupotrebe opojnih droga
-2018,540,Broj,Broj lica liječenih zbog zloupotrebe opojnih droga
-2019,573,Broj,Broj lica liječenih zbog zloupotrebe opojnih droga
-2020,597,Broj,Broj lica liječenih zbog zloupotrebe opojnih droga
-2021,608,Broj,Broj lica liječenih zbog zloupotrebe opojnih droga
+2012,323,Broj,SH_SUD_TREATN
+2013,375,Broj,SH_SUD_TREATN
+2014,385,Broj,SH_SUD_TREATN
+2015,455,Broj,SH_SUD_TREATN
+2016,486,Broj,SH_SUD_TREATN
+2017,534,Broj,SH_SUD_TREATN
+2018,540,Broj,SH_SUD_TREATN
+2019,573,Broj,SH_SUD_TREATN
+2020,597,Broj,SH_SUD_TREATN
+2021,608,Broj,SH_SUD_TREATN

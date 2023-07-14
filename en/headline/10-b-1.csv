@@ -1,27 +1,27 @@
 Year,Value,UNIT_MEASURE,SERIES
-2009,170.4,in millions of BAM,Total foreign direct investment flows
-2010,205.1,in millions of BAM,Total foreign direct investment flows
-2011,372.5,in millions of BAM,Total foreign direct investment flows
-2012,403.6,in millions of BAM,Total foreign direct investment flows
-2013,165.3,in millions of BAM,Total foreign direct investment flows
-2014,422.3,in millions of BAM,Total foreign direct investment flows
-2015,146.5,in millions of BAM,Total foreign direct investment flows
-2016,84.5,in millions of BAM,Total foreign direct investment flows
-2017,284.0,in millions of BAM,Total foreign direct investment flows
-2018,399.1,in millions of BAM,Total foreign direct investment flows
-2019,398.1,in millions of BAM,Total foreign direct investment flows
-2020,285.1,in millions of BAM,Total foreign direct investment flows
-2021,156.6,in millions of BAM,Total foreign direct investment flows
-2009,3550.3,in millions of BAM,Total foreign direct investment stocks as on 31 Dec
-2010,3710.2,in millions of BAM,Total foreign direct investment stocks as on 31 Dec
-2011,4025.4,in millions of BAM,Total foreign direct investment stocks as on 31 Dec
-2012,4209.9,in millions of BAM,Total foreign direct investment stocks as on 31 Dec
-2013,4867.0,in millions of BAM,Total foreign direct investment stocks as on 31 Dec
-2014,4621.7,in millions of BAM,Total foreign direct investment stocks as on 31 Dec
-2015,5162.5,in millions of BAM,Total foreign direct investment stocks as on 31 Dec
-2016,4977.5,in millions of BAM,Total foreign direct investment stocks as on 31 Dec
-2017,5122.6,in millions of BAM,Total foreign direct investment stocks as on 31 Dec
-2018,5362.2,in millions of BAM,Total foreign direct investment stocks as on 31 Dec
-2019,5524.3,in millions of BAM,Total foreign direct investment stocks as on 31 Dec
-2020,5498.6,in millions of BAM,Total foreign direct investment stocks as on 31 Dec
-2021,5596.4,in millions of BAM,Total foreign direct investment stocks as on 31 Dec
+2009,170.4,CUR_NAC_1000000,DC_TRF_TOTLFDI
+2010,205.1,CUR_NAC_1000000,DC_TRF_TOTLFDI
+2011,372.5,CUR_NAC_1000000,DC_TRF_TOTLFDI
+2012,403.6,CUR_NAC_1000000,DC_TRF_TOTLFDI
+2013,165.3,CUR_NAC_1000000,DC_TRF_TOTLFDI
+2014,422.3,CUR_NAC_1000000,DC_TRF_TOTLFDI
+2015,146.5,CUR_NAC_1000000,DC_TRF_TOTLFDI
+2016,84.5,CUR_NAC_1000000,DC_TRF_TOTLFDI
+2017,284.0,CUR_NAC_1000000,DC_TRF_TOTLFDI
+2018,399.1,CUR_NAC_1000000,DC_TRF_TOTLFDI
+2019,398.1,CUR_NAC_1000000,DC_TRF_TOTLFDI
+2020,285.1,CUR_NAC_1000000,DC_TRF_TOTLFDI
+2021,156.6,CUR_NAC_1000000,DC_TRF_TOTLFDI
+2009,3550.3,CUR_NAC_1000000,DC_TRF_TOTLDIS
+2010,3710.2,CUR_NAC_1000000,DC_TRF_TOTLDIS
+2011,4025.4,CUR_NAC_1000000,DC_TRF_TOTLDIS
+2012,4209.9,CUR_NAC_1000000,DC_TRF_TOTLDIS
+2013,4867.0,CUR_NAC_1000000,DC_TRF_TOTLDIS
+2014,4621.7,CUR_NAC_1000000,DC_TRF_TOTLDIS
+2015,5162.5,CUR_NAC_1000000,DC_TRF_TOTLDIS
+2016,4977.5,CUR_NAC_1000000,DC_TRF_TOTLDIS
+2017,5122.6,CUR_NAC_1000000,DC_TRF_TOTLDIS
+2018,5362.2,CUR_NAC_1000000,DC_TRF_TOTLDIS
+2019,5524.3,CUR_NAC_1000000,DC_TRF_TOTLDIS
+2020,5498.6,CUR_NAC_1000000,DC_TRF_TOTLDIS
+2021,5596.4,CUR_NAC_1000000,DC_TRF_TOTLDIS

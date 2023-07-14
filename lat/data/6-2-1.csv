@@ -1,13 +1,13 @@
 Year,SERIES,UNIT_MEASURE,Stepen urbanizacije,Value
-2011,Procenat domaćinstava koja u glavnoj stambenoj jedinici posjeduju kupatilo s WC-om,Procenat,Ukupno,91.1
-2011,Procenat domaćinstava koja u glavnoj stambenoj jedinici posjeduju kupatilo s WC-om,Procenat,Urbano,98.8
-2011,Procenat domaćinstava koja u glavnoj stambenoj jedinici posjeduju kupatilo s WC-om,Procenat,Ostalo,86.2
-2015,Procenat domaćinstava koja u glavnoj stambenoj jedinici posjeduju kupatilo s WC-om,Procenat,Ukupno,94.1
-2015,Procenat domaćinstava koja u glavnoj stambenoj jedinici posjeduju kupatilo s WC-om,Procenat,Urbano,98.7
-2015,Procenat domaćinstava koja u glavnoj stambenoj jedinici posjeduju kupatilo s WC-om,Procenat,Ostalo,91.1
-2011,Procenat domaćinstava koja u glavnoj stambenoj jedinici posjeduju WC,Procenat,Ukupno,22.2
-2011,Procenat domaćinstava koja u glavnoj stambenoj jedinici posjeduju WC,Procenat,Urbano,27.6
-2011,Procenat domaćinstava koja u glavnoj stambenoj jedinici posjeduju WC,Procenat,Ostalo,18.7
-2015,Procenat domaćinstava koja u glavnoj stambenoj jedinici posjeduju WC,Procenat,Ukupno,88.1
-2015,Procenat domaćinstava koja u glavnoj stambenoj jedinici posjeduju WC,Procenat,Urbano,89.9
-2015,Procenat domaćinstava koja u glavnoj stambenoj jedinici posjeduju WC,Procenat,Ostalo,87.0
+2011,SH_SAN_SAFEHH_BATH,Procenat,Ukupno,91.1
+2011,SH_SAN_SAFEHH_BATH,Procenat,Urbano,98.8
+2011,SH_SAN_SAFEHH_BATH,Procenat,O,86.2
+2015,SH_SAN_SAFEHH_BATH,Procenat,Ukupno,94.1
+2015,SH_SAN_SAFEHH_BATH,Procenat,Urbano,98.7
+2015,SH_SAN_SAFEHH_BATH,Procenat,O,91.1
+2011,SH_SAN_SAFEHH_WC,Procenat,Ukupno,22.2
+2011,SH_SAN_SAFEHH_WC,Procenat,Urbano,27.6
+2011,SH_SAN_SAFEHH_WC,Procenat,O,18.7
+2015,SH_SAN_SAFEHH_WC,Procenat,Ukupno,88.1
+2015,SH_SAN_SAFEHH_WC,Procenat,Urbano,89.9
+2015,SH_SAN_SAFEHH_WC,Procenat,O,87.0

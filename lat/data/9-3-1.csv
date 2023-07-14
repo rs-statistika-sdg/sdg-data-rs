@@ -1,6 +1,6 @@
-Year,SERIES,UNIT_MEASURE,Djelatnost,Value
-2017,Udio malih industrija u ukupnoj dodanoj vrijednosti industrije,Procenat,"Industrijska područja (B, C, D, E)",8.7
-2018,Udio malih industrija u ukupnoj dodanoj vrijednosti industrije,Procenat,"Industrijska područja (B, C, D, E)",8.5
-2019,Udio malih industrija u ukupnoj dodanoj vrijednosti industrije,Procenat,"Industrijska područja (B, C, D, E)",10.3
-2020,Udio malih industrija u ukupnoj dodanoj vrijednosti industrije,Procenat,"Industrijska područja (B, C, D, E)",10.3
-2021,Udio malih industrija u ukupnoj dodanoj vrijednosti industrije,Procenat,"Industrijska područja (B, C, D, E)",8.9
+Year,SERIES,UNIT_MEASURE,Privredna aktivnost,Value
+2017,Udio malih industrija u ukupnoj dodanoj vrijednosti industrije,Procenat,IND_SEC,8.7
+2018,Udio malih industrija u ukupnoj dodanoj vrijednosti industrije,Procenat,IND_SEC,8.5
+2019,Udio malih industrija u ukupnoj dodanoj vrijednosti industrije,Procenat,IND_SEC,10.3
+2020,Udio malih industrija u ukupnoj dodanoj vrijednosti industrije,Procenat,IND_SEC,10.3
+2021,Udio malih industrija u ukupnoj dodanoj vrijednosti industrije,Procenat,IND_SEC,8.9

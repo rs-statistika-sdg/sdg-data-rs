@@ -1,7 +1,7 @@
-Year,SERIES,UNIT_MEASURE,Pol,COMPOSITE_BREAKDOWN,Value
-2018,"Udio žena starosti 18–74 godine koje su doživjele neki od oblika nasilja od strane sadašnjeg ili bivšeg partnera, u proteklih 12 mjeseci (%)",Procenat,Žene,Fizičko nasilje,3
-2018,"Udio žena starosti 18–74 godine koje su doživjele neki od oblika nasilja od strane sadašnjeg ili bivšeg partnera, u proteklih 12 mjeseci (%)",Procenat,Žene,Seksualno nasilje,0
-2018,"Udio žena starosti 18–74 godine koje su doživjele neki od oblika nasilja od strane sadašnjeg ili bivšeg partnera, u proteklih 12 mjeseci (%)",Procenat,Žene,Psihološko nasilje,9
-2018,"Udio žena starosti 18–74 godine koje su doživjele neki od oblika nasilja od strane sadašnjeg ili bivšeg partnera, od 15. godine života (%)",Procenat,Žene,Fizičko nasilje,11
-2018,"Udio žena starosti 18–74 godine koje su doživjele neki od oblika nasilja od strane sadašnjeg ili bivšeg partnera, od 15. godine života (%)",Procenat,Žene,Seksualno nasilje,3
-2018,"Udio žena starosti 18–74 godine koje su doživjele neki od oblika nasilja od strane sadašnjeg ili bivšeg partnera, od 15. godine života (%)",Procenat,Žene,Psihološko nasilje,36
+Year,SERIES,UNIT_MEASURE,Spol,COMPOSITE_BREAKDOWN,Value
+2018,VC_VAW_MARR12M,Procenat,Žene,VAW_PHYSIC,3
+2018,VC_VAW_MARR12M,Procenat,Žene,VAW_SEX,0
+2018,VC_VAW_MARR12M,Procenat,Žene,VAW_PSYCH,9
+2018,VC_VAW_MARRY15,Procenat,Žene,VAW_PHYSIC,11
+2018,VC_VAW_MARRY15,Procenat,Žene,VAW_SEX,3
+2018,VC_VAW_MARRY15,Procenat,Žene,VAW_PSYCH,36

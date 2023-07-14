@@ -1,7 +1,7 @@
 Year,SERIES,UNIT_MEASURE,Stepen urbanizacije,Value
-2011,Procenat domaćinstava sa pristupom električnoj energiji u glavnoj stambenoj jedinici,Procenat,Ukupno,99.9
-2011,Procenat domaćinstava sa pristupom električnoj energiji u glavnoj stambenoj jedinici,Procenat,Urbano,99.9
-2011,Procenat domaćinstava sa pristupom električnoj energiji u glavnoj stambenoj jedinici,Procenat,Ostalo,99.9
-2015,Procenat domaćinstava sa pristupom električnoj energiji u glavnoj stambenoj jedinici,Procenat,Ukupno,99.5
-2015,Procenat domaćinstava sa pristupom električnoj energiji u glavnoj stambenoj jedinici,Procenat,Urbano,99.7
-2015,Procenat domaćinstava sa pristupom električnoj energiji u glavnoj stambenoj jedinici,Procenat,Ostalo,99.4
+2011,EG_ACS_ELECHH,Procenat,Ukupno,99.9
+2011,EG_ACS_ELECHH,Procenat,Urbano,99.9
+2011,EG_ACS_ELECHH,Procenat,O,99.9
+2015,EG_ACS_ELECHH,Procenat,Ukupno,99.5
+2015,EG_ACS_ELECHH,Procenat,Urbano,99.7
+2015,EG_ACS_ELECHH,Procenat,O,99.4

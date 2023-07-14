@@ -1,17 +1,17 @@
-Year,SERIES,UNIT_MEASURE,Pol,Starost,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Value
-2009,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,15 godina i više,,,,,,,,,,,,,,21.4
-2010,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,15 godina i više,,,,,,,,,,,,,,23.6
-2011,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,15 godina i više,,,,,,,,,,,,,,24.5
-2012,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,15 godina i više,,,,,,,,,,,,,,25.6
-2013,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,15 godina i više,,,,,,,,,,,,,,27.0
-2014,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,15 godina i više,,,,,,,,,,,,,,25.7
-2015,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,15 godina i više,,,,,,,,,,,,,,25.2
-2016,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,15 godina i više,,,,,,,,,,,,,,24.8
-2017,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,15 godina i više,,,,,,,,,,,,,,21.0
-2018,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,15 godina i više,,,,,,,,,,,,,,17.2
-2019,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,15 godina i više,,,,,,,,,,,,,,11.7
-2020,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,15 godina i više,,,,,,,,,,,,,,12.9
-2021,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,15 godina i više,,,,,,,,,,,,,,14.3
+Year,SERIES,UNIT_MEASURE,Spol,Godine,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Value
+2009,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,15 godina i više,,,,,,,,,,,,,,21.4
+2010,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,15 godina i više,,,,,,,,,,,,,,23.6
+2011,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,15 godina i više,,,,,,,,,,,,,,24.5
+2012,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,15 godina i više,,,,,,,,,,,,,,25.6
+2013,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,15 godina i više,,,,,,,,,,,,,,27.0
+2014,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,15 godina i više,,,,,,,,,,,,,,25.7
+2015,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,15 godina i više,,,,,,,,,,,,,,25.2
+2016,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,15 godina i više,,,,,,,,,,,,,,24.8
+2017,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,15 godina i više,,,,,,,,,,,,,,21.0
+2018,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,15 godina i više,,,,,,,,,,,,,,17.2
+2019,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,15 godina i više,,,,,,,,,,,,,,11.7
+2020,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,15 godina i više,,,,,,,,,,,,,,12.9
+2021,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,15 godina i više,,,,,,,,,,,,,,14.3
 2009,Stopa nezaposlenosti,Procenat,Muškarci,15 godina i više,,,,,,,,,,,,,,20.6
 2010,Stopa nezaposlenosti,Procenat,Muškarci,15 godina i više,,,,,,,,,,,,,,22.0
 2011,Stopa nezaposlenosti,Procenat,Muškarci,15 godina i više,,,,,,,,,,,,,,23.0
@@ -38,19 +38,19 @@ Year,SERIES,UNIT_MEASURE,Pol,Starost,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9
 2019,Stopa nezaposlenosti,Procenat,Žene,15 godina i više,,,,,,,,,,,,,,14.7
 2020,Stopa nezaposlenosti,Procenat,Žene,15 godina i više,,,,,,,,,,,,,,13.0
 2021,Stopa nezaposlenosti,Procenat,Žene,15 godina i više,,,,,,,,,,,,,,16.3
-2009,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,15 do 24 godine,,,,,,,,,,,,,,38.4
-2010,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,15 do 24 godine,,,,,,,,,,,,,,46.8
-2011,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,15 do 24 godine,,,,,,,,,,,,,,53.2
-2012,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,15 do 24 godine,,,,,,,,,,,,,,54.3
-2013,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,15 do 24 godine,,,,,,,,,,,,,,59.2
-2014,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,15 do 24 godine,,,,,,,,,,,,,,56.5
-2015,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,15 do 24 godine,,,,,,,,,,,,,,56.5
-2016,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,15 do 24 godine,,,,,,,,,,,,,,52.3
-2017,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,15 do 24 godine,,,,,,,,,,,,,,46.2
-2018,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,15 do 24 godine,,,,,,,,,,,,,,35.2
-2019,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,15 do 24 godine,,,,,,,,,,,,,,23.8
-2020,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,15 do 24 godine,,,,,,,,,,,,,,28.1
-2021,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,15 do 24 godine,,,,,,,,,,,,,,31.8
+2009,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,15 do 24 godine,,,,,,,,,,,,,,38.4
+2010,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,15 do 24 godine,,,,,,,,,,,,,,46.8
+2011,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,15 do 24 godine,,,,,,,,,,,,,,53.2
+2012,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,15 do 24 godine,,,,,,,,,,,,,,54.3
+2013,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,15 do 24 godine,,,,,,,,,,,,,,59.2
+2014,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,15 do 24 godine,,,,,,,,,,,,,,56.5
+2015,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,15 do 24 godine,,,,,,,,,,,,,,56.5
+2016,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,15 do 24 godine,,,,,,,,,,,,,,52.3
+2017,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,15 do 24 godine,,,,,,,,,,,,,,46.2
+2018,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,15 do 24 godine,,,,,,,,,,,,,,35.2
+2019,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,15 do 24 godine,,,,,,,,,,,,,,23.8
+2020,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,15 do 24 godine,,,,,,,,,,,,,,28.1
+2021,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,15 do 24 godine,,,,,,,,,,,,,,31.8
 2009,Stopa nezaposlenosti,Procenat,Muškarci,15 do 24 godine,,,,,,,,,,,,,,35.7
 2010,Stopa nezaposlenosti,Procenat,Muškarci,15 do 24 godine,,,,,,,,,,,,,,46.5
 2011,Stopa nezaposlenosti,Procenat,Muškarci,15 do 24 godine,,,,,,,,,,,,,,51.3
@@ -77,123 +77,123 @@ Year,SERIES,UNIT_MEASURE,Pol,Starost,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9
 2019,Stopa nezaposlenosti,Procenat,Žene,15 do 24 godine,,,,,,,,,,,,,,29.1
 2020,Stopa nezaposlenosti,Procenat,Žene,15 do 24 godine,,,,,,,,,,,,,,30.7
 2021,Stopa nezaposlenosti,Procenat,Žene,15 do 24 godine,,,,,,,,,,,,,,34.7
-2009,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,25 do 49 godina,,,,,,,,,,,,,,20.4
-2010,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,25 do 49 godina,,,,,,,,,,,,,,23.1
-2011,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,25 do 49 godina,,,,,,,,,,,,,,23.2
-2012,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,25 do 49 godina,,,,,,,,,,,,,,26.7
-2013,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,25 do 49 godina,,,,,,,,,,,,,,27.7
-2014,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,25 do 49 godina,,,,,,,,,,,,,,27.3
-2015,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,25 do 49 godina,,,,,,,,,,,,,,25.6
-2016,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,25 do 49 godina,,,,,,,,,,,,,,25.9
-2017,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,25 do 49 godina,,,,,,,,,,,,,,22.5
-2018,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,25 do 49 godina,,,,,,,,,,,,,,18.7
-2019,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,25 do 49 godina,,,,,,,,,,,,,,13.6
-2020,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,25 do 49 godina,,,,,,,,,,,,,,13.7
-2021,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,25 do 49 godina,,,,,,,,,,,,,,14.1
-2009,Stopa nezaposlenosti,Procenat,Muškarci,25 do 49 godina,,,,,,,,,,,,,,18.2
-2010,Stopa nezaposlenosti,Procenat,Muškarci,25 do 49 godina,,,,,,,,,,,,,,20.2
-2011,Stopa nezaposlenosti,Procenat,Muškarci,25 do 49 godina,,,,,,,,,,,,,,20.7
-2012,Stopa nezaposlenosti,Procenat,Muškarci,25 do 49 godina,,,,,,,,,,,,,,22.7
-2013,Stopa nezaposlenosti,Procenat,Muškarci,25 do 49 godina,,,,,,,,,,,,,,24.7
-2014,Stopa nezaposlenosti,Procenat,Muškarci,25 do 49 godina,,,,,,,,,,,,,,23.7
-2015,Stopa nezaposlenosti,Procenat,Muškarci,25 do 49 godina,,,,,,,,,,,,,,22.2
-2016,Stopa nezaposlenosti,Procenat,Muškarci,25 do 49 godina,,,,,,,,,,,,,,21.4
-2017,Stopa nezaposlenosti,Procenat,Muškarci,25 do 49 godina,,,,,,,,,,,,,,17.5
-2018,Stopa nezaposlenosti,Procenat,Muškarci,25 do 49 godina,,,,,,,,,,,,,,17.3
-2019,Stopa nezaposlenosti,Procenat,Muškarci,25 do 49 godina,,,,,,,,,,,,,,11.5
-2020,Stopa nezaposlenosti,Procenat,Muškarci,25 do 49 godina,,,,,,,,,,,,,,13.6
-2021,Stopa nezaposlenosti,Procenat,Muškarci,25 do 49 godina,,,,,,,,,,,,,,12.9
-2009,Stopa nezaposlenosti,Procenat,Žene,25 do 49 godina,,,,,,,,,,,,,,23.4
-2010,Stopa nezaposlenosti,Procenat,Žene,25 do 49 godina,,,,,,,,,,,,,,27.1
-2011,Stopa nezaposlenosti,Procenat,Žene,25 do 49 godina,,,,,,,,,,,,,,26.6
-2012,Stopa nezaposlenosti,Procenat,Žene,25 do 49 godina,,,,,,,,,,,,,,32.1
-2013,Stopa nezaposlenosti,Procenat,Žene,25 do 49 godina,,,,,,,,,,,,,,32.0
-2014,Stopa nezaposlenosti,Procenat,Žene,25 do 49 godina,,,,,,,,,,,,,,32.5
-2015,Stopa nezaposlenosti,Procenat,Žene,25 do 49 godina,,,,,,,,,,,,,,30.5
-2016,Stopa nezaposlenosti,Procenat,Žene,25 do 49 godina,,,,,,,,,,,,,,32.1
-2017,Stopa nezaposlenosti,Procenat,Žene,25 do 49 godina,,,,,,,,,,,,,,29.1
-2018,Stopa nezaposlenosti,Procenat,Žene,25 do 49 godina,,,,,,,,,,,,,,20.8
-2019,Stopa nezaposlenosti,Procenat,Žene,25 do 49 godina,,,,,,,,,,,,,,16.7
-2020,Stopa nezaposlenosti,Procenat,Žene,25 do 49 godina,,,,,,,,,,,,,,13.8
-2021,Stopa nezaposlenosti,Procenat,Žene,25 do 49 godina,,,,,,,,,,,,,,15.7
-2009,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,50 to 64 godine,,,,,,,,,,,,,,18.9
-2010,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,50 to 64 godine,,,,,,,,,,,,,,18.9
-2011,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,50 to 64 godine,,,,,,,,,,,,,,20.2
-2012,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,50 to 64 godine,,,,,,,,,,,,,,17.1
-2013,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,50 to 64 godine,,,,,,,,,,,,,,19.0
-2014,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,50 to 64 godine,,,,,,,,,,,,,,16.4
-2015,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,50 to 64 godine,,,,,,,,,,,,,,17.8
-2016,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,50 to 64 godine,,,,,,,,,,,,,,16.8
-2017,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,50 to 64 godine,,,,,,,,,,,,,,14.3
-2018,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,50 to 64 godine,,,,,,,,,,,,,,12.2
-2019,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,50 to 64 godine,,,,,,,,,,,,,,8.5
-2020,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,50 to 64 godine,,,,,,,,,,,,,,8.7
-2021,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,50 to 64 godine,,,,,,,,,,,,,,10.5
-2009,Stopa nezaposlenosti,Procenat,Muškarci,50 to 64 godine,,,,,,,,,,,,,,21.5
-2010,Stopa nezaposlenosti,Procenat,Muškarci,50 to 64 godine,,,,,,,,,,,,,,19.6
-2011,Stopa nezaposlenosti,Procenat,Muškarci,50 to 64 godine,,,,,,,,,,,,,,19.6
-2012,Stopa nezaposlenosti,Procenat,Muškarci,50 to 64 godine,,,,,,,,,,,,,,17.7
-2013,Stopa nezaposlenosti,Procenat,Muškarci,50 to 64 godine,,,,,,,,,,,,,,18.0
-2014,Stopa nezaposlenosti,Procenat,Muškarci,50 to 64 godine,,,,,,,,,,,,,,17.0
-2015,Stopa nezaposlenosti,Procenat,Muškarci,50 to 64 godine,,,,,,,,,,,,,,18.6
-2016,Stopa nezaposlenosti,Procenat,Muškarci,50 to 64 godine,,,,,,,,,,,,,,15.3
-2017,Stopa nezaposlenosti,Procenat,Muškarci,50 to 64 godine,,,,,,,,,,,,,,13.4
-2018,Stopa nezaposlenosti,Procenat,Muškarci,50 to 64 godine,,,,,,,,,,,,,,12.4
-2019,Stopa nezaposlenosti,Procenat,Muškarci,50 to 64 godine,,,,,,,,,,,,,,5.9
-2020,Stopa nezaposlenosti,Procenat,Muškarci,50 to 64 godine,,,,,,,,,,,,,,8.7
-2021,Stopa nezaposlenosti,Procenat,Muškarci,50 to 64 godine,,,,,,,,,,,,,,8.4
-2009,Stopa nezaposlenosti,Procenat,Žene,50 to 64 godine,,,,,,,,,,,,,,15.0
-2010,Stopa nezaposlenosti,Procenat,Žene,50 to 64 godine,,,,,,,,,,,,,,17.9
-2011,Stopa nezaposlenosti,Procenat,Žene,50 to 64 godine,,,,,,,,,,,,,,21.0
-2012,Stopa nezaposlenosti,Procenat,Žene,50 to 64 godine,,,,,,,,,,,,,,16.4
-2013,Stopa nezaposlenosti,Procenat,Žene,50 to 64 godine,,,,,,,,,,,,,,20.3
-2014,Stopa nezaposlenosti,Procenat,Žene,50 to 64 godine,,,,,,,,,,,,,,15.5
-2015,Stopa nezaposlenosti,Procenat,Žene,50 to 64 godine,,,,,,,,,,,,,,16.6
-2016,Stopa nezaposlenosti,Procenat,Žene,50 to 64 godine,,,,,,,,,,,,,,19.3
-2017,Stopa nezaposlenosti,Procenat,Žene,50 to 64 godine,,,,,,,,,,,,,,15.5
-2018,Stopa nezaposlenosti,Procenat,Žene,50 to 64 godine,,,,,,,,,,,,,,11.9
-2019,Stopa nezaposlenosti,Procenat,Žene,50 to 64 godine,,,,,,,,,,,,,,12.2
-2020,Stopa nezaposlenosti,Procenat,Žene,50 to 64 godine,,,,,,,,,,,,,,8.6
-2021,Stopa nezaposlenosti,Procenat,Žene,50 to 64 godine,,,,,,,,,,,,,,13.6
-2021,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,65 godina i više,,,,,,,,,,,,,,7.7
-2021,Stopa nezaposlenosti,Procenat,Muškarci,65 godina i više,,,,,,,,,,,,,,6.4
-2021,Stopa nezaposlenosti,Procenat,Žene,65 godina i više,,,,,,,,,,,,,,9.1
-2009,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,15 do 64 godine,,,,,,,,,,,,,,21.9
-2010,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,15 do 64 godine,,,,,,,,,,,,,,24.5
-2011,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,15 do 64 godine,,,,,,,,,,,,,,25.2
-2012,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,15 do 64 godine,,,,,,,,,,,,,,26.6
-2013,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,15 do 64 godine,,,,,,,,,,,,,,28.0
-2014,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,15 do 64 godine,,,,,,,,,,,,,,26.8
-2015,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,15 do 64 godine,,,,,,,,,,,,,,26.3
-2016,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,15 do 64 godine,,,,,,,,,,,,,,25.5
-2017,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,15 do 64 godine,,,,,,,,,,,,,,22.1
-2018,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,15 do 64 godine,,,,,,,,,,,,,,18.0
-2019,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,15 do 64 godine,,,,,,,,,,,,,,12.7
-2020,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,15 do 64 godine,,,,,,,,,,,,,,13.4
-2021,Stopa nezaposlenosti,Procenat,Oba pola ili bez podjele po polu,15 do 64 godine,,,,,,,,,,,,,,14.5
-2009,Stopa nezaposlenosti,Procenat,Muškarci,15 do 64 godine,,,,,,,,,,,,,,21.2
-2010,Stopa nezaposlenosti,Procenat,Muškarci,15 do 64 godine,,,,,,,,,,,,,,22.8
-2011,Stopa nezaposlenosti,Procenat,Muškarci,15 do 64 godine,,,,,,,,,,,,,,23.7
-2012,Stopa nezaposlenosti,Procenat,Muškarci,15 do 64 godine,,,,,,,,,,,,,,24.6
-2013,Stopa nezaposlenosti,Procenat,Muškarci,15 do 64 godine,,,,,,,,,,,,,,26.2
-2014,Stopa nezaposlenosti,Procenat,Muškarci,15 do 64 godine,,,,,,,,,,,,,,24.9
-2015,Stopa nezaposlenosti,Procenat,Muškarci,15 do 64 godine,,,,,,,,,,,,,,24.4
-2016,Stopa nezaposlenosti,Procenat,Muškarci,15 do 64 godine,,,,,,,,,,,,,,22.1
-2017,Stopa nezaposlenosti,Procenat,Muškarci,15 do 64 godine,,,,,,,,,,,,,,19.0
-2018,Stopa nezaposlenosti,Procenat,Muškarci,15 do 64 godine,,,,,,,,,,,,,,17.0
-2019,Stopa nezaposlenosti,Procenat,Muškarci,15 do 64 godine,,,,,,,,,,,,,,10.3
-2020,Stopa nezaposlenosti,Procenat,Muškarci,15 do 64 godine,,,,,,,,,,,,,,13.2
-2021,Stopa nezaposlenosti,Procenat,Muškarci,15 do 64 godine,,,,,,,,,,,,,,13.0
-2009,Stopa nezaposlenosti,Procenat,Žene,15 do 64 godine,,,,,,,,,,,,,,23.0
-2010,Stopa nezaposlenosti,Procenat,Žene,15 do 64 godine,,,,,,,,,,,,,,26.9
-2011,Stopa nezaposlenosti,Procenat,Žene,15 do 64 godine,,,,,,,,,,,,,,27.5
-2012,Stopa nezaposlenosti,Procenat,Žene,15 do 64 godine,,,,,,,,,,,,,,29.4
-2013,Stopa nezaposlenosti,Procenat,Žene,15 do 64 godine,,,,,,,,,,,,,,30.6
-2014,Stopa nezaposlenosti,Procenat,Žene,15 do 64 godine,,,,,,,,,,,,,,29.7
-2015,Stopa nezaposlenosti,Procenat,Žene,15 do 64 godine,,,,,,,,,,,,,,29.1
-2016,Stopa nezaposlenosti,Procenat,Žene,15 do 64 godine,,,,,,,,,,,,,,30.6
-2017,Stopa nezaposlenosti,Procenat,Žene,15 do 64 godine,,,,,,,,,,,,,,26.5
-2018,Stopa nezaposlenosti,Procenat,Žene,15 do 64 godine,,,,,,,,,,,,,,19.7
-2019,Stopa nezaposlenosti,Procenat,Žene,15 do 64 godine,,,,,,,,,,,,,,16.1
-2020,Stopa nezaposlenosti,Procenat,Žene,15 do 64 godine,,,,,,,,,,,,,,13.7
-2021,Stopa nezaposlenosti,Procenat,Žene,15 do 64 godine,,,,,,,,,,,,,,16.6
+2009,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,Y25T49,,,,,,,,,,,,,,20.4
+2010,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,Y25T49,,,,,,,,,,,,,,23.1
+2011,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,Y25T49,,,,,,,,,,,,,,23.2
+2012,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,Y25T49,,,,,,,,,,,,,,26.7
+2013,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,Y25T49,,,,,,,,,,,,,,27.7
+2014,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,Y25T49,,,,,,,,,,,,,,27.3
+2015,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,Y25T49,,,,,,,,,,,,,,25.6
+2016,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,Y25T49,,,,,,,,,,,,,,25.9
+2017,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,Y25T49,,,,,,,,,,,,,,22.5
+2018,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,Y25T49,,,,,,,,,,,,,,18.7
+2019,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,Y25T49,,,,,,,,,,,,,,13.6
+2020,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,Y25T49,,,,,,,,,,,,,,13.7
+2021,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,Y25T49,,,,,,,,,,,,,,14.1
+2009,Stopa nezaposlenosti,Procenat,Muškarci,Y25T49,,,,,,,,,,,,,,18.2
+2010,Stopa nezaposlenosti,Procenat,Muškarci,Y25T49,,,,,,,,,,,,,,20.2
+2011,Stopa nezaposlenosti,Procenat,Muškarci,Y25T49,,,,,,,,,,,,,,20.7
+2012,Stopa nezaposlenosti,Procenat,Muškarci,Y25T49,,,,,,,,,,,,,,22.7
+2013,Stopa nezaposlenosti,Procenat,Muškarci,Y25T49,,,,,,,,,,,,,,24.7
+2014,Stopa nezaposlenosti,Procenat,Muškarci,Y25T49,,,,,,,,,,,,,,23.7
+2015,Stopa nezaposlenosti,Procenat,Muškarci,Y25T49,,,,,,,,,,,,,,22.2
+2016,Stopa nezaposlenosti,Procenat,Muškarci,Y25T49,,,,,,,,,,,,,,21.4
+2017,Stopa nezaposlenosti,Procenat,Muškarci,Y25T49,,,,,,,,,,,,,,17.5
+2018,Stopa nezaposlenosti,Procenat,Muškarci,Y25T49,,,,,,,,,,,,,,17.3
+2019,Stopa nezaposlenosti,Procenat,Muškarci,Y25T49,,,,,,,,,,,,,,11.5
+2020,Stopa nezaposlenosti,Procenat,Muškarci,Y25T49,,,,,,,,,,,,,,13.6
+2021,Stopa nezaposlenosti,Procenat,Muškarci,Y25T49,,,,,,,,,,,,,,12.9
+2009,Stopa nezaposlenosti,Procenat,Žene,Y25T49,,,,,,,,,,,,,,23.4
+2010,Stopa nezaposlenosti,Procenat,Žene,Y25T49,,,,,,,,,,,,,,27.1
+2011,Stopa nezaposlenosti,Procenat,Žene,Y25T49,,,,,,,,,,,,,,26.6
+2012,Stopa nezaposlenosti,Procenat,Žene,Y25T49,,,,,,,,,,,,,,32.1
+2013,Stopa nezaposlenosti,Procenat,Žene,Y25T49,,,,,,,,,,,,,,32.0
+2014,Stopa nezaposlenosti,Procenat,Žene,Y25T49,,,,,,,,,,,,,,32.5
+2015,Stopa nezaposlenosti,Procenat,Žene,Y25T49,,,,,,,,,,,,,,30.5
+2016,Stopa nezaposlenosti,Procenat,Žene,Y25T49,,,,,,,,,,,,,,32.1
+2017,Stopa nezaposlenosti,Procenat,Žene,Y25T49,,,,,,,,,,,,,,29.1
+2018,Stopa nezaposlenosti,Procenat,Žene,Y25T49,,,,,,,,,,,,,,20.8
+2019,Stopa nezaposlenosti,Procenat,Žene,Y25T49,,,,,,,,,,,,,,16.7
+2020,Stopa nezaposlenosti,Procenat,Žene,Y25T49,,,,,,,,,,,,,,13.8
+2021,Stopa nezaposlenosti,Procenat,Žene,Y25T49,,,,,,,,,,,,,,15.7
+2009,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,Y50T64,,,,,,,,,,,,,,18.9
+2010,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,Y50T64,,,,,,,,,,,,,,18.9
+2011,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,Y50T64,,,,,,,,,,,,,,20.2
+2012,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,Y50T64,,,,,,,,,,,,,,17.1
+2013,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,Y50T64,,,,,,,,,,,,,,19.0
+2014,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,Y50T64,,,,,,,,,,,,,,16.4
+2015,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,Y50T64,,,,,,,,,,,,,,17.8
+2016,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,Y50T64,,,,,,,,,,,,,,16.8
+2017,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,Y50T64,,,,,,,,,,,,,,14.3
+2018,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,Y50T64,,,,,,,,,,,,,,12.2
+2019,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,Y50T64,,,,,,,,,,,,,,8.5
+2020,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,Y50T64,,,,,,,,,,,,,,8.7
+2021,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,Y50T64,,,,,,,,,,,,,,10.5
+2009,Stopa nezaposlenosti,Procenat,Muškarci,Y50T64,,,,,,,,,,,,,,21.5
+2010,Stopa nezaposlenosti,Procenat,Muškarci,Y50T64,,,,,,,,,,,,,,19.6
+2011,Stopa nezaposlenosti,Procenat,Muškarci,Y50T64,,,,,,,,,,,,,,19.6
+2012,Stopa nezaposlenosti,Procenat,Muškarci,Y50T64,,,,,,,,,,,,,,17.7
+2013,Stopa nezaposlenosti,Procenat,Muškarci,Y50T64,,,,,,,,,,,,,,18.0
+2014,Stopa nezaposlenosti,Procenat,Muškarci,Y50T64,,,,,,,,,,,,,,17.0
+2015,Stopa nezaposlenosti,Procenat,Muškarci,Y50T64,,,,,,,,,,,,,,18.6
+2016,Stopa nezaposlenosti,Procenat,Muškarci,Y50T64,,,,,,,,,,,,,,15.3
+2017,Stopa nezaposlenosti,Procenat,Muškarci,Y50T64,,,,,,,,,,,,,,13.4
+2018,Stopa nezaposlenosti,Procenat,Muškarci,Y50T64,,,,,,,,,,,,,,12.4
+2019,Stopa nezaposlenosti,Procenat,Muškarci,Y50T64,,,,,,,,,,,,,,5.9
+2020,Stopa nezaposlenosti,Procenat,Muškarci,Y50T64,,,,,,,,,,,,,,8.7
+2021,Stopa nezaposlenosti,Procenat,Muškarci,Y50T64,,,,,,,,,,,,,,8.4
+2009,Stopa nezaposlenosti,Procenat,Žene,Y50T64,,,,,,,,,,,,,,15.0
+2010,Stopa nezaposlenosti,Procenat,Žene,Y50T64,,,,,,,,,,,,,,17.9
+2011,Stopa nezaposlenosti,Procenat,Žene,Y50T64,,,,,,,,,,,,,,21.0
+2012,Stopa nezaposlenosti,Procenat,Žene,Y50T64,,,,,,,,,,,,,,16.4
+2013,Stopa nezaposlenosti,Procenat,Žene,Y50T64,,,,,,,,,,,,,,20.3
+2014,Stopa nezaposlenosti,Procenat,Žene,Y50T64,,,,,,,,,,,,,,15.5
+2015,Stopa nezaposlenosti,Procenat,Žene,Y50T64,,,,,,,,,,,,,,16.6
+2016,Stopa nezaposlenosti,Procenat,Žene,Y50T64,,,,,,,,,,,,,,19.3
+2017,Stopa nezaposlenosti,Procenat,Žene,Y50T64,,,,,,,,,,,,,,15.5
+2018,Stopa nezaposlenosti,Procenat,Žene,Y50T64,,,,,,,,,,,,,,11.9
+2019,Stopa nezaposlenosti,Procenat,Žene,Y50T64,,,,,,,,,,,,,,12.2
+2020,Stopa nezaposlenosti,Procenat,Žene,Y50T64,,,,,,,,,,,,,,8.6
+2021,Stopa nezaposlenosti,Procenat,Žene,Y50T64,,,,,,,,,,,,,,13.6
+2021,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,Y_GE65,,,,,,,,,,,,,,7.7
+2021,Stopa nezaposlenosti,Procenat,Muškarci,Y_GE65,,,,,,,,,,,,,,6.4
+2021,Stopa nezaposlenosti,Procenat,Žene,Y_GE65,,,,,,,,,,,,,,9.1
+2009,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,Y15T64,,,,,,,,,,,,,,21.9
+2010,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,Y15T64,,,,,,,,,,,,,,24.5
+2011,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,Y15T64,,,,,,,,,,,,,,25.2
+2012,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,Y15T64,,,,,,,,,,,,,,26.6
+2013,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,Y15T64,,,,,,,,,,,,,,28.0
+2014,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,Y15T64,,,,,,,,,,,,,,26.8
+2015,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,Y15T64,,,,,,,,,,,,,,26.3
+2016,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,Y15T64,,,,,,,,,,,,,,25.5
+2017,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,Y15T64,,,,,,,,,,,,,,22.1
+2018,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,Y15T64,,,,,,,,,,,,,,18.0
+2019,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,Y15T64,,,,,,,,,,,,,,12.7
+2020,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,Y15T64,,,,,,,,,,,,,,13.4
+2021,Stopa nezaposlenosti,Procenat,Oba spola ili bez podjele po spolu,Y15T64,,,,,,,,,,,,,,14.5
+2009,Stopa nezaposlenosti,Procenat,Muškarci,Y15T64,,,,,,,,,,,,,,21.2
+2010,Stopa nezaposlenosti,Procenat,Muškarci,Y15T64,,,,,,,,,,,,,,22.8
+2011,Stopa nezaposlenosti,Procenat,Muškarci,Y15T64,,,,,,,,,,,,,,23.7
+2012,Stopa nezaposlenosti,Procenat,Muškarci,Y15T64,,,,,,,,,,,,,,24.6
+2013,Stopa nezaposlenosti,Procenat,Muškarci,Y15T64,,,,,,,,,,,,,,26.2
+2014,Stopa nezaposlenosti,Procenat,Muškarci,Y15T64,,,,,,,,,,,,,,24.9
+2015,Stopa nezaposlenosti,Procenat,Muškarci,Y15T64,,,,,,,,,,,,,,24.4
+2016,Stopa nezaposlenosti,Procenat,Muškarci,Y15T64,,,,,,,,,,,,,,22.1
+2017,Stopa nezaposlenosti,Procenat,Muškarci,Y15T64,,,,,,,,,,,,,,19.0
+2018,Stopa nezaposlenosti,Procenat,Muškarci,Y15T64,,,,,,,,,,,,,,17.0
+2019,Stopa nezaposlenosti,Procenat,Muškarci,Y15T64,,,,,,,,,,,,,,10.3
+2020,Stopa nezaposlenosti,Procenat,Muškarci,Y15T64,,,,,,,,,,,,,,13.2
+2021,Stopa nezaposlenosti,Procenat,Muškarci,Y15T64,,,,,,,,,,,,,,13.0
+2009,Stopa nezaposlenosti,Procenat,Žene,Y15T64,,,,,,,,,,,,,,23.0
+2010,Stopa nezaposlenosti,Procenat,Žene,Y15T64,,,,,,,,,,,,,,26.9
+2011,Stopa nezaposlenosti,Procenat,Žene,Y15T64,,,,,,,,,,,,,,27.5
+2012,Stopa nezaposlenosti,Procenat,Žene,Y15T64,,,,,,,,,,,,,,29.4
+2013,Stopa nezaposlenosti,Procenat,Žene,Y15T64,,,,,,,,,,,,,,30.6
+2014,Stopa nezaposlenosti,Procenat,Žene,Y15T64,,,,,,,,,,,,,,29.7
+2015,Stopa nezaposlenosti,Procenat,Žene,Y15T64,,,,,,,,,,,,,,29.1
+2016,Stopa nezaposlenosti,Procenat,Žene,Y15T64,,,,,,,,,,,,,,30.6
+2017,Stopa nezaposlenosti,Procenat,Žene,Y15T64,,,,,,,,,,,,,,26.5
+2018,Stopa nezaposlenosti,Procenat,Žene,Y15T64,,,,,,,,,,,,,,19.7
+2019,Stopa nezaposlenosti,Procenat,Žene,Y15T64,,,,,,,,,,,,,,16.1
+2020,Stopa nezaposlenosti,Procenat,Žene,Y15T64,,,,,,,,,,,,,,13.7
+2021,Stopa nezaposlenosti,Procenat,Žene,Y15T64,,,,,,,,,,,,,,16.6

@@ -7,11 +7,11 @@ Year,SERIES,UNIT_MEASURE,Degree of urbanisation,Value
 2007,Proportion of population living below the national poverty line,Percent,Total,45092
 2011,Proportion of population living below the national poverty line,Percent,Total,45030
 2015,Proportion of population living below the national poverty line,Percent,Total,45150
-2004,Proportion of households living below the national poverty line,Number,Total,63973
-2007,Proportion of households living below the national poverty line,Number,Total,64708
-2011,Proportion of households living below the national poverty line,Number,Total,53234
-2015,Proportion of households living below the national poverty line,Number,Total,49805
-2004,Proportion of households living below the national poverty line,Percent,Total,44942
-2007,Proportion of households living below the national poverty line,Percent,Total,45002
-2011,Proportion of households living below the national poverty line,Percent,Total,45152
-2015,Proportion of households living below the national poverty line,Percent,Total,45182
+2004,SI_POV_HHD,Number,Total,63973
+2007,SI_POV_HHD,Number,Total,64708
+2011,SI_POV_HHD,Number,Total,53234
+2015,SI_POV_HHD,Number,Total,49805
+2004,SI_POV_HHD,Percent,Total,44942
+2007,SI_POV_HHD,Percent,Total,45002
+2011,SI_POV_HHD,Percent,Total,45152
+2015,SI_POV_HHD,Percent,Total,45182

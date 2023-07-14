@@ -1,16 +1,16 @@
 Year,Value,UNIT_MEASURE,SERIES
-2010,1084.0,Thousand of cubic metres,Treated municipal wastewater (thous. m3)
-2011,959.0,Thousand of cubic metres,Treated municipal wastewater (thous. m3)
-2012,1109.0,Thousand of cubic metres,Treated municipal wastewater (thous. m3)
-2013,1169.0,Thousand of cubic metres,Treated municipal wastewater (thous. m3)
-2014,1193.0,Thousand of cubic metres,Treated municipal wastewater (thous. m3)
-2015,1266.0,Thousand of cubic metres,Treated municipal wastewater (thous. m3)
-2016,2698.0,Thousand of cubic metres,Treated municipal wastewater (thous. m3)
-2017,2660.0,Thousand of cubic metres,Treated municipal wastewater (thous. m3)
-2018,2841.0,Thousand of cubic metres,Treated municipal wastewater (thous. m3)
-2019,2936.0,Thousand of cubic metres,Treated municipal wastewater (thous. m3)
-2020,3171.0,Thousand of cubic metres,Treated municipal wastewater (thous. m3)
-2021,2684.0,Thousand of cubic metres,Treated municipal wastewater (thous. m3)
-2019,4.5,Percent,Population connected to at least secondary wastewater treatment (%)
-2020,4.5,Percent,Population connected to at least secondary wastewater treatment (%)
-2021,4.7,Percent,Population connected to at least secondary wastewater treatment (%)
+2010,1084.0,THOUS_M3,EN_WWT_TREATMUN
+2011,959.0,THOUS_M3,EN_WWT_TREATMUN
+2012,1109.0,THOUS_M3,EN_WWT_TREATMUN
+2013,1169.0,THOUS_M3,EN_WWT_TREATMUN
+2014,1193.0,THOUS_M3,EN_WWT_TREATMUN
+2015,1266.0,THOUS_M3,EN_WWT_TREATMUN
+2016,2698.0,THOUS_M3,EN_WWT_TREATMUN
+2017,2660.0,THOUS_M3,EN_WWT_TREATMUN
+2018,2841.0,THOUS_M3,EN_WWT_TREATMUN
+2019,2936.0,THOUS_M3,EN_WWT_TREATMUN
+2020,3171.0,THOUS_M3,EN_WWT_TREATMUN
+2021,2684.0,THOUS_M3,EN_WWT_TREATMUN
+2019,4.5,Percent,EN_WWT_TREATPOP
+2020,4.5,Percent,EN_WWT_TREATPOP
+2021,4.7,Percent,EN_WWT_TREATPOP

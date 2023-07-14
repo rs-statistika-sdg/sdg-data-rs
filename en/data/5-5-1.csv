@@ -20,10 +20,10 @@ Year,SERIES,UNIT_MEASURE,Sex,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed
 2014,Proportion of seats held by women in national parliaments (% of total number of seats),Percent,Female,,,,,,,15.7
 2018,Proportion of seats held by women in national parliaments (% of total number of seats),Percent,Female,,,,,,,18.1
 2022,Proportion of seats held by women in national parliaments (% of total number of seats),Percent,Female,,,,,,,19.3
-2000,"Proportion of seats held by women in city/municipal assemblies, according to the results of the Local Election",Percent,Female,,,,,,,15.8
-2004,"Proportion of seats held by women in city/municipal assemblies, according to the results of the Local Election",Percent,Female,,,,,,,16.3
-2008,"Proportion of seats held by women in city/municipal assemblies, according to the results of the Local Election",Percent,Female,,,,,,,15.8
-2012,"Proportion of seats held by women in city/municipal assemblies, according to the results of the Local Election",Percent,Female,,,,,,,14.5
-2015,"Proportion of seats held by women in city/municipal assemblies, according to the results of the Local Election",Percent,Female,,,,,,,14.7
-2016,"Proportion of seats held by women in city/municipal assemblies, according to the results of the Local Election",Percent,Female,,,,,,,16.4
-2020,"Proportion of seats held by women in city/municipal assemblies, according to the results of the Local Election",Percent,Female,,,,,,,17.0
+2000,SG_GEN_LPARL,Percent,Female,,,,,,,15.8
+2004,SG_GEN_LPARL,Percent,Female,,,,,,,16.3
+2008,SG_GEN_LPARL,Percent,Female,,,,,,,15.8
+2012,SG_GEN_LPARL,Percent,Female,,,,,,,14.5
+2015,SG_GEN_LPARL,Percent,Female,,,,,,,14.7
+2016,SG_GEN_LPARL,Percent,Female,,,,,,,16.4
+2020,SG_GEN_LPARL,Percent,Female,,,,,,,17.0

@@ -1,6 +1,6 @@
-Year,SERIES,UNIT_MEASURE,Starost,Pol,Value
-2010,Procenat svakodnevnih pušača među stanovništvom,Procenat,Stariji od 18 godina,Oba pola ili bez podjele po polu,28.7
-2012,Procenat svakodnevnih pušača među stanovništvom,Procenat,15 do 49 godina,Muškarci,34.3
-2012,Procenat svakodnevnih pušača među stanovništvom,Procenat,15 do 49 godina,Žene,26.3
-2015,Procenat svakodnevnih pušača među stanovništvom,Procenat,Stariji od 15 godina,Oba pola ili bez podjele po polu,24.6
-2018,Procenat pušača među djecom starosti 13–15 godina,Procenat,13 do 15 godina,Oba pola ili bez podjele po polu,11.8
+Year,SERIES,UNIT_MEASURE,Godine,Spol,Value
+2010,SH_PRV_SMOKA,Procenat,>18Y,Oba spola ili bez podjele po spolu,28.7
+2012,SH_PRV_SMOKA,Procenat,15 do 49 godina,Muškarci,34.3
+2012,SH_PRV_SMOKA,Procenat,15 do 49 godina,Žene,26.3
+2015,SH_PRV_SMOKA,Procenat,>15Y,Oba spola ili bez podjele po spolu,24.6
+2018,SH_PRV_SMOKC,Procenat,Y13T15,Oba spola ili bez podjele po spolu,11.8

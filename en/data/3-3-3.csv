@@ -1,14 +1,14 @@
 Year,SERIES,UNIT_MEASURE,Value
-2009,"Malaria incidence (per 1,000 population)","Per 1,000 population",0.0
-2010,"Malaria incidence (per 1,000 population)","Per 1,000 population",0.00085
-2011,"Malaria incidence (per 1,000 population)","Per 1,000 population",0.0
-2012,"Malaria incidence (per 1,000 population)","Per 1,000 population",0.00085
-2013,"Malaria incidence (per 1,000 population)","Per 1,000 population",0.0
-2014,"Malaria incidence (per 1,000 population)","Per 1,000 population",0.00086
-2015,"Malaria incidence (per 1,000 population)","Per 1,000 population",0.0
-2016,"Malaria incidence (per 1,000 population)","Per 1,000 population",0.0
-2017,"Malaria incidence (per 1,000 population)","Per 1,000 population",0.0
-2018,"Malaria incidence (per 1,000 population)","Per 1,000 population",0.0
-2019,"Malaria incidence (per 1,000 population)","Per 1,000 population",0.0
-2020,"Malaria incidence (per 1,000 population)","Per 1,000 population",0.0
-2021,"Malaria incidence (per 1,000 population)","Per 1,000 population",0.0
+2009,SH_STA_MALR,"Per 1,000 population",0.0
+2010,SH_STA_MALR,"Per 1,000 population",0.00085
+2011,SH_STA_MALR,"Per 1,000 population",0.0
+2012,SH_STA_MALR,"Per 1,000 population",0.00085
+2013,SH_STA_MALR,"Per 1,000 population",0.0
+2014,SH_STA_MALR,"Per 1,000 population",0.00086
+2015,SH_STA_MALR,"Per 1,000 population",0.0
+2016,SH_STA_MALR,"Per 1,000 population",0.0
+2017,SH_STA_MALR,"Per 1,000 population",0.0
+2018,SH_STA_MALR,"Per 1,000 population",0.0
+2019,SH_STA_MALR,"Per 1,000 population",0.0
+2020,SH_STA_MALR,"Per 1,000 population",0.0
+2021,SH_STA_MALR,"Per 1,000 population",0.0
