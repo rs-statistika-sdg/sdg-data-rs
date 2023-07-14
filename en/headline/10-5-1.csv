@@ -1,73 +1,145 @@
 Year,Value,UNIT_MEASURE,SERIES
-2018,16.21,Percent,Regulatory Tier 1 capital to risk-weighted assets (%)
-2019,16.87,Percent,Regulatory Tier 1 capital to risk-weighted assets (%)
-2020,17.52,Percent,Regulatory Tier 1 capital to risk-weighted assets (%)
-2021,18.31,Percent,Regulatory Tier 1 capital to risk-weighted assets (%)
-2018,17.66,Percent,FI_FSI_FSRCER
-2019,18.31,Percent,FI_FSI_FSRCER
-2020,19.33,Percent,FI_FSI_FSRCER
-2021,19.15,Percent,FI_FSI_FSRCER
-2018,12.44,Percent,Regulatory capital to assets (%)
-2019,12.58,Percent,Regulatory capital to assets (%)
-2020,12.39,Percent,Regulatory capital to assets (%)
-2021,11.69,Percent,Regulatory capital to assets (%)
-2018,7.17,Percent,FI_FSI_FSNPA
-2019,5.04,Percent,FI_FSI_FSNPA
-2020,3.62,Percent,FI_FSI_FSNPA
-2021,2.54,Percent,FI_FSI_FSNPA
-2018,19.1,Percent,FI_FSI_FSNPALC
-2019,10.66,Percent,FI_FSI_FSNPALC
-2020,6.18,Percent,FI_FSI_FSNPALC
-2021,4.56,Percent,FI_FSI_FSNPALC
-2018,18.34,Percent,Non-performing loans net of provisions to capital (%)
-2019,9.42,Percent,Non-performing loans net of provisions to capital (%)
-2020,5.99,Percent,Non-performing loans net of provisions to capital (%)
-2021,4.34,Percent,Non-performing loans net of provisions to capital (%)
-2018,9.54,Percent,Non-performing loans to total gross loans (%)
-2019,6.95,Percent,Non-performing loans to total gross loans (%)
-2020,5.23,Percent,Non-performing loans to total gross loans (%)
-2021,3.98,Percent,Non-performing loans to total gross loans (%)
-2018,1.13,Percent,Return on assets (%)
-2019,1.35,Percent,Return on assets (%)
-2020,0.69,Percent,Return on assets (%)
-2021,1.38,Percent,Return on assets (%)
-2018,8.79,Percent,FI_FSI_FSERSC
-2019,10.75,Percent,FI_FSI_FSERSC
-2020,5.5,Percent,FI_FSI_FSERSC
-2021,11.25,Percent,FI_FSI_FSERSC
-2018,60.65,Percent,FI_FSI_FSINTIRI
-2019,58.07,Percent,FI_FSI_FSINTIRI
-2020,58.87,Percent,FI_FSI_FSINTIRI
-2021,56.84,Percent,FI_FSI_FSINTIRI
-2018,78.24,Percent,FI_FSI_FSINOIRE
-2019,73.22,Percent,FI_FSI_FSINOIRE
-2020,85.81,Percent,FI_FSI_FSINOIRE
-2021,71.68,Percent,FI_FSI_FSINOIRE
-2018,26.7,Percent,FI_FSI_FSLSTA
-2019,22.97,Percent,FI_FSI_FSLSTA
-2020,22.87,Percent,FI_FSI_FSLSTA
-2021,28.72,Percent,FI_FSI_FSLSTA
-2018,39.96,Percent,Liquid assets to short term liabilities (%)
-2019,35.03,Percent,Liquid assets to short term liabilities (%)
-2020,33.75,Percent,Liquid assets to short term liabilities (%)
-2021,40.73,Percent,Liquid assets to short term liabilities (%)
-2018,105.98,Percent,FI_FSI_FSLDC
-2019,103.1,Percent,FI_FSI_FSLDC
-2020,106.81,Percent,FI_FSI_FSLDC
-2021,121.63,Percent,FI_FSI_FSLDC
-2018,76.4,Percent,FI_FSI_FSSTL
-2019,75.08,Percent,FI_FSI_FSSTL
-2020,77.44,Percent,FI_FSI_FSSTL
-2021,79.97,Percent,FI_FSI_FSSTL
-2018,69.01,Percent,FI_FSI_FSSFCLN
-2019,63.94,Percent,FI_FSI_FSSFCLN
-2020,62.38,Percent,FI_FSI_FSSFCLN
-2021,58.74,Percent,FI_FSI_FSSFCLN
-2018,61.61,Percent,FI_FSI_FSFCLI
-2019,58.95,Percent,FI_FSI_FSFCLI
-2020,59.1,Percent,FI_FSI_FSFCLI
-2021,54.46,Percent,FI_FSI_FSFCLI
-2018,3.06,Percent,Net open position in foreign exchange to capital (%)
-2019,9.36,Percent,Net open position in foreign exchange to capital (%)
-2020,6.38,Percent,Net open position in foreign exchange to capital (%)
-2021,2.38,Percent,Net open position in foreign exchange to capital (%)
+2000,54.0494,Percent,Liquid assets to short term liabilities (%)
+2001,65.07871,Percent,Liquid assets to short term liabilities (%)
+2002,51.51903,Percent,Liquid assets to short term liabilities (%)
+2003,58.73752,Percent,Liquid assets to short term liabilities (%)
+2004,59.52544,Percent,Liquid assets to short term liabilities (%)
+2005,61.91274,Percent,Liquid assets to short term liabilities (%)
+2006,60.77306,Percent,Liquid assets to short term liabilities (%)
+2007,61.28471,Percent,Liquid assets to short term liabilities (%)
+2008,78.89405,Percent,Liquid assets to short term liabilities (%)
+2009,81.60722,Percent,Liquid assets to short term liabilities (%)
+2010,71.74154,Percent,Liquid assets to short term liabilities (%)
+2011,67.32943,Percent,Liquid assets to short term liabilities (%)
+2012,65.28876,Percent,Liquid assets to short term liabilities (%)
+2013,65.89659,Percent,Liquid assets to short term liabilities (%)
+2014,65.61993,Percent,Liquid assets to short term liabilities (%)
+2015,61.92074,Percent,Liquid assets to short term liabilities (%)
+2016,61.61892,Percent,Liquid assets to short term liabilities (%)
+2017,59.85051,Percent,Liquid assets to short term liabilities (%)
+2018,60.43847,Percent,Liquid assets to short term liabilities (%)
+2019,61.03062,Percent,Liquid assets to short term liabilities (%)
+2020,51.34221,Percent,Liquid assets to short term liabilities (%)
+2000,0.0,Percent,Net open position in foreign exchange to capital (%)
+2001,0.0,Percent,Net open position in foreign exchange to capital (%)
+2002,0.0,Percent,Net open position in foreign exchange to capital (%)
+2003,33.09814,Percent,Net open position in foreign exchange to capital (%)
+2004,9.20791,Percent,Net open position in foreign exchange to capital (%)
+2005,6.34987,Percent,Net open position in foreign exchange to capital (%)
+2006,6.81397,Percent,Net open position in foreign exchange to capital (%)
+2007,4.3397,Percent,Net open position in foreign exchange to capital (%)
+2008,4.61266,Percent,Net open position in foreign exchange to capital (%)
+2009,1.31004,Percent,Net open position in foreign exchange to capital (%)
+2010,3.41532,Percent,Net open position in foreign exchange to capital (%)
+2011,12.70493,Percent,Net open position in foreign exchange to capital (%)
+2012,4.41682,Percent,Net open position in foreign exchange to capital (%)
+2013,5.72097,Percent,Net open position in foreign exchange to capital (%)
+2014,9.85365,Percent,Net open position in foreign exchange to capital (%)
+2015,8.30719,Percent,Net open position in foreign exchange to capital (%)
+2016,1.58889,Percent,Net open position in foreign exchange to capital (%)
+2017,-0.21428,Percent,Net open position in foreign exchange to capital (%)
+2018,2.10767,Percent,Net open position in foreign exchange to capital (%)
+2019,3.42322,Percent,Net open position in foreign exchange to capital (%)
+2020,4.17421,Percent,Net open position in foreign exchange to capital (%)
+2000,30.30251,Percent,Non-performing loans net of provisions to capital (%)
+2001,33.46471,Percent,Non-performing loans net of provisions to capital (%)
+2002,24.41932,Percent,Non-performing loans net of provisions to capital (%)
+2003,19.77382,Percent,Non-performing loans net of provisions to capital (%)
+2004,15.53339,Percent,Non-performing loans net of provisions to capital (%)
+2005,15.65278,Percent,Non-performing loans net of provisions to capital (%)
+2006,11.76116,Percent,Non-performing loans net of provisions to capital (%)
+2007,9.53645,Percent,Non-performing loans net of provisions to capital (%)
+2008,10.27404,Percent,Non-performing loans net of provisions to capital (%)
+2009,19.64209,Percent,Non-performing loans net of provisions to capital (%)
+2010,32.8362,Percent,Non-performing loans net of provisions to capital (%)
+2011,20.59918,Percent,Non-performing loans net of provisions to capital (%)
+2012,24.78804,Percent,Non-performing loans net of provisions to capital (%)
+2013,26.44458,Percent,Non-performing loans net of provisions to capital (%)
+2014,24.63512,Percent,Non-performing loans net of provisions to capital (%)
+2015,24.8954,Percent,Non-performing loans net of provisions to capital (%)
+2016,17.55071,Percent,Non-performing loans net of provisions to capital (%)
+2017,13.51627,Percent,Non-performing loans net of provisions to capital (%)
+2018,11.42326,Percent,Non-performing loans net of provisions to capital (%)
+2019,9.61235,Percent,Non-performing loans net of provisions to capital (%)
+2020,7.3803,Percent,Non-performing loans net of provisions to capital (%)
+2000,21.21596,Percent,Non-performing loans to total gross loans (%)
+2001,17.9071,Percent,Non-performing loans to total gross loans (%)
+2002,11.01722,Percent,Non-performing loans to total gross loans (%)
+2003,8.38583,Percent,Non-performing loans to total gross loans (%)
+2004,6.07354,Percent,Non-performing loans to total gross loans (%)
+2005,5.2756,Percent,Non-performing loans to total gross loans (%)
+2006,3.99876,Percent,Non-performing loans to total gross loans (%)
+2007,3.01859,Percent,Non-performing loans to total gross loans (%)
+2008,3.0912,Percent,Non-performing loans to total gross loans (%)
+2009,5.87121,Percent,Non-performing loans to total gross loans (%)
+2010,11.42178,Percent,Non-performing loans to total gross loans (%)
+2011,11.79971,Percent,Non-performing loans to total gross loans (%)
+2012,13.46569,Percent,Non-performing loans to total gross loans (%)
+2013,15.11985,Percent,Non-performing loans to total gross loans (%)
+2014,14.16531,Percent,Non-performing loans to total gross loans (%)
+2015,13.70842,Percent,Non-performing loans to total gross loans (%)
+2016,11.77772,Percent,Non-performing loans to total gross loans (%)
+2017,10.04628,Percent,Non-performing loans to total gross loans (%)
+2018,8.770334,Percent,Non-performing loans to total gross loans (%)
+2019,7.41166,Percent,Non-performing loans to total gross loans (%)
+2020,6.1224,Percent,Non-performing loans to total gross loans (%)
+2000,26.47587,Percent,Regulatory Tier 1 capital to risk-weighted assets (%)
+2001,22.35867,Percent,Regulatory Tier 1 capital to risk-weighted assets (%)
+2002,18.94798,Percent,Regulatory Tier 1 capital to risk-weighted assets (%)
+2003,15.92226,Percent,Regulatory Tier 1 capital to risk-weighted assets (%)
+2004,14.92504,Percent,Regulatory Tier 1 capital to risk-weighted assets (%)
+2005,13.67148,Percent,Regulatory Tier 1 capital to risk-weighted assets (%)
+2006,13.61705,Percent,Regulatory Tier 1 capital to risk-weighted assets (%)
+2007,12.59725,Percent,Regulatory Tier 1 capital to risk-weighted assets (%)
+2008,12.00377,Percent,Regulatory Tier 1 capital to risk-weighted assets (%)
+2009,12.39212,Percent,Regulatory Tier 1 capital to risk-weighted assets (%)
+2010,12.64014,Percent,Regulatory Tier 1 capital to risk-weighted assets (%)
+2011,13.56927,Percent,Regulatory Tier 1 capital to risk-weighted assets (%)
+2012,14.06259,Percent,Regulatory Tier 1 capital to risk-weighted assets (%)
+2013,15.23422,Percent,Regulatory Tier 1 capital to risk-weighted assets (%)
+2014,14.34523,Percent,Regulatory Tier 1 capital to risk-weighted assets (%)
+2015,13.76124,Percent,Regulatory Tier 1 capital to risk-weighted assets (%)
+2016,15.02839,Percent,Regulatory Tier 1 capital to risk-weighted assets (%)
+2017,14.76778,Percent,Regulatory Tier 1 capital to risk-weighted assets (%)
+2018,16.48705,Percent,Regulatory Tier 1 capital to risk-weighted assets (%)
+2019,17.47287,Percent,Regulatory Tier 1 capital to risk-weighted assets (%)
+2020,18.0835,Percent,Regulatory Tier 1 capital to risk-weighted assets (%)
+2000,20.43923,Percent,Regulatory capital to assets (%)
+2001,14.52766,Percent,Regulatory capital to assets (%)
+2002,14.93297,Percent,Regulatory capital to assets (%)
+2003,11.79346,Percent,Regulatory capital to assets (%)
+2004,10.73723,Percent,Regulatory capital to assets (%)
+2005,9.72961,Percent,Regulatory capital to assets (%)
+2006,9.73689,Percent,Regulatory capital to assets (%)
+2007,8.81781,Percent,Regulatory capital to assets (%)
+2008,9.20405,Percent,Regulatory capital to assets (%)
+2009,9.69789,Percent,Regulatory capital to assets (%)
+2010,10.27702,Percent,Regulatory capital to assets (%)
+2011,10.61361,Percent,Regulatory capital to assets (%)
+2012,10.93375,Percent,Regulatory capital to assets (%)
+2013,11.53761,Percent,Regulatory capital to assets (%)
+2014,10.66636,Percent,Regulatory capital to assets (%)
+2015,10.07751,Percent,Regulatory capital to assets (%)
+2016,10.86116,Percent,Regulatory capital to assets (%)
+2017,10.67599,Percent,Regulatory capital to assets (%)
+2018,10.43046,Percent,Regulatory capital to assets (%)
+2019,10.78633,Percent,Regulatory capital to assets (%)
+2020,10.47051,Percent,Regulatory capital to assets (%)
+2003,0.44729,Percent,Return on assets (%)
+2004,0.68858,Percent,Return on assets (%)
+2005,0.69402,Percent,Return on assets (%)
+2006,0.86978,Percent,Return on assets (%)
+2007,0.83502,Percent,Return on assets (%)
+2008,0.52437,Percent,Return on assets (%)
+2009,0.14323,Percent,Return on assets (%)
+2010,-0.50973,Percent,Return on assets (%)
+2011,0.77874,Percent,Return on assets (%)
+2012,0.71634,Percent,Return on assets (%)
+2013,-0.06861,Percent,Return on assets (%)
+2014,0.77246,Percent,Return on assets (%)
+2015,0.29679,Percent,Return on assets (%)
+2016,1.05432,Percent,Return on assets (%)
+2017,1.44967,Percent,Return on assets (%)
+2018,1.29306,Percent,Return on assets (%)
+2019,1.35167,Percent,Return on assets (%)
+2020,0.74568,Percent,Return on assets (%)

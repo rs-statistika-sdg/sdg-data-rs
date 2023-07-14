@@ -1,79 +1,17 @@
-Year,SERIES,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
-2009,Rashodi za istraživanje i razvoj kao udio u BDP-u,Procenat,,0.3
-2010,Rashodi za istraživanje i razvoj kao udio u BDP-u,Procenat,,0.25
-2011,Rashodi za istraživanje i razvoj kao udio u BDP-u,Procenat,,0.3
-2012,Rashodi za istraživanje i razvoj kao udio u BDP-u,Procenat,,0.4
-2013,Rashodi za istraživanje i razvoj kao udio u BDP-u,Procenat,,0.56
-2014,Rashodi za istraživanje i razvoj kao udio u BDP-u,Procenat,,0.2
-2015,Rashodi za istraživanje i razvoj kao udio u BDP-u,Procenat,,0.19
-2016,Rashodi za istraživanje i razvoj kao udio u BDP-u,Procenat,,0.17
-2017,Rashodi za istraživanje i razvoj kao udio u BDP-u,Procenat,,0.17
-2018,Rashodi za istraživanje i razvoj kao udio u BDP-u,Procenat,,0.17
-2019,Rashodi za istraživanje i razvoj kao udio u BDP-u,Procenat,,0.16
-2020,Rashodi za istraživanje i razvoj kao udio u BDP-u,Procenat,,0.18
-2021,Rashodi za istraživanje i razvoj kao udio u BDP-u,Procenat,,0.2
-2009,GB_XPD_RSDSEC,u hiljadama KM,Bez podjele,24566.0
-2010,GB_XPD_RSDSEC,u hiljadama KM,Bez podjele,20779.0
-2011,GB_XPD_RSDSEC,u hiljadama KM,Bez podjele,26191.0
-2012,GB_XPD_RSDSEC,u hiljadama KM,Bez podjele,34297.0
-2013,GB_XPD_RSDSEC,u hiljadama KM,Bez podjele,49035.0
-2014,GB_XPD_RSDSEC,u hiljadama KM,Bez podjele,17839.0
-2015,GB_XPD_RSDSEC,u hiljadama KM,Bez podjele,17935.0
-2016,GB_XPD_RSDSEC,u hiljadama KM,Bez podjele,16736.0
-2017,GB_XPD_RSDSEC,u hiljadama KM,Bez podjele,17196.0
-2018,GB_XPD_RSDSEC,u hiljadama KM,Bez podjele,18341.0
-2019,GB_XPD_RSDSEC,u hiljadama KM,Bez podjele,17687.0
-2020,GB_XPD_RSDSEC,u hiljadama KM,Bez podjele,20289.0
-2021,GB_XPD_RSDSEC,u hiljadama KM,Bez podjele,25394.0
-2009,GB_XPD_RSDSEC,u hiljadama KM,RD_SECBUS,10017.0
-2010,GB_XPD_RSDSEC,u hiljadama KM,RD_SECBUS,8520.0
-2011,GB_XPD_RSDSEC,u hiljadama KM,RD_SECBUS,15526.0
-2012,GB_XPD_RSDSEC,u hiljadama KM,RD_SECBUS,27430.0
-2013,GB_XPD_RSDSEC,u hiljadama KM,RD_SECBUS,43541.0
-2014,GB_XPD_RSDSEC,u hiljadama KM,RD_SECBUS,10614.0
-2015,GB_XPD_RSDSEC,u hiljadama KM,RD_SECBUS,9780.0
-2016,GB_XPD_RSDSEC,u hiljadama KM,RD_SECBUS,11376.0
-2017,GB_XPD_RSDSEC,u hiljadama KM,RD_SECBUS,10932.0
-2018,GB_XPD_RSDSEC,u hiljadama KM,RD_SECBUS,11173.0
-2019,GB_XPD_RSDSEC,u hiljadama KM,RD_SECBUS,9636.0
-2020,GB_XPD_RSDSEC,u hiljadama KM,RD_SECBUS,11693.0
-2021,GB_XPD_RSDSEC,u hiljadama KM,RD_SECBUS,13612.0
-2009,GB_XPD_RSDSEC,u hiljadama KM,RD_SECGOV,1670.0
-2010,GB_XPD_RSDSEC,u hiljadama KM,RD_SECGOV,2019.0
-2011,GB_XPD_RSDSEC,u hiljadama KM,RD_SECGOV,3592.0
-2012,GB_XPD_RSDSEC,u hiljadama KM,RD_SECGOV,1946.0
-2013,GB_XPD_RSDSEC,u hiljadama KM,RD_SECGOV,924.0
-2014,GB_XPD_RSDSEC,u hiljadama KM,RD_SECGOV,1598.0
-2015,GB_XPD_RSDSEC,u hiljadama KM,RD_SECGOV,2450.0
-2016,GB_XPD_RSDSEC,u hiljadama KM,RD_SECGOV,827.0
-2017,GB_XPD_RSDSEC,u hiljadama KM,RD_SECGOV,1425.0
-2018,GB_XPD_RSDSEC,u hiljadama KM,RD_SECGOV,1235.0
-2019,GB_XPD_RSDSEC,u hiljadama KM,RD_SECGOV,1357.0
-2020,GB_XPD_RSDSEC,u hiljadama KM,RD_SECGOV,1494.0
-2021,GB_XPD_RSDSEC,u hiljadama KM,RD_SECGOV,1609.0
-2009,GB_XPD_RSDSEC,u hiljadama KM,RD_SECHEDU,12879.0
-2010,GB_XPD_RSDSEC,u hiljadama KM,RD_SECHEDU,10091.0
-2011,GB_XPD_RSDSEC,u hiljadama KM,RD_SECHEDU,7031.0
-2012,GB_XPD_RSDSEC,u hiljadama KM,RD_SECHEDU,4875.0
-2013,GB_XPD_RSDSEC,u hiljadama KM,RD_SECHEDU,4464.0
-2014,GB_XPD_RSDSEC,u hiljadama KM,RD_SECHEDU,4845.0
-2015,GB_XPD_RSDSEC,u hiljadama KM,RD_SECHEDU,5225.0
-2016,GB_XPD_RSDSEC,u hiljadama KM,RD_SECHEDU,3954.0
-2017,GB_XPD_RSDSEC,u hiljadama KM,RD_SECHEDU,4425.0
-2018,GB_XPD_RSDSEC,u hiljadama KM,RD_SECHEDU,5291.0
-2019,GB_XPD_RSDSEC,u hiljadama KM,RD_SECHEDU,6661.0
-2020,GB_XPD_RSDSEC,u hiljadama KM,RD_SECHEDU,7102.0
-2021,GB_XPD_RSDSEC,u hiljadama KM,RD_SECHEDU,10173.0
-2009,GB_XPD_RSDSEC,u hiljadama KM,RD_SECNPT,0.0
-2010,GB_XPD_RSDSEC,u hiljadama KM,RD_SECNPT,149.0
-2011,GB_XPD_RSDSEC,u hiljadama KM,RD_SECNPT,42.0
-2012,GB_XPD_RSDSEC,u hiljadama KM,RD_SECNPT,46.0
-2013,GB_XPD_RSDSEC,u hiljadama KM,RD_SECNPT,106.0
-2014,GB_XPD_RSDSEC,u hiljadama KM,RD_SECNPT,782.0
-2015,GB_XPD_RSDSEC,u hiljadama KM,RD_SECNPT,480.0
-2016,GB_XPD_RSDSEC,u hiljadama KM,RD_SECNPT,579.0
-2017,GB_XPD_RSDSEC,u hiljadama KM,RD_SECNPT,414.0
-2018,GB_XPD_RSDSEC,u hiljadama KM,RD_SECNPT,642.0
-2019,GB_XPD_RSDSEC,u hiljadama KM,RD_SECNPT,33.0
-2020,GB_XPD_RSDSEC,u hiljadama KM,RD_SECNPT,0.0
-2021,GB_XPD_RSDSEC,u hiljadama KM,RD_SECNPT,0.0
+Year,SERIES,UNIT_MEASURE,Value
+2003,Rashodi za istraživanje i razvoj kao udio u BDP-u,Procenat,0.01854
+2004,Rashodi za istraživanje i razvoj kao udio u BDP-u,Procenat,0.01524
+2005,Rashodi za istraživanje i razvoj kao udio u BDP-u,Procenat,0.02697
+2006,Rashodi za istraživanje i razvoj kao udio u BDP-u,Procenat,0.01969
+2007,Rashodi za istraživanje i razvoj kao udio u BDP-u,Procenat,0.02521
+2008,Rashodi za istraživanje i razvoj kao udio u BDP-u,Procenat,0.01842
+2009,Rashodi za istraživanje i razvoj kao udio u BDP-u,Procenat,0.02106
+2012,Rashodi za istraživanje i razvoj kao udio u BDP-u,Procenat,0.26533
+2013,Rashodi za istraživanje i razvoj kao udio u BDP-u,Procenat,0.32132
+2014,Rashodi za istraživanje i razvoj kao udio u BDP-u,Procenat,0.25725
+2015,Rashodi za istraživanje i razvoj kao udio u BDP-u,Procenat,0.2186
+2016,Rashodi za istraživanje i razvoj kao udio u BDP-u,Procenat,0.21594
+2017,Rashodi za istraživanje i razvoj kao udio u BDP-u,Procenat,0.20048
+2018,Rashodi za istraživanje i razvoj kao udio u BDP-u,Procenat,0.19485
+2019,Rashodi za istraživanje i razvoj kao udio u BDP-u,Procenat,0.1926
+2020,Rashodi za istraživanje i razvoj kao udio u BDP-u,Procenat,0.2061

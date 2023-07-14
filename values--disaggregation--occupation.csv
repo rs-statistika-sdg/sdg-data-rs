@@ -1,5 +1,21 @@
 Value,en,lat,cir,Disaggregation combinations using this value,Number of indicators
+ADMINPRO,Administration Professionals,Administrativni stručnjaci,Административни стручњаци,1,1
+ASSOCPRO,Business and Administration Associate Professionals,Stručnjaci za poslovne i administrativne poslove,Стручњаци за пословне и административне послове,1,1
+GENERAL,General and Keyboard Clerks,Opšti službenici i sekretarice,Општи службеници и секретарице,1,1
+isco08-0,Armed forces occupations,Zanimanja oružanih snaga,Занимања оружаних снага,3,1
+isco08-1,Managers,Menadžeri,Менаџери,3,1
+isco08-2,Professionals,Profesionalci,Професионалци,3,1
+isco08-3,Technicians and associate professionals,Tehničari i pridruženi profesionalci,Техничари и придружени професионалци,3,1
+isco08-4,Clerical support workers,Službenici hitne pomoći,Службеници хитне помоћи,3,1
+isco08-5,Service and sales workers,Uslužni i prodajni radnici,Услужни и продајни радници,3,1
+isco08-6,"Skilled agricultural, forestry and fishery workers","KV kvalificirani radnici u poljoprivredi, šumarstvu i ribarstvu","КВ квалифицирани радници у пољопривреди, шумарству и рибарству",3,1
+isco08-7,Craft and related trades workers,Zanatski i srodni radnici,Занатски и сродни радници,3,1
+isco08-8,"Plant and machine operators, and assemblers","Operateri postrojenja i strojeva, te monteri","Оператери постројења и стројева, те монтери",3,1
+isco08-9,Elementary occupations,Osnovna zanimanja,Основна занимања,3,1
+isco08,All occupations,Sva zanimanja,Сва занимања,3,1
 ISCO08_221,Medical doctors,Doktori medicine,Доктори медицине,3,1
 ISCO08_222_322,Nursing and midwifery personnel,Medicinsko osoblje i babice,Медицинско особље и бабице,3,1
 ISCO08_2261,Dentists,Zubari,Зубари,1,1
 ISCO08_2262,Pharmacists,Farmaceuti,Фармацеути,1,1
+OTHERMAN,Other Managers: Managing Directors and Chief Executives and Business Services and Administration Managers,Ostali menadžeri generalni direktori i izvršni direktori i menadžeri za poslovne usluge i administraciju,Остали менаџери: генерални директори и извршни директори и менаџери за пословне услуге и администрацију,1,1
+SENIORMAN,Senior Managers: Senior Government Officials,Viši menadžeri viši državni službenici,Виши руководиоци: виши државни службеници,1,1

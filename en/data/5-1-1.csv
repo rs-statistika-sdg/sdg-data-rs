@@ -1,17 +1,7 @@
-Year,SERIES,UNIT_MEASURE,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Value
-2018,SG_LGL_GENEQLFP,Percent,,,,,,,,,91.7
-2019,SG_LGL_GENEQLFP,Percent,,,,,,,,,91.7
-2020,SG_LGL_GENEQLFP,Percent,,,,,,,,,91.7
-2021,SG_LGL_GENEQLFP,Percent,,,,,,,,,91.7
-2018,SG_LGL_GENEQVAW,Percent,,,,,,,,,84.6
-2019,SG_LGL_GENEQVAW,Percent,,,,,,,,,84.6
-2020,SG_LGL_GENEQVAW,Percent,,,,,,,,,84.6
-2021,SG_LGL_GENEQVAW,Percent,,,,,,,,,84.6
-2018,SG_LGL_GENEQEMP,Percent,,,,,,,,,96.0
-2019,SG_LGL_GENEQEMP,Percent,,,,,,,,,96.0
-2020,SG_LGL_GENEQEMP,Percent,,,,,,,,,96.0
-2021,SG_LGL_GENEQEMP,Percent,,,,,,,,,96.0
-2018,SG_LGL_GENEQMAR,Percent,,,,,,,,,84.6
-2019,SG_LGL_GENEQMAR,Percent,,,,,,,,,84.6
-2020,SG_LGL_GENEQMAR,Percent,,,,,,,,,84.6
-2021,SG_LGL_GENEQMAR,Percent,,,,,,,,,84.6
+Year,Group,Value
+2015,A,1
+2015,B,3
+2015,,2
+2016,A,1
+2016,B,3
+2016,,2

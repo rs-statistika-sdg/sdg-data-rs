@@ -1,4 +1,6 @@
 Value,en,lat,cir,Disaggregation combinations using this value,Number of indicators
-_T,Total,Ukupno,Укупно,15,5
-O,O,O,O,4,3
-U,Urban,Urbano,Урбано,4,3
+_T,Total,Ukupno,Укупно,101,9
+CITY,City,Grad,Град,1,1
+R,Rural,Ruralno,Рурално,89,7
+TSUB,Town and semi-dense area,Mjesto i poluzgusnosto područje,Мјесто и полу-густо подручје,1,1
+U,Urban,Urbano,Урбано,89,7

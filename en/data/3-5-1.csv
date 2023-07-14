@@ -1,11 +1,4 @@
-Year,SERIES,UNIT_MEASURE,Value
-2012,SH_SUD_TREATN,Number,323
-2013,SH_SUD_TREATN,Number,375
-2014,SH_SUD_TREATN,Number,385
-2015,SH_SUD_TREATN,Number,455
-2016,SH_SUD_TREATN,Number,486
-2017,SH_SUD_TREATN,Number,534
-2018,SH_SUD_TREATN,Number,540
-2019,SH_SUD_TREATN,Number,573
-2020,SH_SUD_TREATN,Number,597
-2021,SH_SUD_TREATN,Number,608
+Year,SERIES,UNIT_MEASURE,Age,Sex,Value
+2016,"Alcohol use disorders, 12-month prevalence (%)",Percent,15 years old and over,Both sexes or no breakdown by sex,6.0
+2016,"Alcohol use disorders, 12-month prevalence (%)",Percent,15 years old and over,Female,2.2
+2016,"Alcohol use disorders, 12-month prevalence (%)",Percent,15 years old and over,Male,9.8

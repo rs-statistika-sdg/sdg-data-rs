@@ -1,19 +1,7 @@
 Value,en,lat,cir,Disaggregation combinations using this value,Number of indicators
-_T,No breakdown,Bez podjele,_T,7,4
-BNK_FBIHURS,BNK_FBIHURS,BNK_FBIHURS,BNK_FBIHURS,6,1
-BNK_RS,BNK_RS,BNK_RS,BNK_RS,6,1
-BNK_T,BNK_T,BNK_T,BNK_T,6,1
-BOSNA,BOSNA,BOSNA,BOSNA,3,1
-CHDEV_DOMAIN_00,CHDEV_DOMAIN_00,CHDEV_DOMAIN_00,CHDEV_DOMAIN_00,1,1
-CHDEV_DOMAIN_01,CHDEV_DOMAIN_01,CHDEV_DOMAIN_01,CHDEV_DOMAIN_01,1,1
-CHDEV_DOMAIN_02,CHDEV_DOMAIN_02,CHDEV_DOMAIN_02,CHDEV_DOMAIN_02,1,1
-CHDEV_DOMAIN_03,CHDEV_DOMAIN_03,CHDEV_DOMAIN_03,CHDEV_DOMAIN_03,1,1
-CHDEV_DOMAIN_04,CHDEV_DOMAIN_04,CHDEV_DOMAIN_04,CHDEV_DOMAIN_04,1,1
-DRINA,DRINA,DRINA,DRINA,3,1
-EMPS_ICT_00,EMPS_ICT_00,EMPS_ICT_00,EMPS_ICT_00,1,1
-EMPS_ICT_01,EMPS_ICT_01,EMPS_ICT_01,EMPS_ICT_01,1,1
-EMPS_ICT_02,EMPS_ICT_02,EMPS_ICT_02,EMPS_ICT_02,1,1
-EMPS_ICT_03,EMPS_ICT_03,EMPS_ICT_03,EMPS_ICT_03,1,1
+_T,No breakdown,Bez podjele,_T,2,1
+C01,Banja Luka,Banja Luka,Бања Лука,1,1
+C02,Sarajevo,Sarajevo,Сарајево,1,1
 IHR_01,"National legislation, policy and financing","Nacionalno zakonodavstvo, politika i finansiranje","Национално законодавство, политика и финансирање",1,1
 IHR_02,Coordination and National Focal Point communications,Koordinacija i nacionalna kontakt tačka za komunikaciju,Координација и национална контакт тачка за комуникацију,1,1
 IHR_03,Surveillance,Nadzor,Надзор,1,1
@@ -27,21 +15,32 @@ IHR_10,Zoonotic events,Zoonotski događaji,Зоонотски догађаји,1
 IHR_11,Food safety,Sigurnost hrane,Сигурност хране,1,1
 IHR_12,Chemical events,Hemijski događaji,Хемијски догађаји,1,1
 IHR_13,Radionuclear emergencies,Vanredne situacije u vezi sa zračenjem,Ванредне ситуације у вези са зрачењем,1,1
-MOT_RAI,Rail,Željeznički,Жељезнички,4,1
-MOT_ROA,Road,Cestovni,Друмски,4,1
-NERETVA,NERETVA,NERETVA,NERETVA,3,1
-RD_SECBUS,RD_SECBUS,RD_SECBUS,RD_SECBUS,1,1
-RD_SECGOV,RD_SECGOV,RD_SECGOV,RD_SECGOV,1,1
-RD_SECHEDU,RD_SECHEDU,RD_SECHEDU,RD_SECHEDU,1,1
-RD_SECNPT,RD_SECNPT,RD_SECNPT,RD_SECNPT,1,1
-RSK_LST_01,RSK_LST_01,RSK_LST_01,RSK_LST_01,1,1
-RSK_LST_02,RSK_LST_02,RSK_LST_02,RSK_LST_02,1,1
-RSK_LST_03,RSK_LST_03,RSK_LST_03,RSK_LST_03,1,1
-RSK_LST_04,RSK_LST_04,RSK_LST_04,RSK_LST_04,1,1
-RSK_LST_05,RSK_LST_05,RSK_LST_05,RSK_LST_05,1,1
-RSK_LST_06,RSK_LST_06,RSK_LST_06,RSK_LST_06,1,1
-RSK_LST_07,RSK_LST_07,RSK_LST_07,RSK_LST_07,1,1
-SAVA,SAVA,SAVA,SAVA,3,1
+IO_IBRD,International Bank for Reconstruction and Development,Međunarodna banka za obnovu i razvoj,Међународна банка за обнову и развој,4,2
+IO_IFC,International Finance Corporation,Međunarodna finansijska korporacija,Међународна финансијска корпорација,4,2
+IO_IMF,International Monetary Fund,Međunarodni monetarni fond,Међународни монетарни фонд,4,2
+IO_UNGA,UN General Assembly,Generalna skupština UN-a,Генерална скупштина УН-а,4,2
+IO_UNSC,UN Security Council,Vijeće sigurnosti UN-a,Савјет безбједности УН-а,4,2
+IS_256KT2M,256 kbit/s to less than 2 Mbit/s,256 kbit/s do manje od 2 Mbit/s,256 kbit/s дo мање oд 2 Mbit/s,2,1
+IS_2MT10M,2 Mbit/s to less than 10 Mbit/s,2 Mbit/s do manje od 10 Mbit/s,2 Mbit/s дo мање oд 10 Mbit/s,2,1
+IS_GE10M,10 Mbit/s or above,10 Mbit/s ili više,10 Mbit/s или више,2,1
+MOT_AIR,Aire,Zračni,Зрачни,2,1
+MOT_IWW,Inland waterway transport,Unutrašnji plovni put,Унутрашњи пловни пут,1,1
+MOT_RAI,Rail,Željeznički,Жељезнички,2,1
+MOT_ROA,Road,Cestovni,Друмски,2,1
+NCD_CARDIO,Cardiovascular disease,Kardiovaskularne bolesti,Кардиоваскуларне болести,3,1
+NCD_CNCR,Cancer,Rak,Рак,3,1
+NCD_CRESPD,Chronic respiratory disease,Hronična respiratorna bolest,Хронична респираторна болест,3,1
+NCD_DIABTS,Diabetes,Dijabetes,Дијабетес,3,1
+SKILL_ICTARSP,Using basic arithmetic formula in a spreadsheet,Korištenje osnovne aritmetičke formule u proračunskoj tabeli,Коришћење основне аритметичке формуле у буџетској табели,4,2
+SKILL_ICTCMFL,Copying or moving a file or folder,Kopiranje ili premještanje datoteke ili mape,Копирање или премјештање датотеке или мапе,4,2
+SKILL_ICTCOPA,Using copy and paste tools to duplicate or move information within a document,Korištenje alata kopiranja i lijepljenja za dupliranje ili premještanje podataka unutar dokumenta,Коришћење алата копирања и лијепљења за дуплирање или премјештање података унутар документа,4,2
+SKILL_ICTEMAIL,Sending e-mails with attached files,Slanje e-pošte s priloženim datotekama,Слање е-поште с приложеним датотекама,4,2
+SKILL_ICTEPRS,Creating electronic presentations with presentation software,Izrada elektronskih prezentacija pomoću softvera za prezentacije,Израда електронских презентација помоћу софтвера за презентације,4,2
+SKILL_ICTPCPR,Writing a computer program using a specialized programming language,SKILL_ICTPCPR,Писање рачунарског програма помоћу специјализованог програмског језика,4,2
+SKILL_ICTSOFT,"Finding, downloading, installing and configuring software","Pronalaženje, preuzimanje, instaliranje i konfigurisanje softvera","Проналажење, преузимање, инсталирање и конфигурисање софтвера",4,2
+SKILL_ICTTRAF,Transferring files between a computer and other devices,Prijenos datoteka između računara i drugih uređaja,Пренос датотека између рачунара и других уређаја,4,2
+SKILL_MATH,Mathematics,Matematika,Математика,12,2
+SKILL_READ,Reading,Čitanje,Читање,8,2
 SPAR_01,Legislation and Financing,Zakonodavstvo i finansiranje,Законодавство и финансирање,1,1
 SPAR_02,IHR Coordination and National IHR Focal Point Functions,Koordinacija Međunarodnih zdravstvenih propisa (IHR) i nacionalne funkcije kontakt osoba za IHR,Координација Међународних здравствених прописа (IHR) и националне функције контакт лица за IHR,1,1
 SPAR_03,Zoonotic events and the human–animal interface,Zoonotski događaji i sučelje čovjeka i životinje,Зоонотски догађаји и сучеље човјека и животиње,1,1
@@ -55,18 +54,3 @@ SPAR_10,Risk Communication,Komunikacija o riziku,Комуникација о р�
 SPAR_11,Points of entry,Tačke ulaska,Тачке уласка,1,1
 SPAR_12,Chemical events,Hemijski događaji,Хемијски догађаји,1,1
 SPAR_13,Radiation emergencies,Vanredne situacije u vezi sa zračenjem,Ванредне ситуације у вези са зрачењем_,1,1
-TREBISNJICA,TREBISNJICA,TREBISNJICA,TREBISNJICA,3,1
-TUR_EMP_ACC,TUR_EMP_ACC,TUR_EMP_ACC,TUR_EMP_ACC,1,1
-TUR_EMP_FCA,TUR_EMP_FCA,TUR_EMP_FCA,TUR_EMP_FCA,1,1
-UKRINA,UKRINA,UKRINA,UKRINA,3,1
-UNA,UNA,UNA,UNA,3,1
-UNK,UNK,UNK,UNK,1,1
-VAW_PHYSIC,VAW_PHYSIC,VAW_PHYSIC,VAW_PHYSIC,2,1
-VAW_PSYCH,VAW_PSYCH,VAW_PSYCH,VAW_PSYCH,2,1
-VAW_SEX,VAW_SEX,VAW_SEX,VAW_SEX,2,1
-VC_HTF_01,VC_HTF_01,VC_HTF_01,VC_HTF_01,1,1
-VC_HTF_02,VC_HTF_02,VC_HTF_02,VC_HTF_02,1,1
-VC_HTF_03,VC_HTF_03,VC_HTF_03,VC_HTF_03,1,1
-VC_HTFET_01,VC_HTFET_01,VC_HTFET_01,VC_HTFET_01,1,1
-VC_HTFET_02,VC_HTFET_02,VC_HTFET_02,VC_HTFET_02,1,1
-VRBAS,VRBAS,VRBAS,VRBAS,3,1

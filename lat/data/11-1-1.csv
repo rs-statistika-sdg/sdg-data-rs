@@ -1,9 +1,11 @@
 Year,SERIES,UNIT_MEASURE,Stepen urbanizacije,Value
-2011,EN_LND_DWPDW,Procenat,Ukupno,27.0
-2015,EN_LND_DWPDW,Procenat,Ukupno,25.1
-2011,EN_LND_DWPDAMP,Procenat,Ukupno,33.9
-2015,EN_LND_DWPDAMP,Procenat,Ukupno,36.2
-2011,EN_LND_DWPROOF,Procenat,Ukupno,15.4
-2015,EN_LND_DWPROOF,Procenat,Ukupno,11.9
-2011,EN_LND_DWPNOISE,Procenat,Ukupno,10.6
-2015,EN_LND_DWPNOISE,Procenat,Ukupno,2.0
+2000,Udio gradskog stanovništva koje živi u siromašnim četvrtima,Procenat,Urbano,5.1
+2002,Udio gradskog stanovništva koje živi u siromašnim četvrtima,Procenat,Urbano,5.1
+2004,Udio gradskog stanovništva koje živi u siromašnim četvrtima,Procenat,Urbano,5.1
+2006,Udio gradskog stanovništva koje živi u siromašnim četvrtima,Procenat,Urbano,4.9
+2008,Udio gradskog stanovništva koje živi u siromašnim četvrtima,Procenat,Urbano,4.7
+2010,Udio gradskog stanovništva koje živi u siromašnim četvrtima,Procenat,Urbano,4.5
+2012,Udio gradskog stanovništva koje živi u siromašnim četvrtima,Procenat,Urbano,4.3
+2014,Udio gradskog stanovništva koje živi u siromašnim četvrtima,Procenat,Urbano,4.0
+2016,Udio gradskog stanovništva koje živi u siromašnim četvrtima,Procenat,Urbano,4.0
+2018,Udio gradskog stanovništva koje živi u siromašnim četvrtima,Procenat,Urbano,4.0

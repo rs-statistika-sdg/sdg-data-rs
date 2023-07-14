@@ -1,153 +1,43 @@
-Year,SERIES,UNIT_MEASURE,Spol,Stepen urbanizacije,Godine,Nivo obrazovanja,COMPOSITE_BREAKDOWN,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Value
-2014,SE_ADT_ACTSPC,Procenat,Oba spola ili bez podjele po spolu,,,,,,,,,,,,,,38.7
-2015,SE_ADT_ACTSPC,Procenat,Oba spola ili bez podjele po spolu,,,,,,,,,,,,,,42.9
-2016,SE_ADT_ACTSPC,Procenat,Oba spola ili bez podjele po spolu,,,,,,,,,,,,,,41.1
-2017,SE_ADT_ACTSPC,Procenat,Oba spola ili bez podjele po spolu,,,,,,,,,,,,,,58.9
-2018,SE_ADT_ACTSPC,Procenat,Oba spola ili bez podjele po spolu,,,,,,,,,,,,,,55.5
-2019,SE_ADT_ACTSPC,Procenat,Oba spola ili bez podjele po spolu,,,,,,,,,,,,,,58.8
-2020,SE_ADT_ACTSPC,Procenat,Oba spola ili bez podjele po spolu,,,,,,,,,,,,,,60.8
-2021,SE_ADT_ACTSPC,Procenat,Oba spola ili bez podjele po spolu,,,,,,,,,,,,,,57.6
-2014,SE_ADT_ACTSI,Procenat,Oba spola ili bez podjele po spolu,,,,,,,,,,,,,,38.0
-2015,SE_ADT_ACTSI,Procenat,Oba spola ili bez podjele po spolu,,,,,,,,,,,,,,43.4
-2016,SE_ADT_ACTSI,Procenat,Oba spola ili bez podjele po spolu,,,,,,,,,,,,,,42.8
-2017,SE_ADT_ACTSI,Procenat,Oba spola ili bez podjele po spolu,,,,,,,,,,,,,,64.9
-2018,SE_ADT_ACTSI,Procenat,Oba spola ili bez podjele po spolu,,,,,,,,,,,,,,71.2
-2019,SE_ADT_ACTSI,Procenat,Oba spola ili bez podjele po spolu,,,,,,,,,,,,,,72.1
-2020,SE_ADT_ACTSI,Procenat,Oba spola ili bez podjele po spolu,,,,,,,,,,,,,,72.8
-2021,SE_ADT_ACTSI,Procenat,Oba spola ili bez podjele po spolu,,,,,,,,,,,,,,80.3
-2014,SE_ADT_ACTSI,Procenat,Muškarci,,,,,,,,,,,,,,39.9
-2015,SE_ADT_ACTSI,Procenat,Muškarci,,,,,,,,,,,,,,48.6
-2016,SE_ADT_ACTSI,Procenat,Muškarci,,,,,,,,,,,,,,46.2
-2017,SE_ADT_ACTSI,Procenat,Muškarci,,,,,,,,,,,,,,69.9
-2018,SE_ADT_ACTSI,Procenat,Muškarci,,,,,,,,,,,,,,73.0
-2019,SE_ADT_ACTSI,Procenat,Muškarci,,,,,,,,,,,,,,73.7
-2020,SE_ADT_ACTSI,Procenat,Muškarci,,,,,,,,,,,,,,75.0
-2021,SE_ADT_ACTSI,Procenat,Muškarci,,,,,,,,,,,,,,82.6
-2014,SE_ADT_ACTSI,Procenat,Žene,,,,,,,,,,,,,,36.3
-2015,SE_ADT_ACTSI,Procenat,Žene,,,,,,,,,,,,,,40.3
-2016,SE_ADT_ACTSI,Procenat,Žene,,,,,,,,,,,,,,40.2
-2017,SE_ADT_ACTSI,Procenat,Žene,,,,,,,,,,,,,,61.8
-2018,SE_ADT_ACTSI,Procenat,Žene,,,,,,,,,,,,,,69.3
-2019,SE_ADT_ACTSI,Procenat,Žene,,,,,,,,,,,,,,70.4
-2020,SE_ADT_ACTSI,Procenat,Žene,,,,,,,,,,,,,,70.5
-2021,SE_ADT_ACTSI,Procenat,Žene,,,,,,,,,,,,,,78.2
-2014,SE_ADT_ACTSI,Procenat,,Urbano,,,,,,,,,,,,,55.4
-2015,SE_ADT_ACTSI,Procenat,,Urbano,,,,,,,,,,,,,54.9
-2016,SE_ADT_ACTSI,Procenat,,Urbano,,,,,,,,,,,,,53.8
-2017,SE_ADT_ACTSI,Procenat,,Urbano,,,,,,,,,,,,,73.2
-2018,SE_ADT_ACTSI,Procenat,,Urbano,,,,,,,,,,,,,78.0
-2019,SE_ADT_ACTSI,Procenat,,Urbano,,,,,,,,,,,,,80.8
-2020,SE_ADT_ACTSI,Procenat,,Urbano,,,,,,,,,,,,,75.1
-2021,SE_ADT_ACTSI,Procenat,,Urbano,,,,,,,,,,,,,85.2
-2014,SE_ADT_ACTSI,Procenat,,O,,,,,,,,,,,,,26.6
-2015,SE_ADT_ACTSI,Procenat,,O,,,,,,,,,,,,,36.1
-2016,SE_ADT_ACTSI,Procenat,,O,,,,,,,,,,,,,35.9
-2017,SE_ADT_ACTSI,Procenat,,O,,,,,,,,,,,,,59.5
-2018,SE_ADT_ACTSI,Procenat,,O,,,,,,,,,,,,,66.8
-2019,SE_ADT_ACTSI,Procenat,,O,,,,,,,,,,,,,66.5
-2020,SE_ADT_ACTSI,Procenat,,O,,,,,,,,,,,,,71.3
-2021,SE_ADT_ACTSI,Procenat,,O,,,,,,,,,,,,,77.1
-2014,SE_ADT_ACTSI,Procenat,,,Y16T24,,,,,,,,,,,,91.3
-2015,SE_ADT_ACTSI,Procenat,,,Y16T24,,,,,,,,,,,,90.5
-2016,SE_ADT_ACTSI,Procenat,,,Y16T24,,,,,,,,,,,,90.9
-2017,SE_ADT_ACTSI,Procenat,,,Y16T24,,,,,,,,,,,,97.3
-2018,SE_ADT_ACTSI,Procenat,,,Y16T24,,,,,,,,,,,,97.5
-2019,SE_ADT_ACTSI,Procenat,,,Y16T24,,,,,,,,,,,,100.0
-2020,SE_ADT_ACTSI,Procenat,,,Y16T24,,,,,,,,,,,,100.0
-2021,SE_ADT_ACTSI,Procenat,,,Y16T24,,,,,,,,,,,,100.0
-2014,SE_ADT_ACTSI,Procenat,,,Y25T34,,,,,,,,,,,,77.5
-2015,SE_ADT_ACTSI,Procenat,,,Y25T34,,,,,,,,,,,,78.9
-2016,SE_ADT_ACTSI,Procenat,,,Y25T34,,,,,,,,,,,,80.9
-2017,SE_ADT_ACTSI,Procenat,,,Y25T34,,,,,,,,,,,,93.0
-2018,SE_ADT_ACTSI,Procenat,,,Y25T34,,,,,,,,,,,,96.8
-2019,SE_ADT_ACTSI,Procenat,,,Y25T34,,,,,,,,,,,,98.7
-2020,SE_ADT_ACTSI,Procenat,,,Y25T34,,,,,,,,,,,,100.0
-2021,SE_ADT_ACTSI,Procenat,,,Y25T34,,,,,,,,,,,,99.6
-2014,SE_ADT_ACTSI,Procenat,,,Y35T44,,,,,,,,,,,,66.8
-2015,SE_ADT_ACTSI,Procenat,,,Y35T45,,,,,,,,,,,,68.4
-2016,SE_ADT_ACTSI,Procenat,,,Y35T46,,,,,,,,,,,,64.5
-2017,SE_ADT_ACTSI,Procenat,,,Y35T47,,,,,,,,,,,,82.7
-2018,SE_ADT_ACTSI,Procenat,,,Y35T48,,,,,,,,,,,,94.3
-2019,SE_ADT_ACTSI,Procenat,,,Y35T49,,,,,,,,,,,,91.7
-2020,SE_ADT_ACTSI,Procenat,,,Y35T50,,,,,,,,,,,,100.0
-2021,SE_ADT_ACTSI,Procenat,,,Y35T51,,,,,,,,,,,,95.2
-2014,SE_ADT_ACTSI,Procenat,,,Y45T54,,,,,,,,,,,,44.9
-2015,SE_ADT_ACTSI,Procenat,,,Y45T54,,,,,,,,,,,,48.3
-2016,SE_ADT_ACTSI,Procenat,,,Y45T54,,,,,,,,,,,,47.6
-2017,SE_ADT_ACTSI,Procenat,,,Y45T54,,,,,,,,,,,,73.4
-2018,SE_ADT_ACTSI,Procenat,,,Y45T54,,,,,,,,,,,,85.6
-2019,SE_ADT_ACTSI,Procenat,,,Y45T54,,,,,,,,,,,,82.3
-2020,SE_ADT_ACTSI,Procenat,,,Y45T54,,,,,,,,,,,,94.7
-2021,SE_ADT_ACTSI,Procenat,,,Y45T54,,,,,,,,,,,,93.4
-2014,SE_ADT_ACTSI,Procenat,,,Y55T64,,,,,,,,,,,,20.2
-2015,SE_ADT_ACTSI,Procenat,,,Y55T64,,,,,,,,,,,,28.5
-2016,SE_ADT_ACTSI,Procenat,,,Y55T64,,,,,,,,,,,,27.7
-2017,SE_ADT_ACTSI,Procenat,,,Y55T64,,,,,,,,,,,,46.0
-2018,SE_ADT_ACTSI,Procenat,,,Y55T64,,,,,,,,,,,,60.1
-2019,SE_ADT_ACTSI,Procenat,,,Y55T64,,,,,,,,,,,,65.0
-2020,SE_ADT_ACTSI,Procenat,,,Y55T64,,,,,,,,,,,,71.6
-2021,SE_ADT_ACTSI,Procenat,,,Y55T64,,,,,,,,,,,,78.0
-2014,SE_ADT_ACTSI,Procenat,,,Y65T74,,,,,,,,,,,,6.1
-2015,SE_ADT_ACTSI,Procenat,,,Y65T74,,,,,,,,,,,,11.4
-2016,SE_ADT_ACTSI,Procenat,,,Y65T74,,,,,,,,,,,,10.3
-2017,SE_ADT_ACTSI,Procenat,,,Y65T74,,,,,,,,,,,,24.7
-2018,SE_ADT_ACTSI,Procenat,,,Y65T74,,,,,,,,,,,,30.8
-2019,SE_ADT_ACTSI,Procenat,,,Y65T74,,,,,,,,,,,,40.0
-2020,SE_ADT_ACTSI,Procenat,,,Y65T74,,,,,,,,,,,,36.3
-2021,SE_ADT_ACTSI,Procenat,,,Y65T74,,,,,,,,,,,,54.3
-2014,SE_ADT_ACTSI,Procenat,,,,AGG_ED_0,,,,,,,,,,,8.9
-2015,SE_ADT_ACTSI,Procenat,,,,AGG_ED_0,,,,,,,,,,,9.7
-2016,SE_ADT_ACTSI,Procenat,,,,AGG_ED_0,,,,,,,,,,,17.7
-2017,SE_ADT_ACTSI,Procenat,,,,AGG_ED_0,,,,,,,,,,,43.1
-2018,SE_ADT_ACTSI,Procenat,,,,AGG_ED_0,,,,,,,,,,,39.3
-2019,SE_ADT_ACTSI,Procenat,,,,AGG_ED_0,,,,,,,,,,,40.2
-2020,SE_ADT_ACTSI,Procenat,,,,AGG_ED_0,,,,,,,,,,,39.0
-2021,SE_ADT_ACTSI,Procenat,,,,AGG_ED_0,,,,,,,,,,,50.1
-2014,SE_ADT_ACTSI,Procenat,,,,AGG_ED_1,,,,,,,,,,,48.4
-2015,SE_ADT_ACTSI,Procenat,,,,AGG_ED_1,,,,,,,,,,,52.5
-2016,SE_ADT_ACTSI,Procenat,,,,AGG_ED_1,,,,,,,,,,,54.8
-2017,SE_ADT_ACTSI,Procenat,,,,AGG_ED_1,,,,,,,,,,,74.0
-2018,SE_ADT_ACTSI,Procenat,,,,AGG_ED_1,,,,,,,,,,,80.4
-2019,SE_ADT_ACTSI,Procenat,,,,AGG_ED_1,,,,,,,,,,,79.4
-2020,SE_ADT_ACTSI,Procenat,,,,AGG_ED_1,,,,,,,,,,,80.9
-2021,SE_ADT_ACTSI,Procenat,,,,AGG_ED_1,,,,,,,,,,,85.1
-2014,SE_ADT_ACTSI,Procenat,,,,AGG_ED_2,,,,,,,,,,,74.9
-2015,SE_ADT_ACTSI,Procenat,,,,AGG_ED_2,,,,,,,,,,,81.1
-2016,SE_ADT_ACTSI,Procenat,,,,AGG_ED_2,,,,,,,,,,,79.4
-2017,SE_ADT_ACTSI,Procenat,,,,AGG_ED_2,,,,,,,,,,,93.0
-2018,SE_ADT_ACTSI,Procenat,,,,AGG_ED_2,,,,,,,,,,,98.3
-2019,SE_ADT_ACTSI,Procenat,,,,AGG_ED_2,,,,,,,,,,,95.6
-2020,SE_ADT_ACTSI,Procenat,,,,AGG_ED_2,,,,,,,,,,,94.3
-2021,SE_ADT_ACTSI,Procenat,,,,AGG_ED_2,,,,,,,,,,,95.4
-2014,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_00,,,,,,,,,,88.4
-2015,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_00,,,,,,,,,,100.0
-2016,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_00,,,,,,,,,,95.9
-2017,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_00,,,,,,,,,,98.5
-2018,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_00,,,,,,,,,,100.0
-2019,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_00,,,,,,,,,,100.0
-2020,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_00,,,,,,,,,,100.0
-2021,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_00,,,,,,,,,,100.0
-2014,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_01,,,,,,,,,,68.7
-2015,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_01,,,,,,,,,,75.7
-2016,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_01,,,,,,,,,,68.6
-2017,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_01,,,,,,,,,,86.4
-2018,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_01,,,,,,,,,,94.0
-2019,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_01,,,,,,,,,,92.2
-2020,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_01,,,,,,,,,,97.1
-2021,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_01,,,,,,,,,,96.5
-2014,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_02,,,,,,,,,,34.9
-2015,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_02,,,,,,,,,,44.4
-2016,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_02,,,,,,,,,,40.9
-2017,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_02,,,,,,,,,,64.4
-2018,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_02,,,,,,,,,,74.9
-2019,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_02,,,,,,,,,,68.0
-2020,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_02,,,,,,,,,,79.0
-2021,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_02,,,,,,,,,,84.5
-2014,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_03,,,,,,,,,,13.3
-2015,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_03,,,,,,,,,,17.8
-2016,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_03,,,,,,,,,,17.7
-2017,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_03,,,,,,,,,,31.3
-2018,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_03,,,,,,,,,,42.4
-2019,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_03,,,,,,,,,,52.7
-2020,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_03,,,,,,,,,,47.9
-2021,SE_ADT_ACTSI,Procenat,,,,,EMPS_ICT_03,,,,,,,,,,65.3
+Year,SERIES,UNIT_MEASURE,Spol,COMPOSITE_BREAKDOWN,Value
+2017,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Oba spola ili bez podjele po spolu,Korištenje osnovne aritmetičke formule u proračunskoj tabeli,9.16614
+2019,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Oba spola ili bez podjele po spolu,Korištenje osnovne aritmetičke formule u proračunskoj tabeli,7.52968
+2017,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Oba spola ili bez podjele po spolu,Kopiranje ili premještanje datoteke ili mape,59.63432
+2019,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Oba spola ili bez podjele po spolu,Kopiranje ili premještanje datoteke ili mape,44.59803
+2017,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Oba spola ili bez podjele po spolu,Korištenje alata kopiranja i lijepljenja za dupliranje ili premještanje podataka unutar dokumenta,28.14609
+2019,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Oba spola ili bez podjele po spolu,Korištenje alata kopiranja i lijepljenja za dupliranje ili premještanje podataka unutar dokumenta,22.46445
+2019,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Oba spola ili bez podjele po spolu,Slanje e-pošte s priloženim datotekama,30.09595
+2017,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Oba spola ili bez podjele po spolu,Izrada elektronskih prezentacija pomoću softvera za prezentacije,12.45847
+2019,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Oba spola ili bez podjele po spolu,Izrada elektronskih prezentacija pomoću softvera za prezentacije,11.0905
+2017,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Oba spola ili bez podjele po spolu,SKILL_ICTPCPR,2.08691
+2019,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Oba spola ili bez podjele po spolu,SKILL_ICTPCPR,2.13639
+2017,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Oba spola ili bez podjele po spolu,"Pronalaženje, preuzimanje, instaliranje i konfigurisanje softvera",22.29269
+2017,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Oba spola ili bez podjele po spolu,Prijenos datoteka između računara i drugih uređaja,59.74172
+2019,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Oba spola ili bez podjele po spolu,Prijenos datoteka između računara i drugih uređaja,49.02722
+2017,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Žene,Korištenje osnovne aritmetičke formule u proračunskoj tabeli,9.29936
+2019,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Žene,Korištenje osnovne aritmetičke formule u proračunskoj tabeli,6.28157
+2017,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Žene,Kopiranje ili premještanje datoteke ili mape,57.95128
+2019,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Žene,Kopiranje ili premještanje datoteke ili mape,43.36247
+2017,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Žene,Korištenje alata kopiranja i lijepljenja za dupliranje ili premještanje podataka unutar dokumenta,25.87817
+2019,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Žene,Korištenje alata kopiranja i lijepljenja za dupliranje ili premještanje podataka unutar dokumenta,19.28883
+2019,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Žene,Slanje e-pošte s priloženim datotekama,26.12795
+2017,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Žene,Izrada elektronskih prezentacija pomoću softvera za prezentacije,10.67309
+2019,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Žene,Izrada elektronskih prezentacija pomoću softvera za prezentacije,9.24555
+2017,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Žene,SKILL_ICTPCPR,1.0229
+2019,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Žene,SKILL_ICTPCPR,0.98752
+2017,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Žene,"Pronalaženje, preuzimanje, instaliranje i konfigurisanje softvera",19.90068
+2017,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Žene,Prijenos datoteka između računara i drugih uređaja,56.43204
+2019,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Žene,Prijenos datoteka između računara i drugih uređaja,46.93722
+2017,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Muškarci,Korištenje osnovne aritmetičke formule u proračunskoj tabeli,9.01728
+2019,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Muškarci,Korištenje osnovne aritmetičke formule u proračunskoj tabeli,8.9678
+2017,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Muškarci,Kopiranje ili premještanje datoteke ili mape,61.51488
+2019,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Muškarci,Kopiranje ili premještanje datoteke ili mape,46.02169
+2017,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Muškarci,Korištenje alata kopiranja i lijepljenja za dupliranje ili premještanje podataka unutar dokumenta,30.68018
+2019,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Muškarci,Korištenje alata kopiranja i lijepljenja za dupliranje ili premještanje podataka unutar dokumenta,26.12354
+2019,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Muškarci,Slanje e-pošte s priloženim datotekama,34.66806
+2017,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Muškarci,Izrada elektronskih prezentacija pomoću softvera za prezentacije,14.45337
+2019,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Muškarci,Izrada elektronskih prezentacija pomoću softvera za prezentacije,13.21634
+2017,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Muškarci,SKILL_ICTPCPR,3.27579
+2019,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Muškarci,SKILL_ICTPCPR,3.46017
+2017,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Muškarci,"Pronalaženje, preuzimanje, instaliranje i konfigurisanje softvera",24.96542
+2017,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Muškarci,Prijenos datoteka između računara i drugih uređaja,63.43982
+2019,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Muškarci,Prijenos datoteka između računara i drugih uređaja,51.43541

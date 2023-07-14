@@ -1,1 +1,6 @@
-Year,Value
+Year,SERIES,UNIT_MEASURE,Sex,Age,Occupation,Value
+2020,Proportions of positions in the public service compared to national distributions (ratio),Ratio,Female,,Administration Professionals,0.99
+2020,Proportions of positions in the public service compared to national distributions (ratio),Ratio,Female,,Business and Administration Associate Professionals,0.91
+2020,Proportions of positions in the public service compared to national distributions (ratio),Ratio,Female,,General and Keyboard Clerks,1.19
+2020,Proportions of positions in the public service compared to national distributions (ratio),Ratio,Female,,Other Managers: Managing Directors and Chief Executives and Business Services and Administration Managers,0.8
+2020,Proportions of positions in the public service compared to national distributions (ratio),Ratio,Female,,Senior Managers: Senior Government Officials,0.29
