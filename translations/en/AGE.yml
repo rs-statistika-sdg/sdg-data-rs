@@ -1,21 +1,54 @@
 AGE: Age
 M0: under 1 month old
 Y0: under 1 year old
-Y0T17: under 18 years old
+М36Т59: 36 to 59 months old
 Y0T4: under 5 years old
+Y0T6: 0 to 6 years old
+Y0T17: under 18 years old
+Y0T35: under 35 years old
+Y2T14: 2 to 14 years old
+Y4T6: 4 to 6 years old
+Y5: 5 years old
+Y10T14: 10 to 14 years old
+Y13T15: 13 to 15 years old
 Y15T19: 15 to 19 years old
 Y15T24: 15 to 24 years old
-Y15T25: Y15T25
-Y15T26: Y15T26
+Y15T25: 15 to 25 years old
+Y15T26: 15 to 26 years old
 Y15T49: 15 to 49 years old
+Y15T64: 15 to 64 years old
+Y16T24: 16 to 24 years old
 Y20T24: 20 to 24 years old
-Y2T14: 2 to 14 years old
+Y20T29: 20 to 29 years old
+Y25T34: 25 to 34 years old
+Y25T49: 25 to 49 years old
+Y30T39: 30 to 39 years old
 Y30T70: 30 to exact 70 years old
+Y35T44: 35 to 44 years old
+Y36T45: 36 to 45 years old
+Y40T49: 40 to 49 years old
+Y45T54: 45 to 54 years old
+Y46T55: 46 to 55 years old
+Y50T59: 50 to 59 years old
+Y50T64: 50 to 64 years old
+Y55T64: 55 to 64 years old
+Y56T65: 56 to 65 years old
+Y60T69: 60 to 69 years old
+Y65T74: 65 to 74 years old
+<=45Y: under 46 years old
+">15Y": Aged over 15 years
+">18Y": Aged over 18 years
 Y_GE15: 15 years old and over
 Y_GE18: 18 years old and over
 Y_GE25: 25 years old and over
 Y_GE46: 46 years old and over
+Y_GE65: 65 years old and over
 _T: All age ranges or no breakdown by age
 _U: Unknown
 _X: Not available
-<=45Y: under 46 years old
+_A: Adult
+_M: Minor
+_OWCH: Number of children
+
+
+

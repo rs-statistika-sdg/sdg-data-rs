@@ -1,21 +1,53 @@
-AGE: Godine
-M0: Mlađi od 1 mjeseca
-Y0: Mlađi od 1 godine
-Y0T17: Ispod 18 godina
+AGE: Starost
+M0: Mlađi od jednog mjeseca
+Y0: Mlađi od jedne godine
+М36Т59: 36 do 59 mjeseci
 Y0T4: Ispod 5 godina
+Y0T6: 0 do 6 godina
+Y0T17: Ispod 18 godina
+Y0T35: Ispod 35 godina
+Y2T14: 2 do 14 godina
+Y4T6: 4 do 6 godina
+Y5: 5 godina
+Y10T14: 10 do 14 godina
+Y13T15: 13 do 15 godina
 Y15T19: 15 do 19 godina
 Y15T24: 15 do 24 godine
 Y15T25: 15 do 25 godina
 Y15T26: 15 do 26 godina
 Y15T49: 15 do 49 godina
+Y15T64: 15 do 64 godine
+Y16T24: 16 do 24 godine
 Y20T24: 20 do 24 godine
-Y2T14: 2 do 14 godina
+Y20T29: 20 do 29 godina
+Y25T34: 25 do 34 godine
+Y25T49: 25 do 49 godina
+Y30T39: 30 do 39 godina
 Y30T70: 30 do tačno 70 godina
+Y35T44: 35 do 44 godine
+Y36T45: 36 do 45 godina
+Y40T49: 40 do 49 godina
+Y45T54: 45 do 54 godine
+Y46T55: 46 do 55 godina
+Y50T59: 50 do 59 godina
+Y50T64: 50 to 64 godine
+Y55T64: 55 do 64 godine
+Y56T65: 56 do 65 godina
+Y60T69: 60 do 69 godina
+Y65T74: 65 do 74 godine
+<=45Y: mlađi od 46 godina
+">15Y": Stariji od 15 godina
+">18Y": Stariji od 18 godina
 Y_GE15: 15 godina i više
 Y_GE18: 18 godina i više
 Y_GE25: 25 godina i više
 Y_GE46: 46 godina i više
-_T: Svi dobni rasponi ili nema podjele po godinama
+Y_GE65: 65 godina i više
+_T: Svi starosni rasponi ili nema podjele po godinama
 _U: Nepoznato
 _X: Nije dostupno
-<=45Y: mlađi od 46 godina 
+_A: Punoljetni
+_M: Maloljetni
+_OWCH: Broj djece
+
+

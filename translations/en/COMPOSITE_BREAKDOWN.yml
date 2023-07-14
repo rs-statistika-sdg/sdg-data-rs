@@ -21,8 +21,8 @@ IS_256KT2M: 256 kbit/s to less than 2 Mbit/s
 IS_2MT10M: 2 Mbit/s to less than 10 Mbit/s
 IS_GE10M: 10 Mbit/s or above
 MOT_IWW: Inland waterway transport
-MOT_RAI: Rail
-MOT_ROA: Road
+MOT_RAI: Railway transport 
+MOT_ROA: Road and urban transport
 MOT_SEA: Maritime
 MOT_AIR: Aire
 NCD_CARDIO: Cardiovascular disease
@@ -58,6 +58,7 @@ SPAR_11: Points of entry
 SPAR_12: Chemical events
 SPAR_13: Radiation emergencies
 _T: No breakdown
+UNK: Unknown
 ihr_capacity: IHR Capacity
 mode_of_transportation: Mode of transportation
 name_of_international_institution: Name of international institution
@@ -68,3 +69,50 @@ type_of_speed: Type of speed
 name_of_the_city: the name of the city
 C01: Banja Luka
 C02: Sarajevo
+CHDEV_DOMAIN_00: Early childhood development index
+CHDEV_DOMAIN_01: Learning
+CHDEV_DOMAIN_02: Social and emotional development
+CHDEV_DOMAIN_03: Physical development
+CHDEV_DOMAIN_04: Literacy/numeracy
+EMPS_ICT_00: Students
+EMPS_ICT_01: Employed persons
+EMPS_ICT_02: Unemployed persons
+EMPS_ICT_03: Other
+VAW_PHYSIC: Physical violence
+VAW_SEX: Sexual violence
+VAW_PSYCH: Psychological violence
+TUR_EMP_ACC: Accommodation
+TUR_EMP_FCA: Food service activities
+BNK_T: Banks operating in Republika Srpska, total
+BNK_RS: Banks of Republika Srpska
+BNK_FBIHURS: Banks of FBiH in Republika Srpska
+RD_SECBUS: Business
+RD_SECGOV: Government
+RD_SECHEDU: Higher education
+RD_SECNPT: Non-profit
+RSK_LST_01: Invertebrates (Inverttebratae)
+RSK_LST_02: Reptiles (Reptiles)
+RSK_LST_03: Amphibians (Amphibia)
+RSK_LST_04: Mammals (Mammals)
+RSK_LST_05: Fish (Pisces)
+RSK_LST_06: Birds (Aves)
+RSK_LST_07: Vascular plants (Planate)
+VC_HTF_01: Human trafficking, Article 145 of RS Criminal Law
+VC_HTF_02: Human trafficking, Article 186 of BiH Criminal Law
+VC_HTF_03: Child trafficking, Article 146 of RS Criminal Law
+VC_HTFET_01: Sexual exploitation
+VC_HTFET_02: Forced marriage
+UNA: Una River
+VRBAS: Vrbas River
+BOSNA: Bosna River
+DRINA: Drina River
+SAVA: Sava River
+UKRINA: Ukrina River
+TREBISNJICA: Trebišnjica River
+NERETVA: Neretva River
+TX_EU27: EU–27 countries
+TX_EFTA: EFTA countries
+TX_OTHDC: Other developed countries
+TX_CEFTA: CEFTA countries
+TX_OTHCID: Other developing countries
+TX_UNCLSS: Unclassified

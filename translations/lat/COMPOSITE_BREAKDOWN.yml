@@ -21,10 +21,10 @@ IS_256KT2M: 256 kbit/s do manje od 2 Mbit/s
 IS_2MT10M: 2 Mbit/s do manje od 10 Mbit/s
 IS_GE10M: 10 Mbit/s ili više
 MOT_IWW: Unutrašnji plovni put
-MOT_RAI: Željeznički 
-MOT_ROA: Cestovni
-MOT_SEA: Pomorski
-MOT_AIR: Zračni
+MOT_RAI: Željeznički saobraćaj 
+MOT_ROA: Drumski i gradski saobraćaj
+MOT_SEA: Pomorski saobraćaj
+MOT_AIR: Vazdušni saobraćaj
 NCD_CARDIO: Kardiovaskularne bolesti
 NCD_CNCR: Rak
 NCD_CRESPD: Hronična respiratorna bolest
@@ -36,7 +36,7 @@ PC_GEN_EQU: Ravnopravnost spolova
 PC_HUM_RIGH: Ljudska prava
 SKILL_ICTEMAIL: Slanje e-pošte s priloženim datotekama
 SKILL_ICTCMFL: Kopiranje ili premještanje datoteke ili mape
-SKILL_ICTCOPA: Korištenje alata kopiranja i lijepljenja za dupliranje ili premještanje podataka unutar dokumenta 
+SKILL_ICTCOPA: Korišćenje alata kopiranja i lijepljenja za dupliranje ili premještanje podataka unutar dokumenta 
 SKILL_ICTCPR: Pisanje računarskog programa pomoću specijalizovanog programskog jezika
 SKILL_ICTEPRS: Izrada elektronskih prezentacija pomoću softvera za prezentacije
 SKILL_ICTSOFT: Pronalaženje, preuzimanje, instaliranje i konfigurisanje softvera
@@ -58,6 +58,7 @@ SPAR_11: Tačke ulaska
 SPAR_12: Hemijski događaji
 SPAR_13: Vanredne situacije u vezi sa zračenjem
 _T: Bez podjele
+UNK: Nepoznato
 ihr_capacity: Kapacitet Međunarodnih zdravstvenih propisa (IHR)
 mode_of_transportation: Način transporta
 name_of_international_institution: Naziv međunarodne institucije
@@ -68,3 +69,50 @@ type_of_speed: Vrsta brzine
 name_of_the_city: Ime grada
 C01: Banja Luka
 C02: Sarajevo
+CHDEV_DOMAIN_00: Indeks ranog rasta i razvoja djece
+CHDEV_DOMAIN_01: Učenje
+CHDEV_DOMAIN_02: Socijalno-emocionalni razvoj
+CHDEV_DOMAIN_03: Fizički razvoj
+CHDEV_DOMAIN_04: Pismenost/poznavanje brojeva
+EMPS_ICT_00: Studenti
+EMPS_ICT_01: Zaposleni
+EMPS_ICT_02: Nezaposleni
+EMPS_ICT_03: Ostalo
+VAW_PHYSIC: Fizičko nasilje
+VAW_SEX: Seksualno nasilje 
+VAW_PSYCH: Psihološko nasilje
+TUR_EMP_ACC: Smještaj
+TUR_EMP_FCA: Djelatnost pripreme i posluživanja hrane i pića
+BNK_T: Ukupno banke koje posluju u Republici Srpskoj
+BNK_RS: Banke Republike Srpske
+BNK_FBIHURS: Banke FBiH u Republici Srpskoj
+RD_SECBUS: Poslovni
+RD_SECGOV: Državni
+RD_SECHEDU: Visoko obrazovanje
+RD_SECNPT: Neprofitni
+RSK_LST_01: Beskičmenjaci (Inverttebratae)
+RSK_LST_02: Gmizavci (Reptiles)
+RSK_LST_03: Vodozemci (Amphibia)
+RSK_LST_04: Sisari (Mammals)
+RSK_LST_05: Ribe (Pisces)
+RSK_LST_06: Ptice (Aves)
+RSK_LST_07: Vaskularna flora (Planate)
+VC_HTF_01: Trgovina ljudima, član 145 KZ RS
+VC_HTF_02: Trgovina ljudima, član 186 KZ BiH
+VC_HTF_03: Trgovina djecom, član 146 KZ RS
+VC_HTFET_01: Seksualna eksploatacija
+VC_HTFET_02: Prisilno zaključenje braka
+UNA: Una
+VRBAS: Vrbas
+BOSNA: Bosna
+DRINA: Drina
+SAVA: Sava
+UKRINA: Ukrina
+TREBISNJICA: Trebišnjica
+NERETVA: Neretva
+TX_EU27: Zemlje EU–27
+TX_EFTA: Zemlje EFTA
+TX_OTHDC: Ostale razvijene zemlje
+TX_CEFTA: CEFTA
+TX_OTHCID: Ostale zemlje u razvoju
+TX_UNCLSS: Neraspoređeno

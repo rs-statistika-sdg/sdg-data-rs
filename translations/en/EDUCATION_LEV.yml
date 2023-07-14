@@ -5,3 +5,6 @@ ISCED11_3: Upper secondary education
 _T: Total or not breakdown
 AGG_0_1: Primary education or less
 AGG_GE2: Secondary education or above
+AGG_ED_0: Lower than secondary
+AGG_ED_1: Secondary
+AGG_ED_2: High and higher

@@ -2,7 +2,7 @@ other_info: Остале информације
 computation_calculations: Калкулације
 computation_definitions: Дефиниције
 computation_units: Мјерна јединица
-goal_meta_link: Линк до UN метаподатака
+goal_meta_link: Линк до УН метаподатака
 indicator: Број индикатора
 indicator_definition: Опис глобалног индикатора
 indicator_name: Назив индикатора
@@ -74,8 +74,8 @@ source_url_5: Линк до извора података
 source_url_6: Линк до извора података
 target: Назив подциља
 target_id: Број подциља
-un_custodian_agency: UN кустос агенција
-un_designated_tier: UN- ов означени степен
+un_custodian_agency: УН кустос агенција
+un_designated_tier: УН-ов означени степен
 quality_assurance: Осигурање квалитета
 international_comparability: Упоредивост са међународним подацима/стандардима
 comments_limitations: Коментари и ограничења
