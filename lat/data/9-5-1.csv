@@ -1,17 +1,79 @@
-Year,SERIES,UNIT_MEASURE,Value
-2003,Učešće izdataka za istraživanje i razvoj u ukupnom BDP-u (%),Procenat,0.01854
-2004,Učešće izdataka za istraživanje i razvoj u ukupnom BDP-u (%),Procenat,0.01524
-2005,Učešće izdataka za istraživanje i razvoj u ukupnom BDP-u (%),Procenat,0.02697
-2006,Učešće izdataka za istraživanje i razvoj u ukupnom BDP-u (%),Procenat,0.01969
-2007,Učešće izdataka za istraživanje i razvoj u ukupnom BDP-u (%),Procenat,0.02521
-2008,Učešće izdataka za istraživanje i razvoj u ukupnom BDP-u (%),Procenat,0.01842
-2009,Učešće izdataka za istraživanje i razvoj u ukupnom BDP-u (%),Procenat,0.02106
-2012,Učešće izdataka za istraživanje i razvoj u ukupnom BDP-u (%),Procenat,0.26533
-2013,Učešće izdataka za istraživanje i razvoj u ukupnom BDP-u (%),Procenat,0.32132
-2014,Učešće izdataka za istraživanje i razvoj u ukupnom BDP-u (%),Procenat,0.25725
-2015,Učešće izdataka za istraživanje i razvoj u ukupnom BDP-u (%),Procenat,0.2186
-2016,Učešće izdataka za istraživanje i razvoj u ukupnom BDP-u (%),Procenat,0.21594
-2017,Učešće izdataka za istraživanje i razvoj u ukupnom BDP-u (%),Procenat,0.20048
-2018,Učešće izdataka za istraživanje i razvoj u ukupnom BDP-u (%),Procenat,0.19485
-2019,Učešće izdataka za istraživanje i razvoj u ukupnom BDP-u (%),Procenat,0.1926
-2020,Učešće izdataka za istraživanje i razvoj u ukupnom BDP-u (%),Procenat,0.2061
+Year,SERIES,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
+2009,Učešće izdataka za istraživanje i razvoj u ukupnom BDP-u (%),Procenat,,0.3
+2010,Učešće izdataka za istraživanje i razvoj u ukupnom BDP-u (%),Procenat,,0.25
+2011,Učešće izdataka za istraživanje i razvoj u ukupnom BDP-u (%),Procenat,,0.3
+2012,Učešće izdataka za istraživanje i razvoj u ukupnom BDP-u (%),Procenat,,0.4
+2013,Učešće izdataka za istraživanje i razvoj u ukupnom BDP-u (%),Procenat,,0.56
+2014,Učešće izdataka za istraživanje i razvoj u ukupnom BDP-u (%),Procenat,,0.2
+2015,Učešće izdataka za istraživanje i razvoj u ukupnom BDP-u (%),Procenat,,0.19
+2016,Učešće izdataka za istraživanje i razvoj u ukupnom BDP-u (%),Procenat,,0.17
+2017,Učešće izdataka za istraživanje i razvoj u ukupnom BDP-u (%),Procenat,,0.17
+2018,Učešće izdataka za istraživanje i razvoj u ukupnom BDP-u (%),Procenat,,0.17
+2019,Učešće izdataka za istraživanje i razvoj u ukupnom BDP-u (%),Procenat,,0.16
+2020,Učešće izdataka za istraživanje i razvoj u ukupnom BDP-u (%),Procenat,,0.18
+2021,Učešće izdataka za istraživanje i razvoj u ukupnom BDP-u (%),Procenat,,0.2
+2009,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Bez podjele,24566.0
+2010,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Bez podjele,20779.0
+2011,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Bez podjele,26191.0
+2012,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Bez podjele,34297.0
+2013,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Bez podjele,49035.0
+2014,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Bez podjele,17839.0
+2015,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Bez podjele,17935.0
+2016,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Bez podjele,16736.0
+2017,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Bez podjele,17196.0
+2018,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Bez podjele,18341.0
+2019,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Bez podjele,17687.0
+2020,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Bez podjele,20289.0
+2021,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Bez podjele,25394.0
+2009,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Poslovni,10017.0
+2010,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Poslovni,8520.0
+2011,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Poslovni,15526.0
+2012,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Poslovni,27430.0
+2013,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Poslovni,43541.0
+2014,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Poslovni,10614.0
+2015,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Poslovni,9780.0
+2016,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Poslovni,11376.0
+2017,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Poslovni,10932.0
+2018,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Poslovni,11173.0
+2019,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Poslovni,9636.0
+2020,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Poslovni,11693.0
+2021,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Poslovni,13612.0
+2009,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Državni,1670.0
+2010,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Državni,2019.0
+2011,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Državni,3592.0
+2012,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Državni,1946.0
+2013,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Državni,924.0
+2014,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Državni,1598.0
+2015,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Državni,2450.0
+2016,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Državni,827.0
+2017,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Državni,1425.0
+2018,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Državni,1235.0
+2019,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Državni,1357.0
+2020,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Državni,1494.0
+2021,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Državni,1609.0
+2009,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Visoko obrazovanje,12879.0
+2010,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Visoko obrazovanje,10091.0
+2011,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Visoko obrazovanje,7031.0
+2012,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Visoko obrazovanje,4875.0
+2013,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Visoko obrazovanje,4464.0
+2014,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Visoko obrazovanje,4845.0
+2015,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Visoko obrazovanje,5225.0
+2016,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Visoko obrazovanje,3954.0
+2017,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Visoko obrazovanje,4425.0
+2018,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Visoko obrazovanje,5291.0
+2019,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Visoko obrazovanje,6661.0
+2020,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Visoko obrazovanje,7102.0
+2021,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Visoko obrazovanje,10173.0
+2009,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Neprofitni,0.0
+2010,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Neprofitni,149.0
+2011,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Neprofitni,42.0
+2012,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Neprofitni,46.0
+2013,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Neprofitni,106.0
+2014,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Neprofitni,782.0
+2015,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Neprofitni,480.0
+2016,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Neprofitni,579.0
+2017,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Neprofitni,414.0
+2018,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Neprofitni,642.0
+2019,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Neprofitni,33.0
+2020,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Neprofitni,0.0
+2021,Bruto domaći izdaci za istraživanje i razvoj prema sektorima,u hiljadama KM,Neprofitni,0.0

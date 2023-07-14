@@ -1,7 +1,5 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,SERIES,UNIT_MEASURE,Sex,COMPOSITE_BREAKDOWN,Value
+2018,"Proportion of women aged 18–74 years subjected to physical and sexual violence by persons other than an intimate partner, in the previous 12 months (%)",Percent,Female,Physical violence,2
+2018,"Proportion of women aged 18–74 years subjected to physical and sexual violence by persons other than an intimate partner, in the previous 12 months (%)",Percent,Female,Sexual violence,0
+2018,"Proportion of women aged 18–74 years subjected to physical and sexual violence by persons other than an intimate partner, from the age of 15 (%)",Percent,Female,Physical violence,7
+2018,"Proportion of women aged 18–74 years subjected to physical and sexual violence by persons other than an intimate partner, from the age of 15 (%)",Percent,Female,Sexual violence,2

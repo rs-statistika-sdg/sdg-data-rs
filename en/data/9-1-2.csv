@@ -1,18 +1,157 @@
-Year,SERIES,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
-2020,Volume of goods transport,Tonne kilometres,Aire,0.0
-2018,Volume of goods transport,Tonne kilometres,Inland waterway transport,0.0
-2019,Volume of goods transport,Tonne kilometres,Inland waterway transport,0.0
-2018,Volume of goods transport,Tonne kilometres,Railway transport,1187941000.0
-2019,Volume of goods transport,Tonne kilometres,Railway transport,801400000.0
-2020,Volume of goods transport,Tonne kilometres,Railway transport,727000000.0
-2018,Volume of goods transport,Tonne kilometres,Road and urban transport,4303121000.0
-2019,Volume of goods transport,Tonne kilometres,Road and urban transport,3461400000.0
-2020,Volume of goods transport,Tonne kilometres,Road and urban transport,3340000000.0
-2019,Volume of passenger transport,Passenger kilometres,Aire,7353050.0
-2020,Volume of passenger transport,Passenger kilometres,Aire,1812510.0
-2018,Volume of passenger transport,Passenger kilometres,Railway transport,40000000.0
-2019,Volume of passenger transport,Passenger kilometres,Railway transport,4751600000.0
-2020,Volume of passenger transport,Passenger kilometres,Railway transport,3256000000.0
-2018,Volume of passenger transport,Passenger kilometres,Road and urban transport,16610000000.0
-2019,Volume of passenger transport,Passenger kilometres,Road and urban transport,16706400000.0
-2020,Volume of passenger transport,Passenger kilometres,Road and urban transport,12451000000.0
+Year,SERIES,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,Value
+2009,Volume of passenger transport,THOUSANDS,No breakdown,,,,,,,,,,,,,,,,,,,29026
+2010,Volume of passenger transport,THOUSANDS,No breakdown,,,,,,,,,,,,,,,,,,,30901
+2011,Volume of passenger transport,THOUSANDS,No breakdown,,,,,,,,,,,,,,,,,,,32488
+2012,Volume of passenger transport,THOUSANDS,No breakdown,,,,,,,,,,,,,,,,,,,32933
+2013,Volume of passenger transport,THOUSANDS,No breakdown,,,,,,,,,,,,,,,,,,,31686
+2014,Volume of passenger transport,THOUSANDS,No breakdown,,,,,,,,,,,,,,,,,,,31554
+2015,Volume of passenger transport,THOUSANDS,No breakdown,,,,,,,,,,,,,,,,,,,29745
+2016,Volume of passenger transport,THOUSANDS,No breakdown,,,,,,,,,,,,,,,,,,,28637
+2017,Volume of passenger transport,THOUSANDS,No breakdown,,,,,,,,,,,,,,,,,,,29451
+2018,Volume of passenger transport,THOUSANDS,No breakdown,,,,,,,,,,,,,,,,,,,27806
+2019,Volume of passenger transport,THOUSANDS,No breakdown,,,,,,,,,,,,,,,,,,,25726
+2020,Volume of passenger transport,THOUSANDS,No breakdown,,,,,,,,,,,,,,,,,,,13543
+2021,Volume of passenger transport,THOUSANDS,No breakdown,,,,,,,,,,,,,,,,,,,15005
+2009,Volume of passenger transport,THOUSANDS,Railway transport,,,,,,,,,,,,,,,,,,,448
+2010,Volume of passenger transport,THOUSANDS,Railway transport,,,,,,,,,,,,,,,,,,,402
+2011,Volume of passenger transport,THOUSANDS,Railway transport,,,,,,,,,,,,,,,,,,,317
+2012,Volume of passenger transport,THOUSANDS,Railway transport,,,,,,,,,,,,,,,,,,,321
+2013,Volume of passenger transport,THOUSANDS,Railway transport,,,,,,,,,,,,,,,,,,,211
+2014,Volume of passenger transport,THOUSANDS,Railway transport,,,,,,,,,,,,,,,,,,,173
+2015,Volume of passenger transport,THOUSANDS,Railway transport,,,,,,,,,,,,,,,,,,,178
+2016,Volume of passenger transport,THOUSANDS,Railway transport,,,,,,,,,,,,,,,,,,,160
+2017,Volume of passenger transport,THOUSANDS,Railway transport,,,,,,,,,,,,,,,,,,,117
+2018,Volume of passenger transport,THOUSANDS,Railway transport,,,,,,,,,,,,,,,,,,,137
+2019,Volume of passenger transport,THOUSANDS,Railway transport,,,,,,,,,,,,,,,,,,,160
+2020,Volume of passenger transport,THOUSANDS,Railway transport,,,,,,,,,,,,,,,,,,,58
+2021,Volume of passenger transport,THOUSANDS,Railway transport,,,,,,,,,,,,,,,,,,,60
+2009,Volume of passenger transport,THOUSANDS,Road and urban transport,,,,,,,,,,,,,,,,,,,28578
+2010,Volume of passenger transport,THOUSANDS,Road and urban transport,,,,,,,,,,,,,,,,,,,30499
+2011,Volume of passenger transport,THOUSANDS,Road and urban transport,,,,,,,,,,,,,,,,,,,32171
+2012,Volume of passenger transport,THOUSANDS,Road and urban transport,,,,,,,,,,,,,,,,,,,32612
+2013,Volume of passenger transport,THOUSANDS,Road and urban transport,,,,,,,,,,,,,,,,,,,31745
+2014,Volume of passenger transport,THOUSANDS,Road and urban transport,,,,,,,,,,,,,,,,,,,31381
+2015,Volume of passenger transport,THOUSANDS,Road and urban transport,,,,,,,,,,,,,,,,,,,29567
+2016,Volume of passenger transport,THOUSANDS,Road and urban transport,,,,,,,,,,,,,,,,,,,28477
+2017,Volume of passenger transport,THOUSANDS,Road and urban transport,,,,,,,,,,,,,,,,,,,29334
+2018,Volume of passenger transport,THOUSANDS,Road and urban transport,,,,,,,,,,,,,,,,,,,27670
+2019,Volume of passenger transport,THOUSANDS,Road and urban transport,,,,,,,,,,,,,,,,,,,25566
+2020,Volume of passenger transport,THOUSANDS,Road and urban transport,,,,,,,,,,,,,,,,,,,13485
+2021,Volume of passenger transport,THOUSANDS,Road and urban transport,,,,,,,,,,,,,,,,,,,14945
+2009,Volume of passenger transport,"Passenger kilometres, millions",No breakdown,,,,,,,,,,,,,,,,,,,477
+2010,Volume of passenger transport,"Passenger kilometres, millions",No breakdown,,,,,,,,,,,,,,,,,,,474
+2011,Volume of passenger transport,"Passenger kilometres, millions",No breakdown,,,,,,,,,,,,,,,,,,,480
+2012,Volume of passenger transport,"Passenger kilometres, millions",No breakdown,,,,,,,,,,,,,,,,,,,586
+2013,Volume of passenger transport,"Passenger kilometres, millions",No breakdown,,,,,,,,,,,,,,,,,,,472
+2014,Volume of passenger transport,"Passenger kilometres, millions",No breakdown,,,,,,,,,,,,,,,,,,,444
+2015,Volume of passenger transport,"Passenger kilometres, millions",No breakdown,,,,,,,,,,,,,,,,,,,418
+2016,Volume of passenger transport,"Passenger kilometres, millions",No breakdown,,,,,,,,,,,,,,,,,,,396
+2017,Volume of passenger transport,"Passenger kilometres, millions",No breakdown,,,,,,,,,,,,,,,,,,,425
+2018,Volume of passenger transport,"Passenger kilometres, millions",No breakdown,,,,,,,,,,,,,,,,,,,379
+2019,Volume of passenger transport,"Passenger kilometres, millions",No breakdown,,,,,,,,,,,,,,,,,,,353
+2020,Volume of passenger transport,"Passenger kilometres, millions",No breakdown,,,,,,,,,,,,,,,,,,,180
+2021,Volume of passenger transport,"Passenger kilometres, millions",No breakdown,,,,,,,,,,,,,,,,,,,239
+2009,Volume of passenger transport,"Passenger kilometres, millions",Railway transport,,,,,,,,,,,,,,,,,,,27
+2010,Volume of passenger transport,"Passenger kilometres, millions",Railway transport,,,,,,,,,,,,,,,,,,,25
+2011,Volume of passenger transport,"Passenger kilometres, millions",Railway transport,,,,,,,,,,,,,,,,,,,22
+2012,Volume of passenger transport,"Passenger kilometres, millions",Railway transport,,,,,,,,,,,,,,,,,,,23
+2013,Volume of passenger transport,"Passenger kilometres, millions",Railway transport,,,,,,,,,,,,,,,,,,,15
+2014,Volume of passenger transport,"Passenger kilometres, millions",Railway transport,,,,,,,,,,,,,,,,,,,12
+2015,Volume of passenger transport,"Passenger kilometres, millions",Railway transport,,,,,,,,,,,,,,,,,,,13
+2016,Volume of passenger transport,"Passenger kilometres, millions",Railway transport,,,,,,,,,,,,,,,,,,,11
+2017,Volume of passenger transport,"Passenger kilometres, millions",Railway transport,,,,,,,,,,,,,,,,,,,7
+2018,Volume of passenger transport,"Passenger kilometres, millions",Railway transport,,,,,,,,,,,,,,,,,,,9
+2019,Volume of passenger transport,"Passenger kilometres, millions",Railway transport,,,,,,,,,,,,,,,,,,,15
+2020,Volume of passenger transport,"Passenger kilometres, millions",Railway transport,,,,,,,,,,,,,,,,,,,4
+2021,Volume of passenger transport,"Passenger kilometres, millions",Railway transport,,,,,,,,,,,,,,,,,,,3
+2009,Volume of passenger transport,"Passenger kilometres, millions",Road and urban transport,,,,,,,,,,,,,,,,,,,450
+2010,Volume of passenger transport,"Passenger kilometres, millions",Road and urban transport,,,,,,,,,,,,,,,,,,,449
+2011,Volume of passenger transport,"Passenger kilometres, millions",Road and urban transport,,,,,,,,,,,,,,,,,,,458
+2012,Volume of passenger transport,"Passenger kilometres, millions",Road and urban transport,,,,,,,,,,,,,,,,,,,563
+2013,Volume of passenger transport,"Passenger kilometres, millions",Road and urban transport,,,,,,,,,,,,,,,,,,,457
+2014,Volume of passenger transport,"Passenger kilometres, millions",Road and urban transport,,,,,,,,,,,,,,,,,,,432
+2015,Volume of passenger transport,"Passenger kilometres, millions",Road and urban transport,,,,,,,,,,,,,,,,,,,405
+2016,Volume of passenger transport,"Passenger kilometres, millions",Road and urban transport,,,,,,,,,,,,,,,,,,,385
+2017,Volume of passenger transport,"Passenger kilometres, millions",Road and urban transport,,,,,,,,,,,,,,,,,,,418
+2018,Volume of passenger transport,"Passenger kilometres, millions",Road and urban transport,,,,,,,,,,,,,,,,,,,370
+2019,Volume of passenger transport,"Passenger kilometres, millions",Road and urban transport,,,,,,,,,,,,,,,,,,,342
+2020,Volume of passenger transport,"Passenger kilometres, millions",Road and urban transport,,,,,,,,,,,,,,,,,,,176
+2021,Volume of passenger transport,"Passenger kilometres, millions",Road and urban transport,,,,,,,,,,,,,,,,,,,236
+2009,Volume of goods transport,Thousand of tonnes,No breakdown,,,,,,,,,,,,,,,,,,,5498
+2010,Volume of goods transport,Thousand of tonnes,No breakdown,,,,,,,,,,,,,,,,,,,6534
+2011,Volume of goods transport,Thousand of tonnes,No breakdown,,,,,,,,,,,,,,,,,,,6932
+2012,Volume of goods transport,Thousand of tonnes,No breakdown,,,,,,,,,,,,,,,,,,,7435
+2013,Volume of goods transport,Thousand of tonnes,No breakdown,,,,,,,,,,,,,,,,,,,7635
+2014,Volume of goods transport,Thousand of tonnes,No breakdown,,,,,,,,,,,,,,,,,,,7674
+2015,Volume of goods transport,Thousand of tonnes,No breakdown,,,,,,,,,,,,,,,,,,,8711
+2016,Volume of goods transport,Thousand of tonnes,No breakdown,,,,,,,,,,,,,,,,,,,7938
+2017,Volume of goods transport,Thousand of tonnes,No breakdown,,,,,,,,,,,,,,,,,,,8549
+2018,Volume of goods transport,Thousand of tonnes,No breakdown,,,,,,,,,,,,,,,,,,,8753
+2019,Volume of goods transport,Thousand of tonnes,No breakdown,,,,,,,,,,,,,,,,,,,7507
+2020,Volume of goods transport,Thousand of tonnes,No breakdown,,,,,,,,,,,,,,,,,,,6780
+2021,Volume of goods transport,Thousand of tonnes,No breakdown,,,,,,,,,,,,,,,,,,,7805
+2009,Volume of goods transport,Thousand of tonnes,Railway transport,,,,,,,,,,,,,,,,,,,4101
+2010,Volume of goods transport,Thousand of tonnes,Railway transport,,,,,,,,,,,,,,,,,,,5087
+2011,Volume of goods transport,Thousand of tonnes,Railway transport,,,,,,,,,,,,,,,,,,,5191
+2012,Volume of goods transport,Thousand of tonnes,Railway transport,,,,,,,,,,,,,,,,,,,5372
+2013,Volume of goods transport,Thousand of tonnes,Railway transport,,,,,,,,,,,,,,,,,,,5191
+2014,Volume of goods transport,Thousand of tonnes,Railway transport,,,,,,,,,,,,,,,,,,,5009
+2015,Volume of goods transport,Thousand of tonnes,Railway transport,,,,,,,,,,,,,,,,,,,4964
+2016,Volume of goods transport,Thousand of tonnes,Railway transport,,,,,,,,,,,,,,,,,,,4416
+2017,Volume of goods transport,Thousand of tonnes,Railway transport,,,,,,,,,,,,,,,,,,,4529
+2018,Volume of goods transport,Thousand of tonnes,Railway transport,,,,,,,,,,,,,,,,,,,4569
+2019,Volume of goods transport,Thousand of tonnes,Railway transport,,,,,,,,,,,,,,,,,,,4567
+2020,Volume of goods transport,Thousand of tonnes,Railway transport,,,,,,,,,,,,,,,,,,,3798
+2021,Volume of goods transport,Thousand of tonnes,Railway transport,,,,,,,,,,,,,,,,,,,4385
+2009,Volume of goods transport,Thousand of tonnes,Road and urban transport,,,,,,,,,,,,,,,,,,,1397
+2010,Volume of goods transport,Thousand of tonnes,Road and urban transport,,,,,,,,,,,,,,,,,,,1447
+2011,Volume of goods transport,Thousand of tonnes,Road and urban transport,,,,,,,,,,,,,,,,,,,1741
+2012,Volume of goods transport,Thousand of tonnes,Road and urban transport,,,,,,,,,,,,,,,,,,,2063
+2013,Volume of goods transport,Thousand of tonnes,Road and urban transport,,,,,,,,,,,,,,,,,,,2444
+2014,Volume of goods transport,Thousand of tonnes,Road and urban transport,,,,,,,,,,,,,,,,,,,2665
+2015,Volume of goods transport,Thousand of tonnes,Road and urban transport,,,,,,,,,,,,,,,,,,,3747
+2016,Volume of goods transport,Thousand of tonnes,Road and urban transport,,,,,,,,,,,,,,,,,,,3522
+2017,Volume of goods transport,Thousand of tonnes,Road and urban transport,,,,,,,,,,,,,,,,,,,4020
+2018,Volume of goods transport,Thousand of tonnes,Road and urban transport,,,,,,,,,,,,,,,,,,,4184
+2019,Volume of goods transport,Thousand of tonnes,Road and urban transport,,,,,,,,,,,,,,,,,,,2940
+2020,Volume of goods transport,Thousand of tonnes,Road and urban transport,,,,,,,,,,,,,,,,,,,2982
+2021,Volume of goods transport,Thousand of tonnes,Road and urban transport,,,,,,,,,,,,,,,,,,,3420
+2009,Volume of goods transport,"Tonne kilometres, millions",No breakdown,,,,,,,,,,,,,,,,,,,947
+2010,Volume of goods transport,"Tonne kilometres, millions",No breakdown,,,,,,,,,,,,,,,,,,,1076
+2011,Volume of goods transport,"Tonne kilometres, millions",No breakdown,,,,,,,,,,,,,,,,,,,1431
+2012,Volume of goods transport,"Tonne kilometres, millions",No breakdown,,,,,,,,,,,,,,,,,,,1399
+2013,Volume of goods transport,"Tonne kilometres, millions",No breakdown,,,,,,,,,,,,,,,,,,,1556
+2014,Volume of goods transport,"Tonne kilometres, millions",No breakdown,,,,,,,,,,,,,,,,,,,1651
+2015,Volume of goods transport,"Tonne kilometres, millions",No breakdown,,,,,,,,,,,,,,,,,,,1768
+2016,Volume of goods transport,"Tonne kilometres, millions",No breakdown,,,,,,,,,,,,,,,,,,,1723
+2017,Volume of goods transport,"Tonne kilometres, millions",No breakdown,,,,,,,,,,,,,,,,,,,1931
+2018,Volume of goods transport,"Tonne kilometres, millions",No breakdown,,,,,,,,,,,,,,,,,,,1877
+2019,Volume of goods transport,"Tonne kilometres, millions",No breakdown,,,,,,,,,,,,,,,,,,,1881
+2020,Volume of goods transport,"Tonne kilometres, millions",No breakdown,,,,,,,,,,,,,,,,,,,1709
+2021,Volume of goods transport,"Tonne kilometres, millions",No breakdown,,,,,,,,,,,,,,,,,,,1846
+2009,Volume of goods transport,"Tonne kilometres, millions",Railway transport,,,,,,,,,,,,,,,,,,,327
+2010,Volume of goods transport,"Tonne kilometres, millions",Railway transport,,,,,,,,,,,,,,,,,,,387
+2011,Volume of goods transport,"Tonne kilometres, millions",Railway transport,,,,,,,,,,,,,,,,,,,425
+2012,Volume of goods transport,"Tonne kilometres, millions",Railway transport,,,,,,,,,,,,,,,,,,,457
+2013,Volume of goods transport,"Tonne kilometres, millions",Railway transport,,,,,,,,,,,,,,,,,,,455
+2014,Volume of goods transport,"Tonne kilometres, millions",Railway transport,,,,,,,,,,,,,,,,,,,428
+2015,Volume of goods transport,"Tonne kilometres, millions",Railway transport,,,,,,,,,,,,,,,,,,,450
+2016,Volume of goods transport,"Tonne kilometres, millions",Railway transport,,,,,,,,,,,,,,,,,,,374
+2017,Volume of goods transport,"Tonne kilometres, millions",Railway transport,,,,,,,,,,,,,,,,,,,386
+2018,Volume of goods transport,"Tonne kilometres, millions",Railway transport,,,,,,,,,,,,,,,,,,,372
+2019,Volume of goods transport,"Tonne kilometres, millions",Railway transport,,,,,,,,,,,,,,,,,,,403
+2020,Volume of goods transport,"Tonne kilometres, millions",Railway transport,,,,,,,,,,,,,,,,,,,363
+2021,Volume of goods transport,"Tonne kilometres, millions",Railway transport,,,,,,,,,,,,,,,,,,,380
+2009,Volume of goods transport,"Tonne kilometres, millions",Road and urban transport,,,,,,,,,,,,,,,,,,,620
+2010,Volume of goods transport,"Tonne kilometres, millions",Road and urban transport,,,,,,,,,,,,,,,,,,,689
+2011,Volume of goods transport,"Tonne kilometres, millions",Road and urban transport,,,,,,,,,,,,,,,,,,,1006
+2012,Volume of goods transport,"Tonne kilometres, millions",Road and urban transport,,,,,,,,,,,,,,,,,,,942
+2013,Volume of goods transport,"Tonne kilometres, millions",Road and urban transport,,,,,,,,,,,,,,,,,,,1101
+2014,Volume of goods transport,"Tonne kilometres, millions",Road and urban transport,,,,,,,,,,,,,,,,,,,1223
+2015,Volume of goods transport,"Tonne kilometres, millions",Road and urban transport,,,,,,,,,,,,,,,,,,,1318
+2016,Volume of goods transport,"Tonne kilometres, millions",Road and urban transport,,,,,,,,,,,,,,,,,,,1341
+2017,Volume of goods transport,"Tonne kilometres, millions",Road and urban transport,,,,,,,,,,,,,,,,,,,1545
+2018,Volume of goods transport,"Tonne kilometres, millions",Road and urban transport,,,,,,,,,,,,,,,,,,,1505
+2019,Volume of goods transport,"Tonne kilometres, millions",Road and urban transport,,,,,,,,,,,,,,,,,,,1477
+2020,Volume of goods transport,"Tonne kilometres, millions",Road and urban transport,,,,,,,,,,,,,,,,,,,1346
+2021,Volume of goods transport,"Tonne kilometres, millions",Road and urban transport,,,,,,,,,,,,,,,,,,,1466

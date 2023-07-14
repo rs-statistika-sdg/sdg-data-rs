@@ -1,18 +1,10 @@
 Disaggregation,en,lat,cir,Number of indicators,Number of values
-ACTIVITY,Economic activity,Djelatnost,Дјелатност,8,15
-AGE,Age,Starost,Старост,24,16
-COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,10,55
-DEVIATION_LEVEL,Deviation Level,Stepen odstupanja,Степен одступања,1,4
-EDUCATION_LEV,Education level,Nivo obrazovanja,Ниво образовања,4,6
-FOOD_WS,Food Waste Sector,Sektor prehrambenog otpada,Сектор прехрамбеног отпада,1,3
-Group,Group,Group,Group,1,2
-INCOME_WEALTH_QUANTILE,Income or wealth quantile,Kvantil dohotka ili bogatstva,Квантил дохотка или богатства,3,8
-LEV_REQ,Level of requirement,Nivo zahtjeva,Ниво захтјева,1,2
-M_ELEVATION,Mountain Elevation,Planinsko uzvišenje,Планинско узвишење,1,4
-OCCUPATION,Occupation,Zanimanje,Занимање,3,20
-PRODUCT,Type of product,Vrsta proizvoda,Врста производа,4,26
-SERIES,SDG Series,SDG Serije,SDG Варијабле,168,327
-SEX,Sex,Pol,Пол,39,4
-UNIT_MEASURE,Unit of measure,Mjerna jedinica,Мјерна јединица,168,37
-URBANISATION,Degree of urbanisation,Stepen urbanizacije,Степен урбанизације,11,5
-WASTE_TREATMENT,Type of waste treatment,Vrsta tretmana otpada,Врста третмана отпада,1,2
+ACTIVITY,Economic activity,Djelatnost,Дјелатност,2,2
+AGE,Age,Starost,Старост,16,45
+COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,11,71
+EDUCATION_LEV,Education level,Nivo obrazovanja,Ниво образовања,1,3
+OCCUPATION,Occupation,Zanimanje,Занимање,1,4
+SERIES,SDG Series,SDG Serije,SDG Варијабле,56,122
+SEX,Sex,Pol,Пол,21,3
+UNIT_MEASURE,Unit of measure,Mjerna jedinica,Мјерна јединица,56,36
+URBANISATION,Degree of urbanisation,Stepen urbanizacije,Степен урбанизације,6,3

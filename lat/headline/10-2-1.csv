@@ -1,5 +1,5 @@
 Year,Value,UNIT_MEASURE,SERIES
-2001,8,Procenat,Udio ljudi koji žive ispod 50 posto srednje vrijednosti prihoda
-2004,12,Procenat,Udio ljudi koji žive ispod 50 posto srednje vrijednosti prihoda
-2007,12,Procenat,Udio ljudi koji žive ispod 50 posto srednje vrijednosti prihoda
-2011,12,Procenat,Udio ljudi koji žive ispod 50 posto srednje vrijednosti prihoda
+2004,8.2,Procenat,SI_POV_50M?HH
+2007,10.8,Procenat,SI_POV_50M?HH
+2011,8.0,Procenat,SI_POV_50M?HH
+2015,7.0,Procenat,SI_POV_50M?HH

@@ -1,43 +1,153 @@
-Year,SERIES,UNIT_MEASURE,Pol,COMPOSITE_BREAKDOWN,Value
-2017,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Oba pola ili bez podjele po polu,Korištenje osnovne aritmetičke formule u proračunskoj tabeli,9.16614
-2019,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Oba pola ili bez podjele po polu,Korištenje osnovne aritmetičke formule u proračunskoj tabeli,7.52968
-2017,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Oba pola ili bez podjele po polu,Kopiranje ili premještanje datoteke ili mape,59.63432
-2019,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Oba pola ili bez podjele po polu,Kopiranje ili premještanje datoteke ili mape,44.59803
-2017,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Oba pola ili bez podjele po polu,Korišćenje alata kopiranja i lijepljenja za dupliranje ili premještanje podataka unutar dokumenta,28.14609
-2019,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Oba pola ili bez podjele po polu,Korišćenje alata kopiranja i lijepljenja za dupliranje ili premještanje podataka unutar dokumenta,22.46445
-2019,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Oba pola ili bez podjele po polu,Slanje e-pošte s priloženim datotekama,30.09595
-2017,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Oba pola ili bez podjele po polu,Izrada elektronskih prezentacija pomoću softvera za prezentacije,12.45847
-2019,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Oba pola ili bez podjele po polu,Izrada elektronskih prezentacija pomoću softvera za prezentacije,11.0905
-2017,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Oba pola ili bez podjele po polu,SKILL_ICTPCPR,2.08691
-2019,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Oba pola ili bez podjele po polu,SKILL_ICTPCPR,2.13639
-2017,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Oba pola ili bez podjele po polu,"Pronalaženje, preuzimanje, instaliranje i konfigurisanje softvera",22.29269
-2017,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Oba pola ili bez podjele po polu,Prijenos datoteka između računara i drugih uređaja,59.74172
-2019,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Oba pola ili bez podjele po polu,Prijenos datoteka između računara i drugih uređaja,49.02722
-2017,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Žene,Korištenje osnovne aritmetičke formule u proračunskoj tabeli,9.29936
-2019,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Žene,Korištenje osnovne aritmetičke formule u proračunskoj tabeli,6.28157
-2017,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Žene,Kopiranje ili premještanje datoteke ili mape,57.95128
-2019,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Žene,Kopiranje ili premještanje datoteke ili mape,43.36247
-2017,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Žene,Korišćenje alata kopiranja i lijepljenja za dupliranje ili premještanje podataka unutar dokumenta,25.87817
-2019,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Žene,Korišćenje alata kopiranja i lijepljenja za dupliranje ili premještanje podataka unutar dokumenta,19.28883
-2019,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Žene,Slanje e-pošte s priloženim datotekama,26.12795
-2017,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Žene,Izrada elektronskih prezentacija pomoću softvera za prezentacije,10.67309
-2019,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Žene,Izrada elektronskih prezentacija pomoću softvera za prezentacije,9.24555
-2017,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Žene,SKILL_ICTPCPR,1.0229
-2019,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Žene,SKILL_ICTPCPR,0.98752
-2017,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Žene,"Pronalaženje, preuzimanje, instaliranje i konfigurisanje softvera",19.90068
-2017,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Žene,Prijenos datoteka između računara i drugih uređaja,56.43204
-2019,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Žene,Prijenos datoteka između računara i drugih uređaja,46.93722
-2017,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Muškarci,Korištenje osnovne aritmetičke formule u proračunskoj tabeli,9.01728
-2019,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Muškarci,Korištenje osnovne aritmetičke formule u proračunskoj tabeli,8.9678
-2017,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Muškarci,Kopiranje ili premještanje datoteke ili mape,61.51488
-2019,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Muškarci,Kopiranje ili premještanje datoteke ili mape,46.02169
-2017,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Muškarci,Korišćenje alata kopiranja i lijepljenja za dupliranje ili premještanje podataka unutar dokumenta,30.68018
-2019,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Muškarci,Korišćenje alata kopiranja i lijepljenja za dupliranje ili premještanje podataka unutar dokumenta,26.12354
-2019,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Muškarci,Slanje e-pošte s priloženim datotekama,34.66806
-2017,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Muškarci,Izrada elektronskih prezentacija pomoću softvera za prezentacije,14.45337
-2019,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Muškarci,Izrada elektronskih prezentacija pomoću softvera za prezentacije,13.21634
-2017,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Muškarci,SKILL_ICTPCPR,3.27579
-2019,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Muškarci,SKILL_ICTPCPR,3.46017
-2017,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Muškarci,"Pronalaženje, preuzimanje, instaliranje i konfigurisanje softvera",24.96542
-2017,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Muškarci,Prijenos datoteka između računara i drugih uređaja,63.43982
-2019,Udio mladih i odraslih sa vještinama u informacionim i komunikacionim tehnologijama (IKT),Procenat,Muškarci,Prijenos datoteka između računara i drugih uređaja,51.43541
+Year,SERIES,UNIT_MEASURE,Pol,Stepen urbanizacije,Starost,Nivo obrazovanja,COMPOSITE_BREAKDOWN,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Value
+2014,Procenat lica starosti 16–74 godine koja su koristila računar u posljednja tri mjeseca,Procenat,Oba pola ili bez podjele po polu,,,,,,,,,,,,,,38.7
+2015,Procenat lica starosti 16–74 godine koja su koristila računar u posljednja tri mjeseca,Procenat,Oba pola ili bez podjele po polu,,,,,,,,,,,,,,42.9
+2016,Procenat lica starosti 16–74 godine koja su koristila računar u posljednja tri mjeseca,Procenat,Oba pola ili bez podjele po polu,,,,,,,,,,,,,,41.1
+2017,Procenat lica starosti 16–74 godine koja su koristila računar u posljednja tri mjeseca,Procenat,Oba pola ili bez podjele po polu,,,,,,,,,,,,,,58.9
+2018,Procenat lica starosti 16–74 godine koja su koristila računar u posljednja tri mjeseca,Procenat,Oba pola ili bez podjele po polu,,,,,,,,,,,,,,55.5
+2019,Procenat lica starosti 16–74 godine koja su koristila računar u posljednja tri mjeseca,Procenat,Oba pola ili bez podjele po polu,,,,,,,,,,,,,,58.8
+2020,Procenat lica starosti 16–74 godine koja su koristila računar u posljednja tri mjeseca,Procenat,Oba pola ili bez podjele po polu,,,,,,,,,,,,,,60.8
+2021,Procenat lica starosti 16–74 godine koja su koristila računar u posljednja tri mjeseca,Procenat,Oba pola ili bez podjele po polu,,,,,,,,,,,,,,57.6
+2014,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,Oba pola ili bez podjele po polu,,,,,,,,,,,,,,38.0
+2015,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,Oba pola ili bez podjele po polu,,,,,,,,,,,,,,43.4
+2016,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,Oba pola ili bez podjele po polu,,,,,,,,,,,,,,42.8
+2017,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,Oba pola ili bez podjele po polu,,,,,,,,,,,,,,64.9
+2018,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,Oba pola ili bez podjele po polu,,,,,,,,,,,,,,71.2
+2019,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,Oba pola ili bez podjele po polu,,,,,,,,,,,,,,72.1
+2020,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,Oba pola ili bez podjele po polu,,,,,,,,,,,,,,72.8
+2021,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,Oba pola ili bez podjele po polu,,,,,,,,,,,,,,80.3
+2014,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,Muškarci,,,,,,,,,,,,,,39.9
+2015,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,Muškarci,,,,,,,,,,,,,,48.6
+2016,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,Muškarci,,,,,,,,,,,,,,46.2
+2017,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,Muškarci,,,,,,,,,,,,,,69.9
+2018,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,Muškarci,,,,,,,,,,,,,,73.0
+2019,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,Muškarci,,,,,,,,,,,,,,73.7
+2020,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,Muškarci,,,,,,,,,,,,,,75.0
+2021,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,Muškarci,,,,,,,,,,,,,,82.6
+2014,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,Žene,,,,,,,,,,,,,,36.3
+2015,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,Žene,,,,,,,,,,,,,,40.3
+2016,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,Žene,,,,,,,,,,,,,,40.2
+2017,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,Žene,,,,,,,,,,,,,,61.8
+2018,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,Žene,,,,,,,,,,,,,,69.3
+2019,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,Žene,,,,,,,,,,,,,,70.4
+2020,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,Žene,,,,,,,,,,,,,,70.5
+2021,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,Žene,,,,,,,,,,,,,,78.2
+2014,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,Urbano,,,,,,,,,,,,,55.4
+2015,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,Urbano,,,,,,,,,,,,,54.9
+2016,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,Urbano,,,,,,,,,,,,,53.8
+2017,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,Urbano,,,,,,,,,,,,,73.2
+2018,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,Urbano,,,,,,,,,,,,,78.0
+2019,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,Urbano,,,,,,,,,,,,,80.8
+2020,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,Urbano,,,,,,,,,,,,,75.1
+2021,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,Urbano,,,,,,,,,,,,,85.2
+2014,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,Ostalo,,,,,,,,,,,,,26.6
+2015,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,Ostalo,,,,,,,,,,,,,36.1
+2016,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,Ostalo,,,,,,,,,,,,,35.9
+2017,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,Ostalo,,,,,,,,,,,,,59.5
+2018,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,Ostalo,,,,,,,,,,,,,66.8
+2019,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,Ostalo,,,,,,,,,,,,,66.5
+2020,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,Ostalo,,,,,,,,,,,,,71.3
+2021,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,Ostalo,,,,,,,,,,,,,77.1
+2014,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,16 do 24 godine,,,,,,,,,,,,91.3
+2015,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,16 do 24 godine,,,,,,,,,,,,90.5
+2016,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,16 do 24 godine,,,,,,,,,,,,90.9
+2017,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,16 do 24 godine,,,,,,,,,,,,97.3
+2018,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,16 do 24 godine,,,,,,,,,,,,97.5
+2019,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,16 do 24 godine,,,,,,,,,,,,100.0
+2020,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,16 do 24 godine,,,,,,,,,,,,100.0
+2021,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,16 do 24 godine,,,,,,,,,,,,100.0
+2014,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,25 do 34 godine,,,,,,,,,,,,77.5
+2015,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,25 do 34 godine,,,,,,,,,,,,78.9
+2016,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,25 do 34 godine,,,,,,,,,,,,80.9
+2017,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,25 do 34 godine,,,,,,,,,,,,93.0
+2018,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,25 do 34 godine,,,,,,,,,,,,96.8
+2019,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,25 do 34 godine,,,,,,,,,,,,98.7
+2020,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,25 do 34 godine,,,,,,,,,,,,100.0
+2021,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,25 do 34 godine,,,,,,,,,,,,99.6
+2014,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,35 do 44 godine,,,,,,,,,,,,66.8
+2015,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,Y35T45,,,,,,,,,,,,68.4
+2016,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,Y35T46,,,,,,,,,,,,64.5
+2017,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,Y35T47,,,,,,,,,,,,82.7
+2018,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,Y35T48,,,,,,,,,,,,94.3
+2019,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,Y35T49,,,,,,,,,,,,91.7
+2020,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,Y35T50,,,,,,,,,,,,100.0
+2021,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,Y35T51,,,,,,,,,,,,95.2
+2014,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,45 do 54 godine,,,,,,,,,,,,44.9
+2015,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,45 do 54 godine,,,,,,,,,,,,48.3
+2016,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,45 do 54 godine,,,,,,,,,,,,47.6
+2017,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,45 do 54 godine,,,,,,,,,,,,73.4
+2018,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,45 do 54 godine,,,,,,,,,,,,85.6
+2019,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,45 do 54 godine,,,,,,,,,,,,82.3
+2020,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,45 do 54 godine,,,,,,,,,,,,94.7
+2021,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,45 do 54 godine,,,,,,,,,,,,93.4
+2014,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,55 do 64 godine,,,,,,,,,,,,20.2
+2015,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,55 do 64 godine,,,,,,,,,,,,28.5
+2016,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,55 do 64 godine,,,,,,,,,,,,27.7
+2017,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,55 do 64 godine,,,,,,,,,,,,46.0
+2018,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,55 do 64 godine,,,,,,,,,,,,60.1
+2019,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,55 do 64 godine,,,,,,,,,,,,65.0
+2020,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,55 do 64 godine,,,,,,,,,,,,71.6
+2021,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,55 do 64 godine,,,,,,,,,,,,78.0
+2014,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,65 do 74 godine,,,,,,,,,,,,6.1
+2015,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,65 do 74 godine,,,,,,,,,,,,11.4
+2016,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,65 do 74 godine,,,,,,,,,,,,10.3
+2017,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,65 do 74 godine,,,,,,,,,,,,24.7
+2018,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,65 do 74 godine,,,,,,,,,,,,30.8
+2019,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,65 do 74 godine,,,,,,,,,,,,40.0
+2020,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,65 do 74 godine,,,,,,,,,,,,36.3
+2021,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,65 do 74 godine,,,,,,,,,,,,54.3
+2014,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,Niže od srednjeg,,,,,,,,,,,8.9
+2015,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,Niže od srednjeg,,,,,,,,,,,9.7
+2016,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,Niže od srednjeg,,,,,,,,,,,17.7
+2017,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,Niže od srednjeg,,,,,,,,,,,43.1
+2018,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,Niže od srednjeg,,,,,,,,,,,39.3
+2019,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,Niže od srednjeg,,,,,,,,,,,40.2
+2020,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,Niže od srednjeg,,,,,,,,,,,39.0
+2021,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,Niže od srednjeg,,,,,,,,,,,50.1
+2014,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,Srednje,,,,,,,,,,,48.4
+2015,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,Srednje,,,,,,,,,,,52.5
+2016,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,Srednje,,,,,,,,,,,54.8
+2017,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,Srednje,,,,,,,,,,,74.0
+2018,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,Srednje,,,,,,,,,,,80.4
+2019,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,Srednje,,,,,,,,,,,79.4
+2020,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,Srednje,,,,,,,,,,,80.9
+2021,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,Srednje,,,,,,,,,,,85.1
+2014,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,Više i visoko,,,,,,,,,,,74.9
+2015,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,Više i visoko,,,,,,,,,,,81.1
+2016,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,Više i visoko,,,,,,,,,,,79.4
+2017,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,Više i visoko,,,,,,,,,,,93.0
+2018,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,Više i visoko,,,,,,,,,,,98.3
+2019,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,Više i visoko,,,,,,,,,,,95.6
+2020,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,Više i visoko,,,,,,,,,,,94.3
+2021,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,Više i visoko,,,,,,,,,,,95.4
+2014,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,,Studenti,,,,,,,,,,88.4
+2015,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,,Studenti,,,,,,,,,,100.0
+2016,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,,Studenti,,,,,,,,,,95.9
+2017,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,,Studenti,,,,,,,,,,98.5
+2018,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,,Studenti,,,,,,,,,,100.0
+2019,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,,Studenti,,,,,,,,,,100.0
+2020,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,,Studenti,,,,,,,,,,100.0
+2021,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,,Studenti,,,,,,,,,,100.0
+2014,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,,Zaposleni,,,,,,,,,,68.7
+2015,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,,Zaposleni,,,,,,,,,,75.7
+2016,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,,Zaposleni,,,,,,,,,,68.6
+2017,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,,Zaposleni,,,,,,,,,,86.4
+2018,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,,Zaposleni,,,,,,,,,,94.0
+2019,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,,Zaposleni,,,,,,,,,,92.2
+2020,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,,Zaposleni,,,,,,,,,,97.1
+2021,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,,Zaposleni,,,,,,,,,,96.5
+2014,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,,Nezaposleni,,,,,,,,,,34.9
+2015,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,,Nezaposleni,,,,,,,,,,44.4
+2016,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,,Nezaposleni,,,,,,,,,,40.9
+2017,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,,Nezaposleni,,,,,,,,,,64.4
+2018,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,,Nezaposleni,,,,,,,,,,74.9
+2019,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,,Nezaposleni,,,,,,,,,,68.0
+2020,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,,Nezaposleni,,,,,,,,,,79.0
+2021,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,,Nezaposleni,,,,,,,,,,84.5
+2014,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,,Ostalo,,,,,,,,,,13.3
+2015,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,,Ostalo,,,,,,,,,,17.8
+2016,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,,Ostalo,,,,,,,,,,17.7
+2017,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,,Ostalo,,,,,,,,,,31.3
+2018,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,,Ostalo,,,,,,,,,,42.4
+2019,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,,Ostalo,,,,,,,,,,52.7
+2020,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,,Ostalo,,,,,,,,,,47.9
+2021,Procenat lica starosti 16–74 godine koja su koristila internet u posljednja tri mjeseca,Procenat,,,,,Ostalo,,,,,,,,,,65.3

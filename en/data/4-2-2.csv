@@ -1,7 +1,50 @@
-Year,SERIES,UNIT_MEASURE,Sex,Value
-2019,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,Both sexes or no breakdown by sex,27.52321
-2020,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,Both sexes or no breakdown by sex,29.34612
-2019,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,Female,27.12233
-2020,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,Female,28.59121
-2019,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,Male,27.90273
-2020,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,Male,30.0612
+Year,SERIES,UNIT_MEASURE,Age,Sex,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Value
+2015,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,5 years old,Both sexes or no breakdown by sex,,,,,,,,,,33.2
+2016,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,5 years old,Both sexes or no breakdown by sex,,,,,,,,,,33.6
+2017,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,5 years old,Both sexes or no breakdown by sex,,,,,,,,,,39.2
+2018,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,5 years old,Both sexes or no breakdown by sex,,,,,,,,,,43.3
+2019,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,5 years old,Both sexes or no breakdown by sex,,,,,,,,,,41.3
+2020,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,5 years old,Both sexes or no breakdown by sex,,,,,,,,,,49.3
+2021,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,5 years old,Both sexes or no breakdown by sex,,,,,,,,,,11.4
+2015,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,5 years old,Male,,,,,,,,,,32.9
+2016,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,5 years old,Male,,,,,,,,,,34.4
+2017,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,5 years old,Male,,,,,,,,,,39.6
+2018,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,5 years old,Male,,,,,,,,,,43.4
+2019,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,5 years old,Male,,,,,,,,,,40.4
+2020,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,5 years old,Male,,,,,,,,,,39.6
+2021,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,5 years old,Male,,,,,,,,,,11.8
+2015,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,5 years old,Female,,,,,,,,,,33.5
+2016,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,5 years old,Female,,,,,,,,,,32.8
+2017,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,5 years old,Female,,,,,,,,,,38.8
+2018,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,5 years old,Female,,,,,,,,,,43.2
+2019,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,5 years old,Female,,,,,,,,,,42.3
+2020,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,5 years old,Female,,,,,,,,,,41.0
+2021,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,5 years old,Female,,,,,,,,,,11.0
+2015,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,0 to 6 years old,Both sexes or no breakdown by sex,,,,,,,,,,14.9
+2016,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,0 to 6 years old,Both sexes or no breakdown by sex,,,,,,,,,,16.7
+2017,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,0 to 6 years old,Both sexes or no breakdown by sex,,,,,,,,,,17.6
+2018,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,0 to 6 years old,Both sexes or no breakdown by sex,,,,,,,,,,21.4
+2019,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,0 to 6 years old,Both sexes or no breakdown by sex,,,,,,,,,,23.2
+2020,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,0 to 6 years old,Both sexes or no breakdown by sex,,,,,,,,,,20.0
+2021,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,0 to 6 years old,Both sexes or no breakdown by sex,,,,,,,,,,25.2
+2015,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,0 to 6 years old,Male,,,,,,,,,,15.0
+2016,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,0 to 6 years old,Male,,,,,,,,,,17.0
+2017,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,0 to 6 years old,Male,,,,,,,,,,17.6
+2018,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,0 to 6 years old,Male,,,,,,,,,,21.5
+2019,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,0 to 6 years old,Male,,,,,,,,,,23.1
+2020,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,0 to 6 years old,Male,,,,,,,,,,19.9
+2021,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,0 to 6 years old,Male,,,,,,,,,,25.0
+2015,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,0 to 6 years old,Female,,,,,,,,,,14.7
+2016,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,0 to 6 years old,Female,,,,,,,,,,16.5
+2017,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,0 to 6 years old,Female,,,,,,,,,,17.5
+2018,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,0 to 6 years old,Female,,,,,,,,,,21.2
+2019,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,0 to 6 years old,Female,,,,,,,,,,23.4
+2020,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,0 to 6 years old,Female,,,,,,,,,,20.1
+2021,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,0 to 6 years old,Female,,,,,,,,,,25.3
+2015,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,4 to 6 years old,Both sexes or no breakdown by sex,,,,,,,,,,28.1
+2016,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,4 to 6 years old,Both sexes or no breakdown by sex,,,,,,,,,,29.4
+2017,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,4 to 6 years old,Both sexes or no breakdown by sex,,,,,,,,,,31.9
+2018,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,4 to 6 years old,Both sexes or no breakdown by sex,,,,,,,,,,44.7
+2019,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,4 to 6 years old,Both sexes or no breakdown by sex,,,,,,,,,,44.3
+2020,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,4 to 6 years old,Both sexes or no breakdown by sex,,,,,,,,,,37.6
+2021,Percentage of children aged five years participating in a preschool education and upbringing programme prior to the start of primary school,Percent,4 to 6 years old,Both sexes or no breakdown by sex,,,,,,,,,,39.3

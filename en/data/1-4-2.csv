@@ -1,7 +1,37 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,SERIES,UNIT_MEASURE,Sex,Value
+2018,Sole owners of real estate – land and buildings,Number,Both sexes or no breakdown by sex,301791
+2019,Sole owners of real estate – land and buildings,Number,Both sexes or no breakdown by sex,322053
+2020,Sole owners of real estate – land and buildings,Number,Both sexes or no breakdown by sex,335470
+2021,Sole owners of real estate – land and buildings,Number,Both sexes or no breakdown by sex,486196
+2018,Sole owners of real estate – land and buildings,Number,Male,221528
+2019,Sole owners of real estate – land and buildings,Number,Male,235748
+2020,Sole owners of real estate – land and buildings,Number,Male,238185
+2021,Sole owners of real estate – land and buildings,Number,Male,349368
+2018,Sole owners of real estate – land and buildings,Number,Female,80263
+2019,Sole owners of real estate – land and buildings,Number,Female,86305
+2020,Sole owners of real estate – land and buildings,Number,Female,97285
+2021,Sole owners of real estate – land and buildings,Number,Female,136828
+2018,"Co-owners of real estate – land and buildings, ½ ownership ratio",Number,Both sexes or no breakdown by sex,112670
+2019,"Co-owners of real estate – land and buildings, ½ ownership ratio",Number,Both sexes or no breakdown by sex,113906
+2020,"Co-owners of real estate – land and buildings, ½ ownership ratio",Number,Both sexes or no breakdown by sex,113369
+2021,"Co-owners of real estate – land and buildings, ½ ownership ratio",Number,Both sexes or no breakdown by sex,168688
+2018,"Co-owners of real estate – land and buildings, ½ ownership ratio",Number,Male,75233
+2019,"Co-owners of real estate – land and buildings, ½ ownership ratio",Number,Male,75664
+2020,"Co-owners of real estate – land and buildings, ½ ownership ratio",Number,Male,72449
+2021,"Co-owners of real estate – land and buildings, ½ ownership ratio",Number,Male,107719
+2018,"Co-owners of real estate – land and buildings, ½ ownership ratio",Number,Female,37437
+2019,"Co-owners of real estate – land and buildings, ½ ownership ratio",Number,Female,38242
+2020,"Co-owners of real estate – land and buildings, ½ ownership ratio",Number,Female,40920
+2021,"Co-owners of real estate – land and buildings, ½ ownership ratio",Number,Female,60969
+2018,"Co-owners of real estate – land and buildings, ownership ratio under ½",Number,Both sexes or no breakdown by sex,293012
+2019,"Co-owners of real estate – land and buildings, ownership ratio under ½",Number,Both sexes or no breakdown by sex,330384
+2020,"Co-owners of real estate – land and buildings, ownership ratio under ½",Number,Both sexes or no breakdown by sex,343529
+2021,"Co-owners of real estate – land and buildings, ownership ratio under ½",Number,Both sexes or no breakdown by sex,295914
+2018,"Co-owners of real estate – land and buildings, ownership ratio under ½",Number,Male,175091
+2019,"Co-owners of real estate – land and buildings, ownership ratio under ½",Number,Male,195662
+2020,"Co-owners of real estate – land and buildings, ownership ratio under ½",Number,Male,201559
+2021,"Co-owners of real estate – land and buildings, ownership ratio under ½",Number,Male,164842
+2018,"Co-owners of real estate – land and buildings, ownership ratio under ½",Number,Female,117921
+2019,"Co-owners of real estate – land and buildings, ownership ratio under ½",Number,Female,134722
+2020,"Co-owners of real estate – land and buildings, ownership ratio under ½",Number,Female,141970
+2021,"Co-owners of real estate – land and buildings, ownership ratio under ½",Number,Female,131072

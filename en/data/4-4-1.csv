@@ -1,43 +1,153 @@
-Year,SERIES,UNIT_MEASURE,Sex,COMPOSITE_BREAKDOWN,Value
-2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,Using basic arithmetic formula in a spreadsheet,9.16614
-2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,Using basic arithmetic formula in a spreadsheet,7.52968
-2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,Copying or moving a file or folder,59.63432
-2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,Copying or moving a file or folder,44.59803
-2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,Using copy and paste tools to duplicate or move information within a document,28.14609
-2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,Using copy and paste tools to duplicate or move information within a document,22.46445
-2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,Sending e-mails with attached files,30.09595
-2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,Creating electronic presentations with presentation software,12.45847
-2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,Creating electronic presentations with presentation software,11.0905
-2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,Writing a computer program using a specialized programming language,2.08691
-2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,Writing a computer program using a specialized programming language,2.13639
-2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,"Finding, downloading, installing and configuring software",22.29269
-2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,Transferring files between a computer and other devices,59.74172
-2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Both sexes or no breakdown by sex,Transferring files between a computer and other devices,49.02722
-2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,Using basic arithmetic formula in a spreadsheet,9.29936
-2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,Using basic arithmetic formula in a spreadsheet,6.28157
-2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,Copying or moving a file or folder,57.95128
-2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,Copying or moving a file or folder,43.36247
-2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,Using copy and paste tools to duplicate or move information within a document,25.87817
-2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,Using copy and paste tools to duplicate or move information within a document,19.28883
-2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,Sending e-mails with attached files,26.12795
-2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,Creating electronic presentations with presentation software,10.67309
-2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,Creating electronic presentations with presentation software,9.24555
-2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,Writing a computer program using a specialized programming language,1.0229
-2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,Writing a computer program using a specialized programming language,0.98752
-2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,"Finding, downloading, installing and configuring software",19.90068
-2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,Transferring files between a computer and other devices,56.43204
-2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Female,Transferring files between a computer and other devices,46.93722
-2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,Using basic arithmetic formula in a spreadsheet,9.01728
-2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,Using basic arithmetic formula in a spreadsheet,8.9678
-2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,Copying or moving a file or folder,61.51488
-2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,Copying or moving a file or folder,46.02169
-2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,Using copy and paste tools to duplicate or move information within a document,30.68018
-2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,Using copy and paste tools to duplicate or move information within a document,26.12354
-2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,Sending e-mails with attached files,34.66806
-2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,Creating electronic presentations with presentation software,14.45337
-2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,Creating electronic presentations with presentation software,13.21634
-2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,Writing a computer program using a specialized programming language,3.27579
-2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,Writing a computer program using a specialized programming language,3.46017
-2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,"Finding, downloading, installing and configuring software",24.96542
-2017,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,Transferring files between a computer and other devices,63.43982
-2019,Proportion of youth and adults with information and communications technology (ICT) skills,Percent,Male,Transferring files between a computer and other devices,51.43541
+Year,SERIES,UNIT_MEASURE,Sex,Degree of urbanisation,Age,Education level,COMPOSITE_BREAKDOWN,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Value
+2014,Percentage of persons aged 16–74 years who used a computer in the last three months,Percent,Both sexes or no breakdown by sex,,,,,,,,,,,,,,38.7
+2015,Percentage of persons aged 16–74 years who used a computer in the last three months,Percent,Both sexes or no breakdown by sex,,,,,,,,,,,,,,42.9
+2016,Percentage of persons aged 16–74 years who used a computer in the last three months,Percent,Both sexes or no breakdown by sex,,,,,,,,,,,,,,41.1
+2017,Percentage of persons aged 16–74 years who used a computer in the last three months,Percent,Both sexes or no breakdown by sex,,,,,,,,,,,,,,58.9
+2018,Percentage of persons aged 16–74 years who used a computer in the last three months,Percent,Both sexes or no breakdown by sex,,,,,,,,,,,,,,55.5
+2019,Percentage of persons aged 16–74 years who used a computer in the last three months,Percent,Both sexes or no breakdown by sex,,,,,,,,,,,,,,58.8
+2020,Percentage of persons aged 16–74 years who used a computer in the last three months,Percent,Both sexes or no breakdown by sex,,,,,,,,,,,,,,60.8
+2021,Percentage of persons aged 16–74 years who used a computer in the last three months,Percent,Both sexes or no breakdown by sex,,,,,,,,,,,,,,57.6
+2014,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,Both sexes or no breakdown by sex,,,,,,,,,,,,,,38.0
+2015,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,Both sexes or no breakdown by sex,,,,,,,,,,,,,,43.4
+2016,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,Both sexes or no breakdown by sex,,,,,,,,,,,,,,42.8
+2017,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,Both sexes or no breakdown by sex,,,,,,,,,,,,,,64.9
+2018,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,Both sexes or no breakdown by sex,,,,,,,,,,,,,,71.2
+2019,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,Both sexes or no breakdown by sex,,,,,,,,,,,,,,72.1
+2020,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,Both sexes or no breakdown by sex,,,,,,,,,,,,,,72.8
+2021,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,Both sexes or no breakdown by sex,,,,,,,,,,,,,,80.3
+2014,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,Male,,,,,,,,,,,,,,39.9
+2015,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,Male,,,,,,,,,,,,,,48.6
+2016,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,Male,,,,,,,,,,,,,,46.2
+2017,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,Male,,,,,,,,,,,,,,69.9
+2018,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,Male,,,,,,,,,,,,,,73.0
+2019,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,Male,,,,,,,,,,,,,,73.7
+2020,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,Male,,,,,,,,,,,,,,75.0
+2021,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,Male,,,,,,,,,,,,,,82.6
+2014,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,Female,,,,,,,,,,,,,,36.3
+2015,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,Female,,,,,,,,,,,,,,40.3
+2016,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,Female,,,,,,,,,,,,,,40.2
+2017,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,Female,,,,,,,,,,,,,,61.8
+2018,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,Female,,,,,,,,,,,,,,69.3
+2019,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,Female,,,,,,,,,,,,,,70.4
+2020,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,Female,,,,,,,,,,,,,,70.5
+2021,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,Female,,,,,,,,,,,,,,78.2
+2014,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,Urban,,,,,,,,,,,,,55.4
+2015,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,Urban,,,,,,,,,,,,,54.9
+2016,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,Urban,,,,,,,,,,,,,53.8
+2017,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,Urban,,,,,,,,,,,,,73.2
+2018,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,Urban,,,,,,,,,,,,,78.0
+2019,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,Urban,,,,,,,,,,,,,80.8
+2020,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,Urban,,,,,,,,,,,,,75.1
+2021,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,Urban,,,,,,,,,,,,,85.2
+2014,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,Other (rural/semi-urban),,,,,,,,,,,,,26.6
+2015,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,Other (rural/semi-urban),,,,,,,,,,,,,36.1
+2016,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,Other (rural/semi-urban),,,,,,,,,,,,,35.9
+2017,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,Other (rural/semi-urban),,,,,,,,,,,,,59.5
+2018,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,Other (rural/semi-urban),,,,,,,,,,,,,66.8
+2019,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,Other (rural/semi-urban),,,,,,,,,,,,,66.5
+2020,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,Other (rural/semi-urban),,,,,,,,,,,,,71.3
+2021,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,Other (rural/semi-urban),,,,,,,,,,,,,77.1
+2014,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,16 to 24 years old,,,,,,,,,,,,91.3
+2015,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,16 to 24 years old,,,,,,,,,,,,90.5
+2016,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,16 to 24 years old,,,,,,,,,,,,90.9
+2017,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,16 to 24 years old,,,,,,,,,,,,97.3
+2018,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,16 to 24 years old,,,,,,,,,,,,97.5
+2019,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,16 to 24 years old,,,,,,,,,,,,100.0
+2020,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,16 to 24 years old,,,,,,,,,,,,100.0
+2021,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,16 to 24 years old,,,,,,,,,,,,100.0
+2014,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,25 to 34 years old,,,,,,,,,,,,77.5
+2015,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,25 to 34 years old,,,,,,,,,,,,78.9
+2016,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,25 to 34 years old,,,,,,,,,,,,80.9
+2017,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,25 to 34 years old,,,,,,,,,,,,93.0
+2018,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,25 to 34 years old,,,,,,,,,,,,96.8
+2019,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,25 to 34 years old,,,,,,,,,,,,98.7
+2020,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,25 to 34 years old,,,,,,,,,,,,100.0
+2021,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,25 to 34 years old,,,,,,,,,,,,99.6
+2014,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,35 to 44 years old,,,,,,,,,,,,66.8
+2015,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,Y35T45,,,,,,,,,,,,68.4
+2016,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,Y35T46,,,,,,,,,,,,64.5
+2017,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,Y35T47,,,,,,,,,,,,82.7
+2018,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,Y35T48,,,,,,,,,,,,94.3
+2019,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,Y35T49,,,,,,,,,,,,91.7
+2020,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,Y35T50,,,,,,,,,,,,100.0
+2021,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,Y35T51,,,,,,,,,,,,95.2
+2014,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,45 to 54 years old,,,,,,,,,,,,44.9
+2015,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,45 to 54 years old,,,,,,,,,,,,48.3
+2016,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,45 to 54 years old,,,,,,,,,,,,47.6
+2017,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,45 to 54 years old,,,,,,,,,,,,73.4
+2018,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,45 to 54 years old,,,,,,,,,,,,85.6
+2019,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,45 to 54 years old,,,,,,,,,,,,82.3
+2020,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,45 to 54 years old,,,,,,,,,,,,94.7
+2021,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,45 to 54 years old,,,,,,,,,,,,93.4
+2014,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,55 to 64 years old,,,,,,,,,,,,20.2
+2015,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,55 to 64 years old,,,,,,,,,,,,28.5
+2016,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,55 to 64 years old,,,,,,,,,,,,27.7
+2017,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,55 to 64 years old,,,,,,,,,,,,46.0
+2018,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,55 to 64 years old,,,,,,,,,,,,60.1
+2019,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,55 to 64 years old,,,,,,,,,,,,65.0
+2020,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,55 to 64 years old,,,,,,,,,,,,71.6
+2021,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,55 to 64 years old,,,,,,,,,,,,78.0
+2014,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,65 to 74 years old,,,,,,,,,,,,6.1
+2015,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,65 to 74 years old,,,,,,,,,,,,11.4
+2016,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,65 to 74 years old,,,,,,,,,,,,10.3
+2017,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,65 to 74 years old,,,,,,,,,,,,24.7
+2018,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,65 to 74 years old,,,,,,,,,,,,30.8
+2019,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,65 to 74 years old,,,,,,,,,,,,40.0
+2020,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,65 to 74 years old,,,,,,,,,,,,36.3
+2021,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,65 to 74 years old,,,,,,,,,,,,54.3
+2014,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,Lower than secondary,,,,,,,,,,,8.9
+2015,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,Lower than secondary,,,,,,,,,,,9.7
+2016,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,Lower than secondary,,,,,,,,,,,17.7
+2017,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,Lower than secondary,,,,,,,,,,,43.1
+2018,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,Lower than secondary,,,,,,,,,,,39.3
+2019,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,Lower than secondary,,,,,,,,,,,40.2
+2020,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,Lower than secondary,,,,,,,,,,,39.0
+2021,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,Lower than secondary,,,,,,,,,,,50.1
+2014,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,Secondary,,,,,,,,,,,48.4
+2015,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,Secondary,,,,,,,,,,,52.5
+2016,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,Secondary,,,,,,,,,,,54.8
+2017,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,Secondary,,,,,,,,,,,74.0
+2018,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,Secondary,,,,,,,,,,,80.4
+2019,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,Secondary,,,,,,,,,,,79.4
+2020,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,Secondary,,,,,,,,,,,80.9
+2021,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,Secondary,,,,,,,,,,,85.1
+2014,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,High and higher,,,,,,,,,,,74.9
+2015,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,High and higher,,,,,,,,,,,81.1
+2016,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,High and higher,,,,,,,,,,,79.4
+2017,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,High and higher,,,,,,,,,,,93.0
+2018,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,High and higher,,,,,,,,,,,98.3
+2019,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,High and higher,,,,,,,,,,,95.6
+2020,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,High and higher,,,,,,,,,,,94.3
+2021,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,High and higher,,,,,,,,,,,95.4
+2014,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,,Students,,,,,,,,,,88.4
+2015,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,,Students,,,,,,,,,,100.0
+2016,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,,Students,,,,,,,,,,95.9
+2017,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,,Students,,,,,,,,,,98.5
+2018,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,,Students,,,,,,,,,,100.0
+2019,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,,Students,,,,,,,,,,100.0
+2020,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,,Students,,,,,,,,,,100.0
+2021,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,,Students,,,,,,,,,,100.0
+2014,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,,Employed persons,,,,,,,,,,68.7
+2015,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,,Employed persons,,,,,,,,,,75.7
+2016,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,,Employed persons,,,,,,,,,,68.6
+2017,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,,Employed persons,,,,,,,,,,86.4
+2018,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,,Employed persons,,,,,,,,,,94.0
+2019,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,,Employed persons,,,,,,,,,,92.2
+2020,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,,Employed persons,,,,,,,,,,97.1
+2021,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,,Employed persons,,,,,,,,,,96.5
+2014,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,,Unemployed persons,,,,,,,,,,34.9
+2015,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,,Unemployed persons,,,,,,,,,,44.4
+2016,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,,Unemployed persons,,,,,,,,,,40.9
+2017,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,,Unemployed persons,,,,,,,,,,64.4
+2018,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,,Unemployed persons,,,,,,,,,,74.9
+2019,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,,Unemployed persons,,,,,,,,,,68.0
+2020,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,,Unemployed persons,,,,,,,,,,79.0
+2021,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,,Unemployed persons,,,,,,,,,,84.5
+2014,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,,Other,,,,,,,,,,13.3
+2015,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,,Other,,,,,,,,,,17.8
+2016,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,,Other,,,,,,,,,,17.7
+2017,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,,Other,,,,,,,,,,31.3
+2018,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,,Other,,,,,,,,,,42.4
+2019,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,,Other,,,,,,,,,,52.7
+2020,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,,Other,,,,,,,,,,47.9
+2021,Percentage of persons aged 16–74 years who used the Internet in the last three months,Percent,,,,,Other,,,,,,,,,,65.3

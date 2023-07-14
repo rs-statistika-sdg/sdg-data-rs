@@ -1,7 +1,37 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,SERIES,UNIT_MEASURE,Pol,Value
+2018,Samostalni vlasnici/ce nepokretnosti – zemljišta i objekata,Broj,Oba pola ili bez podjele po polu,301791
+2019,Samostalni vlasnici/ce nepokretnosti – zemljišta i objekata,Broj,Oba pola ili bez podjele po polu,322053
+2020,Samostalni vlasnici/ce nepokretnosti – zemljišta i objekata,Broj,Oba pola ili bez podjele po polu,335470
+2021,Samostalni vlasnici/ce nepokretnosti – zemljišta i objekata,Broj,Oba pola ili bez podjele po polu,486196
+2018,Samostalni vlasnici/ce nepokretnosti – zemljišta i objekata,Broj,Muškarci,221528
+2019,Samostalni vlasnici/ce nepokretnosti – zemljišta i objekata,Broj,Muškarci,235748
+2020,Samostalni vlasnici/ce nepokretnosti – zemljišta i objekata,Broj,Muškarci,238185
+2021,Samostalni vlasnici/ce nepokretnosti – zemljišta i objekata,Broj,Muškarci,349368
+2018,Samostalni vlasnici/ce nepokretnosti – zemljišta i objekata,Broj,Žene,80263
+2019,Samostalni vlasnici/ce nepokretnosti – zemljišta i objekata,Broj,Žene,86305
+2020,Samostalni vlasnici/ce nepokretnosti – zemljišta i objekata,Broj,Žene,97285
+2021,Samostalni vlasnici/ce nepokretnosti – zemljišta i objekata,Broj,Žene,136828
+2018,Suvlasnici/ce u omjeru ½ nepokretnosti – zemljišta i objekata,Broj,Oba pola ili bez podjele po polu,112670
+2019,Suvlasnici/ce u omjeru ½ nepokretnosti – zemljišta i objekata,Broj,Oba pola ili bez podjele po polu,113906
+2020,Suvlasnici/ce u omjeru ½ nepokretnosti – zemljišta i objekata,Broj,Oba pola ili bez podjele po polu,113369
+2021,Suvlasnici/ce u omjeru ½ nepokretnosti – zemljišta i objekata,Broj,Oba pola ili bez podjele po polu,168688
+2018,Suvlasnici/ce u omjeru ½ nepokretnosti – zemljišta i objekata,Broj,Muškarci,75233
+2019,Suvlasnici/ce u omjeru ½ nepokretnosti – zemljišta i objekata,Broj,Muškarci,75664
+2020,Suvlasnici/ce u omjeru ½ nepokretnosti – zemljišta i objekata,Broj,Muškarci,72449
+2021,Suvlasnici/ce u omjeru ½ nepokretnosti – zemljišta i objekata,Broj,Muškarci,107719
+2018,Suvlasnici/ce u omjeru ½ nepokretnosti – zemljišta i objekata,Broj,Žene,37437
+2019,Suvlasnici/ce u omjeru ½ nepokretnosti – zemljišta i objekata,Broj,Žene,38242
+2020,Suvlasnici/ce u omjeru ½ nepokretnosti – zemljišta i objekata,Broj,Žene,40920
+2021,Suvlasnici/ce u omjeru ½ nepokretnosti – zemljišta i objekata,Broj,Žene,60969
+2018,Suvlasnici/ce u omjeru manjem od ½ nepokretnosti – zemljišta i objekata,Broj,Oba pola ili bez podjele po polu,293012
+2019,Suvlasnici/ce u omjeru manjem od ½ nepokretnosti – zemljišta i objekata,Broj,Oba pola ili bez podjele po polu,330384
+2020,Suvlasnici/ce u omjeru manjem od ½ nepokretnosti – zemljišta i objekata,Broj,Oba pola ili bez podjele po polu,343529
+2021,Suvlasnici/ce u omjeru manjem od ½ nepokretnosti – zemljišta i objekata,Broj,Oba pola ili bez podjele po polu,295914
+2018,Suvlasnici/ce u omjeru manjem od ½ nepokretnosti – zemljišta i objekata,Broj,Muškarci,175091
+2019,Suvlasnici/ce u omjeru manjem od ½ nepokretnosti – zemljišta i objekata,Broj,Muškarci,195662
+2020,Suvlasnici/ce u omjeru manjem od ½ nepokretnosti – zemljišta i objekata,Broj,Muškarci,201559
+2021,Suvlasnici/ce u omjeru manjem od ½ nepokretnosti – zemljišta i objekata,Broj,Muškarci,164842
+2018,Suvlasnici/ce u omjeru manjem od ½ nepokretnosti – zemljišta i objekata,Broj,Žene,117921
+2019,Suvlasnici/ce u omjeru manjem od ½ nepokretnosti – zemljišta i objekata,Broj,Žene,134722
+2020,Suvlasnici/ce u omjeru manjem od ½ nepokretnosti – zemljišta i objekata,Broj,Žene,141970
+2021,Suvlasnici/ce u omjeru manjem od ½ nepokretnosti – zemljišta i objekata,Broj,Žene,131072

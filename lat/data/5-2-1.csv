@@ -1,3 +1,7 @@
-Year,SERIES,UNIT_MEASURE,Starost,Pol,Value
-2018,"Udio žena i djevojaka koje su bile podvrgnuto fizičkom i/ili seksualnom nasilju od strane trenutnog ili bivšeg intimnog partnera u prethodnih 12 mjeseci, prema dobi (%)",Procenat,15 godina i više,Žene,2.7
-2018,"Udio žena i djevojaka koje su bile podvrgnuto fizičkom i/ili seksualnom nasilju od strane trenutnog ili bivšeg intimnog partnera u prethodnih 12 mjeseci, prema dobi (%)",Procenat,15 do 49 godina,Žene,3.4
+Year,SERIES,UNIT_MEASURE,Pol,COMPOSITE_BREAKDOWN,Value
+2018,"Udio žena starosti 18–74 godine koje su doživjele neki od oblika nasilja od strane sadašnjeg ili bivšeg partnera, u proteklih 12 mjeseci (%)",Procenat,Žene,Fizičko nasilje,3
+2018,"Udio žena starosti 18–74 godine koje su doživjele neki od oblika nasilja od strane sadašnjeg ili bivšeg partnera, u proteklih 12 mjeseci (%)",Procenat,Žene,Seksualno nasilje,0
+2018,"Udio žena starosti 18–74 godine koje su doživjele neki od oblika nasilja od strane sadašnjeg ili bivšeg partnera, u proteklih 12 mjeseci (%)",Procenat,Žene,Psihološko nasilje,9
+2018,"Udio žena starosti 18–74 godine koje su doživjele neki od oblika nasilja od strane sadašnjeg ili bivšeg partnera, od 15. godine života (%)",Procenat,Žene,Fizičko nasilje,11
+2018,"Udio žena starosti 18–74 godine koje su doživjele neki od oblika nasilja od strane sadašnjeg ili bivšeg partnera, od 15. godine života (%)",Procenat,Žene,Seksualno nasilje,3
+2018,"Udio žena starosti 18–74 godine koje su doživjele neki od oblika nasilja od strane sadašnjeg ili bivšeg partnera, od 15. godine života (%)",Procenat,Žene,Psihološko nasilje,36

@@ -1,76 +1,40 @@
-Year,SERIES,UNIT_MEASURE,Starost,Pol,COMPOSITE_BREAKDOWN,Value
-2000,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",Procenat,30 do tačno 70 godina,Oba pola ili bez podjele po polu,,22.0
-2005,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",Procenat,30 do tačno 70 godina,Oba pola ili bez podjele po polu,,21.7
-2010,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",Procenat,30 do tačno 70 godina,Oba pola ili bez podjele po polu,,20.1
-2015,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",Procenat,30 do tačno 70 godina,Oba pola ili bez podjele po polu,,19.2
-2019,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",Procenat,30 do tačno 70 godina,Oba pola ili bez podjele po polu,,18.7
-2000,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",Procenat,30 do tačno 70 godina,Žene,,17.0
-2005,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",Procenat,30 do tačno 70 godina,Žene,,16.2
-2010,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",Procenat,30 do tačno 70 godina,Žene,,15.2
-2015,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",Procenat,30 do tačno 70 godina,Žene,,14.1
-2019,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",Procenat,30 do tačno 70 godina,Žene,,13.6
-2000,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",Procenat,30 do tačno 70 godina,Muškarci,,27.4
-2005,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",Procenat,30 do tačno 70 godina,Muškarci,,27.5
-2010,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",Procenat,30 do tačno 70 godina,Muškarci,,25.3
-2015,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",Procenat,30 do tačno 70 godina,Muškarci,,24.6
-2019,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",Procenat,30 do tačno 70 godina,Muškarci,,24.0
-2000,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba pola ili bez podjele po polu,Rak,5888.0
-2005,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba pola ili bez podjele po polu,Rak,7304.0
-2010,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba pola ili bez podjele po polu,Rak,8032.0
-2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba pola ili bez podjele po polu,Rak,8056.0
-2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba pola ili bez podjele po polu,Rak,8407.0
-2000,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Rak,2339.0
-2005,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Rak,2942.0
-2010,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Rak,3305.0
-2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Rak,3270.0
-2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Rak,3395.0
-2000,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba pola ili bez podjele po polu,Kardiovaskularne bolesti,14670.0
-2005,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba pola ili bez podjele po polu,Kardiovaskularne bolesti,18090.0
-2010,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba pola ili bez podjele po polu,Kardiovaskularne bolesti,19392.0
-2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba pola ili bez podjele po polu,Kardiovaskularne bolesti,18648.0
-2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba pola ili bez podjele po polu,Kardiovaskularne bolesti,19651.0
-2000,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Kardiovaskularne bolesti,7924.0
-2005,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Kardiovaskularne bolesti,9964.0
-2010,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Kardiovaskularne bolesti,10966.0
-2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Kardiovaskularne bolesti,10181.0
-2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Kardiovaskularne bolesti,10665.0
-2000,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba pola ili bez podjele po polu,Dijabetes,975.0
-2005,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba pola ili bez podjele po polu,Dijabetes,1941.0
-2010,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba pola ili bez podjele po polu,Dijabetes,2480.0
-2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba pola ili bez podjele po polu,Dijabetes,2476.0
-2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba pola ili bez podjele po polu,Dijabetes,2582.0
-2000,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Dijabetes,625.0
-2005,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Dijabetes,1181.0
-2010,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Dijabetes,1509.0
-2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Dijabetes,1445.0
-2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Dijabetes,1504.0
-2000,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba pola ili bez podjele po polu,Hronična respiratorna bolest,1140.0
-2005,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba pola ili bez podjele po polu,Hronična respiratorna bolest,1362.0
-2010,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba pola ili bez podjele po polu,Hronična respiratorna bolest,1389.0
-2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba pola ili bez podjele po polu,Hronična respiratorna bolest,1249.0
-2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Oba pola ili bez podjele po polu,Hronična respiratorna bolest,1262.0
-2000,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Rak,3549.0
-2005,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Rak,4362.0
-2010,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Rak,4726.0
-2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Rak,4785.0
-2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Rak,5012.0
-2000,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Kardiovaskularne bolesti,6746.0
-2005,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Kardiovaskularne bolesti,8126.0
-2010,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Kardiovaskularne bolesti,8426.0
-2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Kardiovaskularne bolesti,8468.0
-2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Kardiovaskularne bolesti,8986.0
-2000,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Dijabetes,350.0
-2005,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Dijabetes,761.0
-2010,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Dijabetes,971.0
-2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Dijabetes,1031.0
-2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Dijabetes,1078.0
-2000,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Hronična respiratorna bolest,483.0
-2005,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Hronična respiratorna bolest,554.0
-2010,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Hronična respiratorna bolest,564.0
-2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Hronična respiratorna bolest,474.0
-2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Žene,Hronična respiratorna bolest,477.0
-2000,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Hronična respiratorna bolest,656.0
-2005,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Hronična respiratorna bolest,808.0
-2010,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Hronična respiratorna bolest,824.0
-2015,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Hronična respiratorna bolest,776.0
-2019,"Broj umrlih uzrokovan nezaraznim bolestima, prema vrsti bolesti i splu (broj)",Broj,,Muškarci,Hronična respiratorna bolest,785.0
+Year,SERIES,UNIT_MEASURE,Pol,Value
+2009,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",Broj umrlih na 100 000 stanovnika mlađih od 65 godina,Oba pola ili bez podjele po polu,150.7
+2010,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",DTHS_PER_1000000_POPY0T66,Oba pola ili bez podjele po polu,144.6
+2011,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",DTHS_PER_1000000_POPY0T67,Oba pola ili bez podjele po polu,180.2
+2012,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",DTHS_PER_1000000_POPY0T68,Oba pola ili bez podjele po polu,184.2
+2013,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",DTHS_PER_1000000_POPY0T69,Oba pola ili bez podjele po polu,189.1
+2014,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",DTHS_PER_1000000_POPY0T70,Oba pola ili bez podjele po polu,194.5
+2015,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",DTHS_PER_1000000_POPY0T71,Oba pola ili bez podjele po polu,184.6
+2016,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",DTHS_PER_1000000_POPY0T72,Oba pola ili bez podjele po polu,179.4
+2017,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",DTHS_PER_1000000_POPY0T73,Oba pola ili bez podjele po polu,177.2
+2018,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",DTHS_PER_1000000_POPY0T74,Oba pola ili bez podjele po polu,163.5
+2019,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",DTHS_PER_1000000_POPY0T75,Oba pola ili bez podjele po polu,159.3
+2020,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",DTHS_PER_1000000_POPY0T76,Oba pola ili bez podjele po polu,157.6
+2021,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",DTHS_PER_1000000_POPY0T77,Oba pola ili bez podjele po polu,147.9
+2009,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",Broj umrlih na 100 000 stanovnika mlađih od 65 godina,Muškarci,201.1
+2010,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",DTHS_PER_1000000_POPY0T66,Muškarci,191.4
+2011,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",DTHS_PER_1000000_POPY0T67,Muškarci,236.2
+2012,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",DTHS_PER_1000000_POPY0T68,Muškarci,247.2
+2013,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",DTHS_PER_1000000_POPY0T69,Muškarci,246.9
+2014,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",DTHS_PER_1000000_POPY0T70,Muškarci,255.0
+2015,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",DTHS_PER_1000000_POPY0T71,Muškarci,229.5
+2016,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",DTHS_PER_1000000_POPY0T72,Muškarci,233.1
+2017,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",DTHS_PER_1000000_POPY0T73,Muškarci,225.8
+2018,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",DTHS_PER_1000000_POPY0T74,Muškarci,216.8
+2019,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",DTHS_PER_1000000_POPY0T75,Muškarci,203.6
+2020,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",DTHS_PER_1000000_POPY0T76,Muškarci,207.9
+2021,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",DTHS_PER_1000000_POPY0T77,Muškarci,194.4
+2009,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",Broj umrlih na 100 000 stanovnika mlađih od 65 godina,Žene,102.5
+2010,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",DTHS_PER_1000000_POPY0T66,Žene,99.8
+2011,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",DTHS_PER_1000000_POPY0T67,Žene,123.4
+2012,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",DTHS_PER_1000000_POPY0T68,Žene,120.4
+2013,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",DTHS_PER_1000000_POPY0T69,Žene,130.5
+2014,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",DTHS_PER_1000000_POPY0T70,Žene,133.2
+2015,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",DTHS_PER_1000000_POPY0T71,Žene,139.1
+2016,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",DTHS_PER_1000000_POPY0T72,Žene,124.9
+2017,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",DTHS_PER_1000000_POPY0T73,Žene,127.7
+2018,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",DTHS_PER_1000000_POPY0T74,Žene,109.3
+2019,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",DTHS_PER_1000000_POPY0T75,Žene,114.2
+2020,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",DTHS_PER_1000000_POPY0T76,Žene,105.8
+2021,"Stopa smrtnosti uzrokovana kardiovaskularnim bolestima, rakom, dijabetesom",DTHS_PER_1000000_POPY0T77,Žene,99.6

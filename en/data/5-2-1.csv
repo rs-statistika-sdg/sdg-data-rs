@@ -1,3 +1,7 @@
-Year,SERIES,UNIT_MEASURE,Age,Sex,Value
-2018,"Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months, by age (%)",Percent,15 years old and over,Female,2.7
-2018,"Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months, by age (%)",Percent,15 to 49 years old,Female,3.4
+Year,SERIES,UNIT_MEASURE,Sex,COMPOSITE_BREAKDOWN,Value
+2018,"Proportion of women aged 18–74 years subjected to some form of violence by a current or former intimate partner, in the previous 12 months (%)",Percent,Female,Physical violence,3
+2018,"Proportion of women aged 18–74 years subjected to some form of violence by a current or former intimate partner, in the previous 12 months (%)",Percent,Female,Sexual violence,0
+2018,"Proportion of women aged 18–74 years subjected to some form of violence by a current or former intimate partner, in the previous 12 months (%)",Percent,Female,Psychological violence,9
+2018,"Proportion of women aged 18–74 years subjected to some form of violence by a current or former intimate partner, from the age of 15 (%)",Percent,Female,Physical violence,11
+2018,"Proportion of women aged 18–74 years subjected to some form of violence by a current or former intimate partner, from the age of 15 (%)",Percent,Female,Sexual violence,3
+2018,"Proportion of women aged 18–74 years subjected to some form of violence by a current or former intimate partner, from the age of 15 (%)",Percent,Female,Psychological violence,36

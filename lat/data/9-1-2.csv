@@ -1,18 +1,157 @@
-Year,SERIES,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
-2020,Obim prevoza robe,Tonski kilometri,Vazdušni saobraćaj,0.0
-2018,Obim prevoza robe,Tonski kilometri,Unutrašnji plovni put,0.0
-2019,Obim prevoza robe,Tonski kilometri,Unutrašnji plovni put,0.0
-2018,Obim prevoza robe,Tonski kilometri,Željeznički saobraćaj,1187941000.0
-2019,Obim prevoza robe,Tonski kilometri,Željeznički saobraćaj,801400000.0
-2020,Obim prevoza robe,Tonski kilometri,Željeznički saobraćaj,727000000.0
-2018,Obim prevoza robe,Tonski kilometri,Drumski i gradski saobraćaj,4303121000.0
-2019,Obim prevoza robe,Tonski kilometri,Drumski i gradski saobraćaj,3461400000.0
-2020,Obim prevoza robe,Tonski kilometri,Drumski i gradski saobraćaj,3340000000.0
-2019,Obim prevoza putnika,Putnički kilometri,Vazdušni saobraćaj,7353050.0
-2020,Obim prevoza putnika,Putnički kilometri,Vazdušni saobraćaj,1812510.0
-2018,Obim prevoza putnika,Putnički kilometri,Željeznički saobraćaj,40000000.0
-2019,Obim prevoza putnika,Putnički kilometri,Željeznički saobraćaj,4751600000.0
-2020,Obim prevoza putnika,Putnički kilometri,Željeznički saobraćaj,3256000000.0
-2018,Obim prevoza putnika,Putnički kilometri,Drumski i gradski saobraćaj,16610000000.0
-2019,Obim prevoza putnika,Putnički kilometri,Drumski i gradski saobraćaj,16706400000.0
-2020,Obim prevoza putnika,Putnički kilometri,Drumski i gradski saobraćaj,12451000000.0
+Year,SERIES,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,Value
+2009,Obim prevoza putnika,Hiljade,Bez podjele,,,,,,,,,,,,,,,,,,,29026
+2010,Obim prevoza putnika,Hiljade,Bez podjele,,,,,,,,,,,,,,,,,,,30901
+2011,Obim prevoza putnika,Hiljade,Bez podjele,,,,,,,,,,,,,,,,,,,32488
+2012,Obim prevoza putnika,Hiljade,Bez podjele,,,,,,,,,,,,,,,,,,,32933
+2013,Obim prevoza putnika,Hiljade,Bez podjele,,,,,,,,,,,,,,,,,,,31686
+2014,Obim prevoza putnika,Hiljade,Bez podjele,,,,,,,,,,,,,,,,,,,31554
+2015,Obim prevoza putnika,Hiljade,Bez podjele,,,,,,,,,,,,,,,,,,,29745
+2016,Obim prevoza putnika,Hiljade,Bez podjele,,,,,,,,,,,,,,,,,,,28637
+2017,Obim prevoza putnika,Hiljade,Bez podjele,,,,,,,,,,,,,,,,,,,29451
+2018,Obim prevoza putnika,Hiljade,Bez podjele,,,,,,,,,,,,,,,,,,,27806
+2019,Obim prevoza putnika,Hiljade,Bez podjele,,,,,,,,,,,,,,,,,,,25726
+2020,Obim prevoza putnika,Hiljade,Bez podjele,,,,,,,,,,,,,,,,,,,13543
+2021,Obim prevoza putnika,Hiljade,Bez podjele,,,,,,,,,,,,,,,,,,,15005
+2009,Obim prevoza putnika,Hiljade,Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,448
+2010,Obim prevoza putnika,Hiljade,Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,402
+2011,Obim prevoza putnika,Hiljade,Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,317
+2012,Obim prevoza putnika,Hiljade,Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,321
+2013,Obim prevoza putnika,Hiljade,Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,211
+2014,Obim prevoza putnika,Hiljade,Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,173
+2015,Obim prevoza putnika,Hiljade,Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,178
+2016,Obim prevoza putnika,Hiljade,Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,160
+2017,Obim prevoza putnika,Hiljade,Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,117
+2018,Obim prevoza putnika,Hiljade,Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,137
+2019,Obim prevoza putnika,Hiljade,Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,160
+2020,Obim prevoza putnika,Hiljade,Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,58
+2021,Obim prevoza putnika,Hiljade,Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,60
+2009,Obim prevoza putnika,Hiljade,Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,28578
+2010,Obim prevoza putnika,Hiljade,Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,30499
+2011,Obim prevoza putnika,Hiljade,Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,32171
+2012,Obim prevoza putnika,Hiljade,Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,32612
+2013,Obim prevoza putnika,Hiljade,Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,31745
+2014,Obim prevoza putnika,Hiljade,Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,31381
+2015,Obim prevoza putnika,Hiljade,Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,29567
+2016,Obim prevoza putnika,Hiljade,Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,28477
+2017,Obim prevoza putnika,Hiljade,Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,29334
+2018,Obim prevoza putnika,Hiljade,Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,27670
+2019,Obim prevoza putnika,Hiljade,Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,25566
+2020,Obim prevoza putnika,Hiljade,Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,13485
+2021,Obim prevoza putnika,Hiljade,Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,14945
+2009,Obim prevoza putnika,"Putnički kilometri, milioni",Bez podjele,,,,,,,,,,,,,,,,,,,477
+2010,Obim prevoza putnika,"Putnički kilometri, milioni",Bez podjele,,,,,,,,,,,,,,,,,,,474
+2011,Obim prevoza putnika,"Putnički kilometri, milioni",Bez podjele,,,,,,,,,,,,,,,,,,,480
+2012,Obim prevoza putnika,"Putnički kilometri, milioni",Bez podjele,,,,,,,,,,,,,,,,,,,586
+2013,Obim prevoza putnika,"Putnički kilometri, milioni",Bez podjele,,,,,,,,,,,,,,,,,,,472
+2014,Obim prevoza putnika,"Putnički kilometri, milioni",Bez podjele,,,,,,,,,,,,,,,,,,,444
+2015,Obim prevoza putnika,"Putnički kilometri, milioni",Bez podjele,,,,,,,,,,,,,,,,,,,418
+2016,Obim prevoza putnika,"Putnički kilometri, milioni",Bez podjele,,,,,,,,,,,,,,,,,,,396
+2017,Obim prevoza putnika,"Putnički kilometri, milioni",Bez podjele,,,,,,,,,,,,,,,,,,,425
+2018,Obim prevoza putnika,"Putnički kilometri, milioni",Bez podjele,,,,,,,,,,,,,,,,,,,379
+2019,Obim prevoza putnika,"Putnički kilometri, milioni",Bez podjele,,,,,,,,,,,,,,,,,,,353
+2020,Obim prevoza putnika,"Putnički kilometri, milioni",Bez podjele,,,,,,,,,,,,,,,,,,,180
+2021,Obim prevoza putnika,"Putnički kilometri, milioni",Bez podjele,,,,,,,,,,,,,,,,,,,239
+2009,Obim prevoza putnika,"Putnički kilometri, milioni",Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,27
+2010,Obim prevoza putnika,"Putnički kilometri, milioni",Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,25
+2011,Obim prevoza putnika,"Putnički kilometri, milioni",Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,22
+2012,Obim prevoza putnika,"Putnički kilometri, milioni",Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,23
+2013,Obim prevoza putnika,"Putnički kilometri, milioni",Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,15
+2014,Obim prevoza putnika,"Putnički kilometri, milioni",Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,12
+2015,Obim prevoza putnika,"Putnički kilometri, milioni",Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,13
+2016,Obim prevoza putnika,"Putnički kilometri, milioni",Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,11
+2017,Obim prevoza putnika,"Putnički kilometri, milioni",Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,7
+2018,Obim prevoza putnika,"Putnički kilometri, milioni",Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,9
+2019,Obim prevoza putnika,"Putnički kilometri, milioni",Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,15
+2020,Obim prevoza putnika,"Putnički kilometri, milioni",Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,4
+2021,Obim prevoza putnika,"Putnički kilometri, milioni",Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,3
+2009,Obim prevoza putnika,"Putnički kilometri, milioni",Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,450
+2010,Obim prevoza putnika,"Putnički kilometri, milioni",Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,449
+2011,Obim prevoza putnika,"Putnički kilometri, milioni",Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,458
+2012,Obim prevoza putnika,"Putnički kilometri, milioni",Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,563
+2013,Obim prevoza putnika,"Putnički kilometri, milioni",Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,457
+2014,Obim prevoza putnika,"Putnički kilometri, milioni",Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,432
+2015,Obim prevoza putnika,"Putnički kilometri, milioni",Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,405
+2016,Obim prevoza putnika,"Putnički kilometri, milioni",Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,385
+2017,Obim prevoza putnika,"Putnički kilometri, milioni",Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,418
+2018,Obim prevoza putnika,"Putnički kilometri, milioni",Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,370
+2019,Obim prevoza putnika,"Putnički kilometri, milioni",Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,342
+2020,Obim prevoza putnika,"Putnički kilometri, milioni",Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,176
+2021,Obim prevoza putnika,"Putnički kilometri, milioni",Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,236
+2009,Obim prevoza robe,Hiljade tona,Bez podjele,,,,,,,,,,,,,,,,,,,5498
+2010,Obim prevoza robe,Hiljade tona,Bez podjele,,,,,,,,,,,,,,,,,,,6534
+2011,Obim prevoza robe,Hiljade tona,Bez podjele,,,,,,,,,,,,,,,,,,,6932
+2012,Obim prevoza robe,Hiljade tona,Bez podjele,,,,,,,,,,,,,,,,,,,7435
+2013,Obim prevoza robe,Hiljade tona,Bez podjele,,,,,,,,,,,,,,,,,,,7635
+2014,Obim prevoza robe,Hiljade tona,Bez podjele,,,,,,,,,,,,,,,,,,,7674
+2015,Obim prevoza robe,Hiljade tona,Bez podjele,,,,,,,,,,,,,,,,,,,8711
+2016,Obim prevoza robe,Hiljade tona,Bez podjele,,,,,,,,,,,,,,,,,,,7938
+2017,Obim prevoza robe,Hiljade tona,Bez podjele,,,,,,,,,,,,,,,,,,,8549
+2018,Obim prevoza robe,Hiljade tona,Bez podjele,,,,,,,,,,,,,,,,,,,8753
+2019,Obim prevoza robe,Hiljade tona,Bez podjele,,,,,,,,,,,,,,,,,,,7507
+2020,Obim prevoza robe,Hiljade tona,Bez podjele,,,,,,,,,,,,,,,,,,,6780
+2021,Obim prevoza robe,Hiljade tona,Bez podjele,,,,,,,,,,,,,,,,,,,7805
+2009,Obim prevoza robe,Hiljade tona,Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,4101
+2010,Obim prevoza robe,Hiljade tona,Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,5087
+2011,Obim prevoza robe,Hiljade tona,Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,5191
+2012,Obim prevoza robe,Hiljade tona,Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,5372
+2013,Obim prevoza robe,Hiljade tona,Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,5191
+2014,Obim prevoza robe,Hiljade tona,Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,5009
+2015,Obim prevoza robe,Hiljade tona,Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,4964
+2016,Obim prevoza robe,Hiljade tona,Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,4416
+2017,Obim prevoza robe,Hiljade tona,Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,4529
+2018,Obim prevoza robe,Hiljade tona,Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,4569
+2019,Obim prevoza robe,Hiljade tona,Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,4567
+2020,Obim prevoza robe,Hiljade tona,Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,3798
+2021,Obim prevoza robe,Hiljade tona,Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,4385
+2009,Obim prevoza robe,Hiljade tona,Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,1397
+2010,Obim prevoza robe,Hiljade tona,Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,1447
+2011,Obim prevoza robe,Hiljade tona,Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,1741
+2012,Obim prevoza robe,Hiljade tona,Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,2063
+2013,Obim prevoza robe,Hiljade tona,Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,2444
+2014,Obim prevoza robe,Hiljade tona,Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,2665
+2015,Obim prevoza robe,Hiljade tona,Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,3747
+2016,Obim prevoza robe,Hiljade tona,Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,3522
+2017,Obim prevoza robe,Hiljade tona,Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,4020
+2018,Obim prevoza robe,Hiljade tona,Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,4184
+2019,Obim prevoza robe,Hiljade tona,Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,2940
+2020,Obim prevoza robe,Hiljade tona,Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,2982
+2021,Obim prevoza robe,Hiljade tona,Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,3420
+2009,Obim prevoza robe,"Tonski kilometri, milioni",Bez podjele,,,,,,,,,,,,,,,,,,,947
+2010,Obim prevoza robe,"Tonski kilometri, milioni",Bez podjele,,,,,,,,,,,,,,,,,,,1076
+2011,Obim prevoza robe,"Tonski kilometri, milioni",Bez podjele,,,,,,,,,,,,,,,,,,,1431
+2012,Obim prevoza robe,"Tonski kilometri, milioni",Bez podjele,,,,,,,,,,,,,,,,,,,1399
+2013,Obim prevoza robe,"Tonski kilometri, milioni",Bez podjele,,,,,,,,,,,,,,,,,,,1556
+2014,Obim prevoza robe,"Tonski kilometri, milioni",Bez podjele,,,,,,,,,,,,,,,,,,,1651
+2015,Obim prevoza robe,"Tonski kilometri, milioni",Bez podjele,,,,,,,,,,,,,,,,,,,1768
+2016,Obim prevoza robe,"Tonski kilometri, milioni",Bez podjele,,,,,,,,,,,,,,,,,,,1723
+2017,Obim prevoza robe,"Tonski kilometri, milioni",Bez podjele,,,,,,,,,,,,,,,,,,,1931
+2018,Obim prevoza robe,"Tonski kilometri, milioni",Bez podjele,,,,,,,,,,,,,,,,,,,1877
+2019,Obim prevoza robe,"Tonski kilometri, milioni",Bez podjele,,,,,,,,,,,,,,,,,,,1881
+2020,Obim prevoza robe,"Tonski kilometri, milioni",Bez podjele,,,,,,,,,,,,,,,,,,,1709
+2021,Obim prevoza robe,"Tonski kilometri, milioni",Bez podjele,,,,,,,,,,,,,,,,,,,1846
+2009,Obim prevoza robe,"Tonski kilometri, milioni",Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,327
+2010,Obim prevoza robe,"Tonski kilometri, milioni",Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,387
+2011,Obim prevoza robe,"Tonski kilometri, milioni",Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,425
+2012,Obim prevoza robe,"Tonski kilometri, milioni",Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,457
+2013,Obim prevoza robe,"Tonski kilometri, milioni",Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,455
+2014,Obim prevoza robe,"Tonski kilometri, milioni",Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,428
+2015,Obim prevoza robe,"Tonski kilometri, milioni",Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,450
+2016,Obim prevoza robe,"Tonski kilometri, milioni",Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,374
+2017,Obim prevoza robe,"Tonski kilometri, milioni",Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,386
+2018,Obim prevoza robe,"Tonski kilometri, milioni",Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,372
+2019,Obim prevoza robe,"Tonski kilometri, milioni",Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,403
+2020,Obim prevoza robe,"Tonski kilometri, milioni",Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,363
+2021,Obim prevoza robe,"Tonski kilometri, milioni",Željeznički saobraćaj,,,,,,,,,,,,,,,,,,,380
+2009,Obim prevoza robe,"Tonski kilometri, milioni",Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,620
+2010,Obim prevoza robe,"Tonski kilometri, milioni",Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,689
+2011,Obim prevoza robe,"Tonski kilometri, milioni",Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,1006
+2012,Obim prevoza robe,"Tonski kilometri, milioni",Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,942
+2013,Obim prevoza robe,"Tonski kilometri, milioni",Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,1101
+2014,Obim prevoza robe,"Tonski kilometri, milioni",Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,1223
+2015,Obim prevoza robe,"Tonski kilometri, milioni",Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,1318
+2016,Obim prevoza robe,"Tonski kilometri, milioni",Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,1341
+2017,Obim prevoza robe,"Tonski kilometri, milioni",Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,1545
+2018,Obim prevoza robe,"Tonski kilometri, milioni",Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,1505
+2019,Obim prevoza robe,"Tonski kilometri, milioni",Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,1477
+2020,Obim prevoza robe,"Tonski kilometri, milioni",Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,1346
+2021,Obim prevoza robe,"Tonski kilometri, milioni",Drumski i gradski saobraćaj,,,,,,,,,,,,,,,,,,,1466

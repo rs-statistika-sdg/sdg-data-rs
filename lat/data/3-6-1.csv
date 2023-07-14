@@ -1,16 +1,14 @@
-Year,SERIES,UNIT_MEASURE,Pol,Value
-2000,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema polu (na 100.000 stanovnika)",Na 100 000 stanovnika,Oba pola ili bez podjele po polu,19.0
-2005,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema polu (na 100.000 stanovnika)",Na 100 000 stanovnika,Oba pola ili bez podjele po polu,17.8
-2010,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema polu (na 100.000 stanovnika)",Na 100 000 stanovnika,Oba pola ili bez podjele po polu,16.9
-2015,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema polu (na 100.000 stanovnika)",Na 100 000 stanovnika,Oba pola ili bez podjele po polu,15.8
-2019,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema polu (na 100.000 stanovnika)",Na 100 000 stanovnika,Oba pola ili bez podjele po polu,13.5
-2000,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema polu (na 100.000 stanovnika)",Na 100 000 stanovnika,Žene,10.2
-2005,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema polu (na 100.000 stanovnika)",Na 100 000 stanovnika,Žene,8.0
-2010,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema polu (na 100.000 stanovnika)",Na 100 000 stanovnika,Žene,7.4
-2015,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema polu (na 100.000 stanovnika)",Na 100 000 stanovnika,Žene,6.6
-2019,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema polu (na 100.000 stanovnika)",Na 100 000 stanovnika,Žene,5.9
-2000,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema polu (na 100.000 stanovnika)",Na 100 000 stanovnika,Muškarci,28.2
-2005,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema polu (na 100.000 stanovnika)",Na 100 000 stanovnika,Muškarci,27.9
-2010,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema polu (na 100.000 stanovnika)",Na 100 000 stanovnika,Muškarci,26.7
-2015,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema polu (na 100.000 stanovnika)",Na 100 000 stanovnika,Muškarci,25.4
-2019,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema polu (na 100.000 stanovnika)",Na 100 000 stanovnika,Muškarci,21.4
+Year,SERIES,UNIT_MEASURE,Value
+2009,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema polu (na 100.000 stanovnika)",Na 100 000 umrlih,754.9
+2010,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema polu (na 100.000 stanovnika)",Na 100 000 umrlih,680.6
+2011,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema polu (na 100.000 stanovnika)",Na 100 000 umrlih,871.3
+2012,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema polu (na 100.000 stanovnika)",Na 100 000 umrlih,688.6
+2013,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema polu (na 100.000 stanovnika)",Na 100 000 umrlih,837.0
+2014,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema polu (na 100.000 stanovnika)",Na 100 000 umrlih,714.8
+2015,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema polu (na 100.000 stanovnika)",Na 100 000 umrlih,703.9
+2016,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema polu (na 100.000 stanovnika)",Na 100 000 umrlih,901.9
+2017,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema polu (na 100.000 stanovnika)",Na 100 000 umrlih,566.1
+2018,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema polu (na 100.000 stanovnika)",Na 100 000 umrlih,704.5
+2019,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema polu (na 100.000 stanovnika)",Na 100 000 umrlih,702.9
+2020,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema polu (na 100.000 stanovnika)",Na 100 000 umrlih,464.4
+2021,"Stopa smrtnosti zbog povreda u cestovnom saobraćaju, prema polu (na 100.000 stanovnika)",Na 100 000 umrlih,421.0

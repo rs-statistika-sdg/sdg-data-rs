@@ -1,23 +1,27 @@
 Year,Value,UNIT_MEASURE,SERIES
-2000,0.0,Percent,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas
-2001,0.0,Percent,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas
-2002,0.0,Percent,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas
-2003,0.0,Percent,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas
-2004,0.0,Percent,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas
-2005,0.0,Percent,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas
-2006,0.0,Percent,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas
-2007,0.0,Percent,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas
-2008,14.28571,Percent,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas
-2009,14.28571,Percent,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas
-2010,14.28571,Percent,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas
-2011,14.47443,Percent,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas
-2012,14.47443,Percent,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas
-2013,14.47443,Percent,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas
-2014,14.47443,Percent,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas
-2015,14.47443,Percent,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas
-2016,14.47443,Percent,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas
-2017,14.47443,Percent,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas
-2018,14.47443,Percent,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas
-2019,14.47443,Percent,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas
-2020,14.47443,Percent,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas
-2021,14.47443,Percent,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas
+2009,2.0,Number,Mountain ecosystems
+2010,2.0,Number,Mountain ecosystems
+2011,2.0,Number,Mountain ecosystems
+2012,3.0,Number,Mountain ecosystems
+2013,4.0,Number,Mountain ecosystems
+2014,4.0,Number,Mountain ecosystems
+2015,4.0,Number,Mountain ecosystems
+2016,4.0,Number,Mountain ecosystems
+2017,5.0,Number,Mountain ecosystems
+2018,6.0,Number,Mountain ecosystems
+2019,6.0,Number,Mountain ecosystems
+2020,7.0,Number,Mountain ecosystems
+2021,9.0,Number,Mountain ecosystems
+2009,19959.88,"Area, in hectares",Mountain ecosystems
+2010,19959.88,"Area, in hectares",Mountain ecosystems
+2011,19959.88,"Area, in hectares",Mountain ecosystems
+2012,20254.88,"Area, in hectares",Mountain ecosystems
+2013,20552.7,"Area, in hectares",Mountain ecosystems
+2014,20552.7,"Area, in hectares",Mountain ecosystems
+2015,20552.7,"Area, in hectares",Mountain ecosystems
+2016,20552.7,"Area, in hectares",Mountain ecosystems
+2017,26868.02,"Area, in hectares",Mountain ecosystems
+2018,27198.77,"Area, in hectares",Mountain ecosystems
+2019,27198.77,"Area, in hectares",Mountain ecosystems
+2020,43914.61,"Area, in hectares",Mountain ecosystems
+2021,48114.47,"Area, in hectares",Mountain ecosystems

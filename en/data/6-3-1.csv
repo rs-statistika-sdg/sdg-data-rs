@@ -1,13 +1,16 @@
-Year,SERIES,UNIT_MEASURE,Economic activity,Degree of urbanisation,Value
-2020,Proportion of safely treated domestic wastewater flows,Percent,,,46.7966
-2015,"Proportion of wastewater treated, by activity and location (%)",Percent,Industries,Total,100.0
-2015,"Proportion of wastewater treated, by activity and location (%)",Percent,No breakdown,Total,54.3595
-2015,Total wastewater generated (million m3/year),Million of cubic metres per annum,Industries,Total,8.6
-2015,Total wastewater generated (million m3/year),Million of cubic metres per annum,"Agriculture, forestry and fishing",Total,0.5
-2015,Total wastewater generated (million m3/year),Million of cubic metres per annum,Manufacturing,Total,8.6
-2015,Total wastewater generated (million m3/year),Million of cubic metres per annum,Private households,Total,70.0
-2015,Total wastewater generated (million m3/year),Million of cubic metres per annum,"Services, and activities by households",Total,84.0
-2015,Total wastewater generated (million m3/year),Million of cubic metres per annum,Services,Total,13.8
-2015,Total wastewater generated (million m3/year),Million of cubic metres per annum,No breakdown,Total,92.9
-2015,Total wastewater treated (million m3/year),Million of cubic metres per annum,Industries,Total,45.8
-2015,Total wastewater treated (million m3/year),Million of cubic metres per annum,No breakdown,Total,50.5
+Year,SERIES,UNIT_MEASURE,Value
+2010,Treated municipal wastewater (thous. m3),Thousand of cubic metres,1084.0
+2011,Treated municipal wastewater (thous. m3),Thousand of cubic metres,959.0
+2012,Treated municipal wastewater (thous. m3),Thousand of cubic metres,1109.0
+2013,Treated municipal wastewater (thous. m3),Thousand of cubic metres,1169.0
+2014,Treated municipal wastewater (thous. m3),Thousand of cubic metres,1193.0
+2015,Treated municipal wastewater (thous. m3),Thousand of cubic metres,1266.0
+2016,Treated municipal wastewater (thous. m3),Thousand of cubic metres,2698.0
+2017,Treated municipal wastewater (thous. m3),Thousand of cubic metres,2660.0
+2018,Treated municipal wastewater (thous. m3),Thousand of cubic metres,2841.0
+2019,Treated municipal wastewater (thous. m3),Thousand of cubic metres,2936.0
+2020,Treated municipal wastewater (thous. m3),Thousand of cubic metres,3171.0
+2021,Treated municipal wastewater (thous. m3),Thousand of cubic metres,2684.0
+2019,Population connected to at least secondary wastewater treatment (%),Percent,4.5
+2020,Population connected to at least secondary wastewater treatment (%),Percent,4.5
+2021,Population connected to at least secondary wastewater treatment (%),Percent,4.7
