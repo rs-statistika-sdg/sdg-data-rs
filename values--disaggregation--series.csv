@@ -113,6 +113,9 @@ SI_POV_NAHC,Proportion of population living below the national poverty line,Udio
 SL_TLF_UEM,Unemployment rate,Stopa nezaposlenosti,Стопа незапослености,18,1
 SN_STA_OVWGT,Proportion of children moderately or severely overweight,Udio djece sa umjerenom ili ozbiljnom prekomjernom tjelesnom težinom,Удио дјеце са умјереном или озбиљном прекомјерном тјелесном тежином,1,1
 SP_DYN_ADKL,"Adolescent birth rate (per 1,000 women in the age group)",Stopa rađanja kod adolescenata (na 1 000 žena iz starosne grupe),Стопа рађања код адолесцената (на 1 000 жена из старосне групе),2,1
+SP_LGL_LNDDOC_COHFR,"Co-owners of real estate – land and buildings, ½ ownership ratio",Suvlasnici/ce u omjeru ½ nepokretnosti – zemljišta i objekata,Сувласници/це у омјеру ½ непокретности – земљишта и објеката,3,1
+SP_LGL_LNDDOC_COUHFR,"Co-owners of real estate – land and buildings, ownership ratio under ½",Suvlasnici/ce u omjeru manjem od ½ nepokretnosti – zemljišta i objekata,Сувласници/це у омјеру мањем од ½ непокретности – земљишта и објеката,3,1
+SP_LGL_LNDDOC_SOLO,Sole owners of real estate – land and buildings,Samostalni vlasnici/ce nepokretnosti – zemljišta i objekata,Самостални власници/це непокретности – земљишта и објеката,3,1
 ST_TUR_EMP,Number of employed persons in tourism,Broj zaposlenih u turizmu,Број запослених у туризму,3,1
 VC_HTF_DETCA,Number of trafficking offences,Broj krivičnih djela trgovine ljudima,Број кривичних дјела трговине људима,4,1
 VC_HTF_DETV,Number of victims of human trafficking by sex and form of exploitation,Broj žrtava krivičnih djela trgovine ljudima prema polu i obliku eksploatacije,Број жртава кривичних дјела трговине људима према полу и облику експлоатације,7,1
