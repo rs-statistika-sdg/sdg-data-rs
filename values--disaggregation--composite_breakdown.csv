@@ -61,9 +61,9 @@ TUR_EMP_FCA,Food service activities,Djelatnost pripreme i posluživanja hrane i 
 UKRINA,Ukrina River,Ukrina,Укрина,3,1
 UNA,Una River,Una,Уна,3,1
 UNK,Unknown,Nepoznato,Непознато,1,1
-VAW_PHYSIC,Physical violence,Fizičko nasilje,Физичко насиље,2,1
+VAW_PHYSIC,Physical violence,Fizičko nasilje,Физичко насиље,4,2
 VAW_PSYCH,Psychological violence,Psihološko nasilje,Психолошко насиље,2,1
-VAW_SEX,Sexual violence,Seksualno nasilje,Сексуално насиље,2,1
+VAW_SEX,Sexual violence,Seksualno nasilje,Сексуално насиље,4,2
 VC_HTF_01,"Human trafficking, Article 145 of RS Criminal Law","Trgovina ljudima, član 145 KZ RS","Трговина људима, члан 145 КЗ РС",1,1
 VC_HTF_02,"Human trafficking, Article 186 of BiH Criminal Law","Trgovina ljudima, član 186 KZ BiH","Трговина људима, члан 186 КЗ БиХ",1,1
 VC_HTF_03,"Child trafficking, Article 146 of RS Criminal Law","Trgovina djecom, član 146 KZ RS","Трговина дјецом, члан 146 КЗ РС",1,1

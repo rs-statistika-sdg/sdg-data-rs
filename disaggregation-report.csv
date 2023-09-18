@@ -1,10 +1,10 @@
 Disaggregation,en,lat,cir,Number of indicators,Number of values
 ACTIVITY,Economic activity,Djelatnost,Дјелатност,2,2
 AGE,Age,Starost,Старост,16,45
-COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,11,71
+COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,12,71
 EDUCATION_LEV,Education level,Nivo obrazovanja,Ниво образовања,1,3
 OCCUPATION,Occupation,Zanimanje,Занимање,1,4
-SERIES,SDG Series,SDG Serije,SDG Варијабле,57,125
-SEX,Sex,Pol,Пол,22,3
-UNIT_MEASURE,Unit of measure,Mjerna jedinica,Мјерна јединица,57,36
+SERIES,SDG Series,SDG Serije,SDG Варијабле,61,133
+SEX,Sex,Pol,Пол,23,3
+UNIT_MEASURE,Unit of measure,Mjerna jedinica,Мјерна јединица,61,37
 URBANISATION,Degree of urbanisation,Stepen urbanizacije,Степен урбанизације,6,3
