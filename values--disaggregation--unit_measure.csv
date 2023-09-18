@@ -1,6 +1,6 @@
 Value,en,lat,cir,Disaggregation combinations using this value,Number of indicators
 CUR_LCU,in BAM,u KM,у KM,2,2
-CUR_NAC_1000,in thousands of BAM,u hiljadama KM,у хиљадама КМ,5,1
+CUR_NAC_1000,in thousands of BAM,u hiljadama KM,у хиљадама КМ,17,2
 CUR_NAC_1000000,in millions of BAM,u milionima КМ,у милионима КМ,2,1
 DTHS_PER_1000000_POPY0T65,"Number of deaths per 100,000 population under the age of 65 years",Broj umrlih na 100 000 stanovnika mlađih od 65 godina,Број умрлих на 100 000 становника млађих од 65 година,3,1
 DTHS_PER_1000000_POPY0T66,DTHS_PER_1000000_POPY0T66,DTHS_PER_1000000_POPY0T66,DTHS_PER_1000000_POPY0T66,3,1

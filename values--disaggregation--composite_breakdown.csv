@@ -58,6 +58,12 @@ SPAR_13,Radiation emergencies,Vanredne situacije u vezi sa zračenjem,Ванре
 TREBISNJICA,Trebišnjica River,Trebišnjica,Требишњица,3,1
 TUR_EMP_ACC,Accommodation,Smještaj,Смјештај,1,1
 TUR_EMP_FCA,Food service activities,Djelatnost pripreme i posluživanja hrane i pića,Дјелатност припреме и послуживања хране и пића,1,1
+TX_CEFTA,CEFTA countries,CEFTA,ЦЕФТА,2,1
+TX_EFTA,EFTA countries,Zemlje EFTA,Земље ЕФТА,2,1
+TX_EU27,EU–27 countries,Zemlje EU–27,Земље ЕУ–27,2,1
+TX_OTHCID,Other developing countries,Ostale zemlje u razvoju,Остале земље у развоју,2,1
+TX_OTHDC,Other developed countries,Ostale razvijene zemlje,Остале развијене земље,2,1
+TX_UNCLSS,Unclassified,Neraspoređeno,Нераспоређено,2,1
 UKRINA,Ukrina River,Ukrina,Укрина,3,1
 UNA,Una River,Una,Уна,3,1
 UNK,Unknown,Nepoznato,Непознато,1,1

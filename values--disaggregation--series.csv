@@ -124,6 +124,8 @@ SP_LGL_LNDDOC_COUHFR,"Co-owners of real estate – land and buildings, ownership
 SP_LGL_LNDDOC_SOLO,Sole owners of real estate – land and buildings,Samostalni vlasnici/ce nepokretnosti – zemljišta i objekata,Самостални власници/це непокретности – земљишта и објеката,3,1
 ST_GDP_ZS,"GDP of the section Accommodation and food service activities as a proportion of total GDP, current prices,","Učešće područja „Djelatnost pružanja smještaja, pripreme i posluživanja hrane; hotelijerstvo i ugostiteljstvo” u ukupnom BDP-u, tekuće cijene","Учешће подручја „Дјелатност пружања смјештаја, припреме и послуживања хране; хотелијерство и угоститељство” у укупном БДП-у, текуће цијене",1,1
 ST_TUR_EMP,Number of employed persons in tourism,Broj zaposlenih u turizmu,Број запослених у туризму,3,1
+TX_EXP_ECG,Exports from Republika Srpska by economic groupings of countries,Izvoz iz Republike Srpske po ekonomskim grupacijama zemalja,Извоз из Републике Српске по економским групацијама земаља,6,1
+TX_IMP_ECG,Imports to Republika Srpska by economic groupings of countries,Uvoz u Republiku Srpsku po ekonomskim grupacijama zemalja,Увоз у Републику Српску по економским групацијама земаља,6,1
 VC_HTF_DETCA,Number of trafficking offences,Broj krivičnih djela trgovine ljudima,Број кривичних дјела трговине људима,4,1
 VC_HTF_DETV,Number of victims of human trafficking by sex and form of exploitation,Broj žrtava krivičnih djela trgovine ljudima prema polu i obliku eksploatacije,Број жртава кривичних дјела трговине људима према полу и облику експлоатације,7,1
 VC_HTF_DETVR,"Number of victims of human trafficking per 100,000 population",Broj žrtava trgovine ljudima na 100 000 stanovnika,Број жртава трговине људима на 100 000 становника,1,1
