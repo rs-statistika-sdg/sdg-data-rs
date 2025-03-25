@@ -51,6 +51,8 @@ Year,SERIES,UNIT_MEASURE,Sex,Unnamed: 5,Unnamed: 6,Unnamed: 7,Value
 2019,Suicide mortality rate,"Per 100,000 population",Both sexes or no breakdown by sex,,,,15.1
 2020,Suicide mortality rate,"Per 100,000 population",Both sexes or no breakdown by sex,,,,16.3
 2021,Suicide mortality rate,"Per 100,000 population",Both sexes or no breakdown by sex,,,,17.2
+2022,Suicide mortality rate,"Per 100,000 population",Both sexes or no breakdown by sex,,,,16.0
+2023,Suicide mortality rate,"Per 100,000 population",Both sexes or no breakdown by sex,,,,14.5
 2009,Suicide mortality rate,"Per 100,000 population",Male,,,,30.9
 2010,Suicide mortality rate,"Per 100,000 population",Male,,,,32.0
 2011,Suicide mortality rate,"Per 100,000 population",Male,,,,36.9
@@ -64,6 +66,8 @@ Year,SERIES,UNIT_MEASURE,Sex,Unnamed: 5,Unnamed: 6,Unnamed: 7,Value
 2019,Suicide mortality rate,"Per 100,000 population",Male,,,,24.5
 2020,Suicide mortality rate,"Per 100,000 population",Male,,,,25.8
 2021,Suicide mortality rate,"Per 100,000 population",Male,,,,25.2
+2022,Suicide mortality rate,"Per 100,000 population",Male,,,,25.2
+2023,Suicide mortality rate,"Per 100,000 population",Male,,,,22.4
 2009,Suicide mortality rate,"Per 100,000 population",Female,,,,13.3
 2010,Suicide mortality rate,"Per 100,000 population",Female,,,,7.7
 2011,Suicide mortality rate,"Per 100,000 population",Female,,,,11.7
@@ -77,3 +81,5 @@ Year,SERIES,UNIT_MEASURE,Sex,Unnamed: 5,Unnamed: 6,Unnamed: 7,Value
 2019,Suicide mortality rate,"Per 100,000 population",Female,,,,6.2
 2020,Suicide mortality rate,"Per 100,000 population",Female,,,,7.1
 2021,Suicide mortality rate,"Per 100,000 population",Female,,,,9.4
+2022,Suicide mortality rate,"Per 100,000 population",Female,,,,7.0
+2023,Suicide mortality rate,"Per 100,000 population",Female,,,,6.9
