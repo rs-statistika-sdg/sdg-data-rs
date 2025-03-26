@@ -12,6 +12,8 @@ Year,SERIES,UNIT_MEASURE,Sex,Age,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2019,Unemployment rate,Percent,Both sexes or no breakdown by sex,15 years old and over,,,,,,,,,,,,,,11.7
 2020,Unemployment rate,Percent,Both sexes or no breakdown by sex,15 years old and over,,,,,,,,,,,,,,12.9
 2021,Unemployment rate,Percent,Both sexes or no breakdown by sex,15 years old and over,,,,,,,,,,,,,,14.3
+2022,Unemployment rate,Percent,Both sexes or no breakdown by sex,15 years old and over,,,,,,,,,,,,,,11.2
+2023,Unemployment rate,Percent,Both sexes or no breakdown by sex,15 years old and over,,,,,,,,,,,,,,9.1
 2009,Unemployment rate,Percent,Male,15 years old and over,,,,,,,,,,,,,,20.6
 2010,Unemployment rate,Percent,Male,15 years old and over,,,,,,,,,,,,,,22.0
 2011,Unemployment rate,Percent,Male,15 years old and over,,,,,,,,,,,,,,23.0
@@ -25,6 +27,8 @@ Year,SERIES,UNIT_MEASURE,Sex,Age,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2019,Unemployment rate,Percent,Male,15 years old and over,,,,,,,,,,,,,,9.5
 2020,Unemployment rate,Percent,Male,15 years old and over,,,,,,,,,,,,,,12.7
 2021,Unemployment rate,Percent,Male,15 years old and over,,,,,,,,,,,,,,12.9
+2022,Unemployment rate,Percent,Male,15 years old and over,,,,,,,,,,,,,,9.0
+2023,Unemployment rate,Percent,Male,15 years old and over,,,,,,,,,,,,,,7.4
 2009,Unemployment rate,Percent,Female,15 years old and over,,,,,,,,,,,,,,22.4
 2010,Unemployment rate,Percent,Female,15 years old and over,,,,,,,,,,,,,,25.9
 2011,Unemployment rate,Percent,Female,15 years old and over,,,,,,,,,,,,,,26.5
@@ -38,6 +42,8 @@ Year,SERIES,UNIT_MEASURE,Sex,Age,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2019,Unemployment rate,Percent,Female,15 years old and over,,,,,,,,,,,,,,14.7
 2020,Unemployment rate,Percent,Female,15 years old and over,,,,,,,,,,,,,,13.0
 2021,Unemployment rate,Percent,Female,15 years old and over,,,,,,,,,,,,,,16.3
+2022,Unemployment rate,Percent,Female,15 years old and over,,,,,,,,,,,,,,14.3
+2023,Unemployment rate,Percent,Female,15 years old and over,,,,,,,,,,,,,,11.5
 2009,Unemployment rate,Percent,Both sexes or no breakdown by sex,15 to 24 years old,,,,,,,,,,,,,,38.4
 2010,Unemployment rate,Percent,Both sexes or no breakdown by sex,15 to 24 years old,,,,,,,,,,,,,,46.8
 2011,Unemployment rate,Percent,Both sexes or no breakdown by sex,15 to 24 years old,,,,,,,,,,,,,,53.2
@@ -51,6 +57,8 @@ Year,SERIES,UNIT_MEASURE,Sex,Age,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2019,Unemployment rate,Percent,Both sexes or no breakdown by sex,15 to 24 years old,,,,,,,,,,,,,,23.8
 2020,Unemployment rate,Percent,Both sexes or no breakdown by sex,15 to 24 years old,,,,,,,,,,,,,,28.1
 2021,Unemployment rate,Percent,Both sexes or no breakdown by sex,15 to 24 years old,,,,,,,,,,,,,,31.8
+2022,Unemployment rate,Percent,Both sexes or no breakdown by sex,15 to 24 years old,,,,,,,,,,,,,,28.1
+2023,Unemployment rate,Percent,Both sexes or no breakdown by sex,15 to 24 years old,,,,,,,,,,,,,,25.8
 2009,Unemployment rate,Percent,Male,15 to 24 years old,,,,,,,,,,,,,,35.7
 2010,Unemployment rate,Percent,Male,15 to 24 years old,,,,,,,,,,,,,,46.5
 2011,Unemployment rate,Percent,Male,15 to 24 years old,,,,,,,,,,,,,,51.3
@@ -64,6 +72,8 @@ Year,SERIES,UNIT_MEASURE,Sex,Age,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2019,Unemployment rate,Percent,Male,15 to 24 years old,,,,,,,,,,,,,,20.6
 2020,Unemployment rate,Percent,Male,15 to 24 years old,,,,,,,,,,,,,,26.2
 2021,Unemployment rate,Percent,Male,15 to 24 years old,,,,,,,,,,,,,,29.8
+2022,Unemployment rate,Percent,Male,15 to 24 years old,,,,,,,,,,,,,,25.7
+2023,Unemployment rate,Percent,Male,15 to 24 years old,,,,,,,,,,,,,,23.2
 2009,Unemployment rate,Percent,Female,15 to 24 years old,,,,,,,,,,,,,,43.2
 2010,Unemployment rate,Percent,Female,15 to 24 years old,,,,,,,,,,,,,,47.3
 2011,Unemployment rate,Percent,Female,15 to 24 years old,,,,,,,,,,,,,,56.8
@@ -77,6 +87,8 @@ Year,SERIES,UNIT_MEASURE,Sex,Age,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2019,Unemployment rate,Percent,Female,15 to 24 years old,,,,,,,,,,,,,,29.1
 2020,Unemployment rate,Percent,Female,15 to 24 years old,,,,,,,,,,,,,,30.7
 2021,Unemployment rate,Percent,Female,15 to 24 years old,,,,,,,,,,,,,,34.7
+2022,Unemployment rate,Percent,Female,15 to 24 years old,,,,,,,,,,,,,,32.7
+2023,Unemployment rate,Percent,Female,15 to 24 years old,,,,,,,,,,,,,,32.2
 2009,Unemployment rate,Percent,Both sexes or no breakdown by sex,25 to 49 years old,,,,,,,,,,,,,,20.4
 2010,Unemployment rate,Percent,Both sexes or no breakdown by sex,25 to 49 years old,,,,,,,,,,,,,,23.1
 2011,Unemployment rate,Percent,Both sexes or no breakdown by sex,25 to 49 years old,,,,,,,,,,,,,,23.2
@@ -90,6 +102,9 @@ Year,SERIES,UNIT_MEASURE,Sex,Age,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2019,Unemployment rate,Percent,Both sexes or no breakdown by sex,25 to 49 years old,,,,,,,,,,,,,,13.6
 2020,Unemployment rate,Percent,Both sexes or no breakdown by sex,25 to 49 years old,,,,,,,,,,,,,,13.7
 2021,Unemployment rate,Percent,Both sexes or no breakdown by sex,25 to 49 years old,,,,,,,,,,,,,,14.1
+2021,Unemployment rate,Percent,Both sexes or no breakdown by sex,25 to 49 years old,,,,,,,,,,,,,,14.1
+2022,Unemployment rate,Percent,Both sexes or no breakdown by sex,25 to 49 years old,,,,,,,,,,,,,,11.2
+2023,Unemployment rate,Percent,Both sexes or no breakdown by sex,25 to 49 years old,,,,,,,,,,,,,,10.1
 2009,Unemployment rate,Percent,Male,25 to 49 years old,,,,,,,,,,,,,,18.2
 2010,Unemployment rate,Percent,Male,25 to 49 years old,,,,,,,,,,,,,,20.2
 2011,Unemployment rate,Percent,Male,25 to 49 years old,,,,,,,,,,,,,,20.7
@@ -103,6 +118,8 @@ Year,SERIES,UNIT_MEASURE,Sex,Age,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2019,Unemployment rate,Percent,Male,25 to 49 years old,,,,,,,,,,,,,,11.5
 2020,Unemployment rate,Percent,Male,25 to 49 years old,,,,,,,,,,,,,,13.6
 2021,Unemployment rate,Percent,Male,25 to 49 years old,,,,,,,,,,,,,,12.9
+2022,Unemployment rate,Percent,Male,25 to 49 years old,,,,,,,,,,,,,,8.5
+2023,Unemployment rate,Percent,Male,25 to 49 years old,,,,,,,,,,,,,,7.8
 2009,Unemployment rate,Percent,Female,25 to 49 years old,,,,,,,,,,,,,,23.4
 2010,Unemployment rate,Percent,Female,25 to 49 years old,,,,,,,,,,,,,,27.1
 2011,Unemployment rate,Percent,Female,25 to 49 years old,,,,,,,,,,,,,,26.6
@@ -116,6 +133,8 @@ Year,SERIES,UNIT_MEASURE,Sex,Age,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2019,Unemployment rate,Percent,Female,25 to 49 years old,,,,,,,,,,,,,,16.7
 2020,Unemployment rate,Percent,Female,25 to 49 years old,,,,,,,,,,,,,,13.8
 2021,Unemployment rate,Percent,Female,25 to 49 years old,,,,,,,,,,,,,,15.7
+2022,Unemployment rate,Percent,Female,25 to 49 years old,,,,,,,,,,,,,,14.8
+2023,Unemployment rate,Percent,Female,25 to 49 years old,,,,,,,,,,,,,,13.2
 2009,Unemployment rate,Percent,Both sexes or no breakdown by sex,50 to 64 years old,,,,,,,,,,,,,,18.9
 2010,Unemployment rate,Percent,Both sexes or no breakdown by sex,50 to 64 years old,,,,,,,,,,,,,,18.9
 2011,Unemployment rate,Percent,Both sexes or no breakdown by sex,50 to 64 years old,,,,,,,,,,,,,,20.2
@@ -129,6 +148,8 @@ Year,SERIES,UNIT_MEASURE,Sex,Age,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2019,Unemployment rate,Percent,Both sexes or no breakdown by sex,50 to 64 years old,,,,,,,,,,,,,,8.5
 2020,Unemployment rate,Percent,Both sexes or no breakdown by sex,50 to 64 years old,,,,,,,,,,,,,,8.7
 2021,Unemployment rate,Percent,Both sexes or no breakdown by sex,50 to 64 years old,,,,,,,,,,,,,,10.5
+2022,Unemployment rate,Percent,Both sexes or no breakdown by sex,50 to 64 years old,,,,,,,,,,,,,,7.9
+2023,Unemployment rate,Percent,Both sexes or no breakdown by sex,50 to 64 years old,,,,,,,,,,,,,,4.5
 2009,Unemployment rate,Percent,Male,50 to 64 years old,,,,,,,,,,,,,,21.5
 2010,Unemployment rate,Percent,Male,50 to 64 years old,,,,,,,,,,,,,,19.6
 2011,Unemployment rate,Percent,Male,50 to 64 years old,,,,,,,,,,,,,,19.6
@@ -142,6 +163,8 @@ Year,SERIES,UNIT_MEASURE,Sex,Age,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2019,Unemployment rate,Percent,Male,50 to 64 years old,,,,,,,,,,,,,,5.9
 2020,Unemployment rate,Percent,Male,50 to 64 years old,,,,,,,,,,,,,,8.7
 2021,Unemployment rate,Percent,Male,50 to 64 years old,,,,,,,,,,,,,,8.4
+2022,Unemployment rate,Percent,Male,50 to 64 years old,,,,,,,,,,,,,,6.7
+2023,Unemployment rate,Percent,Male,50 to 64 years old,,,,,,,,,,,,,,3.8
 2009,Unemployment rate,Percent,Female,50 to 64 years old,,,,,,,,,,,,,,15.0
 2010,Unemployment rate,Percent,Female,50 to 64 years old,,,,,,,,,,,,,,17.9
 2011,Unemployment rate,Percent,Female,50 to 64 years old,,,,,,,,,,,,,,21.0
@@ -155,6 +178,8 @@ Year,SERIES,UNIT_MEASURE,Sex,Age,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2019,Unemployment rate,Percent,Female,50 to 64 years old,,,,,,,,,,,,,,12.2
 2020,Unemployment rate,Percent,Female,50 to 64 years old,,,,,,,,,,,,,,8.6
 2021,Unemployment rate,Percent,Female,50 to 64 years old,,,,,,,,,,,,,,13.6
+2022,Unemployment rate,Percent,Female,50 to 64 years old,,,,,,,,,,,,,,9.7
+2023,Unemployment rate,Percent,Female,50 to 64 years old,,,,,,,,,,,,,,5.4
 2021,Unemployment rate,Percent,Both sexes or no breakdown by sex,65 years old and over,,,,,,,,,,,,,,7.7
 2021,Unemployment rate,Percent,Male,65 years old and over,,,,,,,,,,,,,,6.4
 2021,Unemployment rate,Percent,Female,65 years old and over,,,,,,,,,,,,,,9.1
@@ -171,6 +196,8 @@ Year,SERIES,UNIT_MEASURE,Sex,Age,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2019,Unemployment rate,Percent,Both sexes or no breakdown by sex,15 to 64 years old,,,,,,,,,,,,,,12.7
 2020,Unemployment rate,Percent,Both sexes or no breakdown by sex,15 to 64 years old,,,,,,,,,,,,,,13.4
 2021,Unemployment rate,Percent,Both sexes or no breakdown by sex,15 to 64 years old,,,,,,,,,,,,,,14.5
+2022,Unemployment rate,Percent,Both sexes or no breakdown by sex,15 to 64 years old,,,,,,,,,,,,,,11.3
+2023,Unemployment rate,Percent,Both sexes or no breakdown by sex,15 to 64 years old,,,,,,,,,,,,,,9.2
 2009,Unemployment rate,Percent,Male,15 to 64 years old,,,,,,,,,,,,,,21.2
 2010,Unemployment rate,Percent,Male,15 to 64 years old,,,,,,,,,,,,,,22.8
 2011,Unemployment rate,Percent,Male,15 to 64 years old,,,,,,,,,,,,,,23.7
@@ -184,6 +211,8 @@ Year,SERIES,UNIT_MEASURE,Sex,Age,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2019,Unemployment rate,Percent,Male,15 to 64 years old,,,,,,,,,,,,,,10.3
 2020,Unemployment rate,Percent,Male,15 to 64 years old,,,,,,,,,,,,,,13.2
 2021,Unemployment rate,Percent,Male,15 to 64 years old,,,,,,,,,,,,,,13.0
+2022,Unemployment rate,Percent,Male,15 to 64 years old,,,,,,,,,,,,,,9.2
+2023,Unemployment rate,Percent,Male,15 to 64 years old,,,,,,,,,,,,,,7.5
 2009,Unemployment rate,Percent,Female,15 to 64 years old,,,,,,,,,,,,,,23.0
 2010,Unemployment rate,Percent,Female,15 to 64 years old,,,,,,,,,,,,,,26.9
 2011,Unemployment rate,Percent,Female,15 to 64 years old,,,,,,,,,,,,,,27.5
@@ -197,3 +226,5 @@ Year,SERIES,UNIT_MEASURE,Sex,Age,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2019,Unemployment rate,Percent,Female,15 to 64 years old,,,,,,,,,,,,,,16.1
 2020,Unemployment rate,Percent,Female,15 to 64 years old,,,,,,,,,,,,,,13.7
 2021,Unemployment rate,Percent,Female,15 to 64 years old,,,,,,,,,,,,,,16.6
+2022,Unemployment rate,Percent,Female,15 to 64 years old,,,,,,,,,,,,,,14.4
+2023,Unemployment rate,Percent,Female,15 to 64 years old,,,,,,,,,,,,,,11.6

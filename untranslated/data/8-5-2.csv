@@ -12,6 +12,8 @@ Year,SERIES,UNIT_MEASURE,SEX,AGE,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2019,SL_TLF_UEM,PT,_T,Y_GE15,,,,,,,,,,,,,,11.7
 2020,SL_TLF_UEM,PT,_T,Y_GE15,,,,,,,,,,,,,,12.9
 2021,SL_TLF_UEM,PT,_T,Y_GE15,,,,,,,,,,,,,,14.3
+2022,SL_TLF_UEM,PT,_T,Y_GE15,,,,,,,,,,,,,,11.2
+2023,SL_TLF_UEM,PT,_T,Y_GE15,,,,,,,,,,,,,,9.1
 2009,SL_TLF_UEM,PT,M,Y_GE15,,,,,,,,,,,,,,20.6
 2010,SL_TLF_UEM,PT,M,Y_GE15,,,,,,,,,,,,,,22.0
 2011,SL_TLF_UEM,PT,M,Y_GE15,,,,,,,,,,,,,,23.0
@@ -25,6 +27,8 @@ Year,SERIES,UNIT_MEASURE,SEX,AGE,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2019,SL_TLF_UEM,PT,M,Y_GE15,,,,,,,,,,,,,,9.5
 2020,SL_TLF_UEM,PT,M,Y_GE15,,,,,,,,,,,,,,12.7
 2021,SL_TLF_UEM,PT,M,Y_GE15,,,,,,,,,,,,,,12.9
+2022,SL_TLF_UEM,PT,M,Y_GE15,,,,,,,,,,,,,,9.0
+2023,SL_TLF_UEM,PT,M,Y_GE15,,,,,,,,,,,,,,7.4
 2009,SL_TLF_UEM,PT,F,Y_GE15,,,,,,,,,,,,,,22.4
 2010,SL_TLF_UEM,PT,F,Y_GE15,,,,,,,,,,,,,,25.9
 2011,SL_TLF_UEM,PT,F,Y_GE15,,,,,,,,,,,,,,26.5
@@ -38,6 +42,8 @@ Year,SERIES,UNIT_MEASURE,SEX,AGE,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2019,SL_TLF_UEM,PT,F,Y_GE15,,,,,,,,,,,,,,14.7
 2020,SL_TLF_UEM,PT,F,Y_GE15,,,,,,,,,,,,,,13.0
 2021,SL_TLF_UEM,PT,F,Y_GE15,,,,,,,,,,,,,,16.3
+2022,SL_TLF_UEM,PT,F,Y_GE15,,,,,,,,,,,,,,14.3
+2023,SL_TLF_UEM,PT,F,Y_GE15,,,,,,,,,,,,,,11.5
 2009,SL_TLF_UEM,PT,_T,Y15T24,,,,,,,,,,,,,,38.4
 2010,SL_TLF_UEM,PT,_T,Y15T24,,,,,,,,,,,,,,46.8
 2011,SL_TLF_UEM,PT,_T,Y15T24,,,,,,,,,,,,,,53.2
@@ -51,6 +57,8 @@ Year,SERIES,UNIT_MEASURE,SEX,AGE,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2019,SL_TLF_UEM,PT,_T,Y15T24,,,,,,,,,,,,,,23.8
 2020,SL_TLF_UEM,PT,_T,Y15T24,,,,,,,,,,,,,,28.1
 2021,SL_TLF_UEM,PT,_T,Y15T24,,,,,,,,,,,,,,31.8
+2022,SL_TLF_UEM,PT,_T,Y15T24,,,,,,,,,,,,,,28.1
+2023,SL_TLF_UEM,PT,_T,Y15T24,,,,,,,,,,,,,,25.8
 2009,SL_TLF_UEM,PT,M,Y15T24,,,,,,,,,,,,,,35.7
 2010,SL_TLF_UEM,PT,M,Y15T24,,,,,,,,,,,,,,46.5
 2011,SL_TLF_UEM,PT,M,Y15T24,,,,,,,,,,,,,,51.3
@@ -64,6 +72,8 @@ Year,SERIES,UNIT_MEASURE,SEX,AGE,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2019,SL_TLF_UEM,PT,M,Y15T24,,,,,,,,,,,,,,20.6
 2020,SL_TLF_UEM,PT,M,Y15T24,,,,,,,,,,,,,,26.2
 2021,SL_TLF_UEM,PT,M,Y15T24,,,,,,,,,,,,,,29.8
+2022,SL_TLF_UEM,PT,M,Y15T24,,,,,,,,,,,,,,25.7
+2023,SL_TLF_UEM,PT,M,Y15T24,,,,,,,,,,,,,,23.2
 2009,SL_TLF_UEM,PT,F,Y15T24,,,,,,,,,,,,,,43.2
 2010,SL_TLF_UEM,PT,F,Y15T24,,,,,,,,,,,,,,47.3
 2011,SL_TLF_UEM,PT,F,Y15T24,,,,,,,,,,,,,,56.8
@@ -77,6 +87,8 @@ Year,SERIES,UNIT_MEASURE,SEX,AGE,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2019,SL_TLF_UEM,PT,F,Y15T24,,,,,,,,,,,,,,29.1
 2020,SL_TLF_UEM,PT,F,Y15T24,,,,,,,,,,,,,,30.7
 2021,SL_TLF_UEM,PT,F,Y15T24,,,,,,,,,,,,,,34.7
+2022,SL_TLF_UEM,PT,F,Y15T24,,,,,,,,,,,,,,32.7
+2023,SL_TLF_UEM,PT,F,Y15T24,,,,,,,,,,,,,,32.2
 2009,SL_TLF_UEM,PT,_T,Y25T49,,,,,,,,,,,,,,20.4
 2010,SL_TLF_UEM,PT,_T,Y25T49,,,,,,,,,,,,,,23.1
 2011,SL_TLF_UEM,PT,_T,Y25T49,,,,,,,,,,,,,,23.2
@@ -90,6 +102,9 @@ Year,SERIES,UNIT_MEASURE,SEX,AGE,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2019,SL_TLF_UEM,PT,_T,Y25T49,,,,,,,,,,,,,,13.6
 2020,SL_TLF_UEM,PT,_T,Y25T49,,,,,,,,,,,,,,13.7
 2021,SL_TLF_UEM,PT,_T,Y25T49,,,,,,,,,,,,,,14.1
+2021,SL_TLF_UEM,PT,_T,Y25T49,,,,,,,,,,,,,,14.1
+2022,SL_TLF_UEM,PT,_T,Y25T49,,,,,,,,,,,,,,11.2
+2023,SL_TLF_UEM,PT,_T,Y25T49,,,,,,,,,,,,,,10.1
 2009,SL_TLF_UEM,PT,M,Y25T49,,,,,,,,,,,,,,18.2
 2010,SL_TLF_UEM,PT,M,Y25T49,,,,,,,,,,,,,,20.2
 2011,SL_TLF_UEM,PT,M,Y25T49,,,,,,,,,,,,,,20.7
@@ -103,6 +118,8 @@ Year,SERIES,UNIT_MEASURE,SEX,AGE,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2019,SL_TLF_UEM,PT,M,Y25T49,,,,,,,,,,,,,,11.5
 2020,SL_TLF_UEM,PT,M,Y25T49,,,,,,,,,,,,,,13.6
 2021,SL_TLF_UEM,PT,M,Y25T49,,,,,,,,,,,,,,12.9
+2022,SL_TLF_UEM,PT,M,Y25T49,,,,,,,,,,,,,,8.5
+2023,SL_TLF_UEM,PT,M,Y25T49,,,,,,,,,,,,,,7.8
 2009,SL_TLF_UEM,PT,F,Y25T49,,,,,,,,,,,,,,23.4
 2010,SL_TLF_UEM,PT,F,Y25T49,,,,,,,,,,,,,,27.1
 2011,SL_TLF_UEM,PT,F,Y25T49,,,,,,,,,,,,,,26.6
@@ -116,6 +133,8 @@ Year,SERIES,UNIT_MEASURE,SEX,AGE,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2019,SL_TLF_UEM,PT,F,Y25T49,,,,,,,,,,,,,,16.7
 2020,SL_TLF_UEM,PT,F,Y25T49,,,,,,,,,,,,,,13.8
 2021,SL_TLF_UEM,PT,F,Y25T49,,,,,,,,,,,,,,15.7
+2022,SL_TLF_UEM,PT,F,Y25T49,,,,,,,,,,,,,,14.8
+2023,SL_TLF_UEM,PT,F,Y25T49,,,,,,,,,,,,,,13.2
 2009,SL_TLF_UEM,PT,_T,Y50T64,,,,,,,,,,,,,,18.9
 2010,SL_TLF_UEM,PT,_T,Y50T64,,,,,,,,,,,,,,18.9
 2011,SL_TLF_UEM,PT,_T,Y50T64,,,,,,,,,,,,,,20.2
@@ -129,6 +148,8 @@ Year,SERIES,UNIT_MEASURE,SEX,AGE,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2019,SL_TLF_UEM,PT,_T,Y50T64,,,,,,,,,,,,,,8.5
 2020,SL_TLF_UEM,PT,_T,Y50T64,,,,,,,,,,,,,,8.7
 2021,SL_TLF_UEM,PT,_T,Y50T64,,,,,,,,,,,,,,10.5
+2022,SL_TLF_UEM,PT,_T,Y50T64,,,,,,,,,,,,,,7.9
+2023,SL_TLF_UEM,PT,_T,Y50T64,,,,,,,,,,,,,,4.5
 2009,SL_TLF_UEM,PT,M,Y50T64,,,,,,,,,,,,,,21.5
 2010,SL_TLF_UEM,PT,M,Y50T64,,,,,,,,,,,,,,19.6
 2011,SL_TLF_UEM,PT,M,Y50T64,,,,,,,,,,,,,,19.6
@@ -142,6 +163,8 @@ Year,SERIES,UNIT_MEASURE,SEX,AGE,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2019,SL_TLF_UEM,PT,M,Y50T64,,,,,,,,,,,,,,5.9
 2020,SL_TLF_UEM,PT,M,Y50T64,,,,,,,,,,,,,,8.7
 2021,SL_TLF_UEM,PT,M,Y50T64,,,,,,,,,,,,,,8.4
+2022,SL_TLF_UEM,PT,M,Y50T64,,,,,,,,,,,,,,6.7
+2023,SL_TLF_UEM,PT,M,Y50T64,,,,,,,,,,,,,,3.8
 2009,SL_TLF_UEM,PT,F,Y50T64,,,,,,,,,,,,,,15.0
 2010,SL_TLF_UEM,PT,F,Y50T64,,,,,,,,,,,,,,17.9
 2011,SL_TLF_UEM,PT,F,Y50T64,,,,,,,,,,,,,,21.0
@@ -155,6 +178,8 @@ Year,SERIES,UNIT_MEASURE,SEX,AGE,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2019,SL_TLF_UEM,PT,F,Y50T64,,,,,,,,,,,,,,12.2
 2020,SL_TLF_UEM,PT,F,Y50T64,,,,,,,,,,,,,,8.6
 2021,SL_TLF_UEM,PT,F,Y50T64,,,,,,,,,,,,,,13.6
+2022,SL_TLF_UEM,PT,F,Y50T64,,,,,,,,,,,,,,9.7
+2023,SL_TLF_UEM,PT,F,Y50T64,,,,,,,,,,,,,,5.4
 2021,SL_TLF_UEM,PT,_T,Y_GE65,,,,,,,,,,,,,,7.7
 2021,SL_TLF_UEM,PT,M,Y_GE65,,,,,,,,,,,,,,6.4
 2021,SL_TLF_UEM,PT,F,Y_GE65,,,,,,,,,,,,,,9.1
@@ -171,6 +196,8 @@ Year,SERIES,UNIT_MEASURE,SEX,AGE,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2019,SL_TLF_UEM,PT,_T,Y15T64,,,,,,,,,,,,,,12.7
 2020,SL_TLF_UEM,PT,_T,Y15T64,,,,,,,,,,,,,,13.4
 2021,SL_TLF_UEM,PT,_T,Y15T64,,,,,,,,,,,,,,14.5
+2022,SL_TLF_UEM,PT,_T,Y15T64,,,,,,,,,,,,,,11.3
+2023,SL_TLF_UEM,PT,_T,Y15T64,,,,,,,,,,,,,,9.2
 2009,SL_TLF_UEM,PT,M,Y15T64,,,,,,,,,,,,,,21.2
 2010,SL_TLF_UEM,PT,M,Y15T64,,,,,,,,,,,,,,22.8
 2011,SL_TLF_UEM,PT,M,Y15T64,,,,,,,,,,,,,,23.7
@@ -184,6 +211,8 @@ Year,SERIES,UNIT_MEASURE,SEX,AGE,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2019,SL_TLF_UEM,PT,M,Y15T64,,,,,,,,,,,,,,10.3
 2020,SL_TLF_UEM,PT,M,Y15T64,,,,,,,,,,,,,,13.2
 2021,SL_TLF_UEM,PT,M,Y15T64,,,,,,,,,,,,,,13.0
+2022,SL_TLF_UEM,PT,M,Y15T64,,,,,,,,,,,,,,9.2
+2023,SL_TLF_UEM,PT,M,Y15T64,,,,,,,,,,,,,,7.5
 2009,SL_TLF_UEM,PT,F,Y15T64,,,,,,,,,,,,,,23.0
 2010,SL_TLF_UEM,PT,F,Y15T64,,,,,,,,,,,,,,26.9
 2011,SL_TLF_UEM,PT,F,Y15T64,,,,,,,,,,,,,,27.5
@@ -197,3 +226,5 @@ Year,SERIES,UNIT_MEASURE,SEX,AGE,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2019,SL_TLF_UEM,PT,F,Y15T64,,,,,,,,,,,,,,16.1
 2020,SL_TLF_UEM,PT,F,Y15T64,,,,,,,,,,,,,,13.7
 2021,SL_TLF_UEM,PT,F,Y15T64,,,,,,,,,,,,,,16.6
+2022,SL_TLF_UEM,PT,F,Y15T64,,,,,,,,,,,,,,14.4
+2023,SL_TLF_UEM,PT,F,Y15T64,,,,,,,,,,,,,,11.6
