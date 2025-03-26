@@ -10,7 +10,9 @@ Year,SERIES,UNIT_MEASURE,Value
 2018,Total generated municipal waste,TONNES,395737.0
 2019,Total generated municipal waste,TONNES,399826.0
 2020,Total generated municipal waste,TONNES,390426.0
-2021,Total generated municipal waste,TONNES,397182.0
+2021,Total generated municipal waste,TONNES,392000.0
+2022,Total generated municipal waste,TONNES,382341.0
+2023,Total generated municipal waste,TONNES,377084.0
 2010,Municipal waste delivered for treatment,TONNES,1926.0
 2011,Municipal waste delivered for treatment,TONNES,887.0
 2012,Municipal waste delivered for treatment,TONNES,1635.0
@@ -23,6 +25,8 @@ Year,SERIES,UNIT_MEASURE,Value
 2019,Municipal waste delivered for treatment,TONNES,2929.0
 2020,Municipal waste delivered for treatment,TONNES,1999.0
 2021,Municipal waste delivered for treatment,TONNES,2189.0
+2022,Municipal waste delivered for treatment,TONNES,2276.0
+2023,Municipal waste delivered for treatment,TONNES,2844.0
 2010,Share of treated municipal waste,Percent,0.5
 2011,Share of treated municipal waste,Percent,0.2
 2012,Share of treated municipal waste,Percent,0.4
@@ -35,3 +39,5 @@ Year,SERIES,UNIT_MEASURE,Value
 2019,Share of treated municipal waste,Percent,0.7
 2020,Share of treated municipal waste,Percent,0.5
 2021,Share of treated municipal waste,Percent,0.6
+2022,Share of treated municipal waste,Percent,0.6
+2023,Share of treated municipal waste,Percent,0.8

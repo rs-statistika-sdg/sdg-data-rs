@@ -10,7 +10,9 @@ Year,SERIES,UNIT_MEASURE,Value
 2018,Ukupno proizvedeni komunalni otpad,Tone,395737.0
 2019,Ukupno proizvedeni komunalni otpad,Tone,399826.0
 2020,Ukupno proizvedeni komunalni otpad,Tone,390426.0
-2021,Ukupno proizvedeni komunalni otpad,Tone,397182.0
+2021,Ukupno proizvedeni komunalni otpad,Tone,392000.0
+2022,Ukupno proizvedeni komunalni otpad,Tone,382341.0
+2023,Ukupno proizvedeni komunalni otpad,Tone,377084.0
 2010,Komunalni otpad predat na preradu,Tone,1926.0
 2011,Komunalni otpad predat na preradu,Tone,887.0
 2012,Komunalni otpad predat na preradu,Tone,1635.0
@@ -23,6 +25,8 @@ Year,SERIES,UNIT_MEASURE,Value
 2019,Komunalni otpad predat na preradu,Tone,2929.0
 2020,Komunalni otpad predat na preradu,Tone,1999.0
 2021,Komunalni otpad predat na preradu,Tone,2189.0
+2022,Komunalni otpad predat na preradu,Tone,2276.0
+2023,Komunalni otpad predat na preradu,Tone,2844.0
 2010,Udio prerađenog komunalnog otpada,Procenat,0.5
 2011,Udio prerađenog komunalnog otpada,Procenat,0.2
 2012,Udio prerađenog komunalnog otpada,Procenat,0.4
@@ -35,3 +39,5 @@ Year,SERIES,UNIT_MEASURE,Value
 2019,Udio prerađenog komunalnog otpada,Procenat,0.7
 2020,Udio prerađenog komunalnog otpada,Procenat,0.5
 2021,Udio prerađenog komunalnog otpada,Procenat,0.6
+2022,Udio prerađenog komunalnog otpada,Procenat,0.6
+2023,Udio prerađenog komunalnog otpada,Procenat,0.8
