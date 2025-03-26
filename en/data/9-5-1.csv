@@ -12,6 +12,8 @@ Year,SERIES,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
 2019,Research and development expenditure as a proportion of GDP (%),Percent,,0.16
 2020,Research and development expenditure as a proportion of GDP (%),Percent,,0.18
 2021,Research and development expenditure as a proportion of GDP (%),Percent,,0.2
+2022,Research and development expenditure as a proportion of GDP (%),Percent,,0.21
+2023,Research and development expenditure as a proportion of GDP (%),Percent,,0.24
 2009,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,No breakdown,24566.0
 2010,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,No breakdown,20779.0
 2011,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,No breakdown,26191.0
@@ -25,6 +27,8 @@ Year,SERIES,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
 2019,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,No breakdown,17687.0
 2020,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,No breakdown,20289.0
 2021,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,No breakdown,25394.0
+2022,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,No breakdown,30839.0
+2023,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,No breakdown,38877.0
 2009,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Business,10017.0
 2010,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Business,8520.0
 2011,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Business,15526.0
@@ -38,6 +42,8 @@ Year,SERIES,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
 2019,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Business,9636.0
 2020,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Business,11693.0
 2021,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Business,13612.0
+2022,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Business,16563.0
+2023,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Business,20048.0
 2009,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Government,1670.0
 2010,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Government,2019.0
 2011,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Government,3592.0
@@ -51,6 +57,8 @@ Year,SERIES,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
 2019,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Government,1357.0
 2020,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Government,1494.0
 2021,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Government,1609.0
+2022,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Government,1744.0
+2023,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Government,3289.0
 2009,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Higher education,12879.0
 2010,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Higher education,10091.0
 2011,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Higher education,7031.0
@@ -64,6 +72,8 @@ Year,SERIES,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
 2019,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Higher education,6661.0
 2020,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Higher education,7102.0
 2021,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Higher education,10173.0
+2022,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Higher education,11881.0
+2023,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Higher education,14039.0
 2009,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Non-profit,0.0
 2010,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Non-profit,149.0
 2011,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Non-profit,42.0
@@ -77,3 +87,5 @@ Year,SERIES,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
 2019,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Non-profit,33.0
 2020,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Non-profit,0.0
 2021,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Non-profit,0.0
+2022,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Non-profit,651.0
+2023,"Gross domestic expenditure on research and development, by sector",in thousands of BAM,Non-profit,1501.0
