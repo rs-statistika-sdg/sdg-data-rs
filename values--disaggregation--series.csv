@@ -74,7 +74,7 @@ SH_H2O_SAFE_RWDW,Percentage of households with running water in the dwelling uni
 SH_H2O_SAFE_SPSRS,"Percentage of households supplied with water from separate source well, faucet)","Procenat domaćinstava koja se snabdijevaju vodom iz pojedinačnog izvora (bunar, stojeća česma)","Проценат домаћинстава која се снабдијевају водом из појединачног извора (бунар, стојећа чесма)",1,1
 SH_HAP_HBSAGINC,"Hepatitis B incidence (per 100,000 population)",Incidencija hepatitisa B (na 100 000 stanovnika),Инциденција хепатитиса Б (на 100 000 становника),1,1
 SH_HIV_INCDA,"HIV incidence per 100,000 population",Incidencija HIV-a na 100 000 stanovnika,Инциденција ХИВ-а на 100 000 становника,1,1
-SH_HIV_INCDAS,Number of registered cases of HIV infection during the year,Broj prijavljenih HIV pozitivnih u toku godine,Број пријављених ХИВ позитивних у току године,9,1
+SH_HIV_INCDAS,Number of registered cases of HIV infection during the year,Broj prijavljenih HIV pozitivnih u toku godine,Број пријављених ХИВ позитивних у току године,10,1
 SH_PRV_SMOKA,Percentage of daily smokers among the population,Procenat svakodnevnih pušača među stanovništvom,Проценат свакодневних пушача међу становништвом,4,1
 SH_PRV_SMOKC,Percentage of smokers among children aged 13–15 years,Procenat pušača među djecom starosti 13–15 godina,Проценат пушача међу дјецом старости 13–15 година,1,1
 SH_SAN_SAFEHH_BATH,Proportion of households owning a bathroom with a WC in the main dwelling unit,Procenat domaćinstava koja u glavnoj stambenoj jedinici posjeduju kupatilo s WC-om,Проценат домаћинстава која у главној стамбеној јединици посједују купатило са WC-ом,3,1
