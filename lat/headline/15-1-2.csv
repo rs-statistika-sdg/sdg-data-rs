@@ -12,6 +12,8 @@ Year,Value,UNIT_MEASURE,SERIES
 2019,26.0,Broj,Kopneni ekosistemi
 2020,27.0,Broj,Kopneni ekosistemi
 2021,31.0,Broj,Kopneni ekosistemi
+2022,,Broj,Kopneni ekosistemi
+2023,,Broj,Kopneni ekosistemi
 2009,20005.33,Površina u hektarima,Kopneni ekosistemi
 2010,20005.33,Površina u hektarima,Kopneni ekosistemi
 2011,20032.34,Površina u hektarima,Kopneni ekosistemi
@@ -25,6 +27,8 @@ Year,Value,UNIT_MEASURE,SERIES
 2019,32106.1,Površina u hektarima,Kopneni ekosistemi
 2020,48822.63,Površina u hektarima,Kopneni ekosistemi
 2021,53533.58,Površina u hektarima,Kopneni ekosistemi
+2022,,Površina u hektarima,Kopneni ekosistemi
+2023,,Površina u hektarima,Kopneni ekosistemi
 2018,2.0,Broj,Slatkovodni ekosistemi
 2019,3.0,Broj,Slatkovodni ekosistemi
 2020,3.0,Broj,Slatkovodni ekosistemi
@@ -33,3 +37,5 @@ Year,Value,UNIT_MEASURE,SERIES
 2019,3800.39,Površina u hektarima,Slatkovodni ekosistemi
 2020,3800.39,Površina u hektarima,Slatkovodni ekosistemi
 2021,4121.08,Površina u hektarima,Slatkovodni ekosistemi
+2022,,Površina u hektarima,Slatkovodni ekosistemi
+2023,,Površina u hektarima,Slatkovodni ekosistemi

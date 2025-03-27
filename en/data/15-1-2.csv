@@ -12,6 +12,8 @@ Year,SERIES,UNIT_MEASURE,Value
 2019,Terrestrial ecosystems,Number,26.0
 2020,Terrestrial ecosystems,Number,27.0
 2021,Terrestrial ecosystems,Number,31.0
+2022,Terrestrial ecosystems,Number,
+2023,Terrestrial ecosystems,Number,
 2009,Terrestrial ecosystems,"Area, in hectares",20005.33
 2010,Terrestrial ecosystems,"Area, in hectares",20005.33
 2011,Terrestrial ecosystems,"Area, in hectares",20032.34
@@ -25,6 +27,8 @@ Year,SERIES,UNIT_MEASURE,Value
 2019,Terrestrial ecosystems,"Area, in hectares",32106.1
 2020,Terrestrial ecosystems,"Area, in hectares",48822.63
 2021,Terrestrial ecosystems,"Area, in hectares",53533.58
+2022,Terrestrial ecosystems,"Area, in hectares",
+2023,Terrestrial ecosystems,"Area, in hectares",
 2018,Freshwater ecosystems,Number,2.0
 2019,Freshwater ecosystems,Number,3.0
 2020,Freshwater ecosystems,Number,3.0
@@ -33,3 +37,5 @@ Year,SERIES,UNIT_MEASURE,Value
 2019,Freshwater ecosystems,"Area, in hectares",3800.39
 2020,Freshwater ecosystems,"Area, in hectares",3800.39
 2021,Freshwater ecosystems,"Area, in hectares",4121.08
+2022,Freshwater ecosystems,"Area, in hectares",
+2023,Freshwater ecosystems,"Area, in hectares",
