@@ -12,6 +12,8 @@ Year,Value,UNIT_MEASURE,SERIES
 2019,6.0,Number,Mountain ecosystems
 2020,7.0,Number,Mountain ecosystems
 2021,9.0,Number,Mountain ecosystems
+2022,,Number,Mountain ecosystems
+2023,,Number,Mountain ecosystems
 2009,19959.88,"Area, in hectares",Mountain ecosystems
 2010,19959.88,"Area, in hectares",Mountain ecosystems
 2011,19959.88,"Area, in hectares",Mountain ecosystems
@@ -25,3 +27,5 @@ Year,Value,UNIT_MEASURE,SERIES
 2019,27198.77,"Area, in hectares",Mountain ecosystems
 2020,43914.61,"Area, in hectares",Mountain ecosystems
 2021,48114.47,"Area, in hectares",Mountain ecosystems
+2022,,"Area, in hectares",Mountain ecosystems
+2023,,"Area, in hectares",Mountain ecosystems
