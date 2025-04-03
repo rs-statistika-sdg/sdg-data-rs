@@ -344,6 +344,7 @@ SI_POV_HHD: Proportion of households living below the national poverty line
 SI_POV_NAHC: Proportion of population living below the national poverty line
 SI_POV_HHDS: Poverty headcount by sex of household head
 SI_POV_HHDA: Poverty headcount by age of household head 
+SI_POV_HHDL: Poverty rate of households according to different poverty lines
 SI_RMT_COST: Average remittance costs of sending $200 to a receiving country as a proportion of the amount remitted (%)
 SL_CPA_YEMP: Existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy
 SL_EMP_GTOTL: Labour share of GDP
