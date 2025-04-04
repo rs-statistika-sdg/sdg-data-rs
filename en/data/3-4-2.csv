@@ -12,6 +12,8 @@ Year,SERIES,UNIT_MEASURE,Sex,Unnamed: 5,Unnamed: 6,Unnamed: 7,Value
 2019,Number of deaths attributed to suicide,Number,Both sexes or no breakdown by sex,,,,173.0
 2020,Number of deaths attributed to suicide,Number,Both sexes or no breakdown by sex,,,,185.0
 2021,Number of deaths attributed to suicide,Number,Both sexes or no breakdown by sex,,,,194.0
+2022,Number of deaths attributed to suicide,Number,Both sexes or no breakdown by sex,,,,179.0
+2023,Number of deaths attributed to suicide,Number,Both sexes or no breakdown by sex,,,,162.0
 2009,Number of deaths attributed to suicide,Number,Male,,,,178.0
 2010,Number of deaths attributed to suicide,Number,Male,,,,184.0
 2011,Number of deaths attributed to suicide,Number,Male,,,,212.0
@@ -25,6 +27,8 @@ Year,SERIES,UNIT_MEASURE,Sex,Unnamed: 5,Unnamed: 6,Unnamed: 7,Value
 2019,Number of deaths attributed to suicide,Number,Male,,,,137.0
 2020,Number of deaths attributed to suicide,Number,Male,,,,144.0
 2021,Number of deaths attributed to suicide,Number,Male,,,,140.0
+2022,Number of deaths attributed to suicide,Number,Male,,,,139.0
+2023,Number of deaths attributed to suicide,Number,Male,,,,123.0
 2009,Number of deaths attributed to suicide,Number,Female,,,,80.0
 2010,Number of deaths attributed to suicide,Number,Female,,,,46.0
 2011,Number of deaths attributed to suicide,Number,Female,,,,70.0
@@ -38,6 +42,8 @@ Year,SERIES,UNIT_MEASURE,Sex,Unnamed: 5,Unnamed: 6,Unnamed: 7,Value
 2019,Number of deaths attributed to suicide,Number,Female,,,,36.0
 2020,Number of deaths attributed to suicide,Number,Female,,,,41.0
 2021,Number of deaths attributed to suicide,Number,Female,,,,54.0
+2022,Number of deaths attributed to suicide,Number,Female,,,,40.0
+2023,Number of deaths attributed to suicide,Number,Female,,,,39.0
 2009,Suicide mortality rate,"Per 100,000 population",Both sexes or no breakdown by sex,,,,21.9
 2010,Suicide mortality rate,"Per 100,000 population",Both sexes or no breakdown by sex,,,,19.6
 2011,Suicide mortality rate,"Per 100,000 population",Both sexes or no breakdown by sex,,,,24.0
