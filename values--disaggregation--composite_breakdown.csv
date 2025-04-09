@@ -1,5 +1,11 @@
 Value,en,lat,cir,Disaggregation combinations using this value,Number of indicators
-_T,No breakdown,Bez podjele,Без подјеле,7,4
+_T,No breakdown,Bez podjele,Без подјеле,8,5
+ACCESS_SRCOTH_1,Grocery store,Prodavnica mješovite robe,Продавница мјешовите робе,5,1
+ACCESS_SRCOTH_2,Banking services,Bankarske usluge,Банкарске услуге,5,1
+ACCESS_SRCOTH_3,Postal services,Poštanske usluge,Поштанске услуге,5,1
+ACCESS_SRCOTH_4,Public transport,Javni transport,Јавни транспорт,5,1
+ACCESS_SRCOTH_5,Primary health care institution,Ustanova primarne zdravstvene zaštite,Установа примарне здравствене заштите,5,1
+ACCESS_SRCOTH_6,Preschool and primary education institution,Ustanova predškolskog i osnovnog obrazovanja,Установа предшколског и основног образовања,5,1
 BNK_FBIHURS,Banks of FBiH in Republika Srpska,Banke FBiH u Republici Srpskoj,Банке ФБиХ у Републици Српској,6,1
 BNK_RS,Banks of Republika Srpska,Banke Republike Srpske,Банке Републике Српске,6,1
 BNK_T,"Banks operating in Republika Srpska, total",Ukupno banke koje posluju u Republici Srpskoj,Укупно банке које послују у Републици Српској,6,1
@@ -50,3 +56,5 @@ VC_HTF_03,"Child trafficking, Article 146 of RS Criminal Law","Trgovina djecom, 
 VC_HTFET_01,Sexual exploitation,Seksualna eksploatacija,Сексуална експлоатација,1,1
 VC_HTFET_02,Forced marriage,Prisilno zaključenje braka,Присилно закључење брака,1,1
 VRBAS,Vrbas River,Vrbas,Врбас,3,1
+WC_SEPARATE,Does not have a separate WC,Nema WC posebno,Нема WC посебно,1,1
+WC_TOILET,Does not have a bathroom with a WC,Nema kupatilo sa WC-om,Нема купатило са WC-ом,1,1
