@@ -100,7 +100,7 @@ SI_COV_SOCSRAZ,Number of social protection beneficiaries receiving support in th
 SI_COV_SOCSUST,Number of social protection beneficiaries placed in a social protection institution or in another institution,Broj korisnika socijalne zaštite koji ostvaruju pravo na smještaj u ustanovu socijalne zaštite i drugu ustanovu,Број корисника социјалне заштите који остварују право на смјештај у установу социјалне заштите и другу установу,6,1
 SI_COV_SOCUSALL,Proportion of the population covered by social protection systems,Udio korisnika socijalne zaštite u ukupnoj populaciji,Удио корисника социјалне заштите у укупној популацији,2,1
 SI_COV_SOCUSSA,Number of social protection beneficiaries by sex and age,Broj korisnika socijalne zaštite po polu i starosti,Број корисника социјалне заштите по полу и старости,6,1
-SI_POV_50MEHH,SI_POV_50MEHH,SI_POV_50MEHH,Удио домаћинстава који живе испод 50% медијане издатака,1,1
+SI_POV_50MEHH,Share of households living under 50% of the median expenditure,SI_POV_50MEHH,Удио домаћинстава који живе испод 50% медијане издатака,1,1
 SI_POV_HHD,Proportion of households living below the national poverty line,Udio domaćinstava koja žive ispod nacionalne linije siromaštva,Удио домаћинстава која живе испод националне границе сиромаштва,2,1
 SI_POV_HHDA,Poverty headcount by age of household head,Veličina siromaštva po po godinama starosti nosioca domaćinstva,Величина сиромаштва по по годинама старости носиоца домаћинства,5,1
 SI_POV_HHDS,Poverty headcount by sex of household head,Veličina siromaštva po polu nosioca domaćinstva,Величина сиромаштва по полу носиоца домаћинства,2,1
