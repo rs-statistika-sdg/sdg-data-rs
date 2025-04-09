@@ -1,1 +1,67 @@
-Year,Value
+Year,SERIES,UNIT_MEASURE,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN.1,Value
+2011,Households’ access to basic services,Percent,Grocery store,ACCESS_LEVEL_4,3.5
+2011,Households’ access to basic services,Percent,Grocery store,ACCESS_LEVEL_3,20.4
+2011,Households’ access to basic services,Percent,Grocery store,ACCESS_LEVEL_2,58.7
+2011,Households’ access to basic services,Percent,Grocery store,ACCESS_LEVEL_1,16.7
+2011,Households’ access to basic services,Percent,Grocery store,ACCESS_LEVEL_0,0.0
+2015,Households’ access to basic services,Percent,Grocery store,ACCESS_LEVEL_4,6.8
+2015,Households’ access to basic services,Percent,Grocery store,ACCESS_LEVEL_3,18.9
+2015,Households’ access to basic services,Percent,Grocery store,ACCESS_LEVEL_2,58.4
+2015,Households’ access to basic services,Percent,Grocery store,ACCESS_LEVEL_1,15.8
+2015,Households’ access to basic services,Percent,Grocery store,ACCESS_LEVEL_0,0.0
+2011,Households’ access to basic services,Percent,Banking services,ACCESS_LEVEL_4,5.0
+2011,Households’ access to basic services,Percent,Banking services,ACCESS_LEVEL_3,28.6
+2011,Households’ access to basic services,Percent,Banking services,ACCESS_LEVEL_2,42.5
+2011,Households’ access to basic services,Percent,Banking services,ACCESS_LEVEL_1,11.6
+2011,Households’ access to basic services,Percent,Banking services,ACCESS_LEVEL_0,12.3
+2015,Households’ access to basic services,Percent,Banking services,ACCESS_LEVEL_4,13.5
+2015,Households’ access to basic services,Percent,Banking services,ACCESS_LEVEL_3,27.8
+2015,Households’ access to basic services,Percent,Banking services,ACCESS_LEVEL_2,39.9
+2015,Households’ access to basic services,Percent,Banking services,ACCESS_LEVEL_1,11.8
+2015,Households’ access to basic services,Percent,Banking services,ACCESS_LEVEL_0,7.0
+2011,Households’ access to basic services,Percent,Postal services,ACCESS_LEVEL_4,4.3
+2011,Households’ access to basic services,Percent,Postal services,ACCESS_LEVEL_3,24.8
+2011,Households’ access to basic services,Percent,Postal services,ACCESS_LEVEL_2,51.1
+2011,Households’ access to basic services,Percent,Postal services,ACCESS_LEVEL_1,12.9
+2011,Households’ access to basic services,Percent,Postal services,ACCESS_LEVEL_0,7.0
+2015,Households’ access to basic services,Percent,Postal services,ACCESS_LEVEL_4,11.8
+2015,Households’ access to basic services,Percent,Postal services,ACCESS_LEVEL_3,23.5
+2015,Households’ access to basic services,Percent,Postal services,ACCESS_LEVEL_2,48.6
+2015,Households’ access to basic services,Percent,Postal services,ACCESS_LEVEL_1,12.8
+2015,Households’ access to basic services,Percent,Postal services,ACCESS_LEVEL_0,3.0
+2011,Households’ access to basic services,Percent,Public transport,ACCESS_LEVEL_4,3.4
+2011,Households’ access to basic services,Percent,Public transport,ACCESS_LEVEL_3,22.9
+2011,Households’ access to basic services,Percent,Public transport,ACCESS_LEVEL_2,50.0
+2011,Households’ access to basic services,Percent,Public transport,ACCESS_LEVEL_1,12.0
+2011,Households’ access to basic services,Percent,Public transport,ACCESS_LEVEL_0,11.7
+2015,Households’ access to basic services,Percent,Public transport,ACCESS_LEVEL_4,8.4
+2015,Households’ access to basic services,Percent,Public transport,ACCESS_LEVEL_3,23.0
+2015,Households’ access to basic services,Percent,Public transport,ACCESS_LEVEL_2,46.8
+2015,Households’ access to basic services,Percent,Public transport,ACCESS_LEVEL_1,11.3
+2015,Households’ access to basic services,Percent,Public transport,ACCESS_LEVEL_0,11.0
+2011,Households’ access to basic services,Percent,Primary health care institution,ACCESS_LEVEL_4,4.5
+2011,Households’ access to basic services,Percent,Primary health care institution,ACCESS_LEVEL_3,30.3
+2011,Households’ access to basic services,Percent,Primary health care institution,ACCESS_LEVEL_2,52.0
+2011,Households’ access to basic services,Percent,Primary health care institution,ACCESS_LEVEL_1,12.5
+2011,Households’ access to basic services,Percent,Primary health care institution,ACCESS_LEVEL_0,0.0
+2015,Households’ access to basic services,Percent,Primary health care institution,ACCESS_LEVEL_4,10.2
+2015,Households’ access to basic services,Percent,Primary health care institution,ACCESS_LEVEL_3,28.0
+2015,Households’ access to basic services,Percent,Primary health care institution,ACCESS_LEVEL_2,48.7
+2015,Households’ access to basic services,Percent,Primary health care institution,ACCESS_LEVEL_1,12.6
+2015,Households’ access to basic services,Percent,Primary health care institution,ACCESS_LEVEL_0,0.0
+2011,Households’ access to basic services,Percent,Preschool and primary education institution,ACCESS_LEVEL_4,0.0
+2011,Households’ access to basic services,Percent,Preschool and primary education institution,ACCESS_LEVEL_3,8.3
+2011,Households’ access to basic services,Percent,Preschool and primary education institution,ACCESS_LEVEL_2,20.8
+2011,Households’ access to basic services,Percent,Preschool and primary education institution,ACCESS_LEVEL_1,6.4
+2011,Households’ access to basic services,Percent,Preschool and primary education institution,ACCESS_LEVEL_0,63.6
+2015,Households’ access to basic services,Percent,Preschool and primary education institution,ACCESS_LEVEL_4,4.3
+2015,Households’ access to basic services,Percent,Preschool and primary education institution,ACCESS_LEVEL_3,8.8
+2015,Households’ access to basic services,Percent,Preschool and primary education institution,ACCESS_LEVEL_2,22.4
+2015,Households’ access to basic services,Percent,Preschool and primary education institution,ACCESS_LEVEL_1,7.1
+2015,Households’ access to basic services,Percent,Preschool and primary education institution,ACCESS_LEVEL_0,57.0
+2011,"Population living in households with no bathroom, shower, or flushing toilet",Percent,Does not have a bathroom with a WC,,17.7
+2011,"Population living in households with no bathroom, shower, or flushing toilet",Percent,Does not have a separate WC,,83.3
+2015,"Population living in households with no bathroom, shower, or flushing toilet",Percent,Does not have a bathroom with a WC,,15.8
+2015,"Population living in households with no bathroom, shower, or flushing toilet",Percent,Does not have a separate WC,,22.9
+2011,Population unable to keep home adequately warm,Percent,,,30.0
+2015,Population unable to keep home adequately warm,Percent,,,21.2
