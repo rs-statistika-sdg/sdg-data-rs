@@ -462,3 +462,6 @@ SP_TRN_PUBL: Udio stanovništva koji ima povoljan pristup javnom prijevozu (%)
 SP_LGL_LNDDOC_SOLO: Samostalni vlasnici/ce nepokretnosti – zemljišta i objekata
 SP_LGL_LNDDOC_COHFR: Suvlasnici/ce u omjeru ½ nepokretnosti – zemljišta i objekata
 SP_LGL_LNDDOC_COUHFR: Suvlasnici/ce u omjeru manjem od ½ nepokretnosti – zemljišta i objekata
+SP_ACS_BSROTHER: Pristupačnost domaćinstva uslugama
+SP_ACS_BSRWC: Stanovništvo koje u domaćinstvu nema kupatilo, tuš i nužnik s vodokotlićem
+SP_ACS_BSRHEAT: Stanovništvo koje ne može da održi dom dovoljno toplim
