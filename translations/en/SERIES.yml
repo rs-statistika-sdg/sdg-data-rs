@@ -462,3 +462,6 @@ SP_TRN_PUBL: Proportion of population that has convenient access to public trans
 SP_LGL_LNDDOC_SOLO: Sole owners of real estate – land and buildings
 SP_LGL_LNDDOC_COHFR: Co-owners of real estate – land and buildings, ½ ownership ratio
 SP_LGL_LNDDOC_COUHFR: Co-owners of real estate – land and buildings, ownership ratio under ½
+SP_ACS_BSROTHER: Households’ access to basic services
+SP_ACS_BSRWC: Population living in households with no bathroom, shower, or flushing toilet
+SP_ACS_BSRHEAT: Population unable to keep home adequately warm
