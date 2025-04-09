@@ -59,9 +59,9 @@ Year,SERIES,UNIT_MEASURE,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN.1,Value
 2015,Households’ access to basic services,Percent,Preschool and primary education institution,ACCESS_LEVEL_2,22.4
 2015,Households’ access to basic services,Percent,Preschool and primary education institution,ACCESS_LEVEL_1,7.1
 2015,Households’ access to basic services,Percent,Preschool and primary education institution,ACCESS_LEVEL_0,57.0
-2011,"Population living in households with no bathroom, shower, or flushing toilet",Percent,Does not have a bathroom with a WC,,17.7
-2011,"Population living in households with no bathroom, shower, or flushing toilet",Percent,Does not have a separate WC,,83.3
-2015,"Population living in households with no bathroom, shower, or flushing toilet",Percent,Does not have a bathroom with a WC,,15.8
-2015,"Population living in households with no bathroom, shower, or flushing toilet",Percent,Does not have a separate WC,,22.9
-2011,Population unable to keep home adequately warm,Percent,,,30.0
-2015,Population unable to keep home adequately warm,Percent,,,21.2
+2011,"Population living in households with no bathroom, shower, or flushing toilet",Percent,Does not have a bathroom with a WC,_T,17.7
+2011,"Population living in households with no bathroom, shower, or flushing toilet",Percent,Does not have a separate WC,_T,83.3
+2015,"Population living in households with no bathroom, shower, or flushing toilet",Percent,Does not have a bathroom with a WC,_T,15.8
+2015,"Population living in households with no bathroom, shower, or flushing toilet",Percent,Does not have a separate WC,_T,22.9
+2011,Population unable to keep home adequately warm,Percent,No breakdown,_T,30.0
+2015,Population unable to keep home adequately warm,Percent,No breakdown,_T,21.2
