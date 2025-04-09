@@ -116,4 +116,17 @@ TX_OTHDC: Ostale razvijene zemlje
 TX_CEFTA: CEFTA
 TX_OTHCID: Ostale zemlje u razvoju
 TX_UNCLSS: Neraspoređeno
-COMPOSITE_BREAKDOWN: Kompozitni slom
+ACCESS_LEVEL_4: Veoma teško
+ACCESS_LEVEL_3: Teško
+ACCESS_LEVEL_2: Lako
+ACCESS_LEVEL_1: Veoma lako
+ACCESS_LEVEL_1: Usluga se ne koristi
+ACCESS_SRCOTH_1: Prodavnica mješovite robe 
+ACCESS_SRCOTH_2: Bankarske usluge 
+ACCESS_SRCOTH_3: Poštanske usluge 
+ACCESS_SRCOTH_4: Javni transport 
+ACCESS_SRCOTH_5: Ustanova primarne zdravstvene zaštite 
+ACCESS_SRCOTH_6: Ustanova predškolskog i osnovnog obrazovanja 
+WC_TOILET: Nema kupatilo sa WC-om
+WC_SEPARATE: Nema WC posebno
+COMPOSITE_BREAKDOWN: Detaljna podjela
