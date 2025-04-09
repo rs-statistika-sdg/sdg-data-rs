@@ -116,4 +116,17 @@ TX_OTHDC: Other developed countries
 TX_CEFTA: CEFTA countries
 TX_OTHCID: Other developing countries
 TX_UNCLSS: Unclassified
+ACCESS_LEVEL_4: Very difficult
+ACCESS_LEVEL_3: Difficult
+ACCESS_LEVEL_2: Easy
+ACCESS_LEVEL_1: Very easy
+ACCESS_LEVEL_1: Service not used
+ACCESS_SRCOTH_1: Grocery store 
+ACCESS_SRCOTH_2: Banking services
+ACCESS_SRCOTH_3: Postal services 
+ACCESS_SRCOTH_4: Public transport
+ACCESS_SRCOTH_5: Primary health care institution
+ACCESS_SRCOTH_6: Preschool and primary education institution 
+WC_TOILET: Does not have a bathroom with a WC
+WC_SEPARATE: Does not have a separate WC
 COMPOSITE_BREAKDOWN: Composite breakdown
