@@ -120,7 +120,7 @@ ACCESS_LEVEL_4: Veoma teško
 ACCESS_LEVEL_3: Teško
 ACCESS_LEVEL_2: Lako
 ACCESS_LEVEL_1: Veoma lako
-ACCESS_LEVEL_1: Usluga se ne koristi
+ACCESS_LEVEL_0: Usluga se ne koristi
 ACCESS_SRCOTH_1: Prodavnica mješovite robe 
 ACCESS_SRCOTH_2: Bankarske usluge 
 ACCESS_SRCOTH_3: Poštanske usluge 
