@@ -116,11 +116,6 @@ TX_OTHDC: Остале развијене земље
 TX_CEFTA: ЦЕФТА
 TX_OTHCID: Остале земље у развоју
 TX_UNCLSS: Нераспоређено
-ACCESS_LEVEL_4: Веома тешко
-ACCESS_LEVEL_3: Тешко
-ACCESS_LEVEL_2: Лако
-ACCESS_LEVEL_1: Веома лако
-ACCESS_LEVEL_0: Услуга се не користи
 ACCESS_SRCOTH_1: Продавница мјешовите робе 
 ACCESS_SRCOTH_2: Банкарске услуге 
 ACCESS_SRCOTH_3: Поштанске услуге 
