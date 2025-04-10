@@ -1,1 +1,6 @@
-
+PRISTUP_NIVO: Access to services
+ACCESS_LEVEL_4: Very difficult
+ACCESS_LEVEL_3: Difficult
+ACCESS_LEVEL_2: Easy
+ACCESS_LEVEL_1: Very easy
+ACCESS_LEVEL_0: Service not used
