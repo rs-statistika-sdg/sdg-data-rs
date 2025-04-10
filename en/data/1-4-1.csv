@@ -1,64 +1,64 @@
-Year,SERIES,UNIT_MEASURE,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN.1,Value
-2011,Households’ access to basic services,Percent,Grocery store,ACCESS_LEVEL_4,3.5
-2011,Households’ access to basic services,Percent,Grocery store,ACCESS_LEVEL_3,20.4
-2011,Households’ access to basic services,Percent,Grocery store,ACCESS_LEVEL_2,58.7
-2011,Households’ access to basic services,Percent,Grocery store,ACCESS_LEVEL_1,16.7
-2011,Households’ access to basic services,Percent,Grocery store,ACCESS_LEVEL_0,0.0
-2015,Households’ access to basic services,Percent,Grocery store,ACCESS_LEVEL_4,6.8
-2015,Households’ access to basic services,Percent,Grocery store,ACCESS_LEVEL_3,18.9
-2015,Households’ access to basic services,Percent,Grocery store,ACCESS_LEVEL_2,58.4
-2015,Households’ access to basic services,Percent,Grocery store,ACCESS_LEVEL_1,15.8
-2015,Households’ access to basic services,Percent,Grocery store,ACCESS_LEVEL_0,0.0
-2011,Households’ access to basic services,Percent,Banking services,ACCESS_LEVEL_4,5.0
-2011,Households’ access to basic services,Percent,Banking services,ACCESS_LEVEL_3,28.6
-2011,Households’ access to basic services,Percent,Banking services,ACCESS_LEVEL_2,42.5
-2011,Households’ access to basic services,Percent,Banking services,ACCESS_LEVEL_1,11.6
-2011,Households’ access to basic services,Percent,Banking services,ACCESS_LEVEL_0,12.3
-2015,Households’ access to basic services,Percent,Banking services,ACCESS_LEVEL_4,13.5
-2015,Households’ access to basic services,Percent,Banking services,ACCESS_LEVEL_3,27.8
-2015,Households’ access to basic services,Percent,Banking services,ACCESS_LEVEL_2,39.9
-2015,Households’ access to basic services,Percent,Banking services,ACCESS_LEVEL_1,11.8
-2015,Households’ access to basic services,Percent,Banking services,ACCESS_LEVEL_0,7.0
-2011,Households’ access to basic services,Percent,Postal services,ACCESS_LEVEL_4,4.3
-2011,Households’ access to basic services,Percent,Postal services,ACCESS_LEVEL_3,24.8
-2011,Households’ access to basic services,Percent,Postal services,ACCESS_LEVEL_2,51.1
-2011,Households’ access to basic services,Percent,Postal services,ACCESS_LEVEL_1,12.9
-2011,Households’ access to basic services,Percent,Postal services,ACCESS_LEVEL_0,7.0
-2015,Households’ access to basic services,Percent,Postal services,ACCESS_LEVEL_4,11.8
-2015,Households’ access to basic services,Percent,Postal services,ACCESS_LEVEL_3,23.5
-2015,Households’ access to basic services,Percent,Postal services,ACCESS_LEVEL_2,48.6
-2015,Households’ access to basic services,Percent,Postal services,ACCESS_LEVEL_1,12.8
-2015,Households’ access to basic services,Percent,Postal services,ACCESS_LEVEL_0,3.0
-2011,Households’ access to basic services,Percent,Public transport,ACCESS_LEVEL_4,3.4
-2011,Households’ access to basic services,Percent,Public transport,ACCESS_LEVEL_3,22.9
-2011,Households’ access to basic services,Percent,Public transport,ACCESS_LEVEL_2,50.0
-2011,Households’ access to basic services,Percent,Public transport,ACCESS_LEVEL_1,12.0
-2011,Households’ access to basic services,Percent,Public transport,ACCESS_LEVEL_0,11.7
-2015,Households’ access to basic services,Percent,Public transport,ACCESS_LEVEL_4,8.4
-2015,Households’ access to basic services,Percent,Public transport,ACCESS_LEVEL_3,23.0
-2015,Households’ access to basic services,Percent,Public transport,ACCESS_LEVEL_2,46.8
-2015,Households’ access to basic services,Percent,Public transport,ACCESS_LEVEL_1,11.3
-2015,Households’ access to basic services,Percent,Public transport,ACCESS_LEVEL_0,11.0
-2011,Households’ access to basic services,Percent,Primary health care institution,ACCESS_LEVEL_4,4.5
-2011,Households’ access to basic services,Percent,Primary health care institution,ACCESS_LEVEL_3,30.3
-2011,Households’ access to basic services,Percent,Primary health care institution,ACCESS_LEVEL_2,52.0
-2011,Households’ access to basic services,Percent,Primary health care institution,ACCESS_LEVEL_1,12.5
-2011,Households’ access to basic services,Percent,Primary health care institution,ACCESS_LEVEL_0,0.0
-2015,Households’ access to basic services,Percent,Primary health care institution,ACCESS_LEVEL_4,10.2
-2015,Households’ access to basic services,Percent,Primary health care institution,ACCESS_LEVEL_3,28.0
-2015,Households’ access to basic services,Percent,Primary health care institution,ACCESS_LEVEL_2,48.7
-2015,Households’ access to basic services,Percent,Primary health care institution,ACCESS_LEVEL_1,12.6
-2015,Households’ access to basic services,Percent,Primary health care institution,ACCESS_LEVEL_0,0.0
-2011,Households’ access to basic services,Percent,Preschool and primary education institution,ACCESS_LEVEL_4,0.0
-2011,Households’ access to basic services,Percent,Preschool and primary education institution,ACCESS_LEVEL_3,8.3
-2011,Households’ access to basic services,Percent,Preschool and primary education institution,ACCESS_LEVEL_2,20.8
-2011,Households’ access to basic services,Percent,Preschool and primary education institution,ACCESS_LEVEL_1,6.4
-2011,Households’ access to basic services,Percent,Preschool and primary education institution,ACCESS_LEVEL_0,63.6
-2015,Households’ access to basic services,Percent,Preschool and primary education institution,ACCESS_LEVEL_4,4.3
-2015,Households’ access to basic services,Percent,Preschool and primary education institution,ACCESS_LEVEL_3,8.8
-2015,Households’ access to basic services,Percent,Preschool and primary education institution,ACCESS_LEVEL_2,22.4
-2015,Households’ access to basic services,Percent,Preschool and primary education institution,ACCESS_LEVEL_1,7.1
-2015,Households’ access to basic services,Percent,Preschool and primary education institution,ACCESS_LEVEL_0,57.0
+Year,SERIES,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Access to services,Value
+2011,Households’ access to basic services,Percent,Grocery store,Very difficult,3.5
+2011,Households’ access to basic services,Percent,Grocery store,Difficult,20.4
+2011,Households’ access to basic services,Percent,Grocery store,Easy,58.7
+2011,Households’ access to basic services,Percent,Grocery store,Very easy,16.7
+2011,Households’ access to basic services,Percent,Grocery store,Service not used,0.0
+2015,Households’ access to basic services,Percent,Grocery store,Very difficult,6.8
+2015,Households’ access to basic services,Percent,Grocery store,Difficult,18.9
+2015,Households’ access to basic services,Percent,Grocery store,Easy,58.4
+2015,Households’ access to basic services,Percent,Grocery store,Very easy,15.8
+2015,Households’ access to basic services,Percent,Grocery store,Service not used,0.0
+2011,Households’ access to basic services,Percent,Banking services,Very difficult,5.0
+2011,Households’ access to basic services,Percent,Banking services,Difficult,28.6
+2011,Households’ access to basic services,Percent,Banking services,Easy,42.5
+2011,Households’ access to basic services,Percent,Banking services,Very easy,11.6
+2011,Households’ access to basic services,Percent,Banking services,Service not used,12.3
+2015,Households’ access to basic services,Percent,Banking services,Very difficult,13.5
+2015,Households’ access to basic services,Percent,Banking services,Difficult,27.8
+2015,Households’ access to basic services,Percent,Banking services,Easy,39.9
+2015,Households’ access to basic services,Percent,Banking services,Very easy,11.8
+2015,Households’ access to basic services,Percent,Banking services,Service not used,7.0
+2011,Households’ access to basic services,Percent,Postal services,Very difficult,4.3
+2011,Households’ access to basic services,Percent,Postal services,Difficult,24.8
+2011,Households’ access to basic services,Percent,Postal services,Easy,51.1
+2011,Households’ access to basic services,Percent,Postal services,Very easy,12.9
+2011,Households’ access to basic services,Percent,Postal services,Service not used,7.0
+2015,Households’ access to basic services,Percent,Postal services,Very difficult,11.8
+2015,Households’ access to basic services,Percent,Postal services,Difficult,23.5
+2015,Households’ access to basic services,Percent,Postal services,Easy,48.6
+2015,Households’ access to basic services,Percent,Postal services,Very easy,12.8
+2015,Households’ access to basic services,Percent,Postal services,Service not used,3.0
+2011,Households’ access to basic services,Percent,Public transport,Very difficult,3.4
+2011,Households’ access to basic services,Percent,Public transport,Difficult,22.9
+2011,Households’ access to basic services,Percent,Public transport,Easy,50.0
+2011,Households’ access to basic services,Percent,Public transport,Very easy,12.0
+2011,Households’ access to basic services,Percent,Public transport,Service not used,11.7
+2015,Households’ access to basic services,Percent,Public transport,Very difficult,8.4
+2015,Households’ access to basic services,Percent,Public transport,Difficult,23.0
+2015,Households’ access to basic services,Percent,Public transport,Easy,46.8
+2015,Households’ access to basic services,Percent,Public transport,Very easy,11.3
+2015,Households’ access to basic services,Percent,Public transport,Service not used,11.0
+2011,Households’ access to basic services,Percent,Primary health care institution,Very difficult,4.5
+2011,Households’ access to basic services,Percent,Primary health care institution,Difficult,30.3
+2011,Households’ access to basic services,Percent,Primary health care institution,Easy,52.0
+2011,Households’ access to basic services,Percent,Primary health care institution,Very easy,12.5
+2011,Households’ access to basic services,Percent,Primary health care institution,Service not used,0.0
+2015,Households’ access to basic services,Percent,Primary health care institution,Very difficult,10.2
+2015,Households’ access to basic services,Percent,Primary health care institution,Difficult,28.0
+2015,Households’ access to basic services,Percent,Primary health care institution,Easy,48.7
+2015,Households’ access to basic services,Percent,Primary health care institution,Very easy,12.6
+2015,Households’ access to basic services,Percent,Primary health care institution,Service not used,0.0
+2011,Households’ access to basic services,Percent,Preschool and primary education institution,Very difficult,0.0
+2011,Households’ access to basic services,Percent,Preschool and primary education institution,Difficult,8.3
+2011,Households’ access to basic services,Percent,Preschool and primary education institution,Easy,20.8
+2011,Households’ access to basic services,Percent,Preschool and primary education institution,Very easy,6.4
+2011,Households’ access to basic services,Percent,Preschool and primary education institution,Service not used,63.6
+2015,Households’ access to basic services,Percent,Preschool and primary education institution,Very difficult,4.3
+2015,Households’ access to basic services,Percent,Preschool and primary education institution,Difficult,8.8
+2015,Households’ access to basic services,Percent,Preschool and primary education institution,Easy,22.4
+2015,Households’ access to basic services,Percent,Preschool and primary education institution,Very easy,7.1
+2015,Households’ access to basic services,Percent,Preschool and primary education institution,Service not used,57.0
 2011,"Population living in households with no bathroom, shower, or flushing toilet",Percent,Does not have a bathroom with a WC,_T,17.7
 2011,"Population living in households with no bathroom, shower, or flushing toilet",Percent,Does not have a separate WC,_T,83.3
 2015,"Population living in households with no bathroom, shower, or flushing toilet",Percent,Does not have a bathroom with a WC,_T,15.8
