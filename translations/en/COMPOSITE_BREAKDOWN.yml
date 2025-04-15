@@ -59,6 +59,7 @@ SPAR_11: Points of entry
 SPAR_12: Chemical events
 SPAR_13: Radiation emergencies
 _T: No breakdown
+service_type: Type of service
 UNK: Unknown
 ihr_capacity: IHR Capacity
 mode_of_transportation: Mode of transportation
