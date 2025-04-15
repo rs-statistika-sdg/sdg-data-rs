@@ -59,6 +59,8 @@
 17-11-1_izvor1: "Republika Srpska Institute of Statistics"
 # Ispod je navedena geografska pokrivenost na engleskom - ista za sve indikatore.
 svi_geographical_coverage_1: "Republika Srpska"
+# Ispod je navedena nacionalna geografska pokrivenost na engleskom - ista za sve indikatore.
+svi_nat_geographical_coverage: "Republika Srpska"
 # Ispod su navedene mjerne jedinice na engleskom za svaki indikator.
 1-2-1_jedinica_mjere1: "Number, percentage"
 1-2-2_jedinica_mjere1: "Percentage"
