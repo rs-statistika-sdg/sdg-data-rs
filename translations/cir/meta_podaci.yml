@@ -59,6 +59,8 @@
 17-11-1_izvor1: "Републички завод за статистику"
 # Ispod je navedena geografska pokrivenost na ćirilici - ista za sve indikatore.
 svi_geographical_coverage_1: "Република Српска"
+# Ispod je navedena nacionalna geografska pokrivenost na ćirilici - ista za sve indikatore.
+svi_nat_geographical_coverage: "Република Српска"
 # Ispod su navedene mjerne jedinice na ćirilici za svaki indikator.
 1-2-1_jedinica_mjere1: "Број, проценат"
 1-2-2_jedinica_mjere1: "Проценат"
