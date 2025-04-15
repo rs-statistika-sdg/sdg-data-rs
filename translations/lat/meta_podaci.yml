@@ -59,6 +59,8 @@
 17-11-1_izvor1: "Republički zavod za statistiku"
 # Ispod je navedena geografska pokrivenost na latinici - ista za sve indikatore.
 svi_geographical_coverage_1: "Republika Srpska"
+# Ispod je navedena nacionalna geografska pokrivenost na latinici - ista za sve indikatore.
+svi_nat_geographical_coverage: "Republika Srpska"
 # Ispod su navedene mjerne jedinice na latinici za svaki indikator.
 1-2-1_jedinica_mjere1: "Broj, procenat"
 1-2-2_jedinica_mjere1: "Procenat"
