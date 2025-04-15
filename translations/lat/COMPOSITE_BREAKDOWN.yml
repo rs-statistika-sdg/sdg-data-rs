@@ -59,6 +59,7 @@ SPAR_11: Tačke ulaska
 SPAR_12: Hemijski događaji
 SPAR_13: Vanredne situacije u vezi sa zračenjem
 _T: Bez podjele
+service_type: Vrsta usluge
 UNK: Nepoznato
 ihr_capacity: Kapacitet Međunarodnih zdravstvenih propisa (IHR)
 mode_of_transportation: Način transporta
